@@ -1,0 +1,88 @@
+-------------------------
+Timestamp: 2015-03-24T16:46:56-07:00
+
+Total Viewers for top 25 streams:
+5873
+
+Viewer counts:
+[3045, 517, 364, 343, 249, 166, 152, 106, 102, 101, 91, 83, 73, 62, 61, 59, 54, 38, 35, 35, 33, 31, 25, 25, 23]
+
+---
+followgrubby:
+  viewers: 3045
+  status: Sylvanas + MANY PATCH CHANGES! Happy Grubby!
+nickhots:
+  viewers: 517
+  status: 
+arkamn:
+  viewers: 364
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+adamkoebel:
+  viewers: 343
+  status: pre-Swan Song Heroes of the Storm
+solidjakegg:
+  viewers: 249
+  status: 24 HR PATCH STREAM - Sylvanas boys!
+xelayirl:
+  viewers: 166
+  status: ! ' rank 1  xelayirl#1944 NA  SILVANAS    19XLVL10 FEEL FREE ASK ANY HOTS
+    QUESTION :) and i play with viewer '
+youbetterknowme:
+  viewers: 152
+  status: ! '[Rank1/High MMR] - WELL MET KnowMe playing SoloQ - discussing Patchnotes'
+fragdolls:
+  viewers: 106
+  status: Let's Play Heroes!
+godspd:
+  viewers: 102
+  status: GodspeedUSA - Sylvanas PRACTICE!
+taketv_heroes:
+  viewers: 101
+  status: ! 'BecomeAHero mit R3Z und Co : )'
+oganoss:
+  viewers: 91
+  status: ! 'Anoss - FR -  1v1 Ladder #COMMENT??'
+yuuie:
+  viewers: 83
+  status: ❤Game Key Giveaways After Every Game! ლ(¯﹃¯ლ)
+player2player:
+  viewers: 73
+  status: ! '[PT-BR] Caricaz no HOTS!'
+mymtumtum69:
+  viewers: 62
+  status: CALANDO EL NUEVO HEROES Y SUBIENDO DE NIVEL
+happyzerg:
+  viewers: 61
+  status: Rank 3 -> Rank 1
+fizzlestickz:
+  viewers: 59
+  status: Pro HotS with Konvict Extreme - Beta Key Giveaway!
+lagamerteca:
+  viewers: 54
+  status: HEROES OF THE STORM TEMPRANERO CON TUM TUM
+pastandoenmulgore:
+  viewers: 38
+  status: ! 'Heroes of the Storm:  Presentando a Sylvanas + betas'
+elvinemod:
+  viewers: 35
+  status: NEW PATCH HYPE - Elvinelol.com
+cayennethefirst:
+  viewers: 35
+  status: ! 'BR - Fluxo da Sylvanas - Pub do Cayenne '
+therealhorsemaster:
+  viewers: 33
+  status: Sylvanas is here! Beta key giveaways!
+demosc:
+  viewers: 31
+  status: ! '[PT-BR] Heroes of The Storm Arena #3'
+ashley66444:
+  viewers: 25
+  status: 3k FOLLOW HYPE!! | MASSIVE GIVEAWAY @ 3k Follows!
+camcamop:
+  viewers: 25
+  status: C9 Bobbyhankhill new patch HYPE!! NA beta key giveaway~~
+ufrog:
+  viewers: 23
+  status: ! '[FR/Farhah] Ranked + Giveaway Clés Bétas !'
+-------------------------
+
