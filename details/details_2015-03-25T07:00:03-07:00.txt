@@ -1,0 +1,91 @@
+-------------------------
+Timestamp: 2015-03-25T07:00:03-07:00
+
+Total Viewers for top 25 streams:
+10142
+
+Viewer counts:
+[6072, 901, 590, 414, 348, 309, 220, 189, 128, 127, 111, 120, 87, 87, 68, 58, 53, 46, 40, 30, 30, 30, 30, 28, 26]
+
+---
+rocketbeanstv:
+  viewers: 6072
+  status: Community Beef
+liquidneo:
+  viewers: 901
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+guardsmanbob:
+  viewers: 590
+  status: Rank1! - Guardsman Bob!
+nexoshunter2:
+  viewers: 414
+  status: SYLVANAS Patch! -  Heroes of the Storm // Streamy codziennie o 14:00
+happyzerg:
+  viewers: 348
+  status: СИЛЬВАНА! КЛЮЧИ! МАРАФОН!
+khaldor:
+  viewers: 309
+  status: ! '[GER] New Patch - Teamleague'
+pamcakes:
+  viewers: 220
+  status: Pam ♥ // Sylvanas Patch HYPE!
+heroesone:
+  viewers: 189
+  status: ! '[FR] SiCvanas Time avec SiC'
+godspd:
+  viewers: 128
+  status: НУУ ОЧЕНЬ НЕ ОЧЕНЬ СИЛЬВАНА
+arkamn:
+  viewers: 127
+  status: 【RUS】 SYLVANAS MARATHON, 1st RANK, отвечаю на Ваши вопросы между играми.
+ggmarche:
+  viewers: 111
+  status: ♠ NA | Marche ♠ ^^ Rank1 Alpha Vet high MMR Qs/commentary AMA come learn
+    the game!!
+zomgitshwoarang:
+  viewers: 120
+  status: ! '[GER] Rank 1 - SneakyBeakyLike'
+heroeswartv:
+  viewers: 87
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+nysira:
+  viewers: 87
+  status: ! 'Dutch Day | Giveaway: HOTS Beta-Keys (EU) every 50 followers | More videos
+    at youtube.com/twitchnysira <3 '
+ek0p:
+  viewers: 68
+  status: ! '[C9 Ekop] Rank 1 is not an achievement to be proud of!'
+gerdamherdtv:
+  viewers: 58
+  status: ! '[GER] Patchday Blizzard pls <3 '
+pypgamers:
+  viewers: 53
+  status: ! '[ESP] Probando Nuevo parche y a Sylvanas con @BulgangP'
+tinsi_:
+  viewers: 46
+  status: Team League!
+nexaa:
+  viewers: 40
+  status: ! '!giveaway Beta Key | New Patch HYPE!'
+nvnpaladino:
+  viewers: 30
+  status: Chat bugado! Apresentando Sylvana Correventos em Heroes of the Storm!
+xibe5238:
+  viewers: 30
+  status: ! '[Fr/Be] Xibe - Beta Key Giveaway - Rank 1'
+ggamersprotv:
+  viewers: 30
+  status: Раздача 65 ключей от GGamers.pro!
+sleepless_tv:
+  viewers: 30
+  status: ! '[RU] RANK#1 - Сильвана Ветрокрылая целый день! Розыгрыш EU бета-ключей!
+    Играем со зрителями!'
+pinkping:
+  viewers: 28
+  status: A'Pingლ(́◉◞౪◟◉ლ)《暴雪英霸》第一屆 霸王盃（錦標賽）
+jowetv:
+  viewers: 26
+  status: 【EU R.1】 Gamers2 Jowe - checking whats new after patch [EN/PL]
+-------------------------
+
