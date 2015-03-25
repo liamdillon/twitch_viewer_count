@@ -1,0 +1,90 @@
+-------------------------
+Timestamp: 2015-03-25T03:00:02-07:00
+
+Total Viewers for top 25 streams:
+3246
+
+Viewer counts:
+[1382, 375, 222, 190, 155, 150, 115, 90, 69, 69, 52, 46, 45, 41, 30, 27, 25, 26, 25, 21, 19, 21, 19, 16, 16]
+
+---
+chu8:
+  viewers: 1382
+  status: ! '[NA] Sylvanas Patch Banzai!'
+happyzerg:
+  viewers: 375
+  status: СИЛЬВАНА! КЛЮЧИ! МАРАФОН!
+liquidneo:
+  viewers: 222
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+khaldor:
+  viewers: 190
+  status: ! '[GER] New Patch - Teamleague'
+nickhots:
+  viewers: 155
+  status: ! 'TL Open Champ. QM. AMA! 6k+ games played. Comm '
+solidjakegg:
+  viewers: 150
+  status: ! '[24HR] - Grinding to Sylvanas Master Skin! '
+godspd:
+  viewers: 115
+  status: <RU/EN> Godspeed - Sylvanas Only
+heroesone:
+  viewers: 90
+  status: ! '[FR] SYLVANAS HYPE ! Découverte avec Luiji'
+flamytv:
+  viewers: 69
+  status: Heroes of the Storm - Sylvanas patch!
+ulqi:
+  viewers: 69
+  status: Сильвана и другие изменения!
+heroeswartv:
+  viewers: 52
+  status: ! '[ESP] Maratón de Sylvanas'
+zomgitshwoarang:
+  viewers: 46
+  status: ! '[GER] Rank 1 - SneakyBeakyLike'
+evac:
+  viewers: 45
+  status: Climbing ranks in Hero League - Day 30/365
+fuzion410:
+  viewers: 41
+  status: heroes of the sac
+nuroklol:
+  viewers: 30
+  status: ! '[GER/ENG] Dignitas Nurok - PATCH HYPE: Teamleague with @Khaldor & @dignitasCris
+    // http://tinyurl.com/HeroesCup //'
+bri0che:
+  viewers: 27
+  status: ! '[FR]  SYLVANAS HYPE, rank 5 ! Gogo Gadgeto 300 follow'
+chocapicc:
+  viewers: 25
+  status: ! '[PL] HYPE'
+tinsi_:
+  viewers: 26
+  status: Team League!
+tolyawa:
+  viewers: 25
+  status: Всемирный день Сильваны
+semiproproject:
+  viewers: 21
+  status: PATCH DAY HYPE [NA] In Depth Commentary & Explanations | Rank 1 KilicK |
+    Ranked | Day 43/∞  ヽ〳 ՞ ᗜ ՞ 〵ง
+sleepless_tv:
+  viewers: 19
+  status: ! '[RU] RANK#1 - Сильвана Ветрокрылая целый день! Розыгрыш EU бета-ключей'
+pypgamers:
+  viewers: 21
+  status: ! '[ESP] Subiendo niveles con @WeslyGC'
+askatsao:
+  viewers: 19
+  status: ! '  ASKA 大叔台 將辦有獎金比賽請大家好好準備 歡迎大家提問及指導'
+nexaa:
+  viewers: 16
+  status: Giveaway New Patch HYPE!
+cortiss:
+  viewers: 16
+  status: Yolo tactics!!!!!![POLISH/ENGLISH]
+-------------------------
+
