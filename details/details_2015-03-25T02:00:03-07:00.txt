@@ -1,0 +1,89 @@
+-------------------------
+Timestamp: 2015-03-25T02:00:03-07:00
+
+Total Viewers for top 25 streams:
+3330
+
+Viewer counts:
+[1500, 589, 214, 189, 107, 99, 83, 81, 72, 50, 38, 42, 41, 49, 32, 23, 21, 16, 13, 14, 14, 13, 12, 10, 8]
+
+---
+chu8:
+  viewers: 1500
+  status: ! '[NA] Sylvanas Patch Banzai!'
+gratis150ml:
+  viewers: 589
+  status: ༼ つ ◕_◕ ༽つ MAMBO༼ つ ◕_◕ ༽つ
+nickhots:
+  viewers: 214
+  status: ! 'TL Open Champ. QM. AMA! 6k+ games played. Comm '
+solidjakegg:
+  viewers: 189
+  status: ! '[24HR] - Grinding to Sylvanas Master Skin! Feat @ThatsAdmirable'
+liquidneo:
+  viewers: 107
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+anthonyacc:
+  viewers: 99
+  status: SYLVANAS HYPE! NEW PATCH! 6 BETA KEY GIVEAWAY!
+ulqi:
+  viewers: 83
+  status: Сильвана и другие изменения!
+happyzerg:
+  viewers: 81
+  status: СИЛЬВАНА! КЛЮЧИ! МАРАФОН!
+godspd:
+  viewers: 72
+  status: <RU/EN> Godspeed - Sylvanas Only
+heroesone:
+  viewers: 50
+  status: ! '[FR] UTHER PARTY avec Kelzo & Fouz'
+fuzion410:
+  viewers: 38
+  status: heroes of the sac
+tolyawa:
+  viewers: 42
+  status: Всемирный день Сильваны
+semiproproject:
+  viewers: 41
+  status: PATCH DAY HYPE [NA] In Depth Commentary & Explanations | Rank 1 KilicK |
+    Ranked | Day 43/∞  ヽ〳 ՞ ᗜ ՞ 〵ง
+evac:
+  viewers: 49
+  status: Climbing ranks in Hero League - Day 30/365
+zomgitshwoarang:
+  viewers: 32
+  status: ! '[GER] Rank 1 - SneakyBeakyLike'
+chocapicc:
+  viewers: 23
+  status: ! '[PL] HYPE'
+bigmyself:
+  viewers: 21
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+ponponhuehuehue:
+  viewers: 16
+  status: CAPSLOCKFURY - Heroes got an update o_o
+bri0che:
+  viewers: 13
+  status: ! '[FR]  SYLVANAS HYPE, rank 5 ! Gogo Gadgeto 300 follow'
+nexaa:
+  viewers: 14
+  status: Giveaway New Patch HYPE!
+ktjn:
+  viewers: 14
+  status: Ktjn - New Map Hype! Heroes w/ Nerdacide!
+sp5430:
+  viewers: 13
+  status: 【鱔魚】訓練班!!.開放觀眾及新人互動加入遊戲 並指導進步成長
+zsjh9100:
+  viewers: 12
+  status: ᴥ 姐姐玩英霸ᴥ 晚上都會轉圈 F5解決吧ˊˋ
+demonsaber:
+  viewers: 10
+  status: 绯姬場的十點半─不夠好，可以強化，不是你。
+askatsao:
+  viewers: 8
+  status: ! '  ASKA  大叔歡樂台  歡迎大家提問及指導 將辦有獎金比賽請大家好好準備'
+-------------------------
+
