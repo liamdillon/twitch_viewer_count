@@ -1,0 +1,90 @@
+-------------------------
+Timestamp: 2015-03-25T04:00:03-07:00
+
+Total Viewers for top 25 streams:
+3480
+
+Viewer counts:
+[1450, 391, 309, 262, 152, 129, 122, 95, 75, 69, 70, 44, 40, 37, 37, 30, 24, 26, 25, 22, 19, 15, 14, 12, 11]
+
+---
+chu8:
+  viewers: 1450
+  status: ! '[NA] Sylvanas Patch Banzai!'
+happyzerg:
+  viewers: 391
+  status: СИЛЬВАНА! КЛЮЧИ! МАРАФОН!
+liquidneo:
+  viewers: 309
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+khaldor:
+  viewers: 262
+  status: ! '[GER] New Patch - Teamleague'
+solidjakegg:
+  viewers: 152
+  status: ! '[24HR] - Grinding to Sylvanas Master Skin! '
+heroesone:
+  viewers: 129
+  status: ! '[FR] SYLVANAS HYPE ! Découverte avec Luiji'
+godspd:
+  viewers: 122
+  status: НУУ ОЧЕНЬ НЕ ОЧЕНЬ СИЛЬВАНА
+zomgitshwoarang:
+  viewers: 95
+  status: ! '[GER] Rank 1 - SneakyBeakyLike'
+heroeswartv:
+  viewers: 75
+  status: ! '[ESP] Maratón de Sylvanas'
+ulqi:
+  viewers: 69
+  status: Сильвана и другие изменения!
+dirtyela_tv:
+  viewers: 70
+  status: ♥♥♥ Girly herotime ♥♥♥
+ibs_tv:
+  viewers: 44
+  status: ! '[FR/ENG] HoTS 1st time !! / @Giveaway at 2000 Followers'
+pypgamers:
+  viewers: 40
+  status: ! '[ESP] Sorteo Betas + Parche y Sylvanas con @Dudulawl_PyPG'
+still_sleepy:
+  viewers: 37
+  status: SleepAllday DAY10
+tinsi_:
+  viewers: 37
+  status: Team League!
+nuroklol:
+  viewers: 30
+  status: ! '[GER/ENG] Dignitas Nurok - PATCH HYPE: Teamleague with @Khaldor & @dignitasCris
+    // http://tinyurl.com/HeroesCup //'
+ggmarche:
+  viewers: 24
+  status: ♠ NA | Marche ♠ ^^ Rank1 Alpha Vet high MMR Qs/commentary AMA come learn
+    the game!!
+nexaa:
+  viewers: 26
+  status: Beta Key Giveaway New Patch HYPE!
+sleepless_tv:
+  viewers: 25
+  status: ! '[RU] RANK#1 - Сильвана Ветрокрылая целый день! Розыгрыш EU бета-ключей'
+bri0che:
+  viewers: 22
+  status: ! '[FR]  SYLVANAS HYPE, rank 5 ! Gogo Gadgeto 300 follow'
+gerdamherdtv:
+  viewers: 19
+  status: ! '[GER] Patchday Blizzard pls <3 '
+tolyawa:
+  viewers: 15
+  status: VIKINGS vs Герои по вашим заявкам
+gga893879:
+  viewers: 14
+  status: GoDDog  rank1  快速對戰中  練角色
+cortiss:
+  viewers: 12
+  status: Yolo tactics!!!!!![POLISH/ENGLISH]
+rankup:
+  viewers: 11
+  status: ! '[ES] Sorteo Beta Keys - Después de cada partida, sorteamos!'
+-------------------------
+
