@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-25T06:00:04-07:00
+
+Total Viewers for top 25 streams:
+9791
+
+Viewer counts:
+[5484, 1411, 464, 401, 345, 344, 243, 220, 142, 104, 89, 62, 54, 53, 50, 47, 43, 36, 36, 36, 34, 31, 21, 21, 20]
+
+---
+rocketbeanstv:
+  viewers: 5484
+  status: Community Beef
+chu8:
+  viewers: 1411
+  status: ! '[NA] Sylvanas Patch Banzai!'
+liquidneo:
+  viewers: 464
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+guardsmanbob:
+  viewers: 401
+  status: Rank1! - Guardsman Bob!
+khaldor:
+  viewers: 345
+  status: ! '[GER] New Patch - Teamleague'
+happyzerg:
+  viewers: 344
+  status: СИЛЬВАНА! КЛЮЧИ! МАРАФОН!
+pamcakes:
+  viewers: 243
+  status: Pam ♥ // Sylvanas Patch HYPE!
+heroesone:
+  viewers: 220
+  status: ! '[FR] SYLVANAS HYPE ! Découverte avec Luiji'
+zomgitshwoarang:
+  viewers: 142
+  status: ! '[GER] Rank 1 - SneakyBeakyLike'
+godspd:
+  viewers: 104
+  status: НУУ ОЧЕНЬ НЕ ОЧЕНЬ СИЛЬВАНА
+heroeswartv:
+  viewers: 89
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+ggmarche:
+  viewers: 62
+  status: ♠ NA | Marche ♠ ^^ Rank1 Alpha Vet high MMR Qs/commentary AMA come learn
+    the game!!
+nysira:
+  viewers: 54
+  status: ! 'Dutch Day | Giveaway: HOTS Beta-Keys (EU) every 50 followers | More videos
+    at youtube.com/twitchnysira <3 '
+ek0p:
+  viewers: 53
+  status: ! '[C9 Ekop] ^_^'
+pypgamers:
+  viewers: 50
+  status: ! '[ESP] Sorteo Betas + Parche y Sylvanas con @Dudulawl_PyPG'
+tinsi_:
+  viewers: 47
+  status: Team League!
+sleepless_tv:
+  viewers: 43
+  status: ! '[RU] RANK#1 - Сильвана Ветрокрылая целый день! Розыгрыш EU бета-ключей!
+    Играем со зрителями!'
+jowetv:
+  viewers: 36
+  status: 【EU R.1】 Gamers2 Jowe - hero league [EN/PL]
+gerdamherdtv:
+  viewers: 36
+  status: ! '[GER] Patchday Blizzard pls <3 '
+nuroklol:
+  viewers: 36
+  status: ! '[GER/ENG] Dignitas Nurok - PATCH HYPE: Teamleague with @Khaldor & @dignitasCris
+    // http://tinyurl.com/HeroesCup //'
+still_sleepy:
+  viewers: 34
+  status: SleepAllday DAY10
+nexaa:
+  viewers: 31
+  status: ! '!giveaway Beta Key | New Patch HYPE!'
+ggamersprotv:
+  viewers: 21
+  status: Раздача 65 ключей от GGamers.pro!
+ibs_tv:
+  viewers: 21
+  status: ! '[FR/ENG] HoTS 1st Time !  @Giveaway at 2000 Followers'
+xibe5238:
+  viewers: 20
+  status: ! '[Fr/Be] Xibe - Beta Key Giveaway - Rank 1 - Sylvanas Gameplay'
+-------------------------
+
