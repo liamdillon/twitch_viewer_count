@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-24T20:00:03-07:00
+
+Total Viewers for top 25 streams:
+3769
+
+Viewer counts:
+[2012, 298, 275, 199, 166, 109, 68, 62, 63, 58, 47, 44, 43, 39, 35, 35, 33, 28, 26, 25, 23, 22, 21, 20, 18]
+
+---
+followgrubby:
+  viewers: 2012
+  status: Sylvanas + MANY PATCH CHANGES! Happy Grubby!
+yuuie:
+  viewers: 298
+  status: ❤Game Key Giveaways After Every Game! ლ(¯﹃¯ლ)
+xelayirl:
+  viewers: 275
+  status: ! ' rank 1  xelayirl#1944 NA  SILVANAS    19XLVL10 FEEL FREE ASK ANY HOTS
+    QUESTION :) and i play with viewer '
+nickhots:
+  viewers: 199
+  status: TL Open Champ. PICK MY HERO! 6k+ games played. Commentary. Hero League.
+    AMA, Informative stream!
+trikslyr:
+  viewers: 166
+  status: Sylvanas Patch! MURKY continues to be god tier!
+solidjakegg:
+  viewers: 109
+  status: 24 HR PATCH STREAM - Hero bug, watching cyasteves feed
+ihosty:
+  viewers: 68
+  status: ! 'Hosty -Rank 1 NA HOTS - | Sylvanas HYPE | No cam / Commentary |  9/9
+    Golden Classes | 23x Legend | '
+sohinki:
+  viewers: 62
+  status: SYLVANAS HYPPEEE!
+missmiarose:
+  viewers: 63
+  status: Mia does DAS PATCH
+glaurungtv:
+  viewers: 58
+  status: ! '| Tempo Storm Glaurung! | TEAM LEAGUE BABY | '
+vawnievoulphie:
+  viewers: 47
+  status: 龴◕ɷ◕龴JOIN OUR QUICK MATCH [NA]
+twizzcast:
+  viewers: 44
+  status: Heroes Power Hour! Patch talk, Illidan breakdown and more!
+semiproproject:
+  viewers: 43
+  status: PATCH DAY HYPE [NA] In Depth Commentary & Explanations | Rank 1 KilicK |
+    Ranked | Day 43/∞  ヽ〳 ՞ ᗜ ՞ 〵ง
+hazukisc2:
+  viewers: 39
+  status: ノ( ◕◡◕ ノ) keys para america ᕕ(⌐■_■)ᕗ
+demosc:
+  viewers: 35
+  status: ! '[PT-BR] Heroes of The Storm Arena #3'
+cherrigan:
+  viewers: 35
+  status: Sylvanas mode on en Heroes of the Storm! :3
+kiyeberries:
+  viewers: 33
+  status: ! '[1080p] Team Patch Hype!'
+mcintyrelol:
+  viewers: 28
+  status: ! 'coL Gaming┌༼◉ل͟◉༽┐ Team Queue ┌༼◉ل͟◉༽┐ [MLG Titan 2 Winner]- AMA '
+heroesone:
+  viewers: 26
+  status: ! '[FR] UTHER PARTY avec Kelzo & Fouz'
+blackinki:
+  viewers: 25
+  status: ! '[BR] Blackinki GIVEAWAY KEYS de Heroes of the Storm (ﾉ◕ヮ◕)ﾉ*:･ﾟ'
+heroespoint:
+  viewers: 23
+  status: Beta Cerrada - Nuevo Parche
+sc2fantv:
+  viewers: 22
+  status: C9 Fan, Team League with C9V + Comms, Masters 5k+ MMR(Top 1 hotslogs), AMA
+    in chat!
+dreadnaught_heroes:
+  viewers: 21
+  status: Tempo Storm Dreadnaught - Viewer Games
+nony:
+  viewers: 20
+  status: Top MMR play
+itsmikuru:
+  viewers: 18
+  status: ! ' HotS | It''s only a  game, Y U HEFF 2 B MED?'
+-------------------------
+
