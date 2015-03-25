@@ -1,0 +1,91 @@
+-------------------------
+Timestamp: 2015-03-24T17:00:03-07:00
+
+Total Viewers for top 25 streams:
+5209
+
+Viewer counts:
+[2800, 529, 333, 251, 182, 171, 121, 104, 81, 66, 64, 58, 57, 53, 43, 42, 40, 34, 33, 31, 30, 26, 23, 21, 16]
+
+---
+followgrubby:
+  viewers: 2800
+  status: Sylvanas + MANY PATCH CHANGES! Happy Grubby!
+nickhots:
+  viewers: 529
+  status: TL Open Champ. PICK MY HERO! 6k+ games played. Commentary. Hero League.
+    AMA, Informative stream!
+arkamn:
+  viewers: 333
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+solidjakegg:
+  viewers: 251
+  status: 24 HR PATCH STREAM - Sylvanas boys!
+taketv_heroes:
+  viewers: 182
+  status: ! 'BecomeAHero mit R3Z und Co : )'
+xelayirl:
+  viewers: 171
+  status: ! ' rank 1  xelayirl#1944 NA  SILVANAS    19XLVL10 FEEL FREE ASK ANY HOTS
+    QUESTION :) and i play with viewer '
+oganoss:
+  viewers: 121
+  status: ! 'Anoss - FR -  1v1 Ladder #COMMENT??'
+fragdolls:
+  viewers: 104
+  status: Let's Play Heroes!
+yuuie:
+  viewers: 81
+  status: ❤Game Key Giveaways After Every Game! ლ(¯﹃¯ლ)
+lagamerteca:
+  viewers: 66
+  status: HEROES OF THE STORM TEMPRANERO CON TUM TUM
+player2player:
+  viewers: 64
+  status: ! '[PT-BR] Caricaz no HOTS!'
+mymtumtum69:
+  viewers: 58
+  status: CALANDO EL NUEVO HEROES Y SUBIENDO DE NIVEL
+fizzlestickz:
+  viewers: 57
+  status: Pro HotS with Konvict Extreme - Beta Key Giveaway!
+demosc:
+  viewers: 53
+  status: ! '[PT-BR] Heroes of The Storm Arena #3'
+happyzerg:
+  viewers: 43
+  status: Rank 3 -> Rank 1
+dotod:
+  viewers: 42
+  status: (つ°ヮ°)つ SYLVANNAS HYPE!! Founders Pack/EU/NA Beta Key Giveaways! Hero League
+    Farming Rank 1 (つ°ヮ°)つ
+godspd:
+  viewers: 40
+  status: GodspeedUSA - Sylvanas PRACTICE!
+elvinemod:
+  viewers: 34
+  status: NEW PATCH HYPE - Elvinelol.com
+cayennethefirst:
+  viewers: 33
+  status: ! 'BR - Fluxo da Sylvanas - Pub do Cayenne '
+ashley66444:
+  viewers: 31
+  status: 3k FOLLOW HYPE!! | MASSIVE GIVEAWAY @ 3k Follows!
+pastandoenmulgore:
+  viewers: 30
+  status: ! 'Heroes of the Storm:  Presentando a Sylvanas + betas'
+semiproproject:
+  viewers: 26
+  status: PATCH DAY HYPE [NA] In Depth Commentary & Explanations | Rank 1 KilicK |
+    Ranked | Day 43/∞  ヽ〳 ՞ ᗜ ՞ 〵ง
+therealhorsemaster:
+  viewers: 23
+  status: Sylvanas and Gazlowe play! Beta key giveaways!
+kiyeberries:
+  viewers: 21
+  status: ! '[1080p] Team Patch Hype!'
+foerest:
+  viewers: 16
+  status: ! '4.2k+ mmr / hotslogs.com / top 10/ beta give aways '
+-------------------------
+
