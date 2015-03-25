@@ -1,0 +1,89 @@
+-------------------------
+Timestamp: 2015-03-25T00:00:02-07:00
+
+Total Viewers for top 25 streams:
+2462
+
+Viewer counts:
+[1253, 268, 138, 112, 88, 63, 63, 50, 49, 44, 44, 35, 40, 35, 28, 27, 21, 16, 14, 13, 14, 13, 13, 12, 9]
+
+---
+chu8:
+  viewers: 1253
+  status: ! '[NA] Sylvanas Patch Banzai!'
+nickhots:
+  viewers: 268
+  status: ! 'TL Open Champ. QM. AMA! 6k+ games played. Comm '
+solidjakegg:
+  viewers: 138
+  status: ! '[24HR] - Grinding to Sylvanas Master Skin!'
+anthonyacc:
+  viewers: 112
+  status: SYLVANAS HYPE! NEW PATCH! 6 BETA KEY GIVEAWAY!
+fuzion410:
+  viewers: 88
+  status: heroes of the sac
+sonderx:
+  viewers: 63
+  status: ! '[SSX] Nuevo parche y Sylvanas disponible!!! - Visita www.sonderx.com'
+ggmarche:
+  viewers: 63
+  status: ♠ NA | Marche ♠ ^^ Rank1 Alpha Vet high MMR Qs/commentary AMA come learn
+    the game!!
+anothernotch:
+  viewers: 50
+  status: Patch Hype!!! Ama & keys to give away!!!
+evac:
+  viewers: 49
+  status: 
+coldfashiond:
+  viewers: 44
+  status: ! '[US] HoTS - looking for a party, NA region'
+itsmikuru:
+  viewers: 44
+  status: ! ' HotS | It''s only a  game, Y U HEFF 2 B MED?'
+heroesone:
+  viewers: 35
+  status: ! '[FR] UTHER PARTY avec Kelzo & Fouz'
+semiproproject:
+  viewers: 40
+  status: PATCH DAY HYPE [NA] In Depth Commentary & Explanations | Rank 1 KilicK |
+    Ranked | Day 43/∞  ヽ〳 ՞ ᗜ ՞ 〵ง
+nony:
+  viewers: 35
+  status: Top MMR play
+familiagameplay:
+  viewers: 28
+  status: ٩(●̮̮̃•̃)۶ Gordices em HD (✌ﾟ∀ﾟ)
+sp5430:
+  viewers: 27
+  status: 【鱔魚】阿努巴拉克你給我記住 我星期一才買 給我大降價
+ktjn:
+  viewers: 21
+  status: Ktjn - New Map Hype! Heroes w/ Nerdacide!
+camcamop:
+  viewers: 16
+  status: C9 Bobbyhankhill new patch HYPE!! NA beta key giveaway~~
+chiang001:
+  viewers: 14
+  status: 3/25【肉肉】不要在那邊雷隊友  肉肉!!
+balthazarvon:
+  viewers: 13
+  status: ¡jueguito y betita para los amiguitos!
+phoenixcrashgaming:
+  viewers: 14
+  status: Sylvanas Hype! Some Heroes to pass the time.
+nwgamesbrasil:
+  viewers: 13
+  status: ! '[PT-BR] - Genkaku-  Sylvana e novidades no Hots [song request on]'
+2daywithpatrickj:
+  viewers: 13
+  status: Capt. Clutch gone get salty
+tolyawa:
+  viewers: 12
+  status: Всемирный день Сильваны
+'12390800':
+  viewers: 9
+  status: 小霜音樂台 吶吶~丞相丞相 我跟你說唷 起風啦(*´▽`*)/  love12390800#3895
+-------------------------
+
