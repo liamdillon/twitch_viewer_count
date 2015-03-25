@@ -1,0 +1,91 @@
+-------------------------
+Timestamp: 2015-03-24T22:00:03-07:00
+
+Total Viewers for top 25 streams:
+2859
+
+Viewer counts:
+[999, 583, 300, 177, 127, 97, 97, 50, 46, 44, 44, 41, 38, 32, 32, 24, 21, 21, 16, 16, 16, 14, 2, 13, 9]
+
+---
+chu8:
+  viewers: 999
+  status: ! '[NA] Sylvanas Patch Banzai!'
+crendor:
+  viewers: 583
+  status: Nerds of the Storm
+trikslyr:
+  viewers: 300
+  status: Team Mediocre Ducks in Team League
+nickhots:
+  viewers: 177
+  status: ! 'TL Open Champ. Hero League. 6k+ games played. Comm '
+solidjakegg:
+  viewers: 127
+  status: 24 HR PATCH STREAM - Games fixed! Grind to 10 continues!
+ihosty:
+  viewers: 97
+  status: ! 'Hosty -Rank 1 NA HOTS - | Sylvanas HYPE | No cam / Commentary |  9/9
+    Golden Classes | 23x Legend | '
+blondesavage:
+  viewers: 97
+  status: PRIZES AND SYLVANAS HYPE with BLONDE!
+cherrigan:
+  viewers: 50
+  status: Sylvanas mode on en Heroes of the Storm! :3
+vawnievoulphie:
+  viewers: 46
+  status: 龴◕ɷ◕龴JOIN OUR QUICK MATCH [NA]
+evac:
+  viewers: 44
+  status: Hero League - Day 30/365
+ggmarche:
+  viewers: 44
+  status: ♠ NA | Marche ♠ ^^ Rank1 Alpha Vet high MMR Qs/commentary AMA come learn
+    the game!!
+sonderx:
+  viewers: 41
+  status: ! '[SSX] Nuevo parche y Sylvanas disponible!!! - Visita www.sonderx.com'
+nony:
+  viewers: 38
+  status: Top MMR play
+mikefrompgh:
+  viewers: 32
+  status: <NA> Rank 14 - SYLVANAS PATCH!!!
+semiproproject:
+  viewers: 32
+  status: PATCH DAY HYPE [NA] In Depth Commentary & Explanations | Rank 1 KilicK |
+    Ranked | Day 43/∞  ヽ〳 ՞ ᗜ ՞ 〵ง
+itsmikuru:
+  viewers: 24
+  status: ! ' HotS | It''s only a  game, Y U HEFF 2 B MED?'
+heroesone:
+  viewers: 21
+  status: ! '[FR] UTHER PARTY avec Kelzo & Fouz'
+2daywithpatrickj:
+  viewers: 21
+  status: Capt. Clutch gone get salty
+nwgamesbrasil:
+  viewers: 16
+  status: ! '[PT-BR] - Genkaku-  Sylnavas e novidades no Hots [song request on]'
+rosath:
+  viewers: 16
+  status: ! '[Day 12] WHAT?!'
+defebwar:
+  viewers: 16
+  status: ! '[NA] SYLVY HYPE!!! Sylvanas Release Rumble In The Nexus [Heroes Of The
+    Storm (NA)]'
+camcamop:
+  viewers: 14
+  status: C9 Bobbyhankhill new patch HYPE!! NA beta key giveaway~~
+bhoosted:
+  viewers: 2
+  status: Beta Keys!!!!!!!!! @ follower goals
+creeptone:
+  viewers: 13
+  status: Drowning in wins
+periodik:
+  viewers: 9
+  status: BETA GIVEAWAY- Welcome to my BumCover
+-------------------------
+
