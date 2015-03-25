@@ -1,0 +1,91 @@
+-------------------------
+Timestamp: 2015-03-25T12:00:04-07:00
+
+Number of channels: 310
+
+Total viewers: 5683
+
+Total Viewers for top 25 streams:
+5190
+
+Viewer counts:
+[1195, 1132, 536, 344, 243, 229, 207, 189, 158, 156, 115, 86, 79, 66, 57, 54, 49, 47, 44, 40, 40, 38, 37, 26, 23]
+
+---
+guardsmanbob:
+  viewers: 1195
+  status: Rank1! - Guardsman Bob!
+followgrubby:
+  viewers: 1132
+  status: Playing Sylvanas + Patched heroes!
+arkamn:
+  viewers: 536
+  status: 【RUS】 SYLVANAS MARATHON, 1st RANK, отвечаю на Ваши вопросы между играми.
+kenmalol:
+  viewers: 344
+  status: New Patch - playing hero league - ama
+esl_moretv_casual:
+  viewers: 243
+  status: Talkrunde zu Patch mit Khaldor, aSmoogl, KendricSwissh, Loryy, chr0m
+no1zyboy:
+  viewers: 229
+  status: Супер Нова 2
+pamcakes:
+  viewers: 207
+  status: Pam ♥ // Hero League!
+heroesone:
+  viewers: 189
+  status: ! '[FR] SYLVANAS HYPE ! Rush lvl10 avec Luiji'
+happyzerg:
+  viewers: 158
+  status: Марафон Сильваны. РАЗДАЧА КЛЮЧЕЙ!
+doomnothx:
+  viewers: 156
+  status: Heroes of the Storm Beta
+djarii:
+  viewers: 115
+  status: <@djari328> !giveaways  BETA KEYS EVERY HOUR! <3
+artheontv:
+  viewers: 86
+  status: ! '(FR) TEST MaJ et NEW MAP #OKLM'
+dirtyela_tv:
+  viewers: 79
+  status: ♥♥♥ Girly herotime  ♥♥♥
+metagamingtv:
+  viewers: 66
+  status: Just an average stream day :D !requestsong
+heroeswartv:
+  viewers: 57
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+spuds_gaming:
+  viewers: 54
+  status: ! '[GER] Spuds-Gaming'
+kentarotassadar:
+  viewers: 49
+  status: ! '[RUS/ENG] Странные странности  ┐( ˘ ､ ˘ )┌'
+dragomangreektitans:
+  viewers: 47
+  status: 25/3/15 HOTS+ASSETTO CORSA+GIVEAWAY
+keko1102:
+  viewers: 44
+  status: ! '[GER] Sylvana ist da!'
+viciuslab:
+  viewers: 40
+  status: ! '[Español] Sorteando BETAS Europa - Necca, Mi Noob favorito - #MemeVicio'
+pypgamers:
+  viewers: 40
+  status: ! '[ESP] Probando Nuevo parche y a Sylvanas con @BulgangP'
+gonkixjeh:
+  viewers: 38
+  status: ! '[EN/CZ] Gonki - Hots dámové a páni KAPPA'
+mcintyrelol:
+  viewers: 37
+  status: ! 'coL Gaming┌༼◉ل͟◉༽┐ Sylvanas ┌༼◉ل͟◉༽┐ [MLG Titan 2 Winner]- AMA '
+bigsmellypotato:
+  viewers: 26
+  status: Joe prøver Heroes of the Storm!
+shtyr:
+  viewers: 23
+  status: Сильвана. Люблю её. Rank1
+-------------------------
+
