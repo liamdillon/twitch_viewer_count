@@ -1,0 +1,89 @@
+-------------------------
+Timestamp: 2015-03-25T09:00:03-07:00
+
+Total Viewers for top 25 streams:
+4989
+
+Viewer counts:
+[1310, 926, 499, 285, 228, 220, 203, 195, 176, 121, 111, 98, 74, 95, 57, 48, 47, 45, 43, 42, 39, 34, 33, 33, 27]
+
+---
+liquidneo:
+  viewers: 1310
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+guardsmanbob:
+  viewers: 926
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 499
+  status: 【RUS】 SYLVANAS MARATHON, 1st RANK, отвечаю на Ваши вопросы между играми.
+pamcakes:
+  viewers: 285
+  status: Pam ♥ // Beta Key Giveaways Every Sub!
+ethieenn:
+  viewers: 228
+  status: Ethieen | Heroes of the Storm
+happyzerg:
+  viewers: 220
+  status: Марафон Сильваны. РАЗДАЧА КЛЮЧЕЙ!
+heroesone:
+  viewers: 203
+  status: ! '[FR] SiCvanas Time avec SiC'
+youbetterknowme:
+  viewers: 195
+  status: ! 'WELL MET KnowMe playing SoloQ - SYLVANAS '
+zomgitshwoarang:
+  viewers: 176
+  status: ! '[GER] Rank 1 - SneakyBeakyLike'
+lowkotv:
+  viewers: 121
+  status: ! 'Lowko :: Ranking Up Sylvanas / StarCraft 2 Later :: Help me out: http://goo.gl/9vG6iv'
+ek0p:
+  viewers: 111
+  status: ! '[C9 Ekop] Rank 1 is not an achievement to be proud of!'
+ggmarche:
+  viewers: 98
+  status: ♠ NA | Marche ♠ ^^ PATCH HYPE NERDSS
+heroeswartv:
+  viewers: 74
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+fureurwebtv:
+  viewers: 95
+  status: ! '[FR] Un peu de Hos en attendant 17h00 Biscuit'
+wolfeater_il:
+  viewers: 57
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+dotod:
+  viewers: 48
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+gonkixjeh:
+  viewers: 47
+  status: 
+pypgamers:
+  viewers: 45
+  status: ! '[ESP] Probando Nuevo parche y a Sylvanas con @BulgangP'
+fcgm001:
+  viewers: 43
+  status: 【TW】Angel 下雨天翹課打暴雪英霸
+thekonus:
+  viewers: 42
+  status: ! '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+nexaa:
+  viewers: 39
+  status: ! '!giveaway Beta Key | New Patch HYPE!'
+fletcheriii:
+  viewers: 34
+  status: Ракуем в хс и не только
+smaragdwache:
+  viewers: 33
+  status: (GER) ❤ Let's zock - Heroes of the Storm & Besiege ❤ || www.Just-Gaming.eu
+jenzkiwr:
+  viewers: 33
+  status: Yo m8s, HotS time.
+prayscream:
+  viewers: 27
+  status: ! 'j.pRay -  Ja neviem uš  (⊙.⊙(☉̃ₒ☉)⊙.⊙) '
+-------------------------
+
