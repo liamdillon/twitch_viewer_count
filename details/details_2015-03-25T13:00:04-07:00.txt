@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-25T13:00:04-07:00
+
+Number of channels: 326
+
+Total viewers: 5262
+
+Total Viewers for top 25 streams:
+4548
+
+Viewer counts:
+[1639, 681, 570, 253, 215, 159, 136, 131, 117, 92, 59, 58, 50, 49, 46, 43, 42, 37, 29, 26, 25, 25, 24, 22, 20]
+
+---
+followgrubby:
+  viewers: 1639
+  status: Playing Sylvanas + Patched heroes!
+guardsmanbob:
+  viewers: 681
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 570
+  status: 【RUS】 SYLVANAS MARATHON, 1st RANK, отвечаю на Ваши вопросы между играми.
+kenmalol:
+  viewers: 253
+  status: New Patch - playing hero league - ama
+pamcakes:
+  viewers: 215
+  status: Pam ♥ // Hero League!
+heroesone:
+  viewers: 159
+  status: ! '[FR] SYLVANAS HYPE ! Rush lvl10 avec Luiji'
+no1zyboy:
+  viewers: 136
+  status: Супер Нова 2
+doomnothx:
+  viewers: 131
+  status: Heroes of the Storm Beta
+xeleko:
+  viewers: 117
+  status: ! '[FR] Sylvanas Build Test - Rank 1 Xeleko'
+djarii:
+  viewers: 92
+  status: <@djari328> !giveaways  BETA KEYS EVERY HOUR! <3
+anthonyacc:
+  viewers: 59
+  status: SYLVANAS HYPE! NEW PATCH! 6 BETA KEY GIVEAWAY!
+heroeswartv:
+  viewers: 58
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+kuzyameduzya:
+  viewers: 50
+  status: Кузьма и Дима в HOTS
+viciuslab:
+  viewers: 49
+  status: ! '[Español] Sorteando BETAS Europa - Necca, Mi Noob favorito - #MemeVicio'
+keko1102:
+  viewers: 46
+  status: ! '[GER] Sylvanas ist da!'
+kentarotassadar:
+  viewers: 43
+  status: ! '[RUS/ENG] Странные странности  ┐( ˘ ､ ˘ )┌'
+spuds_gaming:
+  viewers: 42
+  status: ! '[GER] Spuds-Gaming'
+mcintyrelol:
+  viewers: 37
+  status: ! 'coL Gaming┌༼◉ل͟◉༽┐ Sylvanas ┌༼◉ل͟◉༽┐ [MLG Titan 2 Winner]- AMA '
+gonkixjeh:
+  viewers: 29
+  status: ! '[EN/CZ] Gonki - Hots dámové a páni KAPPA'
+pepsi29:
+  viewers: 26
+  status: Playing Sylvanas | Patch Hype! | Giving Away NA Beta Key at 400 followers
+ikkyy:
+  viewers: 25
+  status: ! '[pt-BR] Ranque 1, Jogando 4fun! #sylvanas'
+shtyr:
+  viewers: 25
+  status: Сильвана. Люблю её. Rank1
+erhotv:
+  viewers: 24
+  status: coL.Erho; GO BIG OR GO HOME
+bilobedvalle4:
+  viewers: 22
+  status: Sorteo betas heroes of the storm  ^^
+wiwradeer:
+  viewers: 20
+  status: ! "20.30 felé folytatjuk HOTS-al! | Hots beta kulcs : Nyerd meg | Parancs
+    :!hots \n"
+-------------------------
+
