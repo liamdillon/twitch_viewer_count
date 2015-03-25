@@ -1,0 +1,90 @@
+-------------------------
+Timestamp: 2015-03-25T05:00:04-07:00
+
+Total Viewers for top 25 streams:
+9726
+
+Viewer counts:
+[5818, 1369, 416, 340, 290, 211, 196, 157, 130, 118, 89, 66, 65, 63, 49, 45, 41, 41, 38, 38, 36, 33, 31, 26, 20]
+
+---
+rocketbeanstv:
+  viewers: 5818
+  status: Community Beef
+chu8:
+  viewers: 1369
+  status: ! '[NA] Sylvanas Patch Banzai!'
+liquidneo:
+  viewers: 416
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+happyzerg:
+  viewers: 340
+  status: СИЛЬВАНА! КЛЮЧИ! МАРАФОН!
+khaldor:
+  viewers: 290
+  status: ! '[GER] New Patch - Teamleague'
+pamcakes:
+  viewers: 211
+  status: Pam ♥ // Sylvanas Patch HYPE!
+heroesone:
+  viewers: 196
+  status: ! '[FR] SYLVANAS HYPE ! Découverte avec Luiji'
+guardsmanbob:
+  viewers: 157
+  status: Rank1! - Guardsman Bob!
+zomgitshwoarang:
+  viewers: 130
+  status: ! '[GER] Rank 1 - SneakyBeakyLike'
+godspd:
+  viewers: 118
+  status: НУУ ОЧЕНЬ НЕ ОЧЕНЬ СИЛЬВАНА
+wolfeater_il:
+  viewers: 89
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+ulqi:
+  viewers: 66
+  status: Сильвана и другие изменения!
+heroeswartv:
+  viewers: 65
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+dirtyela_tv:
+  viewers: 63
+  status: ♥♥♥ Girly herotime ♥♥♥
+ggmarche:
+  viewers: 49
+  status: ♠ NA | Marche ♠ ^^ Rank1 Alpha Vet high MMR Qs/commentary AMA come learn
+    the game!!
+pypgamers:
+  viewers: 45
+  status: ! '[ESP] Sorteo Betas + Parche y Sylvanas con @Dudulawl_PyPG'
+still_sleepy:
+  viewers: 41
+  status: SleepAllday DAY10
+sleepless_tv:
+  viewers: 41
+  status: ! '[RU] RANK#1 - Сильвана Ветрокрылая целый день! Розыгрыш EU бета-ключей'
+ek0p:
+  viewers: 38
+  status: ! '[C9 Ekop] ^_^'
+tinsi_:
+  viewers: 38
+  status: Team League!
+gerdamherdtv:
+  viewers: 36
+  status: ! '[GER] Patchday Blizzard pls <3 '
+nuroklol:
+  viewers: 33
+  status: ! '[GER/ENG] Dignitas Nurok - PATCH HYPE: Teamleague with @Khaldor & @dignitasCris
+    // http://tinyurl.com/HeroesCup //'
+cebka_je:
+  viewers: 31
+  status: ! '[ASH] CEBKAJE - Rank 1 - RUS'
+nexaa:
+  viewers: 26
+  status: Beta Key Giveaway New Patch HYPE!
+ibs_tv:
+  viewers: 20
+  status: ! '[FR/ENG] HoTS 1st Time !  @Giveaway at 2000 Followers'
+-------------------------
+
