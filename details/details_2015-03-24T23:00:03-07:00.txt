@@ -1,0 +1,89 @@
+-------------------------
+Timestamp: 2015-03-24T23:00:03-07:00
+
+Total Viewers for top 25 streams:
+2237
+
+Viewer counts:
+[1253, 188, 170, 71, 70, 57, 47, 47, 43, 41, 32, 31, 30, 19, 18, 17, 15, 15, 13, 11, 11, 10, 11, 9, 8]
+
+---
+chu8:
+  viewers: 1253
+  status: ! '[NA] Sylvanas Patch Banzai!'
+solidjakegg:
+  viewers: 188
+  status: ! '[24HR] - Grinding to Sylvanas Master Skin!'
+nickhots:
+  viewers: 170
+  status: ! 'TL Open Champ. Hero League. 6k+ games played. Comm '
+ggmarche:
+  viewers: 71
+  status: ♠ NA | Marche ♠ ^^ Rank1 Alpha Vet high MMR Qs/commentary AMA come learn
+    the game!!
+blondesavage:
+  viewers: 70
+  status: PRIZES AND SYLVANAS HYPE with BLONDE!
+anthonyacc:
+  viewers: 57
+  status: SYLVANAS HYPE! NEW PATCH! 6 BETA KEY GIVEAWAY!
+evac:
+  viewers: 47
+  status: Hero League - Day 30/365
+coldfashiond:
+  viewers: 47
+  status: ! '[US] HoTS - looking for a party, NA region'
+sonderx:
+  viewers: 43
+  status: ! '[SSX] Nuevo parche y Sylvanas disponible!!! - Visita www.sonderx.com'
+nony:
+  viewers: 41
+  status: Top MMR play
+semiproproject:
+  viewers: 32
+  status: PATCH DAY HYPE [NA] In Depth Commentary & Explanations | Rank 1 KilicK |
+    Ranked | Day 43/∞  ヽ〳 ՞ ᗜ ՞ 〵ง
+heroesone:
+  viewers: 31
+  status: ! '[FR] UTHER PARTY avec Kelzo & Fouz'
+itsmikuru:
+  viewers: 30
+  status: ! ' HotS | It''s only a  game, Y U HEFF 2 B MED?'
+camcamop:
+  viewers: 19
+  status: C9 Bobbyhankhill new patch HYPE!! NA beta key giveaway~~
+sp5430:
+  viewers: 18
+  status: 【鱔魚】阿努巴拉克你給我記住 我星期一才買 給我大降價
+2daywithpatrickj:
+  viewers: 17
+  status: Capt. Clutch gone get salty
+familiagameplay:
+  viewers: 15
+  status: ٩(●̮̮̃•̃)۶ Gordices em HD (✌ﾟ∀ﾟ)
+nwgamesbrasil:
+  viewers: 15
+  status: ! '[PT-BR] - Genkaku-  Sylvana e novidades no Hots [song request on]'
+creeptone:
+  viewers: 13
+  status: Drowning in wins
+nerdacide:
+  viewers: 11
+  status: $20 Battle.net card giveaway at 500 followers!  [Aussie]
+phoenixcrashgaming:
+  viewers: 11
+  status: 
+katiepms:
+  viewers: 10
+  status: First Time playing HOTS
+balthazarvon:
+  viewers: 11
+  status: ¡jueguito y betita para los amiguitos!
+anothernotch:
+  viewers: 9
+  status: Patch Hype!!! Ama & keys to give away!!!
+monstergmer:
+  viewers: 8
+  status: ! '[ES] SYLVANA / NUEVO HEROE  Y BETAS @TwitchESP @StreamsEspanol'
+-------------------------
+
