@@ -1,0 +1,88 @@
+-------------------------
+Timestamp: 2015-03-25T11:10:02-07:00
+
+Total Viewers for top 25 streams:
+4641
+
+Viewer counts:
+[1065, 887, 555, 484, 229, 198, 191, 166, 119, 83, 80, 77, 77, 59, 52, 46, 41, 41, 38, 37, 26, 26, 24, 21, 19]
+
+---
+liquidneo:
+  viewers: 1065
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+guardsmanbob:
+  viewers: 887
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 555
+  status: 【RUS】 SYLVANAS MARATHON, 1st RANK, отвечаю на Ваши вопросы между играми.
+followgrubby:
+  viewers: 484
+  status: Playing Sylvanas + Patched heroes!
+pamcakes:
+  viewers: 229
+  status: Pam ♥ // Hero League!
+happyzerg:
+  viewers: 198
+  status: Марафон Сильваны. РАЗДАЧА КЛЮЧЕЙ!
+no1zyboy:
+  viewers: 191
+  status: Супер Нова 2
+heroesone:
+  viewers: 166
+  status: ! '[FR] Ranked Team League avec Tainder'
+artheontv:
+  viewers: 119
+  status: ! '(FR) TEST MaJ et NEW MAP #OKLM'
+heroeswartv:
+  viewers: 83
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+esl_moretv_casual:
+  viewers: 80
+  status: Talkrunde zu Patch
+metagamingtv:
+  viewers: 77
+  status: Just an average stream day :D !requestsong
+ggmarche:
+  viewers: 77
+  status: ♠ NA | Marche ♠ ^^ PATCH HYPE NERDSS
+dragomangreektitans:
+  viewers: 59
+  status: 25/3/15 HOTS+ASSETTO CORSA+GIVEAWAY
+dirtyela_tv:
+  viewers: 52
+  status: ♥♥♥ Girly herotime  ♥♥♥
+keko1102:
+  viewers: 46
+  status: ! '[GER] Sylvana ist da!'
+gonkixjeh:
+  viewers: 41
+  status: ! '[EN/CZ] Gonki - Hots dámové a páni KAPPA'
+smaragdwache:
+  viewers: 41
+  status: (GER) ❤ Let's zock - Heroes of the Storm & Besiege ❤ || www.Just-Gaming.eu
+pypgamers:
+  viewers: 38
+  status: ! '[ESP] Probando Nuevo parche y a Sylvanas con @BulgangP'
+kentarotassadar:
+  viewers: 37
+  status: ! '[RUS/ENG] Странные странности  ┐( ˘ ､ ˘ )┌'
+mcintyrelol:
+  viewers: 26
+  status: ! 'coL Gaming┌༼◉ل͟◉༽┐ Sylvanas ┌༼◉ل͟◉༽┐ [MLG Titan 2 Winner]- AMA '
+bigsmellypotato:
+  viewers: 26
+  status: Joe prøver Heroes of the Storm!
+shtyr:
+  viewers: 24
+  status: Сильвана. Люблю её. Rank1
+hyperiatv1:
+  viewers: 21
+  status: ! '[FR] Soren - HoTS YOLOMOD - Une clé a gagner !'
+viciuslab:
+  viewers: 19
+  status: ! '[Español] Sorteando BETAS Europa - Necca, Mi Noob favorito - #MemeVicio'
+-------------------------
+

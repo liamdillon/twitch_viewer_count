@@ -12,6 +12,8 @@ headers = {'ContentType' => 'application/vnd.twitchtv[.version]+json'}
 
 resp = HTTParty.get(url, options: {headers: headers})
 
+summary = HTTParty.get('https://api.twitch.tv/kraken/streams/summary', query: {"game" => "Heroes of the Storm"}, options: {headers: headers}).parsed_response
+
 streams = resp.parsed_response["streams"]
 
 info = {}
@@ -26,13 +28,19 @@ streams.each do |s|
   counts << s["viewers"].to_i
 end
 
+puts "summary: "
+puts summary.to_yaml
 puts "counts: " + counts.to_s
 
 open('counts.txt', 'a') do |f|
   f.puts '-'*25
   f.puts "Timestamp: " + DateTime.now.to_s
   f.puts ""
-  f.puts "Total Viewers for top 25 streams:"
+  f.puts "Number of channels: " + summary["channels"].to_s
+  f.puts ""
+  f.puts "Total viewers: " + summary["viewers"].to_s
+  f.puts ""
+  f.puts "Total viewers for top 25 streams:"
   f.puts counts.sum.to_s
   f.puts ""
   f.puts "Viewer counts:"
@@ -47,6 +55,10 @@ FileUtils.cd('details') do
   open("details_#{current_time}.txt", 'a') do |f|
     f.puts '-'*25
     f.puts "Timestamp: " + current_time
+    f.puts ""
+    f.puts "Number of channels: " + summary["channels"].to_s
+    f.puts ""
+    f.puts "Total viewers: " + summary["viewers"].to_s
     f.puts ""
     f.puts "Total Viewers for top 25 streams:"
     f.puts counts.sum.to_s
