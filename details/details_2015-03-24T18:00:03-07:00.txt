@@ -1,0 +1,91 @@
+-------------------------
+Timestamp: 2015-03-24T18:00:03-07:00
+
+Total Viewers for top 25 streams:
+5638
+
+Viewer counts:
+[2554, 732, 330, 272, 271, 192, 190, 137, 119, 135, 87, 68, 60, 57, 47, 46, 45, 43, 40, 40, 39, 36, 35, 33, 30]
+
+---
+followgrubby:
+  viewers: 2554
+  status: Sylvanas + MANY PATCH CHANGES! Happy Grubby!
+crendor:
+  viewers: 732
+  status: Nerds of the Storm
+nickhots:
+  viewers: 330
+  status: TL Open Champ. PICK MY HERO! 6k+ games played. Commentary. Hero League.
+    AMA, Informative stream!
+yuuie:
+  viewers: 272
+  status: ❤Game Key Giveaways After Every Game! ლ(¯﹃¯ლ)
+xelayirl:
+  viewers: 271
+  status: ! ' rank 1  xelayirl#1944 NA  SILVANAS    19XLVL10 FEEL FREE ASK ANY HOTS
+    QUESTION :) and i play with viewer '
+solidjakegg:
+  viewers: 192
+  status: 24 HR PATCH STREAM - feat cyasteve
+vendetha:
+  viewers: 190
+  status: ༼ つ◕_◕ ༽つVendetta Jugando Heroes of the Storm :D !!!!!!  ༼ つ◕_◕ ༽つ
+taketv_heroes:
+  viewers: 137
+  status: ! 'BecomeAHero mit R3Z und Co : )'
+oganoss:
+  viewers: 119
+  status: ! 'Anoss - FR -  1v1 Ladder #COMMENT??'
+fizzlestickz:
+  viewers: 135
+  status: Pro HotS with Konvict Extreme - Beta Key Giveaway!
+fragdolls:
+  viewers: 87
+  status: Let's Play Heroes!
+mymtumtum69:
+  viewers: 68
+  status: CALANDO EL NUEVO HEROES Y SUBIENDO DE NIVEL
+player2player:
+  viewers: 60
+  status: ! '[PT-BR] Caricaz no HOTS!'
+hazukisc2:
+  viewers: 57
+  status: ノ( ◕◡◕ ノ) keys para america ᕕ(⌐■_■)ᕗ
+dotod:
+  viewers: 47
+  status: (つ°ヮ°)つ SYLVANNAS HYPE!! Founders Pack/EU/NA Beta Key Giveaways! Hero League
+    Farming Rank 1 (つ°ヮ°)つ
+kiyeberries:
+  viewers: 46
+  status: ! '[1080p] Team Patch Hype!'
+sinvicta:
+  viewers: 45
+  status: TEAM LE FUN
+godspd:
+  viewers: 43
+  status: GodspeedUSA - Sylvanas PRACTICE!
+semiproproject:
+  viewers: 40
+  status: PATCH DAY HYPE [NA] In Depth Commentary & Explanations | Rank 1 KilicK |
+    Ranked | Day 43/∞  ヽ〳 ՞ ᗜ ՞ 〵ง
+ashley66444:
+  viewers: 40
+  status: 3k FOLLOW HYPE!! | MASSIVE GIVEAWAY @ 3k Follows!
+pastandoenmulgore:
+  viewers: 39
+  status: ! 'Heroes of the Storm:  Presentando a Sylvanas + betas'
+glaurungtv:
+  viewers: 36
+  status: ! '| Tempo Storm Glaurung! | TEAM LEAGUE BABY | '
+gerdamherdtv:
+  viewers: 35
+  status: ! '[GER] !songrequest Gerd is Back mit paar Keys im Handgepäck :D'
+bunnybennett:
+  viewers: 33
+  status: ♥ Isabella Plays Heroes of the Storm! ♥ Sylvanas Smackdown!
+cherrigan:
+  viewers: 30
+  status: Sylvanas mode on en Heroes of the Storm! :3
+-------------------------
+
