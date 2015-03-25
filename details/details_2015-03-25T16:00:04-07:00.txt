@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-25T16:00:04-07:00
+
+Number of channels: 311
+
+Total viewers: 5606
+
+Total Viewers for top 25 streams:
+5032
+
+Viewer counts:
+[2320, 594, 577, 202, 176, 162, 147, 123, 116, 66, 63, 59, 56, 54, 40, 35, 35, 30, 31, 33, 34, 21, 20, 18, 20]
+
+---
+followgrubby:
+  viewers: 2320
+  status: Playing Sylvanas + Patched heroes!
+arkamn:
+  viewers: 594
+  status: 【RUS】 SYLVANAS MARATHON, 1st RANK, отвечаю на Ваши вопросы между играми.
+tgn:
+  viewers: 577
+  status: Squadron | MFPallytime, Rurikhan & CapShack | 5-7pm CST
+xelayirl:
+  viewers: 202
+  status: ! ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+youbetterknowme:
+  viewers: 176
+  status: WELL MET KnowMe playing Team League with Subs
+heroesone:
+  viewers: 162
+  status: ! '[FR] SYLVANAS HYPE ! Rush lvl10 avec Luiji'
+solidjakegg:
+  viewers: 147
+  status: Sylvanas to 10! (9 currently) - No DQ today, sorry!
+happystick:
+  viewers: 123
+  status: HappyStick Of The Storm
+fragdolls:
+  viewers: 116
+  status: Let me be your hero baby
+anthonyacc:
+  viewers: 66
+  status: SYLVANAS HYPE! RANKED TODAY :)
+the_pixxel:
+  viewers: 63
+  status: ! '[ENG] !pp | Lvling Sylvanas!'
+erhotv:
+  viewers: 59
+  status: coL.Erho; GO BIG OR GO HOME
+pypgamers:
+  viewers: 56
+  status: ! '[ESP] Sorteo de Betas + Sylvanas con @Xaturheroes Rank1'
+heroeswartv:
+  viewers: 54
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+superfancyunicorn:
+  viewers: 40
+  status: ! '♥ Uni of the Storm: Hero League! ♥ Climbing that ladder, come say hi
+    ^_^ ♥ '
+cayennethefirst:
+  viewers: 35
+  status: BR- Sorteios! - Fluxo da Sylvanas
+xibe5238:
+  viewers: 35
+  status: ! '[Fr/Be] Sylvanas s''exhibe - ranked Team'
+hildewereld:
+  viewers: 30
+  status: ! 'How not to HotS! '
+shtyr:
+  viewers: 31
+  status: Сильвана. Люблю её. Rank1
+therealhorsemaster:
+  viewers: 33
+  status: Sylvanas and Gazlowe play! Beta key giveaways!
+spleenstoo:
+  viewers: 34
+  status: 【FR - HD】Spleen & Aureana !
+happyzerg:
+  viewers: 21
+  status: Сильваночка <3
+bhoosted:
+  viewers: 20
+  status: Beta Keys!!!!!!!!! @ follower goals
+badboyskitv:
+  viewers: 18
+  status: ! '[PL] Mecze rankingowe - przygotowanie do ESL Open'
+vantura_lp:
+  viewers: 20
+  status: ! '[GER] ► TONIGHT FOLLOWER GIVEAWAY HOTS KEY (EU)  ❤ ◄'
+-------------------------
+
