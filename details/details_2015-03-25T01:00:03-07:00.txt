@@ -1,0 +1,90 @@
+-------------------------
+Timestamp: 2015-03-25T01:00:03-07:00
+
+Total Viewers for top 25 streams:
+2810
+
+Viewer counts:
+[1569, 299, 244, 122, 78, 77, 63, 47, 39, 44, 37, 39, 29, 26, 20, 20, 5, 8, 9, 8, 7, 6, 5, 5, 4]
+
+---
+chu8:
+  viewers: 1569
+  status: ! '[NA] Sylvanas Patch Banzai!'
+nickhots:
+  viewers: 299
+  status: ! 'TL Open Champ. QM. AMA! 6k+ games played. Comm '
+solidjakegg:
+  viewers: 244
+  status: ! '[24HR] - Grinding to Sylvanas Master Skin!'
+anthonyacc:
+  viewers: 122
+  status: SYLVANAS HYPE! NEW PATCH! 6 BETA KEY GIVEAWAY!
+ggmarche:
+  viewers: 78
+  status: ♠ NA | Marche ♠ ^^ Rank1 Alpha Vet high MMR Qs/commentary AMA come learn
+    the game!!
+sonderx:
+  viewers: 77
+  status: ! '[SSX] Nuevo parche y Sylvanas disponible!!! - Visita www.sonderx.com'
+fuzion410:
+  viewers: 63
+  status: heroes of the sac
+itsmikuru:
+  viewers: 47
+  status: ! ' HotS | It''s only a  game, Y U HEFF 2 B MED?'
+evac:
+  viewers: 39
+  status: Climbing ranks in Hero League - Day 30/365
+anothernotch:
+  viewers: 44
+  status: Patch Hype!!! Ama & keys to give away!!!
+tolyawa:
+  viewers: 37
+  status: Всемирный день Сильваны
+semiproproject:
+  viewers: 39
+  status: PATCH DAY HYPE [NA] In Depth Commentary & Explanations | Rank 1 KilicK |
+    Ranked | Day 43/∞  ヽ〳 ՞ ᗜ ՞ 〵ง
+heroesone:
+  viewers: 29
+  status: ! '[FR] UTHER PARTY avec Kelzo & Fouz'
+bigmyself:
+  viewers: 26
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+ktjn:
+  viewers: 20
+  status: Ktjn - New Map Hype! Heroes w/ Nerdacide!
+sp5430:
+  viewers: 20
+  status: 【鱔魚】訓練班!!.開放觀眾及新人互動加入遊戲 並指導進步成長
+chocapicc:
+  viewers: 5
+  status: ! '[PL] Czekamy na Sylvanas! Byle do 11:00. Do tego momentu Hex :)'
+'12390800':
+  viewers: 8
+  status: 小霜音樂台 吶吶~丞相丞相 我跟你說唷 起風啦(*´▽`*)/  love12390800#3895
+zombifiedhots:
+  viewers: 9
+  status: ! 'Talk, Play, and New Patch! | Daily Stream | Day 8 | Quick Match & Hero
+    League '
+balthazarvon:
+  viewers: 8
+  status: ¡jueguito y betita para los amiguitos!
+katiepms:
+  viewers: 7
+  status: First Time playing HOTS
+vibes_softly:
+  viewers: 6
+  status: -69 LP Challenged Tier (New Follower Sound)
+ravekyrasyn:
+  viewers: 5
+  status: ! '[KR]RAVEkyrasyN RANK GAME'
+mystfire_the_wolf:
+  viewers: 5
+  status: The Wolf Den!
+demonsaber:
+  viewers: 4
+  status: 绯姬場的十點半─不夠好，可以強化，不是你。
+-------------------------
+
