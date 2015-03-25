@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-25T15:00:04-07:00
+
+Number of channels: 324
+
+Total viewers: 6931
+
+Total Viewers for top 25 streams:
+6090
+
+Viewer counts:
+[2009, 869, 623, 447, 367, 195, 186, 162, 146, 118, 115, 115, 110, 89, 78, 73, 60, 57, 49, 48, 40, 35, 34, 33, 32]
+
+---
+followgrubby:
+  viewers: 2009
+  status: Playing Sylvanas + Patched heroes!
+guardsmanbob:
+  viewers: 869
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 623
+  status: 【RUS】 SYLVANAS MARATHON, 1st RANK, отвечаю на Ваши вопросы между играми.
+happystick:
+  viewers: 447
+  status: HappyStick Of The Storm
+tgn:
+  viewers: 367
+  status: Squadron | MFPallytime, Rurikhan & CapShack | 5-7pm CST
+heroesone:
+  viewers: 195
+  status: ! '[FR] SYLVANAS HYPE ! Rush lvl10 avec Luiji'
+ethieenn:
+  viewers: 186
+  status: Ethieen | Heroes of the Storm
+sooner:
+  viewers: 162
+  status: ! 'Sooner. Team Spank the monkey Rank 1 '
+xelayirl:
+  viewers: 146
+  status: ! ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+superfancyunicorn:
+  viewers: 118
+  status: ! '♥ Uni of the Storm: Hero League! ♥ Climbing that ladder, come say hi
+    ^_^ ♥ '
+youbetterknowme:
+  viewers: 115
+  status: WELL MET KnowMe playing Team League with Subs
+solidjakegg:
+  viewers: 115
+  status: Sylvanas to 10! (8 currently) - No DQ today, sorry!
+minervae:
+  viewers: 110
+  status: Estrenamos Sylvanas!
+doomnothx:
+  viewers: 89
+  status: Heroes of the Storm Beta
+anthonyacc:
+  viewers: 78
+  status: 
+fragdolls:
+  viewers: 73
+  status: Let me be your hero baby
+the_pixxel:
+  viewers: 60
+  status: ! '[ENG] !pp | Lvling Sylvanas!'
+detrox86:
+  viewers: 57
+  status: ! '[GER] Feierabend Gaming Heldenliga'
+heroeswartv:
+  viewers: 49
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+pypgamers:
+  viewers: 48
+  status: ! '[ESP] Sorteo de Betas + Sylvanas con @Xaturheroes Rank1'
+erhotv:
+  viewers: 40
+  status: coL.Erho; GO BIG OR GO HOME
+loryy1990:
+  viewers: 35
+  status: <Lory> Hero League
+shtyr:
+  viewers: 34
+  status: Сильвана. Люблю её. Rank1
+ikkyy:
+  viewers: 33
+  status: ! '[pt-BR] Ranque 1, Jogando 4fun! #sylvanas'
+therealhorsemaster:
+  viewers: 32
+  status: Sylvanas and Gazlowe play! Beta key giveaways!
+-------------------------
+
