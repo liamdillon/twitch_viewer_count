@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-24T19:00:02-07:00
+
+Total Viewers for top 25 streams:
+6703
+
+Viewer counts:
+[2200, 1090, 909, 514, 301, 254, 253, 203, 131, 128, 103, 101, 75, 72, 50, 49, 44, 47, 35, 31, 27, 23, 21, 21, 21]
+
+---
+followgrubby:
+  viewers: 2200
+  status: Sylvanas + MANY PATCH CHANGES! Happy Grubby!
+shaboozey:
+  viewers: 1090
+  status: Heroes of the Salt - Live from the Kitchen w/ LOW EXPECTATIONS
+crendor:
+  viewers: 909
+  status: Nerds of the Storm
+theblackhokage:
+  viewers: 514
+  status: Migos Of The Storm
+yuuie:
+  viewers: 301
+  status: ❤Game Key Giveaways After Every Game! ლ(¯﹃¯ლ)
+fizzlestickz:
+  viewers: 254
+  status: Pro HotS with Konvict Extreme - Beta Key Giveaway!
+nickhots:
+  viewers: 253
+  status: TL Open Champ. PICK MY HERO! 6k+ games played. Commentary. Hero League.
+    AMA, Informative stream!
+xelayirl:
+  viewers: 203
+  status: ! ' rank 1  xelayirl#1944 NA  SILVANAS    19XLVL10 FEEL FREE ASK ANY HOTS
+    QUESTION :) and i play with viewer '
+solidjakegg:
+  viewers: 131
+  status: 24 HR PATCH STREAM - feat cyasteve
+trikslyr:
+  viewers: 128
+  status: Sylvanas Patch! MURKY continues to be god tier!
+sinvicta:
+  viewers: 103
+  status: TEAM LE FUN
+vendetha:
+  viewers: 101
+  status: ༼ つ◕_◕ ༽つVendetta Jugando Heroes of the Storm :D !!!!!!  ༼ つ◕_◕ ༽つ
+glaurungtv:
+  viewers: 75
+  status: ! '| Tempo Storm Glaurung! | TEAM LEAGUE BABY | '
+ihosty:
+  viewers: 72
+  status: ! 'Hosty -Rank 1 NA HOTS - | Sylvanas HYPE | No cam / Commentary |  9/9
+    Golden Classes | 23x Legend | '
+semiproproject:
+  viewers: 50
+  status: PATCH DAY HYPE [NA] In Depth Commentary & Explanations | Rank 1 KilicK |
+    Ranked | Day 43/∞  ヽ〳 ՞ ᗜ ՞ 〵ง
+dotod:
+  viewers: 49
+  status: (つ°ヮ°)つ SYLVANNAS HYPE!! Founders Pack/EU/NA Beta Key Giveaways! Hero League
+    Farming Rank 1 (つ°ヮ°)つ
+cherrigan:
+  viewers: 44
+  status: Sylvanas mode on en Heroes of the Storm! :3
+demosc:
+  viewers: 47
+  status: ! '[PT-BR] Heroes of The Storm Arena #3'
+hazukisc2:
+  viewers: 35
+  status: ノ( ◕◡◕ ノ) keys para america ᕕ(⌐■_■)ᕗ
+so1dier:
+  viewers: 31
+  status: Tournament today, getting sleep
+kiyeberries:
+  viewers: 27
+  status: ! '[1080p] Team Patch Hype!'
+therealhorsemaster:
+  viewers: 23
+  status: Sylvanas and Gazlowe play! Beta key giveaways!
+andraxxusx:
+  viewers: 21
+  status: ! '[Andraxxus] - Heroes of the Storm - Victory for the Forsaken!'
+heroesone:
+  viewers: 21
+  status: ! '[FR] UTHER PARTY avec Kelzo & Fouz'
+blackinki:
+  viewers: 21
+  status: ! '[BR] Blackinki sorteando KEYS de Heroes of the Storm (ﾉ◕ヮ◕)ﾉ*:･ﾟ'
+-------------------------
+
