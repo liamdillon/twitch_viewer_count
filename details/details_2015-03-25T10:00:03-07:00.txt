@@ -1,0 +1,89 @@
+-------------------------
+Timestamp: 2015-03-25T10:00:03-07:00
+
+Total Viewers for top 25 streams:
+4627
+
+Viewer counts:
+[1137, 954, 566, 287, 264, 197, 194, 164, 92, 91, 71, 67, 64, 62, 50, 46, 44, 43, 38, 36, 36, 35, 33, 30, 26]
+
+---
+liquidneo:
+  viewers: 1137
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+guardsmanbob:
+  viewers: 954
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 566
+  status: 【RUS】 SYLVANAS MARATHON, 1st RANK, отвечаю на Ваши вопросы между играми.
+zomgitshwoarang:
+  viewers: 287
+  status: ! '[GER] Rank 1 - SneakyBeakyLike'
+pamcakes:
+  viewers: 264
+  status: Pam ♥ // Beta Key Giveaways Every Sub!
+youbetterknowme:
+  viewers: 197
+  status: WELL MET KnowMe playing SoloQ - SYLVANAS ... whenever i can
+happyzerg:
+  viewers: 194
+  status: Марафон Сильваны. РАЗДАЧА КЛЮЧЕЙ!
+heroesone:
+  viewers: 164
+  status: ! '[FR] Ranked Team League avec Tainder'
+ggmarche:
+  viewers: 92
+  status: ♠ NA | Marche ♠ ^^ PATCH HYPE NERDSS
+ek0p:
+  viewers: 91
+  status: ! '[C9 Ekop] Rank 1 is not an achievement to be proud of!'
+heroeswartv:
+  viewers: 71
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+metagamingtv:
+  viewers: 67
+  status: Just an average stream day :D !requestsong
+dragomangreektitans:
+  viewers: 64
+  status: 25/3/15 HOTS+ASSETTO CORSA+GIVEAWAY
+wolfeater_il:
+  viewers: 62
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+dotod:
+  viewers: 50
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+artheontv:
+  viewers: 46
+  status: ! '(FR) TEST MaJ et NEW MAP #OKLM'
+callaquenoveo:
+  viewers: 44
+  status: Killer Nova + SORTEO BETAS
+fletcheriii:
+  viewers: 43
+  status: Ракуем в хс и не только
+keko1102:
+  viewers: 38
+  status: ! '[GER] Sylvana ist da!'
+smaragdwache:
+  viewers: 36
+  status: (GER) ❤ Let's zock - Heroes of the Storm & Besiege ❤ || www.Just-Gaming.eu
+pypgamers:
+  viewers: 36
+  status: ! '[ESP] Probando Nuevo parche y a Sylvanas con @BulgangP'
+gonkixjeh:
+  viewers: 35
+  status: ! '[EN/CZ] Gonki - Hots dámové a páni KAPPA'
+nexaa:
+  viewers: 33
+  status: New Patch HYPE!
+thekonus:
+  viewers: 30
+  status: ! '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+ossidium:
+  viewers: 26
+  status: Heroes Hangout - PATCH DAY! - NA+EU Beta Key Giveaways all week!
+-------------------------
+
