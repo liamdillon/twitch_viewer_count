@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-25T14:00:05-07:00
+
+Number of channels: 351
+
+Total viewers: 5747
+
+Total Viewers for top 25 streams:
+5015
+
+Viewer counts:
+[1931, 823, 622, 185, 144, 143, 116, 111, 112, 78, 73, 71, 69, 61, 60, 59, 58, 56, 53, 44, 35, 32, 28, 26, 25]
+
+---
+followgrubby:
+  viewers: 1931
+  status: Playing Sylvanas + Patched heroes!
+guardsmanbob:
+  viewers: 823
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 622
+  status: 【RUS】 SYLVANAS MARATHON, 1st RANK, отвечаю на Ваши вопросы между играми.
+heroesone:
+  viewers: 185
+  status: ! '[FR] SYLVANAS HYPE ! Rush lvl10 avec Luiji'
+xeleko:
+  viewers: 144
+  status: ! '[FR] Sylvanas Build Test - Rank 1 Xeleko'
+djarii:
+  viewers: 143
+  status: 
+sooner:
+  viewers: 116
+  status: ! 'Sooner. Team Spank the monkey Rank 1 '
+doomnothx:
+  viewers: 111
+  status: Heroes of the Storm Beta
+minervae:
+  viewers: 112
+  status: Estrenamos Sylvanas!
+xelayirl:
+  viewers: 78
+  status: ! ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+anthonyacc:
+  viewers: 73
+  status: SYLVANAS HYPE! RANKED TODAY :)
+teaselol:
+  viewers: 71
+  status: Tease - Learning
+solidjakegg:
+  viewers: 69
+  status: Sylvanas to 10! (8 currently) - No DQ today, sorry!
+kentarotassadar:
+  viewers: 61
+  status: ! '[RUS/ENG] Странные странности  ┐( ˘ ､ ˘ )┌'
+erhotv:
+  viewers: 60
+  status: coL.Erho; GO BIG OR GO HOME
+heroeswartv:
+  viewers: 59
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+spuds_gaming:
+  viewers: 58
+  status: ! '[GER] Spuds-Gaming | Sylvanas'
+detrox86:
+  viewers: 56
+  status: ! '[GER] Feierabend Gaming Heldenliga'
+kuzmitch_ru:
+  viewers: 53
+  status: Тюрьма для хомячка
+pypgamers:
+  viewers: 44
+  status: ! '[ESP] Sorteo de Betas + Sylvanas con @Xaturheroes Rank1'
+kuzyameduzya:
+  viewers: 35
+  status: Кузьма и Дима в HOTS
+loryy1990:
+  viewers: 32
+  status: <Lory> Hero League
+pepsi29:
+  viewers: 28
+  status: Playing Sylvanas | Patch Hype! | Giving Away NA Beta Key at 400 followers
+bigsmellypotato:
+  viewers: 26
+  status: Joe prøver Heroes of the Storm!
+ikkyy:
+  viewers: 25
+  status: ! '[pt-BR] Ranque 1, Jogando 4fun! #sylvanas'
+-------------------------
+
