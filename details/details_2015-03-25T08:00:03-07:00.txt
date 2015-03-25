@@ -1,0 +1,90 @@
+-------------------------
+Timestamp: 2015-03-25T08:00:03-07:00
+
+Total Viewers for top 25 streams:
+4687
+
+Viewer counts:
+[1159, 818, 482, 406, 240, 233, 203, 178, 128, 115, 92, 85, 85, 67, 64, 53, 41, 38, 36, 32, 30, 28, 26, 25, 23]
+
+---
+liquidneo:
+  viewers: 1159
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+guardsmanbob:
+  viewers: 818
+  status: Rank1! - Guardsman Bob!
+nexoshunter2:
+  viewers: 482
+  status: SYLVANAS Patch! -  Heroes of the Storm // Streamy codziennie o 14:00
+arkamn:
+  viewers: 406
+  status: 【RUS】 SYLVANAS MARATHON, 1st RANK, отвечаю на Ваши вопросы между играми.
+happyzerg:
+  viewers: 240
+  status: СИЛЬВАНА! КЛЮЧИ! МАРАФОН!
+pamcakes:
+  viewers: 233
+  status: Pam ♥ // Sylvanas Patch HYPE!
+heroesone:
+  viewers: 203
+  status: ! '[FR] SiCvanas Time avec SiC'
+zomgitshwoarang:
+  viewers: 178
+  status: ! '[GER] Rank 1 - SneakyBeakyLike'
+youbetterknowme:
+  viewers: 128
+  status: ! 'WELL MET KnowMe playing SoloQ - SYLVANAS '
+ggmarche:
+  viewers: 115
+  status: ♠ NA | Marche ♠ ^^ Rank1 Alpha Vet high MMR Qs/commentary AMA come learn
+    the game!!
+lowkotv:
+  viewers: 92
+  status: ! 'Lowko :: Ranking Up Sylvanas / StarCraft 2 Later :: Help me out: http://goo.gl/9vG6iv'
+heroeswartv:
+  viewers: 85
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+ek0p:
+  viewers: 85
+  status: ! '[C9 Ekop] Rank 1 is not an achievement to be proud of!'
+fcgm001:
+  viewers: 67
+  status: 【TW】Angel 下雨天翹課打暴雪英霸
+godspd:
+  viewers: 64
+  status: НУУ ОЧЕНЬ НЕ ОЧЕНЬ СИЛЬВАНА
+pypgamers:
+  viewers: 53
+  status: ! '[ESP] Probando Nuevo parche y a Sylvanas con @BulgangP'
+sledziu89:
+  viewers: 41
+  status: ! '[PL] Śledziu stream! :D'
+nexaa:
+  viewers: 38
+  status: ! '!giveaway Beta Key | New Patch HYPE!'
+nvnpaladino:
+  viewers: 36
+  status: Chat bugado! Apresentando Sylvana Correventos em Heroes of the Storm!
+ossidium:
+  viewers: 32
+  status: Heroes Hangout - PATCH DAY! - NA+EU Beta Key Giveaways all week!
+thekonus:
+  viewers: 30
+  status: ! '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+smaragdwache:
+  viewers: 28
+  status: (GER) ❤ Let's zock - Heroes of the Storm & Besiege ❤ || www.Just-Gaming.eu
+xibe5238:
+  viewers: 26
+  status: ! '[Fr/Be] Xibe - Beta Key Giveaway - Rank 1'
+hyperiatv1:
+  viewers: 25
+  status: ! '[FR] Soren - HoTS YOLOMOD - Une clé a gagner !'
+prayscream:
+  viewers: 23
+  status: ! 'j.pRay -  Ja neviem uš  (⊙.⊙(☉̃ₒ☉)⊙.⊙) '
+-------------------------
+
