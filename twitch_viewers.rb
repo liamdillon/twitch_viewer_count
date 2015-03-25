@@ -32,7 +32,7 @@ puts "summary: "
 puts summary.to_yaml
 puts "counts: " + counts.to_s
 
-open('counts.txt', 'a') do |f|
+open('viewer_counts.txt', 'a') do |f|
   f.puts '-'*25
   f.puts "Timestamp: " + DateTime.now.to_s
   f.puts ""

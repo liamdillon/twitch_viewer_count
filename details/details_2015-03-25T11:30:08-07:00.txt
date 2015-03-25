@@ -1,0 +1,91 @@
+-------------------------
+Timestamp: 2015-03-25T11:30:08-07:00
+
+Number of channels: 297
+
+Total viewers: 5128
+
+Total Viewers for top 25 streams:
+4692
+
+Viewer counts:
+[1080, 867, 543, 521, 222, 211, 180, 163, 153, 120, 72, 69, 67, 61, 48, 44, 43, 39, 34, 34, 33, 23, 23, 22, 20]
+
+---
+guardsmanbob:
+  viewers: 1080
+  status: Rank1! - Guardsman Bob!
+followgrubby:
+  viewers: 867
+  status: Playing Sylvanas + Patched heroes!
+arkamn:
+  viewers: 543
+  status: 【RUS】 SYLVANAS MARATHON, 1st RANK, отвечаю на Ваши вопросы между играми.
+kenmalol:
+  viewers: 521
+  status: New Patch - playing hero league - ama
+pamcakes:
+  viewers: 222
+  status: Pam ♥ // Hero League!
+no1zyboy:
+  viewers: 211
+  status: Супер Нова 2
+happyzerg:
+  viewers: 180
+  status: Марафон Сильваны. РАЗДАЧА КЛЮЧЕЙ!
+esl_moretv_casual:
+  viewers: 163
+  status: Talkrunde zu Patch
+heroesone:
+  viewers: 153
+  status: ! '[FR] SYLVANAS HYPE ! Rush lvl10 avec Luiji'
+artheontv:
+  viewers: 120
+  status: ! '(FR) TEST MaJ et NEW MAP #OKLM'
+ggmarche:
+  viewers: 72
+  status: ♠ NA | Marche ♠ ^^ PATCH HYPE NERDSS
+metagamingtv:
+  viewers: 69
+  status: Just an average stream day :D !requestsong
+dirtyela_tv:
+  viewers: 67
+  status: ♥♥♥ Girly herotime  ♥♥♥
+heroeswartv:
+  viewers: 61
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+dragomangreektitans:
+  viewers: 48
+  status: 25/3/15 HOTS+ASSETTO CORSA+GIVEAWAY
+keko1102:
+  viewers: 44
+  status: ! '[GER] Sylvana ist da!'
+kentarotassadar:
+  viewers: 43
+  status: ! '[RUS/ENG] Странные странности  ┐( ˘ ､ ˘ )┌'
+pypgamers:
+  viewers: 39
+  status: ! '[ESP] Probando Nuevo parche y a Sylvanas con @BulgangP'
+mcintyrelol:
+  viewers: 34
+  status: ! 'coL Gaming┌༼◉ل͟◉༽┐ Sylvanas ┌༼◉ل͟◉༽┐ [MLG Titan 2 Winner]- AMA '
+viciuslab:
+  viewers: 34
+  status: ! '[Español] Sorteando BETAS Europa - Necca, Mi Noob favorito - #MemeVicio'
+gonkixjeh:
+  viewers: 33
+  status: ! '[EN/CZ] Gonki - Hots dámové a páni KAPPA'
+shtyr:
+  viewers: 23
+  status: Сильвана. Люблю её. Rank1
+lazarus_zero:
+  viewers: 23
+  status: ! '[Потные каточки] Штурмуем Лигу'
+ossidium:
+  viewers: 22
+  status: Heroes Hangout - PATCH DAY! - NA+EU Beta Key Giveaways all week!
+kuzyameduzya:
+  viewers: 20
+  status: Кузьма и Дима в HOTS
+-------------------------
+
