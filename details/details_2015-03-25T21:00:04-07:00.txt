@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-25T21:00:04-07:00
+
+Number of channels: 234
+
+Total viewers: 2593
+
+Total Viewers for top 25 streams:
+2248
+
+Viewer counts:
+[856, 589, 138, 118, 88, 55, 48, 43, 30, 30, 28, 28, 24, 23, 20, 19, 17, 15, 13, 12, 12, 12, 10, 10, 10]
+
+---
+heroes_hype:
+  viewers: 856
+  status: NA Amateur Series W6 Finals, Gillyweed + Mehsiah!
+chu8:
+  viewers: 589
+  status: ! '[NA] Sylvanas Patch Banzai!'
+djwheat:
+  viewers: 138
+  status: New Heroes of the Storm STUFFS!
+lagamerteca:
+  viewers: 118
+  status: 
+blondesavage:
+  viewers: 88
+  status: PRIZES AND SYLVANAS HYPE with BLONDE!
+hots_mcmuffin:
+  viewers: 55
+  status: ! 'McMuffin: From Rank 50 to 1'
+vawnievoulphie:
+  viewers: 48
+  status: 龴◕ɷ◕龴JOIN OUR QUICK MATCH [NA]
+pms_unforgiven:
+  viewers: 43
+  status: Hi . I need a beer
+heroesone:
+  viewers: 30
+  status: ! '[FR] La Meta-Sylvananas avec Manta !'
+tolyawa:
+  viewers: 30
+  status: Vikings vs Герои по вашим заявкам
+jschritte:
+  viewers: 28
+  status: ! 'Mecanics ! ! ! '
+xibe5238:
+  viewers: 28
+  status: ! '[Fr/Be] Sylvanas s''exhibe - ranked Team'
+nerdacide:
+  viewers: 24
+  status: $20 Battle.net card giveaway at 500 followers!  [Aussie]
+mikefrompgh:
+  viewers: 23
+  status: <NA> Viewer QM's and Hero League
+grantskip:
+  viewers: 20
+  status: ! '【Ovaltine】  更新好囉 ! 有任何問題歡迎詢問   ! KR server Rank1 !   '
+ravekyrasyn:
+  viewers: 19
+  status: ! '[KR]RAVEkyrasyN RANK GAME'
+fr4gshout:
+  viewers: 17
+  status: ! ' Road to Partner   Avidesports.com'
+valerothtv:
+  viewers: 15
+  status: ! 'Giveaways | Pro Plays | Ranged Carry | 5k Hype! | @ValerothTV '
+humanamente_mezclando:
+  viewers: 13
+  status: ! '[ESP] Rank y Normal con viewers <3 '
+monstergmer:
+  viewers: 12
+  status: ! '[ES] SYLVANA / NUEVO HEROE  Y BETAS @TwitchESP @StreamsEspanol'
+defebwar:
+  viewers: 12
+  status: ! '[NA] SYLVY HYPE!!! I Look RIDONKULOUS But I Just HAD To!! <3 [Heroes
+    Of The Storm (NA)]'
+fridaynightbm:
+  viewers: 12
+  status: YuriNalarm's road to 1 or bad - FNBM - No more losing please.
+dawnbreaker09:
+  viewers: 10
+  status: ! 'Inaugural Heroes Team League Stream! '
+badical:
+  viewers: 10
+  status: ! 'Heroes of the Storm update!  Playing Sylvanas! On our way to 500 Followers!
+    Come hang out and say hi! #TeamBadical'
+cooldud350:
+  viewers: 10
+  status: GAME CLUB B O Y Z 乁༼☯‿☯✿༽ ᕙ༼*◕_◕*༽ᕤ╭༼ ಥل͟ಥ ༽╮
+-------------------------
+
