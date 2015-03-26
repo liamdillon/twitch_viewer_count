@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-26T02:00:04-07:00
+
+Number of channels: 113
+
+Total viewers: 3113
+
+Total Viewers for top 25 streams:
+2964
+
+Viewer counts:
+[1320, 404, 306, 154, 117, 112, 96, 72, 43, 43, 37, 27, 32, 30, 23, 26, 18, 18, 17, 13, 13, 13, 12, 8, 10]
+
+---
+chu8:
+  viewers: 1320
+  status: ! '[NA] I own Murky'
+solidjakegg:
+  viewers: 404
+  status: Sylvanas to 10! (Currently lvl 9)
+khaldor:
+  viewers: 306
+  status: ! '[GER] New Patch & Stuff ;)'
+tayzondaygames:
+  viewers: 154
+  status: TOTAL CLOWN NOOB Plays Heroes Of The Storm!
+godspd:
+  viewers: 117
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+fuzion410:
+  viewers: 112
+  status: heroes of the sac
+ulqi:
+  viewers: 96
+  status: Лига Героев Дорога к 50 рангу
+semiproproject:
+  viewers: 72
+  status: ! '[NA] Rank 1 | Team League| In Depth Commentary & Explanations | 1 KilicK
+    | Day 45/∞  ヽ〳 ՞ ᗜ ՞ 〵ง'
+tolyawa:
+  viewers: 43
+  status: Vikings vs Герои по вашим заявкам
+heroesone:
+  viewers: 43
+  status: ! '[FR] REDIFF : SiC and Destroy avec SiC'
+gerdamherdtv:
+  viewers: 37
+  status: ! '[GER] MADmaking with Khaldor, Cris und .....'
+coldfashiond:
+  viewers: 27
+  status: ! '[US] Tassadar Quick Matches'
+erhotv:
+  viewers: 32
+  status: coL.Erho; GO BIG OR GO HOME
+johanjazz:
+  viewers: 30
+  status: ! '[1 rank] ヽ(・∀・)ﾉ  Утренний стримец под музычку '
+lastwolfplay:
+  viewers: 23
+  status: ! '[26/03] La matinale édition spéciale Heroes ! Reghar & Lost Viking time '
+nuroklol:
+  viewers: 26
+  status: ! '[GER/ENG] Dignitas Nurok - playing Heroleague / Going through the Patch
+    // http://tinyurl.com/HeroesCup //'
+zsjh9100:
+  viewers: 18
+  status: ᴥ 姐姐玩英霸ᴥ  晚上都會轉圈 F5解決吧ˊˋ
+sp5430:
+  viewers: 18
+  status: 【鱔魚】教觀念地圖 歡迎提問問題
+ashmunsterr:
+  viewers: 17
+  status: Brightwing Quickmatch
+bigmyself:
+  viewers: 13
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+seoulja_:
+  viewers: 13
+  status: ! 'coL.TigerJK aka Keonda '
+balthazarvon:
+  viewers: 13
+  status: ¡jueguando con palif  y betita para los amiguitos!
+gvbtb:
+  viewers: 12
+  status: HoTS Giveaway!?!? Drinks, Chat, Blizzcon, Request Hero's! Smash Later? MK8
+    LATER!?
+catalystex:
+  viewers: 8
+  status: 催化劑【 3/26Heroes of the Storm】女王陛下
+demonsaber:
+  viewers: 10
+  status: 绯姬場的十點半─順我者勝，逆我者亡。
+-------------------------
+
