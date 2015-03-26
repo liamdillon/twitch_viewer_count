@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-25T23:00:04-07:00
+
+Number of channels: 179
+
+Total viewers: 2611
+
+Total Viewers for top 25 streams:
+2307
+
+Viewer counts:
+[1151, 379, 133, 84, 81, 58, 46, 45, 41, 34, 28, 26, 24, 23, 17, 20, 19, 19, 15, 12, 12, 10, 10, 11, 9]
+
+---
+chu8:
+  viewers: 1151
+  status: ! '[NA] I own Murky'
+solidjakegg:
+  viewers: 379
+  status: Sylvanas to 10! (Currently lvl 9)
+valerothtv:
+  viewers: 133
+  status: ! 'Giveaways | Pro Plays | Ranged Carry | 5k Hype! | @ValerothTV '
+missmiarose:
+  viewers: 84
+  status: Mia makes friends?
+khaldor:
+  viewers: 81
+  status: ! '[GER] New Patch & Stuff ;)'
+annaprosser:
+  viewers: 58
+  status: First Date with Sylvanas
+tolyawa:
+  viewers: 46
+  status: Vikings vs Герои по вашим заявкам
+aliciawins:
+  viewers: 45
+  status: ! '[NA] Viewer Games & Sylvanas!'
+pms_unforgiven:
+  viewers: 41
+  status: Hi . I need a beer
+heroesone:
+  viewers: 34
+  status: ! '[FR] La Meta-Sylvananas avec Manta !'
+zeto_27:
+  viewers: 28
+  status: PROBANDO EL TWITCH
+johanjazz:
+  viewers: 26
+  status: ! '[1 rank] ヽ(・∀・)ﾉ  Утренний стримец под музычку '
+ashmunsterr:
+  viewers: 24
+  status: Brightwing Quickmatch
+semiproproject:
+  viewers: 23
+  status: ! '[NA] Rank 1 | Team League| In Depth Commentary & Explanations | 1 KilicK
+    | Day 45/∞  ヽ〳 ՞ ᗜ ՞ 〵ง'
+mikefrompgh:
+  viewers: 17
+  status: <NA> Rehgar Over and Over...
+sp5430:
+  viewers: 20
+  status: 【鱔魚】訓練班!!.開放觀眾及新人互動加入遊戲 並指導進步成長
+nerdacide:
+  viewers: 19
+  status: $20 Battle.net card giveaway at 500 followers!  [Aussie]
+obsessedwlol:
+  viewers: 19
+  status: VIEWER GAMES! SONG REQUEST ON! COME ROCK OUT WITH YOUR DONGER OUT!
+balthazarvon:
+  viewers: 15
+  status: ¡jueguando con palif  y betita para los amiguitos!
+demonsaber:
+  viewers: 12
+  status: 绯姬場的十點半─順我者勝，逆我者亡。
+sonderx:
+  viewers: 12
+  status: ! '[SSX] Viciando y Betas de Heroes para Todos!!! - Visita www.sonderx.com'
+zsjh9100:
+  viewers: 10
+  status: ᴥ 姐姐玩英霸ᴥ  晚上都會轉圈 F5解決吧ˊˋ
+jimzy702:
+  viewers: 10
+  status: HEROES OF THE PRON THEN CS // CLIMB ISRAEL BOYZ || GIVEAWAYZ MORE W/ JIMZY
+    || COME KICK IT & EARN !GOODVIBES!!
+evac:
+  viewers: 11
+  status: Climbing ranks in Hero League - Day 31/365
+catalystex:
+  viewers: 9
+  status: 催化劑【 3/26Heroes of the Storm】女王陛下
+-------------------------
+
