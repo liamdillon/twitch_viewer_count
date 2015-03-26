@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-25T20:00:04-07:00
+
+Number of channels: 269
+
+Total viewers: 2772
+
+Total Viewers for top 25 streams:
+2279
+
+Viewer counts:
+[577, 527, 377, 147, 90, 77, 60, 52, 36, 48, 27, 28, 25, 23, 27, 19, 19, 18, 17, 16, 15, 14, 14, 12, 14]
+
+---
+heroes_hype:
+  viewers: 577
+  status: NA Amateur Series W6, Gillyweed + Mehsiah!
+solidjakegg:
+  viewers: 527
+  status: Ep.56 Town Hall Heroes with @BlizzJohnzee & @LiquidShethSC2
+chu8:
+  viewers: 377
+  status: ! '[NA] Sylvanas Patch Banzai!'
+mymtumtum69:
+  viewers: 147
+  status: ! '¿Quién es la reina Alma en pena?   http://goo.gl/ahXK87 '
+djwheat:
+  viewers: 90
+  status: New Heroes of the Storm STUFFS!
+heroesone:
+  viewers: 77
+  status: ! '[FR] La Meta-Sylvananas avec Manta !'
+hots_mcmuffin:
+  viewers: 60
+  status: ! 'McMuffin: From Rank 50 to 1'
+blondesavage:
+  viewers: 52
+  status: PRIZES AND SYLVANAS HYPE with BLONDE!
+kiyeberries:
+  viewers: 36
+  status: ! '[1080p] L2''Sassin'
+mikefrompgh:
+  viewers: 48
+  status: <NA> Rank 15 - SYLVANAS PATCH!!!
+fatalxmts:
+  viewers: 27
+  status: hots stuff
+tolyawa:
+  viewers: 28
+  status: Vikings vs Герои по вашим заявкам
+xibe5238:
+  viewers: 25
+  status: ! '[Fr/Be] Sylvanas s''exhibe - ranked Team'
+jschritte:
+  viewers: 23
+  status: ! 'Mecanics ! ! ! '
+sgdx:
+  viewers: 27
+  status: ! ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda > First Time Heroes
+    Of The Storm Xx'
+nerdacide:
+  viewers: 19
+  status: $20 Battle.net card giveaway at 500 followers!  [Aussie]
+theargietv:
+  viewers: 19
+  status: Aprendamos builds divertidas de Sylvanas ♥
+theaquagiants:
+  viewers: 18
+  status: ! '[Day 40] Heroes of the Storm with Viewers! BETA Key Giveaways?! The road
+    to 500 followers!  | 720p 60 FPS'
+xxxduffmanxxx:
+  viewers: 17
+  status: Zeratul lvl 17 @DuFFMaN_EU Rank 1!! +1.2k games
+sawfang:
+  viewers: 16
+  status: (Week 91 Day 3) Storm Crusade, the Hero League!
+foerest:
+  viewers: 15
+  status: ! '4k+ mmr ☺ top 10 ☺ Viking micro 101  hotslogs.com '
+lexi_woods:
+  viewers: 14
+  status: NA Heroes of the Storm Beta key giveaway!
+hellequinm:
+  viewers: 14
+  status: Sylvanas hype train - Day 2
+monstergmer:
+  viewers: 12
+  status: ! '[ES] SYLVANA / NUEVO HEROE  Y BETAS @TwitchESP @StreamsEspanol'
+selenityy:
+  viewers: 14
+  status: NA Beta Key Giveaway + Sylvanas! w/ Selenityy <3
+-------------------------
+
