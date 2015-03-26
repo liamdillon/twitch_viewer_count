@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-25T22:00:04-07:00
+
+Number of channels: 194
+
+Total viewers: 2635
+
+Total Viewers for top 25 streams:
+2324
+
+Viewer counts:
+[1010, 408, 122, 97, 85, 84, 74, 54, 53, 43, 41, 39, 25, 25, 23, 22, 21, 20, 15, 14, 11, 10, 10, 10, 8]
+
+---
+chu8:
+  viewers: 1010
+  status: ! '[NA] I own Murky'
+solidjakegg:
+  viewers: 408
+  status: Sylvanas to 10! (Currently lvl 9)
+xelayirl:
+  viewers: 122
+  status: ! ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+lagamerteca:
+  viewers: 97
+  status: ENTREN AQUÍ PARA CONSEGUIR SU BETA http://goo.gl/cMKpkh
+valerothtv:
+  viewers: 85
+  status: ! 'Giveaways | Pro Plays | Ranged Carry | 5k Hype! | @ValerothTV '
+missmiarose:
+  viewers: 84
+  status: Mia makes friends?
+blondesavage:
+  viewers: 74
+  status: PRIZES AND SYLVANAS HYPE with BLONDE!
+vawnievoulphie:
+  viewers: 54
+  status: 龴◕ɷ◕龴JOIN OUR QUICK MATCH [NA]
+pms_unforgiven:
+  viewers: 53
+  status: Hi . I need a beer
+heroesone:
+  viewers: 43
+  status: ! '[FR] La Meta-Sylvananas avec Manta !'
+annaprosser:
+  viewers: 41
+  status: First Date with Sylvanas
+tolyawa:
+  viewers: 39
+  status: Vikings vs Герои по вашим заявкам
+grantskip:
+  viewers: 25
+  status: ! '【Ovaltine】  更新好囉 ! 有任何問題歡迎詢問   ! KR server Rank1 !   '
+jschritte:
+  viewers: 25
+  status: ! 'Mecanics ! ! ! '
+nerdacide:
+  viewers: 23
+  status: $20 Battle.net card giveaway at 500 followers!  [Aussie]
+aliciawins:
+  viewers: 22
+  status: ! '[NA] Viewer Games & Sylvanas!'
+mikefrompgh:
+  viewers: 21
+  status: <NA> Rehgar Over and Over...
+semiproproject:
+  viewers: 20
+  status: PATCH DAY HYPE [NA] In Depth Commentary & Explanations | Rank 1 KilicK |
+    Ranked | Day 43/∞  ヽ〳 ՞ ᗜ ՞ 〵ง
+askatsao:
+  viewers: 15
+  status: ! '  ASKA 大叔台 將辦有獎金比賽請大家好好準備 歡迎大家提問及指導'
+humanamente_mezclando:
+  viewers: 14
+  status: ! '[ESP] Rank y Normal con viewers <3 '
+balthazarvon:
+  viewers: 11
+  status: ¡jueguito y betita para los amiguitos!
+demonsaber:
+  viewers: 10
+  status: 绯姬場的十點半─順我者勝，逆我者亡。
+dawnbreaker09:
+  viewers: 10
+  status: ! 'Inaugural Heroes Team League Stream! '
+monstergmer:
+  viewers: 10
+  status: ! '[ES] SYLVANA / NUEVO HEROE  Y BETAS @TwitchESP @StreamsEspanol'
+missbunnygaming:
+  viewers: 8
+  status: ! 'Sylvanas: Heroes of the Storm'
+-------------------------
+
