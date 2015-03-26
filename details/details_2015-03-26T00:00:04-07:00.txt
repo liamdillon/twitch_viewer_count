@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-26T00:00:04-07:00
+
+Number of channels: 148
+
+Total viewers: 2530
+
+Total Viewers for top 25 streams:
+2316
+
+Viewer counts:
+[1132, 323, 223, 133, 85, 62, 44, 44, 40, 28, 22, 19, 18, 18, 17, 16, 14, 12, 9, 12, 10, 10, 7, 9, 9]
+
+---
+chu8:
+  viewers: 1132
+  status: ! '[NA] I own Murky'
+solidjakegg:
+  viewers: 323
+  status: Sylvanas to 10! (Currently lvl 9)
+thatsadmirable:
+  viewers: 223
+  status: SYLVANAS IS OUT YAY
+khaldor:
+  viewers: 133
+  status: ! '[GER] New Patch & Stuff ;)'
+tolyawa:
+  viewers: 85
+  status: Vikings vs Герои по вашим заявкам
+pms_unforgiven:
+  viewers: 62
+  status: Hi . I need a beer
+semiproproject:
+  viewers: 44
+  status: ! '[NA] Rank 1 | Team League| In Depth Commentary & Explanations | 1 KilicK
+    | Day 45/∞  ヽ〳 ՞ ᗜ ՞ 〵ง'
+johanjazz:
+  viewers: 44
+  status: ! '[1 rank] ヽ(・∀・)ﾉ  Утренний стримец под музычку '
+heroesone:
+  viewers: 40
+  status: ! '[FR] La Meta-Sylvananas avec Manta !'
+ashmunsterr:
+  viewers: 28
+  status: Brightwing Quickmatch
+mikefrompgh:
+  viewers: 22
+  status: <NA> Rehgar Over and Over...
+mcintyrelol:
+  viewers: 19
+  status: ! '┌༼◉ل͟◉༽┐ Drank ┌༼◉ل͟◉༽┐ [MLG Titan 2 Winner]- AMA '
+fishgod11989:
+  viewers: 18
+  status: AM(阿月) 玩玩看希瓦娜斯  女王 阿斯(3/26
+obsessedwlol:
+  viewers: 18
+  status: VIEWER GAMES! SONG REQUEST ON! COME ROCK OUT WITH YOUR DONGER OUT!
+sp5430:
+  viewers: 17
+  status: 【鱔魚】訓練班!!.開放觀眾及新人互動加入遊戲 並指導進步成長
+gerdamherdtv:
+  viewers: 16
+  status: ! '[GER] MADmaking with Khaldor, Cris und .....'
+jimzy702:
+  viewers: 14
+  status: HEROES OF THE PRON THEN CS // CLIMB ISRAEL BOYZ || GIVEAWAYZ MORE W/ JIMZY
+    || COME KICK IT & EARN !GOODVIBES!!
+askatsao:
+  viewers: 12
+  status: ! '  ASKA 大叔台 將辦有獎金比賽請大家好好準備 歡迎大家提問及指導'
+terranjustice:
+  viewers: 9
+  status: HEEERROOOOES (of the storm)
+zsjh9100:
+  viewers: 12
+  status: ᴥ 姐姐玩英霸ᴥ  晚上都會轉圈 F5解決吧ˊˋ
+raven_04:
+  viewers: 10
+  status: Yay! Beta Key!
+balthazarvon:
+  viewers: 10
+  status: ¡jueguando con palif  y betita para los amiguitos!
+sonderx:
+  viewers: 7
+  status: ! '[SSX] Viciando y Betas de Heroes para Todos!!! - Visita www.sonderx.com'
+mr_comarox:
+  viewers: 9
+  status: ! '[PT-BR] NextGaming|ComaRoX - HOTS sem limites!!! TS da galera ON!'
+rundlesg:
+  viewers: 9
+  status: ~Full Circle 1 Year Streamivesary, Thank you Guys!! Games all night long!
+-------------------------
+
