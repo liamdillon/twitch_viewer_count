@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-25T17:00:04-07:00
+
+Number of channels: 292
+
+Total viewers: 5634
+
+Total Viewers for top 25 streams:
+5120
+
+Viewer counts:
+[2357, 621, 453, 318, 233, 175, 132, 100, 91, 85, 79, 71, 67, 49, 49, 42, 38, 29, 23, 19, 21, 18, 17, 17, 16]
+
+---
+followgrubby:
+  viewers: 2357
+  status: Playing Sylvanas + Patched heroes!
+tgn:
+  viewers: 621
+  status: Squadron | MFPallytime, Rurikhan & CapShack | 5-7pm CST
+arkamn:
+  viewers: 453
+  status: 【RUS】 SYLVANAS MARATHON, 1st RANK, отвечаю на Ваши вопросы между играми.
+xelayirl:
+  viewers: 318
+  status: ! ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+oganoss:
+  viewers: 233
+  status: ! 'Anoss - FR -  Interstellar Big Respect papy !!!  #COMMENT??'
+youbetterknowme:
+  viewers: 175
+  status: WELL MET KnowMe playing Team League with Subs
+heroesone:
+  viewers: 132
+  status: ! '[FR] SYLVANAS HYPE ! Rush lvl10 avec Luiji'
+fragdolls:
+  viewers: 100
+  status: RANKED! Let me be your hero baby
+heroes_hype:
+  viewers: 91
+  status: NA Amateur Series W2 FINALS, Beta Keys Giveaway, FourCourtJester + Gillyweed
+the_pixxel:
+  viewers: 85
+  status: ! '[ENG] !pp | Lvling Sylvanas!'
+anthonyacc:
+  viewers: 79
+  status: SYLVANAS HYPE! RANKED TODAY :)
+demosc:
+  viewers: 71
+  status: ! '[PT-BR] BrainStorm Ep. 22 - Esse patch está DeMolindo!'
+erhotv:
+  viewers: 67
+  status: coL.Erho; GO BIG OR GO HOME
+heroeswartv:
+  viewers: 49
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+pypgamers:
+  viewers: 49
+  status: ! '[ESP] Sorteo de Betas + Sylvanas con @Xaturheroes Rank1'
+therealhorsemaster:
+  viewers: 42
+  status: Sylvanas and Gazlowe play! Beta key giveaways!
+cayennethefirst:
+  viewers: 38
+  status: BR- Sorteios! - Fluxo da Sylvanas
+theargietv:
+  viewers: 29
+  status: Aprendamos builds divertidas de Sylvanas ♥
+basickz:
+  viewers: 23
+  status: RAYNOR BABY |  Rank 1 Hero League
+foerest:
+  viewers: 19
+  status: ! '4k+ mmr ☺ top 10 ☺ Viking micro 101  hotslogs.com '
+xibe5238:
+  viewers: 21
+  status: ! '[Fr/Be] Sylvanas s''exhibe - ranked Team'
+bhoosted:
+  viewers: 18
+  status: Beta Keys!!!!!!!!! @ follower goals
+hildewereld:
+  viewers: 17
+  status: How not to HotS with the Minor League Gaming crew!
+vantura_lp:
+  viewers: 17
+  status: ! '[GER] ► TONIGHT FOLLOWER GIVEAWAY HOTS KEY (EU)  ❤ ◄'
+spleenstoo:
+  viewers: 16
+  status: 【FR - HD】Spleen & Aureana !
+-------------------------
+
