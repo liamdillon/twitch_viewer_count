@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-25T19:00:04-07:00
+
+Number of channels: 272
+
+Total viewers: 5018
+
+Total Viewers for top 25 streams:
+4483
+
+Viewer counts:
+[1958, 551, 358, 334, 295, 227, 211, 97, 77, 75, 40, 30, 29, 29, 24, 22, 21, 16, 14, 14, 13, 13, 13, 12, 10]
+
+---
+followgrubby:
+  viewers: 1958
+  status: Playing Sylvanas + Patched heroes!
+solidjakegg:
+  viewers: 551
+  status: Ep.56 Town Hall Heroes with @BlizzJohnzee & @LiquidShethSC2
+heroes_hype:
+  viewers: 358
+  status: NA Amateur Series W6, Gillyweed + Mehsiah!
+arkamn:
+  viewers: 334
+  status: 【RUS】 SYLVANAS MARATHON, 1st RANK, отвечаю на Ваши вопросы между играми.
+mymtumtum69:
+  viewers: 295
+  status: ! '¿Quién es la reina Alma en pena?   http://goo.gl/ahXK87 '
+xelayirl:
+  viewers: 227
+  status: ! ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+valerothtv:
+  viewers: 211
+  status: ! 'Giveaways | First try at HOTS | 5k Hype! | @ValerothTV '
+heroesone:
+  viewers: 97
+  status: ! '[FR] La Meta-Sylvananas avec Manta !'
+grudge_gaming:
+  viewers: 77
+  status: Leveling Sylvanas !!!  Come hangout!!
+djwheat:
+  viewers: 75
+  status: New Heroes of the Storm STUFFS!
+kiyeberries:
+  viewers: 40
+  status: ! '[1080p] L2''Sassin'
+theargietv:
+  viewers: 30
+  status: Aprendamos builds divertidas de Sylvanas ♥
+rushlock:
+  viewers: 29
+  status: Questions Welcome | Bad Decisions [606]
+therealhorsemaster:
+  viewers: 29
+  status: Sylvanas and Gazlowe play! Beta key giveaways!
+xibe5238:
+  viewers: 24
+  status: ! '[Fr/Be] Sylvanas s''exhibe - ranked Team'
+sgdx:
+  viewers: 22
+  status: ! ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda > First Time Heroes
+    Of The Storm Xx'
+theaquagiants:
+  viewers: 21
+  status: ! '[Day 40] Heroes of the Storm with Viewers! BETA Key Giveaways?! The road
+    to 500 followers!  | 720p 60 FPS'
+foerest:
+  viewers: 16
+  status: ! '4k+ mmr ☺ top 10 ☺ Viking micro 101  hotslogs.com '
+lexi_woods:
+  viewers: 14
+  status: NA Heroes of the Storm Beta key giveaway!
+hellequinm:
+  viewers: 14
+  status: Sylvanas hype train - Day 2
+bhoosted:
+  viewers: 13
+  status: Beta Keys!!!!!!!!! @ follower goals
+fr4gshout:
+  viewers: 13
+  status: ! ' Road to Partner   Avidesports.com'
+balmung135:
+  viewers: 13
+  status: Capture Card Stream ($5  donation=shot)
+mikefrompgh:
+  viewers: 12
+  status: <NA> Rank 15 - SYLVANAS PATCH!!!
+tolyawa:
+  viewers: 10
+  status: Vikings vs Герои по вашим заявкам
+-------------------------
+
