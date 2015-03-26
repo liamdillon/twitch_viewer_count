@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-25T18:00:04-07:00
+
+Number of channels: 292
+
+Total viewers: 5578
+
+Total Viewers for top 25 streams:
+4964
+
+Viewer counts:
+[2274, 437, 263, 321, 207, 192, 178, 163, 109, 110, 102, 91, 82, 69, 52, 48, 47, 36, 32, 33, 28, 28, 23, 21, 18]
+
+---
+followgrubby:
+  viewers: 2274
+  status: Playing Sylvanas + Patched heroes!
+arkamn:
+  viewers: 437
+  status: 【RUS】 SYLVANAS MARATHON, 1st RANK, отвечаю на Ваши вопросы между играми.
+xelayirl:
+  viewers: 263
+  status: ! ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+heroes_hype:
+  viewers: 321
+  status: NA Amateur Series W6, Gillyweed + Mehsiah!
+valerothtv:
+  viewers: 207
+  status: ! 'Giveaways | First try at HOTS | 5k Hype! | @ValerothTV '
+youbetterknowme:
+  viewers: 192
+  status: WELL MET KnowMe playing Team League with Subs
+solidjakegg:
+  viewers: 178
+  status: Ep.56 Town Hall Heroes with @BlizzJohnzee & @LiquidShethSC2
+oganoss:
+  viewers: 163
+  status: ! 'Anoss - FR -  Interstellar Big Respect papy !!!  #COMMENT??'
+fragdolls:
+  viewers: 109
+  status: RANKED! Let me be your hero baby
+heroesone:
+  viewers: 110
+  status: ! '[FR] La Meta-Sylvananas avec Manta !'
+demosc:
+  viewers: 102
+  status: ! '[PT-BR] BrainStorm Ep. 22 - Esse patch está DeMolindo!'
+mymtumtum69:
+  viewers: 91
+  status: ! '¿Quién es la reina Alma en pena?   http://goo.gl/ahXK87 '
+djwheat:
+  viewers: 82
+  status: New Heroes of the Storm STUFFS!
+erhotv:
+  viewers: 69
+  status: coL.Erho; GO BIG OR GO HOME
+hots_mcmuffin:
+  viewers: 52
+  status: ! 'McMuffin: From Rank 50 to 1'
+basickz:
+  viewers: 48
+  status: Rank 1 Hero League duo with Sooner
+heroeswartv:
+  viewers: 47
+  status: ! '[ESP] Maratón de Sylvanas + Sorteo Betas EU & Na'
+therealhorsemaster:
+  viewers: 36
+  status: Sylvanas and Gazlowe play! Beta key giveaways!
+balmung135:
+  viewers: 32
+  status: Capture Card Stream ($5  donation=shot)
+grudge_gaming:
+  viewers: 33
+  status: Leveling Sylvanas !!!  Come hangout!!
+kiyeberries:
+  viewers: 28
+  status: ! '[1080p] L2''Sassin'
+theargietv:
+  viewers: 28
+  status: Aprendamos builds divertidas de Sylvanas ♥
+theaquagiants:
+  viewers: 23
+  status: ! '[Day 40] Heroes of the Storm with Viewers! BETA Key Giveaways?! The road
+    to 500 followers!  | 720p 60 FPS'
+sgdx:
+  viewers: 21
+  status: ! ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda > First Time Heroes
+    Of The Storm Xx'
+cebka_je:
+  viewers: 18
+  status: ! '[ASH] CEBKAJE - Rank 1 - RUS'
+-------------------------
+
