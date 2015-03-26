@@ -4,6 +4,7 @@ gem 'httparty'
 
 require 'httparty'
 require 'active_support/core_ext/enumerable'
+require 'active_support/time'
 require 'fileutils'
 
 url = 'https://api.twitch.tv/kraken/streams?game=Heroes%20of%20the%20Storm'
@@ -32,9 +33,11 @@ puts "summary: "
 puts summary.to_yaml
 puts "counts: " + counts.to_s
 
+current_time = DateTime.now.change(offset: '-0700') - 7.hours
+
 open('viewer_counts.txt', 'a') do |f|
   f.puts '-'*25
-  f.puts "Timestamp: " + DateTime.now.to_s
+  f.puts "Timestamp: " + current_time.to_s
   f.puts ""
   f.puts "Number of channels: " + summary["channels"].to_s
   f.puts ""
@@ -49,12 +52,10 @@ open('viewer_counts.txt', 'a') do |f|
   f.puts ""
 end
 
-current_time = DateTime.now.to_s
-
 FileUtils.cd('details') do
   open("details_#{current_time}.txt", 'a') do |f|
     f.puts '-'*25
-    f.puts "Timestamp: " + current_time
+    f.puts "Timestamp: " + current_time.to_s
     f.puts ""
     f.puts "Number of channels: " + summary["channels"].to_s
     f.puts ""
