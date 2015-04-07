@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-29T10:00:02-07:00
+
+Number of channels: 338
+
+Total viewers: 6965
+
+Total Viewers for top 25 streams:
+6222
+
+Viewer counts:
+[1710, 953, 472, 432, 431, 344, 269, 236, 173, 159, 134, 127, 107, 89, 83, 74, 70, 66, 64, 49, 45, 45, 41, 27, 22]
+
+---
+guardsmanbob:
+  viewers: 1710
+  status: Rank1! - Guardsman Bob!
+legendofgamer:
+  viewers: 953
+  status: Short Sunday Stream
+tavernofheroes:
+  viewers: 472
+  status: Team Yard @ Go4Heroes by HappyZerG
+zomgitshwoarang:
+  viewers: 432
+  status: '[GER] Go4Hots - SneakyBeakyLike'
+docgotgame:
+  viewers: 431
+  status: '[30k Follower Hype??] Sergeant Sunday with HoTS (keys thrown in chat!)-
+    PS2 and RoK! (GW2 and FFXIV Revisit Next Week!)'
+exi1ia:
+  viewers: 344
+  status: '[RU] Go4Heroes Europe Cup #17 @BlizzHeroes @BlizzHeroesRU #ExiliaTV #HOTS'
+heroesone:
+  viewers: 269
+  status: '[FR] Go4Heroes Europe Cup #17 avec Kelzo & Fouz'
+youbetterknowme:
+  viewers: 236
+  status: '[Ger/Eng] KnowMe casting Go4Heroes - later TeamLeague with Subs :)'
+heroeswartv:
+  viewers: 173
+  status: '[ESP] ESL G4Heroes (R32) Stigma VS Team Fancy'
+hosselote:
+  viewers: 159
+  status: '[ENG] ESL EU Go4Heroes #17 Team Acer vs Flauschig (Key Giveaways)'
+angellatv:
+  viewers: 134
+  status: '[EN/PL] JaRock drużyna - eliminacje. Dzień#2 Komentujemy z Rockiem :)'
+in4game:
+  viewers: 127
+  status: Розыгрыш Ключей и Лига Героев
+player2player:
+  viewers: 107
+  status: '[PT-BR] Heróis do Toró com o Caricaz! | Maratona P2P [ 10R$ | Novo SUB
+    = 1 HR ]'
+esl_moretv_heroes:
+  viewers: 89
+  status: '[GER] Go4Heroes Europe Cup #17'
+esl_heroes_pl:
+  viewers: 83
+  status: '[PL] Team Alternate vs myRisk e.V Go4Heroes Europe Cup #17'
+heroesofthestormhu:
+  viewers: 74
+  status: Heroes of the Storm Magyarország
+pinkwardgirls:
+  viewers: 70
+  status: '[FR] Heroes of the Storm avec Alcmene [www.pinkward.fr]'
+dragomangreektitans:
+  viewers: 66
+  status: 29/3/15 HOTS+ASSETTO CORSA+DAYZ
+basickz:
+  viewers: 64
+  status: 'Basickz | Rank 1 Legend '
+dotod:
+  viewers: 49
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Chill Sunday Streem :D NA Beta
+    Keys!
+gerdamherdtv:
+  viewers: 45
+  status: '[GER] WellMet Gerd MLG Plays'
+slita:
+  viewers: 45
+  status: 2ND Day HotS Sylvanas main~Slita~Full Time Streamer
+esl_heroes_czsk:
+  viewers: 41
+  status: 'ESL Go4Heroes #17 [CZ]'
+octo83:
+  viewers: 27
+  status: 'GER :: Helden- und Teamliga :: www.moreheroes.de'
+sleepless_tv:
+  viewers: 22
+  status: 
+-------------------------
+

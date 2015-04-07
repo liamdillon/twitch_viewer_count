@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-26T12:00:01-07:00
+
+Number of channels: 267
+
+Total viewers: 6393
+
+Total Viewers for top 25 streams:
+5828
+
+Viewer counts:
+[1142, 1044, 798, 502, 496, 246, 252, 228, 198, 125, 123, 117, 61, 59, 57, 53, 53, 52, 51, 41, 35, 31, 29, 18, 17]
+
+---
+gosuzuna:
+  viewers: 1142
+  status: C9 Zuna Rank 1 A little sick but gonna get some games in!
+khaldor:
+  viewers: 1044
+  status: TeamLiquid vs. Yard Team (HL/TL Matches)
+guardsmanbob:
+  viewers: 798
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 502
+  status: 【RUS】 KEY GIVEAWAY, 1st RANK, отвечаю на Ваши вопросы между играми.
+taketv_heroes:
+  viewers: 496
+  status: HEROES BATTLE MONTHLY FINAL POWERED BY SHARK ZONE
+heroesone:
+  viewers: 246
+  status: '[FR] Heroes of the Show avec Archa et Ikkrys'
+zomgitshwoarang:
+  viewers: 252
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+pamcakes:
+  viewers: 228
+  status: Pam ♥ // Tyrande? More like TyranDAYUM
+no1zyboy:
+  viewers: 198
+  status: Тру Нова
+ogseries:
+  viewers: 125
+  status: '[ESP] OGSeries PyPHeroes Cup #2'
+xelayirl:
+  viewers: 123
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+sibstlp:
+  viewers: 117
+  status: '[GER] Together-Stream http://kadgar.net/live/sibstlp/mitschl88'
+wolfeater_il:
+  viewers: 61
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+fureurwebtv:
+  viewers: 59
+  status: '[FR] Un peu de hos pour le fun :)'
+thekonus:
+  viewers: 57
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+in4game:
+  viewers: 53
+  status: Раздача Ключей и Лига Героев. Ранг 4 -> 1
+dragomangreektitans:
+  viewers: 53
+  status: 26/3/15 HOTS+ASSETTO CORSA+DAYZ+GIVEAWAY
+kinulii:
+  viewers: 52
+  status: Kinu Windrunner | Earthworms have 5 hearts.
+player2player:
+  viewers: 51
+  status: '[PT-BR] Caricaz no ~Hérois do Toró~ | Maratona P2P [ 10R$ | Novo SUB =
+    1 HR ]'
+heroeswartv:
+  viewers: 41
+  status: '[ESP] Ayane Stream | Sorteamos Betas EU!'
+dotod:
+  viewers: 35
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+ogrogamer:
+  viewers: 31
+  status: 'Ogro of The Storm +Sorteio  #Live 70/365 '
+angellatv:
+  viewers: 29
+  status: '[EN/PL] Przeprowadzka, JaRock- Drużynka i testowanie Sylvany.'
+ksk_smooverrella:
+  viewers: 18
+  status: Heroes of the Storm /w Smoo !!! ViewerZocken !!! Later Altis Life
+prinzpsycho:
+  viewers: 17
+  status: 'HOTS: lachen, schreien, ohne orientierung, falsche tasten druecken und
+    die schuld den anderen geben ;-)'
+-------------------------
+

@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-28T06:00:02-07:00
+
+Number of channels: 195
+
+Total viewers: 2135
+
+Total Viewers for top 25 streams:
+1877
+
+Viewer counts:
+[798, 233, 115, 113, 111, 54, 52, 49, 49, 33, 31, 29, 28, 28, 21, 24, 19, 16, 13, 12, 11, 11, 10, 9, 8]
+
+---
+semiproproject:
+  viewers: 798
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 47/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+ggmarche:
+  viewers: 233
+  status: ♠ NA | Marche ♠ Y'all know what it is. Who it is. And what it do.
+wolfeater_il:
+  viewers: 115
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+no1zyboy:
+  viewers: 113
+  status: Wild, sweet and cool (РУ СТРИМ)
+godspd:
+  viewers: 111
+  status: БраЗзеРс
+scored:
+  viewers: 54
+  status: '[GER/ENG] Ranked los los'
+tavernofheroes:
+  viewers: 52
+  status: ENTER THE STORM by HappyZerG
+heroeswartv:
+  viewers: 49
+  status: '[ESP] Partidas mañaneras con Hankokku'
+in4game:
+  viewers: 49
+  status: '[RU PRO NAVI] Лига Героев. Ранг 30 -> 1'
+sashkadestroyer:
+  viewers: 33
+  status: '[Ru/Eng] Sashka rank1, 4k mmr. ANY questions-welcome'
+nexaa:
+  viewers: 31
+  status: Hero League | sick no cam soz :(
+jacky5ds:
+  viewers: 29
+  status: WXS 準備好為女王而戰了嗎?
+iamkado:
+  viewers: 28
+  status: 'Enter the Storm CUP: Qualifier #3 as 10:00 [PT-BR]'
+pypgamers:
+  viewers: 28
+  status: '[ESP] partidas Normales y rankeds con @BulgangP'
+gosugamers:
+  viewers: 21
+  status: 'Enter the Storm by Alienware Cup #1 /w @FourCourtJester & @NickHOTS'
+witness1129:
+  viewers: 24
+  status: 【Chakey】Team Fantasy KR Server Rank1!!! 衝團隊積分!!
+bigmyself:
+  viewers: 19
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+stormcasters:
+  viewers: 16
+  status: '[FR] Marley Rank 1 # SoloQ ! :)'
+zsjh9100:
+  viewers: 13
+  status: ᴥ 姐姐玩英霸ᴥ  晚上都會轉圈 F5解決吧ˊˋ
+fdylan197:
+  viewers: 12
+  status: ZAGARA/ILLIDAN (UK STREAM)
+slita:
+  viewers: 11
+  status: Sylvanas ONLY Lets do this ;p~Slita~Full Time Streamer
+larena5:
+  viewers: 11
+  status: '[GER] heroes of the storm :D'
+qlesau:
+  viewers: 10
+  status: '[Ger] Heroes Heldenvorstellung ::: Viewergames ::: Anfängerhilfe'
+burnoutdv:
+  viewers: 9
+  status: Kangaroo and Heroes of the Storm
+phamas:
+  viewers: 8
+  status: '[FR] MatchMaking HOTS GiveAway BeatKey_QQ#'
+-------------------------
+

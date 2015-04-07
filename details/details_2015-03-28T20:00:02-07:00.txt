@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-28T20:00:02-07:00
+
+Number of channels: 257
+
+Total viewers: 6573
+
+Total Viewers for top 25 streams:
+6154
+
+Viewer counts:
+[4598, 363, 254, 210, 94, 83, 68, 49, 49, 39, 35, 36, 32, 31, 31, 28, 26, 22, 19, 17, 17, 14, 13, 13, 13]
+
+---
+esl_heroes:
+  viewers: 4598
+  status: ESL Playoffs Season 1 | Day 2
+chu8:
+  viewers: 363
+  status: '[NA] Rank 1 Murky Challenge'
+beholdertv:
+  viewers: 254
+  status: '[BR] Beholder Of Eternity HADOUKEN ༼つಠ益ಠ༽つ ─=≡ΣO))'
+xelayirl:
+  viewers: 210
+  status: ^^XelayIRL^^ rank1   21XGOLD hero^^ FEEL FREE ASK ANY HOTS QUESTION :)
+benacious:
+  viewers: 94
+  status: '[NA] Weekend Heroes Madness!'
+tirent000:
+  viewers: 83
+  status: ' HOLY CRAP!  {Deviation Gaming} with #1 in the US'
+fr4gshout:
+  viewers: 68
+  status: Push for 7k followers Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+eghtv:
+  viewers: 49
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+loryy1990:
+  viewers: 49
+  status: '<Lory>  24h Stream + Giveaway (start: 10am)'
+dotod:
+  viewers: 39
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Saturday Strumarino, Beta
+    Keys/Founders Pack Today!
+tigerlily___:
+  viewers: 35
+  status: Need to get my lvl up!!
+cluckey:
+  viewers: 36
+  status: Beta key NA/EU Giveaway / Rank 1 re-climb
+nasbotini:
+  viewers: 32
+  status: '[GER] Rank 1 - 1000+ Support Games - LvL 20 Uther'
+tolyawa:
+  viewers: 31
+  status: DOBROTA GAMING
+gimloo:
+  viewers: 31
+  status: SWE/ENG AUTO DJ PLZ STOP BY EITHER ON STREAM OR IN REAL LIFE YOU ARE WELCOME
+    :):) HYPE!!!!!!!!
+heroesone:
+  viewers: 28
+  status: '[FR] Rediffusions !'
+symnnn:
+  viewers: 26
+  status: '[GER/EN] Midnight Gaming! Wer is dabei? - 720p ᴴᴰ'
+heroespoint:
+  viewers: 22
+  status: '#HPComCup - Octavos de Final'
+itzkoed:
+  viewers: 19
+  status: Heroes Of the Sylvanas! Founders Giveaway at 250 followers!!
+killcrit:
+  viewers: 17
+  status: -- GIVEAWAY TODAY-- $20 Battle.net Cash Code - Heroes of the Storm
+greentea_1013:
+  viewers: 17
+  status: '[GreenTea] - 3/29  外交Time。'
+choco_peach:
+  viewers: 14
+  status: '[RU/ENG]  Доброй ночи всем! '
+stefaniecarnier:
+  viewers: 13
+  status: '[PT-BR/EN] - Heroes random'
+aliciawins:
+  viewers: 13
+  status: '[NA] Quick Match w/ Viewers! :)'
+mexyh:
+  viewers: 13
+  status: '[FR] Héroique Rang1 avec les amigos. Finalement on re stream >.< Crude
+    content. PM me pour une key. 4 left.'
+-------------------------
+

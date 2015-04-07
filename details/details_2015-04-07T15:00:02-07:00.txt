@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-04-07T15:00:02-07:00
+
+Number of channels: 270
+
+Total viewers: 5349
+
+Total Viewers for top 25 streams:
+4892
+
+Viewer counts:
+[2475, 781, 446, 172, 100, 93, 88, 78, 76, 66, 58, 49, 49, 48, 42, 42, 41, 40, 26, 25, 23, 20, 20, 18, 16]
+
+---
+followgrubby:
+  viewers: 2475
+  status: Grubby - Heroes of the Storm - Ranked & QM!
+arkamn:
+  viewers: 781
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+gosuzuna:
+  viewers: 446
+  status: 
+youbetterknowme:
+  viewers: 172
+  status: '[Ger/Eng] KnowMe playing TeamLeague with Subs :)'
+june_tv:
+  viewers: 100
+  status: Bitte nicht schubsen, ich hab einen Joghurt im Rucksack!  [GER/ENG]
+heroesone:
+  viewers: 93
+  status: '[FR] Fouz''Party avec Fouz (Normal quoi ...)'
+semiproproject:
+  viewers: 88
+  status: '[NA] R1  In Depth Commentary & Explanations | KilicK | Day 57/∞ ヽ〳 ՞ ᗜ
+    ՞ 〵ง'
+demosc:
+  viewers: 78
+  status: '[PT-BR] Deu vontade de cantar hoje - karaoke stream'
+burninggirl:
+  viewers: 76
+  status: '[RU/ENG] Gela - 1 rank rankeds.'
+solidjakegg:
+  viewers: 66
+  status: 'The Daily Quest #17 - Jaina Rundown'
+dotod:
+  viewers: 58
+  status: ' Rank 1 NA Gameplay ∩༼˵☯‿☯˵༽つ¤=[]:::::> Educational Stream! Come Learn
+    Heroes/Map Objectives/Builds :D'
+ulqi:
+  viewers: 49
+  status: Лига Героев
+vanguardstv:
+  viewers: 49
+  status: Vanguards - Ranked Solo Queue
+gg_anjii:
+  viewers: 48
+  status: 
+vawnievoulphie:
+  viewers: 42
+  status: |
+    龴◕ɷ◕龴 Fun with Friends
+xibe5238:
+  viewers: 42
+  status: '[Fr/Be] Rank 1 Solo - Team League'
+blackscorp1994:
+  viewers: 41
+  status: '[Esp] Blackscorp Rank 1 Team Liquid'
+gerdamherdtv:
+  viewers: 40
+  status: '[GER] WellMet Gerd !songrequest TROLOLOLOL'
+therealhorsemaster:
+  viewers: 26
+  status: Let's win some games!
+ufrog:
+  viewers: 25
+  status: '[FR/Farhah] Ranked et clés bétas a gagner !'
+cayennethefirst:
+  viewers: 23
+  status: BR-  Pub do Cayenne
+pixelle_:
+  viewers: 20
+  status: '[FR/CH] Giveaway Key ! Duo avec Lightmourne. Road to 1200 follow'
+smaczne:
+  viewers: 20
+  status: Grindujemy hero (Rank 26)  • Rozdajemy klucz co meczyk  • !songrequest znowu
+    działa! [MMORPG.org.pl]
+dehva:
+  viewers: 18
+  status: Ah ben non ce sera HOTS
+cavedavetv:
+  viewers: 16
+  status: Community Games
+-------------------------
+

@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-29T03:00:02-07:00
+
+Number of channels: 165
+
+Total viewers: 3046
+
+Total Viewers for top 25 streams:
+2823
+
+Viewer counts:
+[1369, 398, 165, 155, 159, 100, 77, 70, 56, 45, 40, 30, 25, 15, 14, 13, 13, 11, 11, 9, 10, 10, 10, 9, 9]
+
+---
+chu8:
+  viewers: 1369
+  status: '[NA] Rank 1 Murky Challenge'
+trikslyr:
+  viewers: 398
+  status: Rank 1 Hero League. Builds at the bottom of the page now.
+tayzondaygames:
+  viewers: 165
+  status: Tay Zonday Plays Heroes Of the Storm
+heroesone:
+  viewers: 155
+  status: '[FR] Debout le nexus avec Exo'
+ihosty:
+  viewers: 159
+  status: Hosty -Rank 1 NA HOTS  - | Sylvanas HYPE |  |  9/9 Golden Classes | 23x
+    Legend |  Blackrock hype soon Kreygasm
+fenixchaos:
+  viewers: 100
+  status: Fenixchaos Hero League [EN] [FR]
+johanjazz:
+  viewers: 77
+  status: '[1 rank] ヽ(・∀・)ﾉ  О боже,это же ЙоханДжаз!'
+vieparlafoi:
+  viewers: 70
+  status: www.vieparlafoi.com now live! Heroes with VIE Learning the Ropes
+tolyawa:
+  viewers: 56
+  status: DOBROTA GAMING
+foerest:
+  viewers: 45
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+enotzhe:
+  viewers: 40
+  status: ТОП 1 КЕК ЕУ СЕРВЕР. ПЧЕЛОВОДСТВО ОНЛАЙН!
+heroeswartv:
+  viewers: 30
+  status: '[ESP] Partidas mañaneras con Hankokku'
+jacky5ds:
+  viewers: 25
+  status: WXS 準備好為女王而戰了嗎?
+inza1337:
+  viewers: 15
+  status: '[Ger/Eng] League / Viewer games / chilling ^.^ join and relax :)'
+monstergmer:
+  viewers: 14
+  status: '[ES] RANKED DESVELADO @TwitchESP @StreamsEspanol'
+sp5430:
+  viewers: 13
+  status: 【鱔魚】感冒要好了沒?? 我想講話啦!! (喉嚨還是很痛)
+ogamingtv:
+  viewers: 13
+  status: '[FR] REDIFFUSIONS de la semaine'
+play4miriam:
+  viewers: 11
+  status: '[Ger] Mitspieler gesucht!'
+eghtv:
+  viewers: 11
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+stormcasters:
+  viewers: 9
+  status: '[FR] Marley Rank 1 # DuoQ / BetaKey à donner !'
+catberry:
+  viewers: 10
+  status: '[GER] Gemütlich in den Sonntag - Guten Morgen :3 - Hab nochmal 4 Keys zum
+    verlosen'
+fatpicklesmith:
+  viewers: 10
+  status: '[PL/ENG] Klucz co 10 widzów. Tak tak lecimy po fejm!'
+lostragh:
+  viewers: 10
+  status: '[FR]  Giveaway CLEF BETA EU Heroes à gagner après cette game  - Ranked
+    avec Lostragh&Paulo'
+hungoverducks:
+  viewers: 9
+  status: 'Heroes of the Storm (free keys) (PC) #hots #heroesofthestorm'
+stefaniecarnier:
+  viewers: 9
+  status: '[PT-BR/EN] - Heroes random'
+-------------------------
+

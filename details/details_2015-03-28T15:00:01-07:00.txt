@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-28T15:00:01-07:00
+
+Number of channels: 398
+
+Total viewers: 7260
+
+Total Viewers for top 25 streams:
+6463
+
+Viewer counts:
+[3475, 829, 671, 222, 206, 112, 103, 98, 83, 82, 81, 56, 52, 46, 45, 44, 42, 32, 30, 30, 29, 25, 23, 24, 23]
+
+---
+esl_heroes:
+  viewers: 3475
+  status: ESL Playoffs Season 1 | Day 2
+guardsmanbob:
+  viewers: 829
+  status: Rank1! - Guardsman Bob!
+followgrubby:
+  viewers: 671
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+happyzerg:
+  viewers: 222
+  status: Ранг 1 с комментами!
+heroesone:
+  viewers: 206
+  status: '[FR] Soirée MD Liège avec Heroes Gaming'
+ogamingtv:
+  viewers: 112
+  status: '[FR] O''Gaming GodLikeShow dans " Troll Tales" - HOTS Games Viewers'
+djwheat:
+  viewers: 103
+  status: Heroes of the Storm (NO MUSIC - Listening to http://twitch.tv/ultra)
+burninggirl:
+  viewers: 98
+  status: '[RU/ENG] Yard.Gela - Team league. '
+cebka_je:
+  viewers: 83
+  status: '[ASH] CEBKAJE  -  Разыгрываю ключи после стрима.'
+sonderx:
+  viewers: 82
+  status: fE + 1 VS Mata Co Primer Torneo HISO
+xelayirl:
+  viewers: 81
+  status: g2a.com^^XelayIRL^^ rank1   20XGOLD hero^^ FEEL FREE ASK ANY HOTS QUESTION
+    :)
+vgzilix:
+  viewers: 56
+  status: 'Sylvanas Hype! #GetFitGamers'
+heroeswartv:
+  viewers: 52
+  status: '[ESP] Bailando con Gromir por la noche!!!'
+nekomuraa:
+  viewers: 46
+  status: '5 HOTS KEY GIVEAWAY / after HOTS ill be doing karaoke '
+gerdamherdtv:
+  viewers: 45
+  status: '[GER] WellMet Gerd MLG Plays'
+in4game:
+  viewers: 44
+  status: Розыгрыш Ключей и Лига Героев
+necr1te:
+  viewers: 42
+  status: '[GER] Heroes of the Storm - Ranked Games !!!'
+dotod:
+  viewers: 32
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Saturday Strumarino, Beta
+    Keys/Founders Pack Today!
+octo83:
+  viewers: 30
+  status: 'GER :: Helden- und Teamliga :: www.moreheroes.de'
+sgdx:
+  viewers: 30
+  status: ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda > lvling and stuff.'
+g3design:
+  viewers: 29
+  status: Gagne ton jeu Heroes of the Storm !
+keko1102:
+  viewers: 25
+  status: '[GER] 8 Beta Key''s EU Verlosung!  !Verlosung für infos'
+itsfatalstrike:
+  viewers: 23
+  status: Learning ~~ noob alert
+wwwgameovergr:
+  viewers: 24
+  status: Gameover plays Heroes Of The Storm
+moonboonsworld:
+  viewers: 23
+  status: HotS! Nova 10+ Action! Mit Moonboon und IpuFuchs!
+-------------------------
+

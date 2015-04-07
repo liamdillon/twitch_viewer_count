@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-26T04:00:01-07:00
+
+Number of channels: 146
+
+Total viewers: 3537
+
+Total Viewers for top 25 streams:
+3298
+
+Viewer counts:
+[1373, 432, 355, 188, 106, 103, 98, 91, 87, 73, 63, 43, 43, 37, 33, 32, 25, 23, 19, 19, 13, 12, 10, 11, 9]
+
+---
+chu8:
+  viewers: 1373
+  status: '[NA] I own Murky'
+liquidneo:
+  viewers: 432
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+khaldor:
+  viewers: 355
+  status: '[GER] New Patch & Stuff ;)'
+godspd:
+  viewers: 188
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+heroesone:
+  viewers: 106
+  status: '[FR] SiC and Destroy avec SiC'
+nuroklol:
+  viewers: 103
+  status: '[GER/ENG] Dignitas Nurok - playing Heroleague / Going through the Patch
+    // http://tinyurl.com/HeroesCup //'
+ulqi:
+  viewers: 98
+  status: Лига Героев Дорога к 50 рангу
+leofromkorea:
+  viewers: 91
+  status: '[ENG/PL] GAMERS2 Leofromkorea Support Rank1'
+fcgm001:
+  viewers: 87
+  status: 【TW】Angel 吃飯玩  12組序號發送
+tinsi_:
+  viewers: 73
+  status: 'Team League ! #MistkäferDöden'
+semiproproject:
+  viewers: 63
+  status: '[NA] Rank 1 | Team League| In Depth Commentary & Explanations | 1 KilicK
+    | Day 45/∞  ヽ〳 ՞ ᗜ ՞ 〵ง'
+heroeswartv:
+  viewers: 43
+  status: '[ESP] Partidas mañaneras con Hankokku'
+gerdamherdtv:
+  viewers: 43
+  status: '[GER] MADmaking with Khaldor, Cris und Tinsi / Give KEY '
+sleepless_tv:
+  viewers: 37
+  status: '[RU] RANK#1! СИЛЬВАНА! Часть вторая - Ранкед!'
+still_sleepy:
+  viewers: 33
+  status: SleepAllday DAY11 女王終於出啦!!
+tolyawa:
+  viewers: 32
+  status: Vikings vs Герои по вашим заявкам
+pypgamers:
+  viewers: 25
+  status: '[ESP] Ranked y partidas normales con @bulgangP'
+gvbtb:
+  viewers: 23
+  status: Learn HoTS! Drinks, Chat, Blizzcon, Request Hero's! Smash Later? MK8 LATER!?
+jacky5ds:
+  viewers: 19
+  status: WXS 準備好為女王而戰了嗎?
+img_hots:
+  viewers: 19
+  status: '[FR] Rank 1 joue et commente en live puis quelques games avec les viewers'
+nexaa:
+  viewers: 13
+  status: QM and Hero League
+bigmyself:
+  viewers: 12
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+oscarss07:
+  viewers: 10
+  status: 叉滴、被女王希瓦娜斯踏的主播
+mcslive:
+  viewers: 11
+  status: 'MCS Live: HOTS'
+badboyskitv:
+  viewers: 9
+  status: '[PL] Gramy z widzami! Poranne Granie!'
+-------------------------
+

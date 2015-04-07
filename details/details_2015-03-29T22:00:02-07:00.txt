@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-29T22:00:02-07:00
+
+Number of channels: 197
+
+Total viewers: 2446
+
+Total Viewers for top 25 streams:
+2113
+
+Viewer counts:
+[1028, 355, 234, 55, 53, 44, 35, 27, 25, 25, 23, 23, 21, 18, 17, 17, 16, 15, 14, 13, 12, 11, 11, 11, 10]
+
+---
+chu8:
+  viewers: 1028
+  status: '[NA] Rank 1 Kimchi Stream'
+trikslyr:
+  viewers: 355
+  status: Playing requested Heroes
+ryuzilla:
+  viewers: 234
+  status: 5 Stack Ranked
+mikefrompgh:
+  viewers: 55
+  status: <NA> MURKY AND EXTRA BETA KEYS!!!
+yourchinafan:
+  viewers: 53
+  status: Штормовые герои!
+heroesone:
+  viewers: 44
+  status: '[FR] La Meta-lique avec Manta !'
+brisasuavef:
+  viewers: 35
+  status: Upando nessa bagaça XP [PT/BR]
+rosath:
+  viewers: 27
+  status: '[Day 15] *insert catchy sentence to get attention here*'
+fourcourtjester:
+  viewers: 25
+  status: The Beginning of the Best - Creating the new UI
+lilbumblebear:
+  viewers: 25
+  status: 'Heros of the storm with Kristen '
+heidvalder:
+  viewers: 23
+  status: Дотер катает в ХОТС
+eghtv:
+  viewers: 23
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+ksk_smooverrella:
+  viewers: 21
+  status: HotS /w Smoo !!! Thrall - HYPE
+jschritte:
+  viewers: 18
+  status: Domingão do Monstrão
+miss_seraphcor:
+  viewers: 17
+  status: '[GER] // Chillen und kucken was ansteht  ♥'
+cj1772101:
+  viewers: 17
+  status: 'Fantasy紅霞 [rank1] : 沉默deBuff ~ 9999s'
+mcintyrelol:
+  viewers: 16
+  status: 'coL_McIntyre Solo EU[MLG Titan 2 Winner]- AMA '
+blitzlike1:
+  viewers: 15
+  status: '[Ger] !songrequest !Coins HOTS Ranked '
+unreliableteammate:
+  viewers: 14
+  status: Heroes of the Stream Kappa // NEW OVERLAY!
+sonderx:
+  viewers: 13
+  status: FINAL Regular people VS Hell Simphony Primer Torneo HISO
+defebwar:
+  viewers: 12
+  status: '[NA] Beta Key Giveaways!! Rumble In The Nexus [Heroes Of The Storm (NA)]'
+spazbotstudios:
+  viewers: 11
+  status: 'Stormcast Ep 36: A Heroes of the Storm Podcast @ 9pm PST!'
+lostragh:
+  viewers: 11
+  status: '[FR] 4 CLEF BETA EU Heroes à gagner  - Ranked avec Lostragh&Paulo'
+gimloo:
+  viewers: 11
+  status: SWE/ENG AUTO DJ PLZ STOP BY EITHER ON STREAM OR IN REAL LIFE YOU ARE WELCOME
+    :):) HYPE!!!!!!!
+vio7_2:
+  viewers: 10
+  status: RANK 1 NORTH KOREA!  GIVEAWAY AT 850 FOLLOWERS (current 765)
+-------------------------
+

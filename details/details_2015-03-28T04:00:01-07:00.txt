@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-28T04:00:01-07:00
+
+Number of channels: 155
+
+Total viewers: 2191
+
+Total Viewers for top 25 streams:
+1837
+
+Viewer counts:
+[609, 180, 136, 120, 97, 96, 76, 67, 46, 44, 36, 35, 34, 33, 31, 27, 24, 23, 21, 20, 20, 17, 16, 15, 14]
+
+---
+semiproproject:
+  viewers: 609
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 47/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+ggmarche:
+  viewers: 180
+  status: ♠ NA | Marche ♠ Y'all know what it is. Who it is. And what it do.
+godspd:
+  viewers: 136
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+wolfeater_il:
+  viewers: 120
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+onlinegamertwitch:
+  viewers: 97
+  status: Игромания Rezan
+no1zyboy:
+  viewers: 96
+  status: Wild, sweet and cool
+gerdamherdtv:
+  viewers: 76
+  status: '[GER] WellMet Gerd & Cris Morgenhype'
+tirent000:
+  viewers: 67
+  status: Watch me I am really bad  HOTS Tirent000 {Deviation Gaming}
+angellatv:
+  viewers: 46
+  status: '[EN/PL] Kłótnia 1-0 dla mnie ;)'
+ulqi:
+  viewers: 44
+  status: Качаем US аккаунт! Раздаем Ключи!
+yourchinafan:
+  viewers: 36
+  status: Some quick/rankeds
+heroeswartv:
+  viewers: 35
+  status: '[ESP] Partidas mañaneras con Hankokku'
+lostragh:
+  viewers: 34
+  status: '[FR]  7 CLEF BETA EU Heroes à gagner à 12h - Game viewer avec Lostragh&Paulo'
+in4game:
+  viewers: 33
+  status: '[RU PRO NAVI] Лига Героев. Ранг 30 -> 1'
+nexaa:
+  viewers: 31
+  status: Beta Key Giveaway | Hero League | sick no cam soz :(
+nickkcouvv:
+  viewers: 27
+  status: '24 Hour Stream| DayZ GiveAway | 1 Year celebration | '
+gga893879:
+  viewers: 24
+  status: GoDDog  rank1  快速中    晚點爬RANK
+still_sleepy:
+  viewers: 23
+  status: SleepAllday DAY13 輸整天甚麼的 我才不怕呢
+wolfkrispies:
+  viewers: 21
+  status: Raynor shine
+trindashe:
+  viewers: 20
+  status: '[GER] #GIVEAWAY 5x Betaschlüssel um 12:30 Uhr #Rank1 #Community-Games #Schattenwölfe
+    sucht neue Member'
+sashkadestroyer:
+  viewers: 20
+  status: '[Ru/Eng] Sashka rank1, 4k mmr. ANY questions-welcome'
+pypgamers:
+  viewers: 17
+  status: '[ESP] partidas Normales y rankeds con @BulgangP'
+lastwolfplay:
+  viewers: 16
+  status: '[27/03] Heroes day ftw & xp !'
+jacky5ds:
+  viewers: 15
+  status: WXS 準備好為女王而戰了嗎?
+raven_04:
+  viewers: 14
+  status: Panda ppl are the best :)
+-------------------------
+

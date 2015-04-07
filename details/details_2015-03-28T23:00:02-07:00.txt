@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-28T23:00:02-07:00
+
+Number of channels: 210
+
+Total viewers: 7478
+
+Total Viewers for top 25 streams:
+7224
+
+Viewer counts:
+[5635, 660, 214, 157, 103, 103, 71, 39, 33, 31, 22, 20, 18, 14, 13, 13, 11, 10, 9, 9, 8, 8, 8, 8, 7]
+
+---
+esl_heroes:
+  viewers: 5635
+  status: ESL Playoffs Season 1 | Day 2
+chu8:
+  viewers: 660
+  status: '[NA] Rank 1 Murky Challenge'
+xelayirl:
+  viewers: 214
+  status: ^^RANK 1^^ XELAY^^  21GOLD hero^^ FEEL FREE ASK ANY HOTS QUESTION :)
+trikslyr:
+  viewers: 157
+  status: Rank 1 Hero League. Builds at the bottom of the page now.
+fenixchaos:
+  viewers: 103
+  status: Sylvanas to 20! (Currently lvl 11) [EN] [FR]
+mrboombati:
+  viewers: 103
+  status: Late night cast [Heroes of the Storm]
+tolyawa:
+  viewers: 71
+  status: DOBROTA GAMING
+loryy1990:
+  viewers: 39
+  status: '<Lory>  24h Stream + Giveaway (start: 10am)'
+temp0_sc:
+  viewers: 33
+  status: Temp0 - Homies of the Stuurm!
+eghtv:
+  viewers: 31
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+greentea_1013:
+  viewers: 22
+  status: '[GreenTea] - 3/29  '
+johanjazz:
+  viewers: 20
+  status: '[1 rank] ヽ(・∀・)ﾉ  О боже,это же ЙоханДжаз!'
+balthazarvon:
+  viewers: 18
+  status: ¡Jugando con los amiguitos! (se sortea beta a los 30 viewers)
+insanidade_temporaria:
+  viewers: 14
+  status: '[PT-BR] Herois da Madrugada'
+heroesone:
+  viewers: 13
+  status: '[FR] Rediffusions !'
+mexyh:
+  viewers: 13
+  status: '[FR] Héroique Rang1 avec les amigos. Finalement on re stream >.< Crude
+    content. Follow + PM me pour une key. 1 left.'
+stefaniecarnier:
+  viewers: 11
+  status: '[PT-BR/EN] - Heroes random'
+anothernotch:
+  viewers: 10
+  status: 
+alebuda1:
+  viewers: 9
+  status: 老貓【贈送序號一組】
+terranjustice:
+  viewers: 9
+  status: SATURDAY HEROES TIME
+dercius23:
+  viewers: 8
+  status: Hero League
+rabbit0821:
+  viewers: 8
+  status: '雪兔的下午實況ლ(╹◡╹ლ)3/29『暴雪英霸 Heroes of the Storm』打掃完後就是要怒玩一波!! '
+alenkuochu:
+  viewers: 8
+  status: '[水月白] - 正在玩暴雪英霸'
+inza1337:
+  viewers: 8
+  status: '[Ger/Eng] League / Viewer games / chilling ^.^ join and relax :)'
+bigmyself:
+  viewers: 7
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+-------------------------
+

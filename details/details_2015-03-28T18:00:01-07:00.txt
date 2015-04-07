@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-28T18:00:01-07:00
+
+Number of channels: 296
+
+Total viewers: 7482
+
+Total Viewers for top 25 streams:
+6881
+
+Viewer counts:
+[4206, 1144, 371, 208, 156, 115, 93, 73, 73, 70, 60, 35, 31, 29, 28, 27, 23, 22, 20, 20, 19, 16, 14, 15, 13]
+
+---
+esl_heroes:
+  viewers: 4206
+  status: ESL Playoffs Season 1 | Day 2
+followgrubby:
+  viewers: 1144
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+groeit:
+  viewers: 371
+  status: Heroes, then D3
+xelayirl:
+  viewers: 208
+  status: eu key giveaway :) at 15 daily follower^^XelayIRL^^ rank1   20XGOLD hero^^
+    FEEL FREE ASK ANY HOTS QUESTION :)
+gerdamherdtv:
+  viewers: 156
+  status: '[GER] WellMet Gerd MLG Plays'
+djwheat:
+  viewers: 115
+  status: Heroes of the Storm (NO MUSIC - Listening to http://twitch.tv/ultra)
+cebka_je:
+  viewers: 93
+  status: '[ASH] CEBKAJE  -  Отвечаю на вопросы. '
+missconfidence:
+  viewers: 73
+  status: '[BR] miss ♥~ Heroes of the Storm + Key Giveaway! ♥ >> !heroes (Song Request
+    ON)'
+fr4gshout:
+  viewers: 73
+  status: Push for 7k followers Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+sonderx:
+  viewers: 70
+  status: FINAL Regular people VS Hell Simphony Primer Torneo HISO
+basickz:
+  viewers: 60
+  status: Basickz | Rank 1 Legend | Marathon at goal!
+heroesone:
+  viewers: 35
+  status: '[FR] Rediffusions !'
+jowetv:
+  viewers: 31
+  status: 【EU R.1】 Gamers2 Jowe - hero league [EN/PL]
+elvinemod:
+  viewers: 29
+  status: Heroes League Grind - WoW Gold Making - 18,037,545g Earned - Elvinelol.com
+sgdx:
+  viewers: 28
+  status: ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda > lvling and stuff.'
+katukaz:
+  viewers: 27
+  status: HEROES OF THE STORM (^ ◕ᴥ◕ ^) Playing with Viewers (^ ◕ᴥ◕ ^)
+realgaba:
+  viewers: 23
+  status: Heroes of the Storm mit Giveaway (HoTs Keys und Secret Giveaway)
+choco_peach:
+  viewers: 22
+  status: '[RU/ENG]  Розыгрыш ключей! '
+ogamingtv:
+  viewers: 20
+  status: '[FR] REDIFFUSIONS de la semaine'
+nony:
+  viewers: 20
+  status: Top MMR hero league
+ohaiatranq:
+  viewers: 19
+  status: '[GER]  mal testen...'
+cherryschnaps:
+  viewers: 16
+  status: 720p [GER/EN] Immer feste drauf da! xD
+mithophir:
+  viewers: 14
+  status: '[PT-BR] Mithophir HotS - Masterizando Sylvanas!'
+phobersus:
+  viewers: 15
+  status: '[TR] [BPI] Patch Yayını + Sürprizler'
+itzkoed:
+  viewers: 13
+  status: Heroes Of the Sylvanas! Founders Giveaway at 250 followers!!
+-------------------------
+

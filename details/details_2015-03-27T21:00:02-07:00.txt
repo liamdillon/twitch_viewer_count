@@ -1,0 +1,96 @@
+-------------------------
+Timestamp: 2015-03-27T21:00:02-07:00
+
+Number of channels: 249
+
+Total viewers: 5185
+
+Total Viewers for top 25 streams:
+4871
+
+Viewer counts:
+[2909, 485, 419, 246, 120, 95, 94, 70, 60, 42, 38, 37, 35, 30, 27, 21, 20, 20, 19, 17, 16, 14, 13, 13, 11]
+
+---
+esl_heroes:
+  viewers: 2909
+  status: ESL Playoffs Season 1 | Day 1
+chu8:
+  viewers: 485
+  status: '[NA] Rank 1 Fun Games'
+gafallen:
+  viewers: 419
+  status: 
+xelayirl:
+  viewers: 246
+  status: XelayIRL 4x beta key giveaway :)  rank1   19XLVL10 FEEL FREE ASK ANY HOTS
+    QUESTION :)
+ag_bean3r:
+  viewers: 120
+  status: 'Regalamos Betas para el Heroes Of the storm #HeroesFriday'
+cluckey:
+  viewers: 95
+  status: Beta key NA/EU Giveaway / Rank 1 re-climb
+mymtumtum69:
+  viewers: 94
+  status: '¿Cuál de estos héroes es un Paladín en el mundo de Warcraft?  Diablo, Nova,
+    Tassadar, Malfurion, Uther.  http://goo.gl/ilP8cB  '
+trikslyr:
+  viewers: 70
+  status: Minesweeper Pro spends time playing Heroes
+fr4gshout:
+  viewers: 60
+  status: 24 hours Up all Night!! Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+kiyeberries:
+  viewers: 42
+  status: '[1080p] Healy Dealy Feely'
+cherrigan:
+  viewers: 38
+  status: 
+heroesone:
+  viewers: 37
+  status: '[FR] La Meta-YMCA avec Manta !'
+annaprosser:
+  viewers: 35
+  status: Do Dinosaurs Like Strawberries? - Playing with KiyeBerries and Friends!
+familiagameplay:
+  viewers: 30
+  status: '#HeroesFriday'
+rushlock:
+  viewers: 27
+  status: Questions Welcome | Bad Decisions | Pre-Game Fri Night Raid [607]
+goozin:
+  viewers: 21
+  status: MEOW MEOW MEOW  HOTS BETA KEYS!! Giveaway 300 Followers!
+heroespoint:
+  viewers: 20
+  status: '#HeroesFriday + Sorteo de Llaves'
+ksk_smooverrella:
+  viewers: 20
+  status: 'Altis Life / Wasteland with Smoo! #EZY'
+sidekool:
+  viewers: 19
+  status: SORTEIO DE 50 KEYS - MELHOR JOGADOR DE HOTS DO SUL DO ACRE! (Sorteio a cada
+    partida!)
+gga893879:
+  viewers: 17
+  status: GoDDog  rank1  快速對戰中  晚點會RANK
+gimloo:
+  viewers: 16
+  status: SWE/ENG AUTO DJ http://www.inet.se/produkt/2204966/asus-24-vg248qe-144hz
+    700 FOLLOWERS FAN MEETUP IN PLANNING DATE TIME? HYPE!!!!!!!!!!!!!!!
+dosenbrotwtf:
+  viewers: 14
+  status: '| [13/30hr Stream] Heute wird richtig paniert ! Kreygasm || GER / ENG ||
+    Heyho, here we go ! Kappa'
+monstergmer:
+  viewers: 13
+  status: '[ES] #HEROESFRIDAY / RANKED Y BETAS @TwitchESP @StreamsEspanol'
+spoon04:
+  viewers: 13
+  status: Hero league with SpooN04 ☚(ﾟヮﾟ☚)
+iamyuwan:
+  viewers: 11
+  status: 魚丸台(Yuwan)：哈哈哈 這是什麼爆肝台www
+-------------------------
+

@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-26T11:00:01-07:00
+
+Number of channels: 256
+
+Total viewers: 5526
+
+Total Viewers for top 25 streams:
+4931
+
+Viewer counts:
+[983, 755, 500, 489, 446, 338, 266, 247, 187, 103, 95, 68, 59, 50, 47, 45, 44, 43, 30, 25, 24, 24, 21, 21, 21]
+
+---
+liquidneo:
+  viewers: 983
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+guardsmanbob:
+  viewers: 755
+  status: Rank1! - Guardsman Bob!
+khaldor:
+  viewers: 500
+  status: TOP Patch TL/HL Matches
+arkamn:
+  viewers: 489
+  status: 【RUS】 KEY GIVEAWAY, 1st RANK, отвечаю на Ваши вопросы между играми.
+taketv_heroes:
+  viewers: 446
+  status: HEROES BATTLE MONTHLY FINAL POWERED BY SHARK ZONE
+gosuzuna:
+  viewers: 338
+  status: C9 Zuna Rank 1 A little sick but gonna get some games in!
+pamcakes:
+  viewers: 266
+  status: Pam ♥ // Tyrande? More like TyranDAYUM
+zomgitshwoarang:
+  viewers: 247
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+no1zyboy:
+  viewers: 187
+  status: Тру Нова
+xelayirl:
+  viewers: 103
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+gohots:
+  viewers: 95
+  status: '[RU] 2KXAOC в ХотСе и Варике!'
+in4game:
+  viewers: 68
+  status: Раздача Ключей и Лига Героев. Ранг 4 -> 1
+wolfeater_il:
+  viewers: 59
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+player2player:
+  viewers: 50
+  status: '[PT-BR] Caricaz no ~Hérois do Toró~ | Maratona P2P [ 10R$ | Novo SUB =
+    1 HR ]'
+dotod:
+  viewers: 47
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+dragomangreektitans:
+  viewers: 45
+  status: 26/3/15 HOTS+ASSETTO CORSA+DAYZ+GIVEAWAY
+thekonus:
+  viewers: 44
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+heroeswartv:
+  viewers: 43
+  status: '[ESP] Gromir Stream | Sorteamos Betas EU!'
+gonkixjeh:
+  viewers: 30
+  status: '[CZ/SK] Gonki - Syčáci připraveni!'
+angellatv:
+  viewers: 25
+  status: '[EN/PL] Przeprowadzka, JaRock- Drużynka i testowanie Sylvany.'
+lerdovik:
+  viewers: 24
+  status: '[CZ] HOTS  S fans   [1080P 60 fps Ultra resolutions] '
+m989876525:
+  viewers: 24
+  status: 'Eason - leave the team HKA '
+sibstlp:
+  viewers: 21
+  status: '[GER] Together-Stream http://kadgar.net/live/sibstlp/mitschl88'
+sashkadestroyer:
+  viewers: 21
+  status: '[Ru/Eng] Sashka rank1, 4k mmr. ANY questions-welcome'
+nexaa:
+  viewers: 21
+  status: Rank 16 Hero League
+-------------------------
+

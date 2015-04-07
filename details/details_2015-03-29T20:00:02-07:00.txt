@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-29T20:00:02-07:00
+
+Number of channels: 197
+
+Total viewers: 1718
+
+Total Viewers for top 25 streams:
+1450
+
+Viewer counts:
+[504, 209, 178, 115, 67, 33, 31, 27, 28, 30, 27, 22, 18, 17, 19, 15, 14, 12, 14, 12, 15, 11, 12, 10, 10]
+
+---
+trikslyr:
+  viewers: 504
+  status: Playing requested Heroes
+dotod:
+  viewers: 209
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Chill Sunday Streem :D NA Beta
+    Keys!
+ryuzilla:
+  viewers: 178
+  status: 5 Stack Ranked
+glaurungtv:
+  viewers: 115
+  status: '| Tempo Storm Glaurung! | Rank 1 | Working on mechanics | '
+vawnievoulphie:
+  viewers: 67
+  status: 龴◕ɷ◕龴 QUESTING
+heroesone:
+  viewers: 33
+  status: '[FR] La Meta-lique avec Manta !'
+aliciawins:
+  viewers: 31
+  status: Duo Q w/ KiWiKaKi / Beta Key Giveaway! (NA)
+foerest:
+  viewers: 27
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+brisasuavef:
+  viewers: 28
+  status: Upando nessa bagaça XP [PT/BR]
+mikefrompgh:
+  viewers: 30
+  status: <NA> MURKY AND EXTRA BETA KEYS!!!
+eghtv:
+  viewers: 27
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+xibe5238:
+  viewers: 22
+  status: '[Fr/Be] Xibe - Rank 1 solo - Ligue par équipe'
+rosath:
+  viewers: 18
+  status: '[Day 15] *insert catchy sentence to get attention here*'
+cj1772101:
+  viewers: 17
+  status: 'Fantasy紅霞 [rank1] : 沉默deBuff ~ 9999s'
+jessicaclareee:
+  viewers: 19
+  status: what a noob-  5 MORE DAYS TILL BIRTHDAY STREAM <3
+jschritte:
+  viewers: 15
+  status: Domingão do Monstrão
+pantocha:
+  viewers: 14
+  status: '[CZ/SK] Heroes of the Storm'
+botlikex:
+  viewers: 12
+  status: '[GER|720p|PC] #VIEWERGAMES #MIDNIGHTSTREAM #LESKET - DREAM-STREAM.EU'
+mexyh:
+  viewers: 14
+  status: '[FR] Petit Hots R1 avec les viewers. 500 followers \o/'
+miss_seraphcor:
+  viewers: 12
+  status: '[GER] // Chillen und kucken was ansteht  ♥'
+fr4gshout:
+  viewers: 15
+  status: Push for 7k followers Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+n1ce0n3:
+  viewers: 11
+  status: Diamond1 LoL player doing HoTS
+bhoosted:
+  viewers: 12
+  status: Follow Goals!!! Beta Keys!!!!
+lancenyethegamerguy:
+  viewers: 10
+  status: Newbie at Heroes! Giveaway at 1,500 followers!
+iholdshift:
+  viewers: 10
+  status: KEY GIVEAWAY NEXT 15 FOLLOWERS! HERO LEAGUE ALL NIGHT!
+-------------------------
+

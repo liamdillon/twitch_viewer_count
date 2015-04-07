@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-30T20:00:02-07:00
+
+Number of channels: 262
+
+Total viewers: 3316
+
+Total Viewers for top 25 streams:
+2915
+
+Viewer counts:
+[687, 518, 306, 234, 174, 133, 125, 104, 77, 67, 62, 62, 57, 56, 37, 33, 30, 30, 24, 22, 18, 16, 15, 15, 13]
+
+---
+gosuzuna:
+  viewers: 687
+  status: C9 Zuna Playing Not sick anymore time for some commentary later? :D
+chu8:
+  viewers: 518
+  status: '[NA] Rank 1 Kimchi Stream'
+groeit:
+  viewers: 306
+  status: Heroes, then D3
+valerothtv:
+  viewers: 234
+  status: 'Pro Plays | 5k Hype! | @ValerothTV '
+kiyeberries:
+  viewers: 174
+  status: '[1080p] We''re back?'
+xelayirl:
+  viewers: 133
+  status: ^^RANK 1^^ XELAY^^  21GOLD hero^^ FEEL FREE ASK ANY HOTS QUESTION :)
+hots_mcmuffin:
+  viewers: 125
+  status: 'McMuffin: Ranked 50 to 1'
+mikefrompgh:
+  viewers: 104
+  status: <NA> MURKY MASTER SKIN INC!
+sonith:
+  viewers: 77
+  status: BETA KEY GIVEAWAY!!! Playing Abathur Backdoor. Come say hey!
+heroesone:
+  viewers: 67
+  status: '[FR] Don''t worry be carried avec Rach'
+realgaba:
+  viewers: 62
+  status: Deutscher Livestream! HoTs Keys Giveaway + Secret Giveaway
+fenixchaos:
+  viewers: 62
+  status: '[NA] Fenixchaos Giveway at 100 follower!'
+slita:
+  viewers: 57
+  status: 30+ Beta Keys~key after every win ;p~ Sylvanas Main~Slita~Full Time Streamer
+dotod:
+  viewers: 56
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Monday! Founder Pack Giveaway
+    TODAY+NA Beta Keys :D
+liquidneo:
+  viewers: 37
+  status: ◄R1 LiquiD► Got Gold? ► liquidneo.com ►
+dunktrain:
+  viewers: 33
+  status: 'C9 DunkTrain | Chill Stream | #CHOO #CHOO '
+holyonline:
+  viewers: 30
+  status: '[BR] Rank 1 jogando de buenas'
+basickz:
+  viewers: 30
+  status: Basickz | Rank 1 Legend | Viewer Quick Matches
+nasbotini:
+  viewers: 24
+  status: '[GER] TrioQ - 1000+ Support Games - Rank 1 HL - Team Moreheroes C&C'
+ixeres:
+  viewers: 22
+  status: HotS - Sylvanas Plz.
+snakelalala:
+  viewers: 18
+  status: 巨型矮人   后蟲才是我的女王~
+raenofgod:
+  viewers: 16
+  status: Drinks and Giveaways! Rubbing weenuses with the best of em!
+nerdacide:
+  viewers: 15
+  status: '#TeamJustice - $20 Battle.net Giftcard at 500 Followers! [Aussie, so I
+    swear a lot.]'
+killadrix77:
+  viewers: 15
+  status: 'Heroes of the Storm: Learning New Champs, Leveling Account and Heroes!'
+cayennethefirst:
+  viewers: 13
+  status: BR- Sorteios! - Pub do Cayenne
+-------------------------
+

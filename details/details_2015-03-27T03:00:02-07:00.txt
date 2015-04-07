@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-27T03:00:02-07:00
+
+Number of channels: 113
+
+Total viewers: 1821
+
+Total Viewers for top 25 streams:
+1706
+
+Viewer counts:
+[366, 307, 255, 223, 81, 76, 74, 37, 37, 34, 27, 27, 25, 21, 17, 18, 16, 12, 11, 10, 7, 7, 7, 6, 5]
+
+---
+tayzondaygames:
+  viewers: 366
+  status: Tay Zonday Plays Heroes Of The Storm!
+semiproproject:
+  viewers: 307
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 46/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+nickhots:
+  viewers: 255
+  status: TL Open Champ. 6k+ games played. AMA! Sylvanas Quick Matches. Commentary.
+liquidneo:
+  viewers: 223
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+heroesone:
+  viewers: 81
+  status: '[FR] Master ladder avec Tainder'
+ulqi:
+  viewers: 76
+  status: Качаем US аккаунт! Раздаем Ключи!
+godspd:
+  viewers: 74
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+kentarotassadar:
+  viewers: 37
+  status: '[RUS/ENG] Странные странности  ┐( ˘ ､ ˘ )┌'
+tolyawa:
+  viewers: 37
+  status: TOP777 VIKINGS EU
+heroeswartv:
+  viewers: 34
+  status: '[ESP] BlackCT Ranked Team Trolls'
+k1pro:
+  viewers: 27
+  status: C9 k1pro ~ SYLVANAS ~ casual games w friends, no chat
+sleepless_tv:
+  viewers: 27
+  status: '[RU] RANK#1! Сильвана ранкед йолоКУ'
+pypgamers:
+  viewers: 25
+  status: '[ESP] Sorteo de 10 Betas y partidas con @BulgangP'
+omgcolin:
+  viewers: 21
+  status: LZH Gaming OMGColin | Team League!
+itsfixel:
+  viewers: 17
+  status: '[GER] with Keys every 25 viewer!'
+sp5430:
+  viewers: 18
+  status: 【鱔魚】感冒沒聲音了!!...實在不太舒服 還是想要玩暴雪英霸
+androidp:
+  viewers: 16
+  status: AndyLendi Артасы
+chiang001:
+  viewers: 12
+  status: 【肉肉】為甚麼要逼迫我 莫奇20等a_a
+mcslive:
+  viewers: 11
+  status: MCS Live утрениий стол заказов
+mysa1993:
+  viewers: 10
+  status: some hots (beta keys every 20 min)
+xrare_tv:
+  viewers: 7
+  status: '[GER/ENG] LvL 35 - First time Ranked :)'
+jannlee55:
+  viewers: 7
+  status: 英雄聯賽單排奮鬥史....
+eghtv:
+  viewers: 7
+  status: Elite Gaming House Streaming 24/7- Heroes of the Storm con Pao!
+badboyskitv:
+  viewers: 6
+  status: '[PL] Poranne Gierki!'
+lolhaeun:
+  viewers: 5
+  status: NO CAM NO MIC LET'S GET HOLY FUN STREAM! SYLVANAS ONLY TODAY! [NA] HOTS
+    Rank 1 Q&A and VIEWERS TOO~! 200 HERO LEAGUE WIN SOON!
+-------------------------
+

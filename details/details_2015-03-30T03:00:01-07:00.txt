@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-30T03:00:01-07:00
+
+Number of channels: 139
+
+Total viewers: 3539
+
+Total Viewers for top 25 streams:
+3318
+
+Viewer counts:
+[1818, 322, 170, 137, 101, 96, 85, 77, 59, 54, 52, 47, 43, 42, 32, 26, 23, 21, 20, 18, 18, 16, 15, 14, 12]
+
+---
+chu8:
+  viewers: 1818
+  status: '[NA] Rank 1 Kimchi Stream'
+yuuie:
+  viewers: 322
+  status: ❤EU Game Key Giveaways! After Every Game
+anthonyacc:
+  viewers: 170
+  status: Leveling Sylvanas, and others :) 25 KEYS TO GIVE AWAY! (NA)
+ulqi:
+  viewers: 137
+  status: Дорога к 50 рангу
+semiproproject:
+  viewers: 101
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 49/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง (Short Sunday Stream) '
+tolyawa:
+  viewers: 96
+  status: DOBROTA GAMING
+glaurungtv:
+  viewers: 85
+  status: '| Tempo Storm Glaurung! | Rank 1 | Working on mechanics | '
+heroesone:
+  viewers: 77
+  status: '[FR] La Meta-rtiflette avec Manta !'
+heroeswartv:
+  viewers: 59
+  status: '[ESP] Partidas mañaneras con Hankokku'
+yourchinafan:
+  viewers: 54
+  status: road to rank 1
+androidp:
+  viewers: 52
+  status: '[ASH] AndyLendi - Rank 1'
+keko1102:
+  viewers: 47
+  status: '[GER] 8 Beta Key''s EU Verlosung!  !Verlosung für infos'
+seoulja_:
+  viewers: 43
+  status: 'coL.TigerJK Rank1 harrroLeague '
+ggmarche:
+  viewers: 42
+  status: ♠ NA | Marche ♠ I got a 'HotS' date tonight boys.
+chocapicc:
+  viewers: 32
+  status: '[PL] Project Random!'
+pypgamers:
+  viewers: 26
+  status: '[ESP] Rankeds y partidas normales con @BulgangP'
+g96k:
+  viewers: 23
+  status: '[eng/ger] LVL 1 Nub'
+lostragh:
+  viewers: 21
+  status: '[FR] 300 follow et Giveaway CLEF BETA EU Heroes à gagner  - Ranked avec
+    Lostragh&Paulo'
+botlikex:
+  viewers: 20
+  status: '[GER|720p|PC] #Heroes #of #the #storm #viewergames - DREAM-STREAM.EU'
+raven_04:
+  viewers: 18
+  status: Li Li time! :)
+lastwolfplay:
+  viewers: 18
+  status: '[30/03] La matinale sur Heroes (bonus xp dudes !), Diablo a posé son lundi
+    =)'
+gravesheros:
+  viewers: 16
+  status: Graves Samsung Green初體驗
+rezolventa:
+  viewers: 15
+  status: '[RU] R1 | Solo | Ключи | Комментарии и анализ | Пейте витаминки'
+panntos:
+  viewers: 14
+  status: Pantos Heldenliga! 5er QQ
+misterslin:
+  viewers: 12
+  status: Heroes of the Storm with Paul
+-------------------------
+

@@ -1,0 +1,96 @@
+-------------------------
+Timestamp: 2015-03-26T17:00:02-07:00
+
+Number of channels: 277
+
+Total viewers: 7325
+
+Total Viewers for top 25 streams:
+6759
+
+Viewer counts:
+[1894, 1385, 773, 533, 515, 465, 177, 149, 105, 95, 94, 92, 80, 49, 43, 43, 42, 41, 32, 31, 30, 29, 22, 20, 20]
+
+---
+followgrubby:
+  viewers: 1894
+  status: Playing Sylvanas + Patched heroes!
+shaboozey:
+  viewers: 1385
+  status: Heroes of the Salt - Live from the Kitchen w/ LOW EXPECTATIONS
+taketv_heroes:
+  viewers: 773
+  status: HEROES BATTLE MONTHLY FINAL POWERED BY SHARK ZONE
+docgotgame:
+  viewers: 533
+  status: '[70 Subs for Kisha/Juanita Stream and 5 new Emotes!!] Heroes of the Storm
+    with Sergeants (aka Subs!!)'
+chu8:
+  viewers: 515
+  status: '[NA] I own Murky'
+arkamn:
+  viewers: 465
+  status: 【RUS】 KEY GIVEAWAY, 1st RANK, отвечаю на Ваши вопросы между играми.
+hots_mcmuffin:
+  viewers: 177
+  status: 'McMuffin: From Rank 50 to 1'
+heroesone:
+  viewers: 149
+  status: '[FR] La Meta-list avec Manta !'
+xelayirl:
+  viewers: 105
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+youbetterknowme:
+  viewers: 95
+  status: 'KnowMe playing Team League with Subs - giving aways 1 EU Betakey every
+    time we lose '
+inetkoxtv:
+  viewers: 94
+  status: HEROSI DZIĘCIOŁY BURSZTYNY
+sinvicta:
+  viewers: 92
+  status: '3/26/15 - TEAM LE '
+evilcleric:
+  viewers: 80
+  status: Working on lvl 30
+dotod:
+  viewers: 49
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+korduscz:
+  viewers: 43
+  status: We are proud Llamas + Agraelus + hosté
+demosc:
+  viewers: 43
+  status: '[PT-BR] Brincando de feedar...como sempre XD'
+thekonus:
+  viewers: 42
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+sgdx:
+  viewers: 41
+  status: ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda >'
+basickz:
+  viewers: 32
+  status: Basickz | Rank 1 Legend
+heroeswartv:
+  viewers: 31
+  status: |
+    [ESP] Blade de stream nocturno! Hay betas EU ^^
+swingpoynt:
+  viewers: 30
+  status: I Eat People's Names that Follow
+xibe5238:
+  viewers: 29
+  status: '[Fr/Be] Xibe - Rank 1 - Ligue par équipe - Tips & Builds sur demande '
+amovetv:
+  viewers: 22
+  status: 'Into the Nexus #44'
+eghtv:
+  viewers: 20
+  status: Elite Gaming House Streaming 24/7- Union Gaming
+cayennethefirst:
+  viewers: 20
+  status: BR- Sorteios! - Pub do Cayenne
+-------------------------
+

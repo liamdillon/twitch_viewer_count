@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-27T17:00:01-07:00
+
+Number of channels: 303
+
+Total viewers: 5531
+
+Total Viewers for top 25 streams:
+4830
+
+Viewer counts:
+[1593, 1070, 505, 255, 238, 176, 125, 105, 78, 78, 77, 60, 59, 45, 45, 40, 39, 38, 36, 30, 29, 29, 27, 27, 26]
+
+---
+followgrubby:
+  viewers: 1593
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+tgn:
+  viewers: 1070
+  status: Brawl With The Bros | w/MFPallytime & CaptainShack | Community Games | 5-7PM
+    CST
+arkamn:
+  viewers: 505
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+esl_heroes:
+  viewers: 255
+  status: ESL Playoffs Season 1 | Day 1
+oganoss:
+  viewers: 238
+  status: 'Anoss - FR -  Interstellar Big Respect papy !!!  #COMMENT??'
+youbetterknowme:
+  viewers: 176
+  status: 'KnowMe playing Team League with Subs '
+heroesone:
+  viewers: 125
+  status: '[FR] La Meta-YMCA avec Manta !'
+inetkoxtv:
+  viewers: 105
+  status: KOXY TO HEROSI
+grudge_gaming:
+  viewers: 78
+  status: Giving away Razer Nabu X on stream tonight -- Make sure you're following
+    the channel for a chance to win !!
+beholdertv:
+  viewers: 78
+  status: '[BR] Beholder Of Eternity HADOUKEN ༼つಠ益ಠ༽つ ─=≡ΣO))'
+auzyris:
+  viewers: 77
+  status: '[FR] Auzyris ou l''initiation à HOTS - Être patient tu dois...'
+happyzerg:
+  viewers: 60
+  status: Ночная лига
+dotod:
+  viewers: 59
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+chu8:
+  viewers: 45
+  status: '[NA] I own Murky'
+nickhots:
+  viewers: 45
+  status: TL Open Champ. 6k+ games played. AMA! Commentary.
+therealhorsemaster:
+  viewers: 40
+  status: Beta Key Giveaways and Gazlowe/Sylvanas plays!
+thekonus:
+  viewers: 39
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+nut2133:
+  viewers: 38
+  status: '[FR/EN] Aftermath & Overwatch Tonight ! '
+polator_tv:
+  viewers: 36
+  status: '[ES/EN] Top 1 world playing for fun , LDLC team'
+pastandoenmulgore:
+  viewers: 30
+  status: '#HeroesFriday con codigos y mucha Sylvanas.'
+darkoztv:
+  viewers: 29
+  status: '[ES] #HeroesFriday - Sorteo/Giveaway de Keys: http://goo.gl/DCe4mM'
+shtyr:
+  viewers: 29
+  status: Shtyr, Пятница! Отдаю ключи в чате после каждой игры!
+cayennethefirst:
+  viewers: 27
+  status: BR- Sorteios! - Pub do Cayenne
+hildewereld:
+  viewers: 27
+  status: How not to HotS! Minor League Gaming! Eargasm strum.
+w4lker:
+  viewers: 26
+  status: Go for Heroes Liga Liga Liga ziomy! Klucze klucze !Zamawiaj muzyke !  Never
+    Give up ! [MMORPG.org.pl]
+-------------------------
+

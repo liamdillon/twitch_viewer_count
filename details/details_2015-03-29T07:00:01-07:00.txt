@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-29T07:00:01-07:00
+
+Number of channels: 269
+
+Total viewers: 5951
+
+Total Viewers for top 25 streams:
+5445
+
+Viewer counts:
+[1885, 563, 516, 427, 409, 234, 206, 166, 153, 139, 130, 79, 75, 75, 67, 60, 42, 40, 32, 38, 28, 23, 22, 22, 14]
+
+---
+chu8:
+  viewers: 1885
+  status: '[NA] Rank 1 Murky/Abathur +@'
+ihosty:
+  viewers: 563
+  status: Hosty -Rank 1 NA HOTS  - | Sylvanas HYPE |  |  9/9 Golden Classes | 23x
+    Legend |  Blackrock hype soon Kreygasm
+gosugamers:
+  viewers: 516
+  status: 'Enter the Storm by Alienware Cup #1 /w @FourCourtJester & @ShaneGoocher'
+tavernofheroes:
+  viewers: 427
+  status: Fnatic vs Gamers2 @ Enter the Storm by HappyZerG
+guardsmanbob:
+  viewers: 409
+  status: Rank1! - Guardsman Bob!
+pamcakes:
+  viewers: 234
+  status: 'Pam plays Hero League! '
+heroesone:
+  viewers: 206
+  status: '[FR] Born to be 1 avec Tainder '
+hots_mcmuffin:
+  viewers: 166
+  status: 'McMuffin: Ranked 50 to 1__LIVE FROM ULTRA'
+heroesofthestormhu:
+  viewers: 153
+  status: Heroes of the Storm Magyarország
+player2player:
+  viewers: 139
+  status: '[PT-BR] Heróis do Toró com o Caricaz! | Maratona P2P [ 10R$ | Novo SUB
+    = 1 HR ]'
+zomgitshwoarang:
+  viewers: 130
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+lotusthedream:
+  viewers: 79
+  status: ESC LotuS Playing some Solo Que
+tolyawa:
+  viewers: 75
+  status: DOBROTA GAMING
+xxslifexx:
+  viewers: 75
+  status: HD | GER/ENG | HotS Day 3 | GetRekt.tv
+dragomangreektitans:
+  viewers: 67
+  status: 29/3/15 HOTS+ASSETTO CORSA+DAYZ
+iamkado:
+  viewers: 60
+  status: 'Fnatic VS Gamers2 || Enter the Storm CUP: Qualifier #3 [PT-BR] Bracket:
+    http://bit.ly/1BDweBp'
+warlegend:
+  viewers: 42
+  status: '[FR] Yamakhalah & Oith Plays !'
+smaragdwache:
+  viewers: 40
+  status: (GER) ❤ Let's Chill - Heroes of the Storm & The Room ❤ || www.Just-Gaming.eu
+all_in_gamez:
+  viewers: 32
+  status: CZ/SK-HOTS+giveaway
+nexaa:
+  viewers: 38
+  status: '!giveaway after every game | Hero League'
+catberry:
+  viewers: 28
+  status: '[GER] Gemütlicher Austausch mit Neulingen im Coop  - :3 - Hab nochmal 1
+    Keys zum vergeben'
+octo83:
+  viewers: 23
+  status: 'GER :: Helden- und Teamliga :: www.moreheroes.de'
+sashkadestroyer:
+  viewers: 22
+  status: '[Ru/Eng] Sashka rank1, 4k mmr. ANY questions-welcome'
+stormcasters:
+  viewers: 22
+  status: '[FR] Marley Rank 1 # DuoQ  feat Rou :)'
+gerdamherdtv:
+  viewers: 14
+  status: '[GER] WellMet Gerd MLG Plays'
+-------------------------
+

@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-29T06:00:02-07:00
+
+Number of channels: 234
+
+Total viewers: 4448
+
+Total Viewers for top 25 streams:
+4165
+
+Viewer counts:
+[1629, 781, 343, 199, 190, 186, 116, 103, 82, 61, 57, 55, 49, 35, 38, 34, 32, 31, 30, 31, 22, 15, 16, 15, 15]
+
+---
+chu8:
+  viewers: 1629
+  status: '[NA] Rank 1 Murky/Abathur +@'
+ihosty:
+  viewers: 781
+  status: Hosty -Rank 1 NA HOTS  - | Sylvanas HYPE |  |  9/9 Golden Classes | 23x
+    Legend |  Blackrock hype soon Kreygasm
+tavernofheroes:
+  viewers: 343
+  status: Team Yard vs Gamers2 @ Enter the Storm by HappyZerG
+gosugamers:
+  viewers: 199
+  status: 'Enter the Storm by Alienware Cup #1 /w @FourCourtJester & @ShaneGoocher'
+heroesone:
+  viewers: 190
+  status: '[FR] Born to be 1 avec Tainder '
+pamcakes:
+  viewers: 186
+  status: 'Pam plays Hero League! '
+player2player:
+  viewers: 116
+  status: '[PT-BR] Heróis do Toró com o Caricaz! | Maratona P2P [ 10R$ | Novo SUB
+    = 1 HR ]'
+tolyawa:
+  viewers: 103
+  status: DOBROTA GAMING
+heroesofthestormhu:
+  viewers: 82
+  status: Heroes of the Storm Magyarország
+lotusthedream:
+  viewers: 61
+  status: ESC LotuS Playing some Solo Que
+dragomangreektitans:
+  viewers: 57
+  status: 29/3/15 HOTS+ASSETTO CORSA+DAYZ
+nexaa:
+  viewers: 55
+  status: '!giveaway after every game | Hero League'
+iamkado:
+  viewers: 49
+  status: 'Team Yard VS Gamers2 || Enter the Storm CUP: Qualifier #3 [PT-BR] Bracket:
+    http://bit.ly/1BDweBp'
+smaragdwache:
+  viewers: 35
+  status: (GER) ❤ Let's Chill - Heroes of the Storm & The Room ❤ || www.Just-Gaming.eu
+still_sleepy:
+  viewers: 38
+  status: 'SleepAllday DAY14 說輸整天真的輸整天 '
+stormcasters:
+  viewers: 34
+  status: '[FR] Marley Rank 1 # DuoQ  feat Rou :)'
+gonkixjeh:
+  viewers: 32
+  status: '[CZ/SK] Gonki - S Olíkem + giveaway! :)'
+alubatw:
+  viewers: 31
+  status: 3/29雪盟內部賽
+catberry:
+  viewers: 30
+  status: '[GER] Gemütlich in den Sonntag - Guten Morgen :3 - Hab nochmal 1 Keys zum
+    vergeben'
+sashkadestroyer:
+  viewers: 31
+  status: '[Ru/Eng] Sashka rank1, 4k mmr. ANY questions-welcome'
+zomgitshwoarang:
+  viewers: 22
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+judgehype:
+  viewers: 15
+  status: '[FR] Naos dessine en votre compagnie'
+crimson_sc2:
+  viewers: 16
+  status: CriMsoN - Heroes of the Storm. ゆっくりさんコメント→http://revinx.net/ustream/page/2268
+ogamingtv:
+  viewers: 15
+  status: '[FR] REDIFFUSIONS de la semaine'
+all_in_gamez:
+  viewers: 15
+  status: CZ/SK-HOTS+giveaway
+-------------------------
+

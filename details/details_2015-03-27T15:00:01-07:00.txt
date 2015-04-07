@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-27T15:00:01-07:00
+
+Number of channels: 352
+
+Total viewers: 4386
+
+Total Viewers for top 25 streams:
+3586
+
+Viewer counts:
+[1220, 595, 537, 173, 149, 137, 83, 75, 59, 59, 57, 48, 47, 43, 36, 35, 35, 34, 32, 26, 25, 21, 20, 20, 20]
+
+---
+guardsmanbob:
+  viewers: 1220
+  status: Rank1! - Guardsman Bob!
+tgn:
+  viewers: 595
+  status: Brawl With The Bros | w/MFPallytime & CaptainShack | Community Games | 5-7PM
+    CST
+arkamn:
+  viewers: 537
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+youbetterknowme:
+  viewers: 173
+  status: 'KnowMe playing Team League with Subs '
+heroesone:
+  viewers: 149
+  status: '[FR] La Meta-YMCA avec Manta !'
+oganoss:
+  viewers: 137
+  status: 'Anoss - FR -  Interstellar Big Respect papy !!!  #COMMENT??'
+onlinegamertwitch:
+  viewers: 83
+  status: Игромания Rezan
+thekonus:
+  viewers: 75
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+tinsi_:
+  viewers: 59
+  status: 'Key Giveaway <3 #MistkäferDöden'
+anthonyacc:
+  viewers: 59
+  status: '#FitnessFriday AMA - 25 Key Giveaway - Bringing Kindness to MOBA''s :)'
+detrox86:
+  viewers: 57
+  status: '[GER] Feierabend Gaming Heldenliga'
+basickz:
+  viewers: 48
+  status: Basickz | Rank 1 Legend | Viewer Quick Matches
+kinulii:
+  viewers: 47
+  status: Kinu | Songrequests and shots
+darkoztv:
+  viewers: 43
+  status: '[ES] #HeroesFriday - Sorteo/Giveaway de Keys: http://goo.gl/DCe4mM'
+happyzerg:
+  viewers: 36
+  status: Сильвана до 10 уровня!
+hekady:
+  viewers: 35
+  status: '[esp] ❤ Heroes of the Storm'
+ikkyy:
+  viewers: 35
+  status: 'Jogando 4fun + Sorteio de Keys #heroesfriday'
+cayennethefirst:
+  viewers: 34
+  status: BR- Sorteios! - Pub do Cayenne
+therealhorsemaster:
+  viewers: 32
+  status: Beta Key Giveaways and Gazlowe/Sylvanas plays!
+asmozan:
+  viewers: 26
+  status: key every 2 games Teamowe granie i kluczy rozdawanie!
+shtyr:
+  viewers: 25
+  status: Shtyr, Пятница! Отдаю ключи в чате после каждой игры!
+mrjpickles:
+  viewers: 21
+  status: '[#131] Back from vacation! Ask any questions!!'
+w4lker:
+  viewers: 20
+  status: Go for Heroes Liga Liga Liga ziomy! Klucze klucze !Zamawiaj muzyke !  Never
+    Give up ! [MMORPG.org.pl]
+hildewereld:
+  viewers: 20
+  status: How not to HotS! Minor League Gaming!
+polator_tv:
+  viewers: 20
+  status: '[ES/EN] Top 1 world playing for fun , LDLC team'
+-------------------------
+

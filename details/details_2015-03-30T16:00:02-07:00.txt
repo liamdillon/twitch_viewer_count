@@ -1,0 +1,96 @@
+-------------------------
+Timestamp: 2015-03-30T16:00:02-07:00
+
+Number of channels: 247
+
+Total viewers: 3636
+
+Total Viewers for top 25 streams:
+3162
+
+Viewer counts:
+[820, 737, 297, 285, 193, 143, 97, 84, 60, 54, 47, 42, 41, 33, 29, 25, 23, 22, 21, 21, 20, 17, 19, 17, 15]
+
+---
+tgn:
+  viewers: 820
+  status: Brawl With The Bros! | MFPallytime & Hengest | Heroes of the Storm Community
+    Matches! 3pm -5pm PST
+arkamn:
+  viewers: 737
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+missmiarose:
+  viewers: 297
+  status: Bday!! Mia Rose is now old!
+zp_tv:
+  viewers: 285
+  status: ZPs - Rank 1 - 1080p/60FPS! - NEW STREAM SETTINGS SO BEAUTIFUL
+artheontv:
+  viewers: 193
+  status: '[FR] Game Viewers #OKLM'
+gerdamherdtv:
+  viewers: 143
+  status: '[GER] WellMet Gerd Viewergames o.O Wie immer zu spät :D'
+heroesone:
+  viewers: 97
+  status: '[FR] Don''t worry be carried avec Rach'
+anthonyacc:
+  viewers: 84
+  status: 25K grind! Road to Rank 1!
+slita:
+  viewers: 60
+  status: 30+ Beta Keys Come n Get Em~ Sylvanas Main~Slita~Full Time Streamer
+grudge_gaming:
+  viewers: 54
+  status: 'Razer Deathstalker keyboard giveaway '
+dotod:
+  viewers: 47
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Monday! Founder Pack Giveaway
+    TODAY+NA Beta Keys :D
+xibe5238:
+  viewers: 42
+  status: '[Fr/Be] Xibe - Rank 1 solo - Ligue par équipe'
+foerest:
+  viewers: 41
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+rhoxylol:
+  viewers: 33
+  status: Rhoxy meets heroes :)
+wolfforcex:
+  viewers: 29
+  status: ส็็็็็็็็็็็็็็็็็็็(ಠ益ಠ)ส็็็็็็็็็็็็็็็็็็็3 keys to giveaway! & type
+    !coins for currency system! ୧༼ ͡◉ل͜ ͡◉༽୨
+shtyr:
+  viewers: 25
+  status: Shtyr. Ranked Rank1
+jessicagoch:
+  viewers: 23
+  status: 80's Night! Learning Heroes of the Storm then Hearthstone with Subs later!
+thewilq:
+  viewers: 22
+  status: 'RANK#1 - Rozdajemy klucze! #TEAMOWE RANKEDY BOYZ!'
+killadrix77:
+  viewers: 21
+  status: 'Heroes of the Storm: Learning New Champs, Leveling Account and Heroes!'
+mrjpickles:
+  viewers: 21
+  status: '[#133] MrJPickles try hard day! Working on EU first then NA. EU Keys to
+    giveaway'
+gimloo:
+  viewers: 20
+  status: 'SWE/ENG AUTO DJ KEBABPIZZA STREAM WITH UNDERWEAR ON MY HEAD LATER ON CUZ
+    http://www.twitch.tv/bankalicious @Bankalicious :) HYPE!!!!!!!! '
+nohandsken:
+  viewers: 17
+  status: Quadriplegic is playing Heroes of the storm with his mouth
+spleenstoo:
+  viewers: 19
+  status: 【FR - HD】Spleen + Aureana
+d3ym0s:
+  viewers: 17
+  status: '[ ESP ] - Empezando ranked team !!! Y regalando betas :)  SALSEEOOOOOOO'
+ninj4hs:
+  viewers: 15
+  status: Blizzardowski shit - czy lepszy od lola?
+-------------------------
+

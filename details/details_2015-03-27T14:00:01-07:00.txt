@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-27T14:00:01-07:00
+
+Number of channels: 364
+
+Total viewers: 3967
+
+Total Viewers for top 25 streams:
+3187
+
+Viewer counts:
+[1195, 496, 343, 174, 145, 118, 81, 72, 60, 58, 53, 54, 36, 36, 30, 36, 28, 28, 23, 23, 22, 21, 19, 19, 17]
+
+---
+guardsmanbob:
+  viewers: 1195
+  status: 
+arkamn:
+  viewers: 496
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+rouzvega:
+  viewers: 343
+  status: Sylvanas TIME! <3 - Rouz Vega
+tavernofheroes:
+  viewers: 174
+  status: FINAL @ Random Team Cup by HappyZerG
+youbetterknowme:
+  viewers: 145
+  status: 'KnowMe playing Team League with Subs '
+heroesone:
+  viewers: 118
+  status: '[FR] La Meta-YMCA avec Manta !'
+ethieenn:
+  viewers: 81
+  status: Ethieen | Heroes of the Storm
+dotod:
+  viewers: 72
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+tinsi_:
+  viewers: 60
+  status: 'Key Giveaway <3 #MistkäferDöden'
+detrox86:
+  viewers: 58
+  status: '[GER] Feierabend Gaming Heldenliga'
+anthonyacc:
+  viewers: 53
+  status: '#FitnessFriday AMA - 25 Key Giveaway - Bringing Kindness to MOBA''s :)'
+thekonus:
+  viewers: 54
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+gillyweedsc2:
+  viewers: 36
+  status: NA beta key giveaway! FRIDAY HEROES HYPEEEE!
+basickz:
+  viewers: 36
+  status: Basickz | Rank 1 Legend come learn how to dominate XD
+ikkyy:
+  viewers: 30
+  status: 'Jogando 4fun + Sorteio de Keys #heroesfriday'
+miss_snowfox:
+  viewers: 36
+  status: (>｡◕‿◕｡)> Sylvanas HYPE ♥ Viewergames - add MissSnowfox#2285  <(｡◕‿◕｡<)
+polator_tv:
+  viewers: 28
+  status: '[ES/EN] Top 1 world playing for fun , LDLC team'
+mrjpickles:
+  viewers: 28
+  status: '[#131] Back from vacation! Ask any questions!!'
+cayennethefirst:
+  viewers: 23
+  status: BR- Sorteios! - Pub do Cayenne
+kuzmitch_ru:
+  viewers: 23
+  status: Тюрьма для хомячка
+shtyr:
+  viewers: 22
+  status: Shtyr, Пятница! Отдаю ключи в чате после каждой игры!
+ksk_smooverrella:
+  viewers: 21
+  status: HoS /w Smoo !!! Dirty Games Kappa
+moonboonsworld:
+  viewers: 19
+  status: HotS! Gemütlich auf dem Weg zu Level 40! Mit Moonboon und IpuFuchs!
+therealhorsemaster:
+  viewers: 19
+  status: Beta Key Giveaways and Gazlowe/Sylvanas plays!
+w4lker:
+  viewers: 17
+  status: Go for Heroes Liga Liga Liga ziomy! Klucze klucze !Zamawiaj muzyke !  Never
+    Give up ! [MMORPG.org.pl]
+-------------------------
+

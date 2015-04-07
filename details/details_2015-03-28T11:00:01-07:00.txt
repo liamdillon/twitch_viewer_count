@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-28T11:00:01-07:00
+
+Number of channels: 319
+
+Total viewers: 5042
+
+Total Viewers for top 25 streams:
+4352
+
+Viewer counts:
+[1320, 605, 356, 338, 280, 248, 187, 128, 120, 82, 76, 79, 77, 63, 62, 56, 43, 40, 37, 29, 28, 28, 27, 23, 20]
+
+---
+guardsmanbob:
+  viewers: 1320
+  status: Rank1! - Guardsman Bob!
+followgrubby:
+  viewers: 605
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+heroeswartv:
+  viewers: 356
+  status: '[ESP] Zotac Cup Mensual (FINAL) Team Liquid VS Team Tomorrow Big'
+zomgitshwoarang:
+  viewers: 338
+  status: '[GER] Beta Key Giveaway!!'
+tavernofheroes:
+  viewers: 280
+  status: Team Liquid vs Team Tomorrow Big @ ZOTAC by HappyZerG
+esl_heroes:
+  viewers: 248
+  status: ESL Playoffs Season 1 | Day 2
+heroesone:
+  viewers: 187
+  status: '[FR] SiC and Destroy avec SIC'
+burninggirl:
+  viewers: 128
+  status: '[RU/ENG] Yard.Gela - Team league. '
+mmorpgskisaker:
+  viewers: 120
+  status: Heroes. SERIOUS TALK SATURDAY
+fletcheriii:
+  viewers: 82
+  status: Раздача ключей
+player2player:
+  viewers: 76
+  status: '[PT-BR] Caricaz jogando com os subs e viewers o HOTS! | Maratona P2P [
+    10R$ | Novo SUB = 1 HR ]'
+dotod:
+  viewers: 79
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Saturday Strumarino, Beta
+    Keys/Founders Pack Today!
+sonderx:
+  viewers: 77
+  status: Primer Torneo HISO Previo
+angellatv:
+  viewers: 63
+  status: '[EN/PL] JaRock drużyna - eliminacje. Dzień#1'
+in4game:
+  viewers: 62
+  status: Розыгрыш Ключей и Лига Героев
+sleepless_tv:
+  viewers: 56
+  status: ZOTAC HotS FINALS (раздача EU-beta ключей между играми)
+weplayhots:
+  viewers: 43
+  status: Liquid vs Fancy ZOTAC Финалы месяца
+tenschi:
+  viewers: 40
+  status: '[Ger] Noob spielt wie ein Pro :D'
+shtyr:
+  viewers: 37
+  status: Shtyr.Ranked. Отдаю ключи в чате! Стоит только попросить!
+wolfforcex:
+  viewers: 29
+  status: ส็็็็็็็็็็็็็็็็็็็(ಠ益ಠ)ส็็็็็็็็็็็็็็็็็็็3 Keys to giveway & type !coins
+    for currency system! (entry will be with points)୧༼ ͡◉ل͜ ͡◉༽୨
+reodora:
+  viewers: 28
+  status: Going for Hero League; +keys giveaway
+ufrog:
+  viewers: 28
+  status: '[FR] Farhah en ranked + CLES BETAS A GAGNER !'
+avanityzumba:
+  viewers: 27
+  status: '[ENG]  ♥ hangover ♥  '
+kattari:
+  viewers: 23
+  status: '[GER] Wer will mitspielen? :*'
+strandedorange:
+  viewers: 20
+  status: Единственная болезнь здесь - это МОБА (Russian/English)
+-------------------------
+

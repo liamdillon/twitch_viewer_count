@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-26T14:00:01-07:00
+
+Number of channels: 337
+
+Total viewers: 5911
+
+Total Viewers for top 25 streams:
+5217
+
+Viewer counts:
+[1196, 949, 694, 520, 353, 238, 196, 152, 146, 119, 108, 78, 71, 62, 52, 47, 43, 37, 33, 27, 23, 20, 19, 17, 17]
+
+---
+gosuzuna:
+  viewers: 1196
+  status: C9 Zuna Rank 1 A little sick but gonna get some games in!
+taketv_heroes:
+  viewers: 949
+  status: HEROES BATTLE MONTHLY FINAL POWERED BY SHARK ZONE
+guardsmanbob:
+  viewers: 694
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 520
+  status: 【RUS】 KEY GIVEAWAY, 1st RANK, отвечаю на Ваши вопросы между играми.
+followgrubby:
+  viewers: 353
+  status: Playing Sylvanas + Patched heroes!
+pamcakes:
+  viewers: 238
+  status: Pam ♥ // Climb to Rank 1!
+chu8:
+  viewers: 196
+  status: '[NA] I own Murky'
+xelayirl:
+  viewers: 152
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+gamesqueen:
+  viewers: 146
+  status: Starting now
+flamytv:
+  viewers: 119
+  status: 'Heroes of the Storm + Nowy Odcinek Xenoverse na YouTube: http://bit.ly/1OBh6xA'
+lowkotv:
+  viewers: 108
+  status: 'Lowko :: Heroes with the Girlfriend :: @LowkoTV'
+nysira:
+  viewers: 78
+  status: 'Giveaway: HOTS Beta-Keys (EU) every 50 followers | Sub Thursday | More
+    videos at youtube.com/twitchnysira <3 '
+thekonus:
+  viewers: 71
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+strasil:
+  viewers: 62
+  status: Strasil
+in4game:
+  viewers: 52
+  status: Раздача Ключей и Лига Героев. Ранг 4 -> 1
+looonat1c:
+  viewers: 47
+  status: '[RU] Windrunner already here (Скоро раздача ключей)'
+sgdx:
+  viewers: 43
+  status: ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda >'
+kinulii:
+  viewers: 37
+  status: Kinu Windrunner | Earthworms have 5 hearts.
+gillyweedsc2:
+  viewers: 33
+  status: NA beta key giveaway! Sylvanas practice!
+antaurustv:
+  viewers: 27
+  status: '[ES] Sylvita Hype'
+ksk_smooverrella:
+  viewers: 23
+  status: Heroes of the Storm /w Smoo !!! ViewerZocken !!! Later Altis Life
+thetadin:
+  viewers: 20
+  status: Tadin | Relaxations
+moonboonsworld:
+  viewers: 19
+  status: HotS! Gemütlich auf dem Weg zu Level 40! Mit Moonboon und IpuFuchs!
+superfancyunicorn:
+  viewers: 17
+  status: '♥ Uni of the Storm: Hero League! ♥ The struggle is real, y''all. o_o ♥ '
+xibe5238:
+  viewers: 17
+  status: '[Fr/Be] Xibe - Rank 1 - Tips & Builds sur demande '
+-------------------------
+

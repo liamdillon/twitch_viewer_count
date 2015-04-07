@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-30T10:00:02-07:00
+
+Number of channels: 321
+
+Total viewers: 7883
+
+Total Viewers for top 25 streams:
+7239
+
+Viewer counts:
+[2399, 1134, 888, 348, 331, 318, 208, 200, 145, 130, 127, 126, 91, 87, 85, 85, 83, 75, 74, 72, 57, 55, 46, 42, 33]
+
+---
+esl_heroes:
+  viewers: 2399
+  status: ESL EU Playoffs Season 1 | Day 1
+guardsmanbob:
+  viewers: 1134
+  status: Rank1! - Guardsman Bob!
+pamcakes:
+  viewers: 888
+  status: Pam // Road to Rank 1
+igromania:
+  viewers: 348
+  status: 'Игромания: двадцать ключей для Heroes of the Storm (20:00 МСК)'
+arkamn:
+  viewers: 331
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+zp_tv:
+  viewers: 318
+  status: ZPs - Rank 1 - 1080p/60FPS! - NEW STREAM SETTINGS SO BEAUTIFUL
+heroesone:
+  viewers: 208
+  status: '[FR] La Met-Hardcore avec Manta ! 12h~19h NON-STOP !'
+alexcoman:
+  viewers: 200
+  status: '[RO] Stuffffs'
+happyzerg:
+  viewers: 145
+  status: Ранг 1 с комментами под ULTRA MUSIC FESTIVAL
+bolumsonucanavari:
+  viewers: 130
+  status: Durun Daha Çok Öleceğiz! - Beta Key Hediyeli ^.^
+cebka_je:
+  viewers: 127
+  status: '[ASH] CEBKAJE  -  Отвечаю на вопросы. '
+player2player:
+  viewers: 126
+  status: '[PT-BR] Caricaz no Hots! | Maratona P2P [ 10R$ | Novo SUB = 1 HR ]'
+lucifron7:
+  viewers: 91
+  status: Liquid'LucifroN playing Heroes
+in4game:
+  viewers: 87
+  status: Розыгрыш Ключей. Познаём Дзен и не Бомбим на идиотов в Лиге
+gerdamherdtv:
+  viewers: 85
+  status: '[GER] WellMet Gerd Viewergames o.O Wie immer zu spät :D'
+reveevtv:
+  viewers: 85
+  status: Reveev.Tv || @n0point и HOTS!!!
+fureurwebtv:
+  viewers: 83
+  status: '[FR] Hos avec Biscuit : Rush lvl 30 puis ranked!'
+snake2356:
+  viewers: 75
+  status: 1 KEY AFTER EVERY GAME! HOTS KEYS GIVEAWAY! Playing with viewers! [BG/ENG]
+angellatv:
+  viewers: 74
+  status: '[PL/ENG] Kolejny dzień szukania osób do JaRockowej drużyny. Dzień#3'
+dotod:
+  viewers: 72
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Monday! Founder Pack Giveaway
+    TODAY+NA Beta Keys :D
+dirtyela_tv:
+  viewers: 57
+  status: '[GER] ♥♥♥ Viewer Games mit Euly  ♥♥♥'
+slita:
+  viewers: 55
+  status: 30+ Beta Keys Come n Get Em~ Sylvanas Main~Slita~Full Time Streamer
+thekonus:
+  viewers: 46
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+tolyawa:
+  viewers: 42
+  status: DOBROTA GAMING
+miss_snowfox:
+  viewers: 33
+  status: (>｡◕‿◕｡)> HotS Monday ♥ join my matches - add MissSnowfox#2285 <(｡◕‿◕｡<)
+-------------------------
+

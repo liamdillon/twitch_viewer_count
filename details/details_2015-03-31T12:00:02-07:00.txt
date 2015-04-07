@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-31T12:00:02-07:00
+
+Number of channels: 335
+
+Total viewers: 8208
+
+Total Viewers for top 25 streams:
+7586
+
+Viewer counts:
+[4306, 924, 575, 306, 213, 167, 155, 117, 102, 92, 86, 76, 61, 59, 57, 56, 51, 34, 26, 24, 21, 23, 21, 17, 17]
+
+---
+esl_heroes:
+  viewers: 4306
+  status: ESL Playoffs Season 1 | Day 2
+guardsmanbob:
+  viewers: 924
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 575
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+reveevtv:
+  viewers: 306
+  status: Reveev.Tv || Играем в HOTS!
+heroesone:
+  viewers: 213
+  status: '[FR] Rank 1 Try Hard avec Luiji'
+tavernofheroes:
+  viewers: 167
+  status: LDLC vs Gamers2 @ ESL MAJOR LEAGUE by HappyZerG
+heroeswartv:
+  viewers: 155
+  status: '[ESP] Team LDLC 0 vs 0 Gamers2 - ESL #MajorLeague Playoffs EU'
+wolfeater_il:
+  viewers: 117
+  status: BLA BLA BLA
+player2player:
+  viewers: 102
+  status: 
+beholdertv:
+  viewers: 92
+  status: '[BR] Beholder Of the Storm HADOUKEN ༼つಠ益ಠ༽つ ─=≡ΣO))'
+nysira:
+  viewers: 86
+  status: 'Giveaway: HOTS Beta-Keys (EU) every 25 followers | SUB Giveaway (CM STORM
+    MIZAR MOUSE) | More videos at youtube.com/twitchnysira <3 '
+rsnicetry:
+  viewers: 76
+  status: HotS mit NiceTry
+gerdamherdtv:
+  viewers: 61
+  status: '[GER] WellMet Gerd Abendliche Vernichtung Kappa'
+mortsc2:
+  viewers: 59
+  status: Heroes of the Storm mit Mort! Ganz kleines Gameplay!
+looonat1c:
+  viewers: 57
+  status: '[RU] Windrunner already here (Скоро раздача ключей)'
+dotod:
+  viewers: 56
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Viewer Games For Now, Rank 1
+    Later :D
+in4game:
+  viewers: 51
+  status: Ранг 1 - реален? Мешок ключей для зрителей.
+keko1102:
+  viewers: 34
+  status: '[GER] eazy peazy!'
+sashkadestroyer:
+  viewers: 26
+  status: '[Ru/Eng] Sashka rank1, 4k mmr. ANY questions-welcome'
+basickz:
+  viewers: 24
+  status: Basickz | Rank 1 Legend | Viewer Quick Matches
+pimentarosa:
+  viewers: 21
+  status: '[PT/BR] Jogando para relaxar um pouco =) # Sorteio de keys #'
+thewilq:
+  viewers: 23
+  status: 'RANK#1 - Rozdajemy klucze! #yoloQ '
+exodium:
+  viewers: 21
+  status: '[GER&ENG] Big Giveaway @10pm; take part the whole day.. read description
+    or ask us... you can win a awesome pirze today :)'
+brotundvideospiele:
+  viewers: 17
+  status: 'Feierabend-Gaming #001: Anfänge in der HotS-Beta'
+hackerlou1:
+  viewers: 17
+  status: '[GER] Just Chilling '
+-------------------------
+

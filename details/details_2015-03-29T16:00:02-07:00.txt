@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-29T16:00:02-07:00
+
+Number of channels: 281
+
+Total viewers: 5465
+
+Total Viewers for top 25 streams:
+5031
+
+Viewer counts:
+[2701, 548, 432, 269, 216, 159, 90, 70, 66, 53, 48, 48, 46, 39, 35, 34, 29, 28, 25, 20, 17, 16, 14, 14, 14]
+
+---
+followgrubby:
+  viewers: 2701
+  status: Grubby - HotStorm - Playing Ranked @ EU
+arkamn:
+  viewers: 548
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+hosselote:
+  viewers: 432
+  status: 'ESL NA Go4Heroes #17 Goon Squad vs Shattered Gaming'
+gosuzuna:
+  viewers: 269
+  status: C9 Zuna Playing go4heroes with friends 3 min delay
+fourcourtjester:
+  viewers: 216
+  status: ESL Go4Heroes NA - Evil Geniuses vs Tornado | 720p60
+heroesone:
+  viewers: 159
+  status: '[FR] La Meta-lique avec Manta !'
+youbetterknowme:
+  viewers: 90
+  status: '[Ger/Eng] KnowMe playing TeamLeague with Subs :)'
+gerdamherdtv:
+  viewers: 70
+  status: '[GER] WellMet Gerd MLG Plays'
+trikslyr:
+  viewers: 66
+  status: Rank 1 Hero League. Viewer Games today!
+iamjaames:
+  viewers: 53
+  status: trying out HOTS
+therealhorsemaster:
+  viewers: 48
+  status: Gazlowe plays!
+realgaba:
+  viewers: 48
+  status: Heroes of the Storm mit Giveaway (HoTs Keys und Secret Giveaway)
+xibe5238:
+  viewers: 46
+  status: '[Fr/Be] Xibe - Rank 1 solo - Ligue par équipe'
+rhoxylol:
+  viewers: 39
+  status: Rhoxy meets heroes :)
+dotod:
+  viewers: 35
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Chill Sunday Streem :D NA Beta
+    Keys!
+tv_karma:
+  viewers: 34
+  status: Karma | Rank 1 normal game chill
+wolfforcex:
+  viewers: 29
+  status: ส็็็็็็็็็็็็็็็็็็็(ಠ益ಠ)ส็็็็็็็็็็็็็็็็็็็Heroes time (3 keys to giveaway)
+    & type !coins for currency system! ୧༼ ͡◉ل͜ ͡◉༽୨
+eghtv:
+  viewers: 28
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+wiwradeer:
+  viewers: 25
+  status: |
+    1 Éves a w.I.w_GAMiNG TV  | Műsorsorozat 1 hétig! | Welcome and Stay | Follow me!
+gimloo:
+  viewers: 20
+  status: SWE/ENG AUTO DJ PLZ STOP BY EITHER ON STREAM OR IN REAL LIFE YOU ARE WELCOME
+    :):) HYPE!!!!!!!
+katharinafallaway:
+  viewers: 17
+  status: '[BR/ENG] Kath  Rumo a 1K'
+russky00:
+  viewers: 16
+  status: Heroes of The Storm With Yomar
+rosath:
+  viewers: 14
+  status: '[Day 15] *insert catchy sentence to get attention here*'
+hyperiatv1:
+  viewers: 14
+  status: '[FR] Stragesic'
+terranjustice:
+  viewers: 14
+  status: SUNDAY HEROES TIME
+-------------------------
+

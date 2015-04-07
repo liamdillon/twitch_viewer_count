@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-31T07:00:02-07:00
+
+Number of channels: 212
+
+Total viewers: 11750
+
+Total Viewers for top 25 streams:
+11549
+
+Viewer counts:
+[7236, 1120, 700, 479, 391, 319, 246, 134, 156, 127, 117, 100, 90, 72, 56, 42, 28, 20, 19, 19, 19, 18, 15, 13, 13]
+
+---
+rocketbeanstv:
+  viewers: 7236
+  status: Community Beef | Re-Run | Blizzday
+chu8:
+  viewers: 1120
+  status: 1 Murky, 1 stream - Rank 1
+liquidneo:
+  viewers: 700
+  status: ◄R1 LiquiD► Got Gold? ► liquidneo.com ►
+guardsmanbob:
+  viewers: 479
+  status: Rank1! - Guardsman Bob!
+zomgitshwoarang:
+  viewers: 391
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+pamcakes:
+  viewers: 319
+  status: Pam plays Hero League!
+heroesone:
+  viewers: 246
+  status: '[FR] La Meta-culotte avec Manta !'
+tolyawa:
+  viewers: 134
+  status: DOBROTA GAMING
+anthonyacc:
+  viewers: 156
+  status: NEW ROTATION! TESTING HEROES! (all new subs get a HoTS key)
+player2player:
+  viewers: 127
+  status: '[PT-BR] ~Heróis do Toró~ com o Caricaz! SR Ligado! | Maratona P2P [ 10R$
+    | Novo SUB = 1 HR ]'
+zp_tv:
+  viewers: 117
+  status: ZPs - Rank 1 - 1080p/60FPS! - NEW STREAM SETTINGS SO BEAUTIFUL -10k follower
+    hype!
+tinsi_:
+  viewers: 100
+  status: 'Rank 2  #MistkäferDöden'
+sleepless_tv:
+  viewers: 90
+  status: (RU) Rank1. Лига героев как она есть! Показать всё, что скрыто!
+semiproproject:
+  viewers: 72
+  status: Rank 1 - In Depth Commentary & Explanations | KilicK | Day 50/∞  ヽ〳 ՞ ᗜ
+    ՞ 〵
+yourchinafan:
+  viewers: 56
+  status: road to rank 1
+g96k:
+  viewers: 42
+  status: '[eng/ger]   ૮( ᵒ̌▱๋ᵒ̌ )ა  ~I rate 8/8'
+johanjazz:
+  viewers: 28
+  status: '[1 rank] ヽ(・∀・)ﾉ  О боже,это же ЙоханДжаз!'
+mexyh:
+  viewers: 20
+  status: '[FR] Best Valla Congo. R1 yoloqueue :]'
+georgekgaming:
+  viewers: 19
+  status: 1 EU Key GIVEAWAY for every game played
+aureanatv:
+  viewers: 19
+  status: '[FR] Aureana ♥ Grignotage !!!'
+skeitty:
+  viewers: 19
+  status: Keitty is BACK | GROSSE NOOB! PLAY WITH VIEWERS
+asmozan:
+  viewers: 18
+  status: 1 hour stream key every 2 games Team League
+sp5430:
+  viewers: 15
+  status: 【鱔魚】感冒中...帶領新人培訓團
+andreableh:
+  viewers: 13
+  status: Heroes of the Storm - SERIOUS GAMING - SORTEO CLAVE BETA!!!!
+darling_jen:
+  viewers: 13
+  status: (๑و•̀ω•́)و Розыгрыш ключиков и игр в стиме!
+-------------------------
+

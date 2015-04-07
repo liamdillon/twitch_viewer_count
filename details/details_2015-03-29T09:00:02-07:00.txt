@@ -1,0 +1,96 @@
+-------------------------
+Timestamp: 2015-03-29T09:00:02-07:00
+
+Number of channels: 316
+
+Total viewers: 4758
+
+Total Viewers for top 25 streams:
+4177
+
+Viewer counts:
+[1477, 474, 369, 237, 159, 158, 140, 134, 131, 115, 87, 79, 81, 75, 74, 62, 51, 53, 42, 37, 32, 31, 28, 26, 25]
+
+---
+guardsmanbob:
+  viewers: 1477
+  status: Rank1! - Guardsman Bob!
+tavernofheroes:
+  viewers: 474
+  status: Team Refuse vs Templar Robbers @ Go4Heroes by HappyZerG
+zomgitshwoarang:
+  viewers: 369
+  status: '[GER] Go4Hots - SneakyBeakyLike'
+exi1ia:
+  viewers: 237
+  status: '[RU] Go4Heroes Europe Cup #17 @BlizzHeroes @BlizzHeroesRU #ExiliaTV #HOTS'
+in4game:
+  viewers: 159
+  status: Розыгрыш Ключей и Лига Героев
+docgotgame:
+  viewers: 158
+  status: '[30k Follower Hype??] Sergeant Sunday with HoTS (keys thrown in chat!)-
+    PS2 and RoK! (GW2 and FFXIV Revisit Next Week!)'
+heroeswartv:
+  viewers: 140
+  status: '[ESP] ESL G4Heroes (R128) Fedeando VS Mur Na'
+player2player:
+  viewers: 134
+  status: '[PT-BR] Heróis do Toró com o Caricaz! | Maratona P2P [ 10R$ | Novo SUB
+    = 1 HR ]'
+youbetterknowme:
+  viewers: 131
+  status: '[Ger/Eng] KnowMe casting Go4Heroes - later TeamLeague with Subs :)'
+esl_heroes_pl:
+  viewers: 115
+  status: '[PL] Team Alternate vs Hard Nexus/Knives and Forks Go4Heroes Europe Cup
+    #17'
+warlegend:
+  viewers: 87
+  status: '[FR] Yamakhalah & Oith Plays !'
+heroesofthestormhu:
+  viewers: 79
+  status: Heroes of the Storm Magyarország
+esl_moretv_heroes:
+  viewers: 81
+  status: '[GER] Go4Heroes Europe Cup #17'
+hosselote:
+  viewers: 75
+  status: '[ENG] ESL EU Go4Heroes #17 Team Acer vs Sofa Generals (Key Giveaways)'
+snake2356:
+  viewers: 74
+  status: 1 KEY EVERY 3 GAMES! SYLVANAS HYPE! HOTS KEYS GIVEAWAY! Playing with viewers!
+    [BG/ENG]
+dragomangreektitans:
+  viewers: 62
+  status: 29/3/15 HOTS+ASSETTO CORSA+DAYZ
+gerdamherdtv:
+  viewers: 51
+  status: '[GER] WellMet Gerd MLG Plays'
+xxslifexx:
+  viewers: 53
+  status: HD | GER/ENG | HotS Day 3 | GetRekt.tv
+esl_heroes_czsk:
+  viewers: 42
+  status: 'ESL Go4Heroes #17 [CZ]'
+slita:
+  viewers: 37
+  status: 2ND Day HotS Sylvanas main~Slita~Full Time Streamer
+dotod:
+  viewers: 32
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Saturday Strumarino, Beta
+    Keys/Founders Pack Today!
+octo83:
+  viewers: 31
+  status: 'GER :: Helden- und Teamliga :: www.moreheroes.de'
+basickz:
+  viewers: 28
+  status: 'Basickz | Rank 1 Legend '
+m989876525:
+  viewers: 26
+  status: Eason - left the team HKA >_<  NP
+kotercillo:
+  viewers: 25
+  status: '[ES] rank1 soloQ'
+-------------------------
+

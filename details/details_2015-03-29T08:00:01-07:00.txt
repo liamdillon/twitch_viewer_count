@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-29T08:00:01-07:00
+
+Number of channels: 298
+
+Total viewers: 5537
+
+Total Viewers for top 25 streams:
+4981
+
+Viewer counts:
+[1787, 630, 530, 428, 303, 214, 150, 148, 146, 135, 71, 65, 64, 52, 41, 31, 29, 25, 23, 22, 19, 19, 17, 16, 16]
+
+---
+chu8:
+  viewers: 1787
+  status: '[NA] Rank 1 Murky/Abathur +@'
+guardsmanbob:
+  viewers: 630
+  status: Rank1! - Guardsman Bob!
+ihosty:
+  viewers: 530
+  status: Hosty -Rank 1 NA HOTS  - | Sylvanas HYPE |  |  9/9 Golden Classes | 23x
+    Legend |  Blackrock hype soon Kreygasm
+tavernofheroes:
+  viewers: 428
+  status: Fnatic vs Gamers2 @ Enter the Storm by HappyZerG
+groeit:
+  viewers: 303
+  status: Heroes, then D3
+heroesone:
+  viewers: 214
+  status: '[FR] Born to be 1 avec Tainder '
+zomgitshwoarang:
+  viewers: 150
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+player2player:
+  viewers: 148
+  status: '[PT-BR] Heróis do Toró com o Caricaz! | Maratona P2P [ 10R$ | Novo SUB
+    = 1 HR ]'
+in4game:
+  viewers: 146
+  status: Розыгрыш Ключей и Лига Героев
+heroesofthestormhu:
+  viewers: 135
+  status: Heroes of the Storm Magyarország
+gerdamherdtv:
+  viewers: 71
+  status: '[GER] WellMet Gerd MLG Plays'
+dragomangreektitans:
+  viewers: 65
+  status: 29/3/15 HOTS+ASSETTO CORSA+DAYZ
+warlegend:
+  viewers: 64
+  status: '[FR] Yamakhalah & Oith Plays !'
+tolyawa:
+  viewers: 52
+  status: DOBROTA GAMING
+iamkado:
+  viewers: 41
+  status: 'Fnatic VS Gamers2 || Enter the Storm CUP: Qualifier #3 [PT-BR] Bracket:
+    http://bit.ly/1BDweBp'
+esl_heroes_pl:
+  viewers: 31
+  status: '[PL] Go4Heroes Europe Cup #17'
+octo83:
+  viewers: 29
+  status: 'GER :: Helden- und Teamliga :: www.moreheroes.de'
+catberry:
+  viewers: 25
+  status: '[GER] Gemütlicher Austausch mit Neulingen (<20) im Coop  - :3 - Hab nochmal
+    1 Keys zum vergeben'
+kotercillo:
+  viewers: 23
+  status: '[ES] rank1 soloQ'
+esl_moretv_heroes:
+  viewers: 22
+  status: '[GER] Go4Heroes Europe Cup #17'
+slita:
+  viewers: 19
+  status: 2ND Day HotS Sylvanas main~Slita~Full Time Streamer
+all_in_gamez:
+  viewers: 19
+  status: CZ/SK-HOTS+giveaway
+witness1129:
+  viewers: 17
+  status: 【Chakey】Team Fantasy KR Server Rank1!!!
+judgehype:
+  viewers: 16
+  status: '[FR] Clés beta à gagner dès 16h00 - JudgeHype TV'
+jamorotv:
+  viewers: 16
+  status: 5x BETA KEY HOTS FOR EVERY 5 FOLLOWERS -  @Jamoro
+-------------------------
+

@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-30T19:00:01-07:00
+
+Number of channels: 275
+
+Total viewers: 2162
+
+Total Viewers for top 25 streams:
+1732
+
+Viewer counts:
+[448, 305, 165, 153, 81, 77, 69, 66, 56, 40, 37, 32, 30, 30, 22, 17, 16, 15, 13, 11, 11, 11, 9, 9, 9]
+
+---
+gosuzuna:
+  viewers: 448
+  status: C9 Zuna Playing Not sick anymore time for some commentary later? :D
+kiyeberries:
+  viewers: 305
+  status: '[1080p] We''re back?'
+hots_mcmuffin:
+  viewers: 165
+  status: 'McMuffin: Ranked 50 to 1'
+chu8:
+  viewers: 153
+  status: '[NA] Rank 1 Kimchi Stream'
+dotod:
+  viewers: 81
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Monday! Founder Pack Giveaway
+    TODAY+NA Beta Keys :D
+xelayirl:
+  viewers: 77
+  status: ^^RANK 1^^ XELAY^^  21GOLD hero^^ FEEL FREE ASK ANY HOTS QUESTION :)
+fr4gshout:
+  viewers: 69
+  status: Push for 7k followers  Road to Partner   Avidesports.com
+heroesone:
+  viewers: 66
+  status: '[FR] Don''t worry be carried avec Rach'
+slita:
+  viewers: 56
+  status: 30+ Beta Keys~key after every win ;p~ Sylvanas Main~Slita~Full Time Streamer
+originpc:
+  viewers: 40
+  status: Heroes of the Storm w/ KoozyKitten - cutest couple on Twtich - ORIGIN PC
+holyonline:
+  viewers: 37
+  status: '[BR] Rank 1 jogando de buenas'
+therealhorsemaster:
+  viewers: 32
+  status: BETA KEY GIVEAWAY! Time is money, friend!
+nasbotini:
+  viewers: 30
+  status: '[GER] TrioQ - 1000+ Support Games - Rank 1 HL - Team Moreheroes C&C'
+jessicagoch:
+  viewers: 30
+  status: 
+ixeres:
+  viewers: 22
+  status: HotS - Sylvanas Plz.
+thewilq:
+  viewers: 17
+  status: 'RANK#1 - Rozdajemy klucze! #GRY Z WIDZAMI :) #VIKINGOWIE :D :D :D '
+omgcolin:
+  viewers: 16
+  status: LZH Gaming OMGColin | Team League!
+killadrix77:
+  viewers: 15
+  status: 'Heroes of the Storm: Learning New Champs, Leveling Account and Heroes!'
+snakelalala:
+  viewers: 13
+  status: 巨型矮人   后蟲才是我的女王~
+balthazarvon:
+  viewers: 11
+  status: ¡Jugando con los amiguitos! (se sortea beta a los 30 viewers)
+selenityy:
+  viewers: 11
+  status: HotS Ranked Play w/ Selenityy <3
+unctioussc:
+  viewers: 11
+  status: 'Hero League Solo Queue: Fresh cut straight out the salon edition'
+groeit:
+  viewers: 9
+  status: Heroes, then D3
+galeaeva:
+  viewers: 9
+  status: We could be watching cat videos
+xthirty:
+  viewers: 9
+  status: I wanna be the very best @xraythirty
+-------------------------
+

@@ -1,0 +1,96 @@
+-------------------------
+Timestamp: 2015-03-28T21:00:02-07:00
+
+Number of channels: 261
+
+Total viewers: 6104
+
+Total Viewers for top 25 streams:
+5722
+
+Viewer counts:
+[3745, 630, 255, 214, 206, 86, 63, 55, 49, 54, 51, 49, 37, 37, 21, 21, 21, 17, 17, 18, 16, 16, 19, 13, 12]
+
+---
+esl_heroes:
+  viewers: 3745
+  status: ESL Playoffs Season 1 | Day 2
+chu8:
+  viewers: 630
+  status: '[NA] Rank 1 Murky Challenge'
+anm60forjesus:
+  viewers: 255
+  status: '[18+][PC] Gayroes of the Storm!'
+beholdertv:
+  viewers: 214
+  status: '[BR] Beholder Of Eternity HADOUKEN ༼つಠ益ಠ༽つ ─=≡ΣO))'
+xelayirl:
+  viewers: 206
+  status: ^^RANK 1^^ XELAY^^  21GOLD hero^^ FEEL FREE ASK ANY HOTS QUESTION :)
+newcomplaint:
+  viewers: 86
+  status: 'NewComplaint || First Time Playing || Jumping jacks/chin-ups for kitten
+    fund donations!! '
+fr4gshout:
+  viewers: 63
+  status: Push for 7k followers Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+eghtv:
+  viewers: 55
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+trikslyr:
+  viewers: 49
+  status: Rank 1 Hero League. Builds at the bottom of the page now.
+tolyawa:
+  viewers: 54
+  status: DOBROTA GAMING
+vawnievoulphie:
+  viewers: 51
+  status: 龴◕ɷ◕龴JOIN OUR QUICK MATCH [NA]
+benacious:
+  viewers: 49
+  status: '[NA] Weekend Heroes Madness!'
+dotod:
+  viewers: 37
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Saturday Strumarino, Beta
+    Keys/Founders Pack Today!
+loryy1990:
+  viewers: 37
+  status: '<Lory>  24h Stream + Giveaway (start: 10am)'
+heroesone:
+  viewers: 21
+  status: '[FR] Rediffusions !'
+wolfhack49:
+  viewers: 21
+  status: '[ESP] #HeroesFriday - Regalando Betas con Wolfhack'
+nasbotini:
+  viewers: 21
+  status: '[GER] Rank 1 - 1000+ Support Games - LvL 20 Uther'
+all_in_gamez:
+  viewers: 17
+  status: CZ/SK-HOTS+giveaway
+symnnn:
+  viewers: 17
+  status: '[GER/EN] Midnight Gaming! Wer is dabei? - 720p ᴴᴰ'
+skookgaming:
+  viewers: 18
+  status: Premade HoTs groups. Weekly gift card giveaways for followers! Stay awhile
+    and hang out.
+gimloo:
+  viewers: 16
+  status: SWE/ENG AUTO DJ PLZ STOP BY EITHER ON STREAM OR IN REAL LIFE YOU ARE WELCOME
+    :):) HYPE!!!!!!!!
+greentea_1013:
+  viewers: 16
+  status: '[GreenTea] - 3/29  外交Time。'
+itzkoed:
+  viewers: 19
+  status: Heroes of the Storm!! Learning the game! Founder's giveaway at 200 followers!!
+killcrit:
+  viewers: 13
+  status: Ranked Heroes of the Storm
+mexyh:
+  viewers: 12
+  status: '[FR] Héroique Rang1 avec les amigos. Finalement on re stream >.< Crude
+    content. Follow + PM me pour une key. 4 left.'
+-------------------------
+

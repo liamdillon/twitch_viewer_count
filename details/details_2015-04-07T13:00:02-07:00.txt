@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-04-07T13:00:02-07:00
+
+Number of channels: 313
+
+Total viewers: 6046
+
+Total Viewers for top 25 streams:
+5406
+
+Viewer counts:
+[1357, 870, 505, 493, 350, 288, 257, 150, 131, 121, 92, 85, 81, 70, 69, 62, 62, 59, 57, 54, 54, 48, 35, 31, 25]
+
+---
+guardsmanbob:
+  viewers: 1357
+  status: Rank1! - Guardsman Bob!
+followgrubby:
+  viewers: 870
+  status: Grubby - Heroes of the Storm - Ranked & QM!
+gosuzuna:
+  viewers: 505
+  status: C9 Zuna Rank 1 Which master skin to get next?
+arkamn:
+  viewers: 493
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+diepixelfailer:
+  viewers: 350
+  status: '[GER]ᴴᴰ  HILFE ich werde geviewbottet!!! + OB Charity Event | !songrequest
+    ON   ᕙ(° Д°)／D═══╦╤╗'
+exi1ia:
+  viewers: 288
+  status: '[RU] Team Liquid vs. ArthasStroitHram @BO3  [Relegation Major League Season
+    2] @BlizzHeroesRU'
+happyzerg:
+  viewers: 257
+  status: Стендиню за Ярдов на Open League
+no1zyboy:
+  viewers: 150
+  status: Лига + розыгрыш 30 ключей ЗБТ!
+fenixchaos:
+  viewers: 131
+  status: '[NA] Rank 1 Fenixchaos! [EN] [FR] Feel free to ask any questions ^^'
+youbetterknowme:
+  viewers: 121
+  status: '[Ger/Eng] KnowMe playing TeamLeague with Subs :)'
+enjoyphoenixgaming:
+  viewers: 92
+  status: EnjoyPhoenix & WaRTeK sur Heroes Of The Storm !
+nysira:
+  viewers: 85
+  status: 'Quick Matches / Hero Leagues! | HOTS Beta-Keys (EU) every 25 followers
+    | More videos at youtube.com/twitchnysira <3 '
+gerdamherdtv:
+  viewers: 81
+  status: '[GER] WellMet Gerd Hey Kippa Kippa'
+manetherbug:
+  viewers: 70
+  status: '[ENG/DK] Pwn pwn and die!'
+yourchinafan:
+  viewers: 69
+  status: '[Eng/Rus] Trying ranked games'
+heroesone:
+  viewers: 62
+  status: '[FR] Fouz''Party avec Fouz (Normal quoi ...)'
+semiproproject:
+  viewers: 62
+  status: '[NA] R1  In Depth Commentary & Explanations | KilicK | Day 57/∞ ヽ〳 ՞ ᗜ
+    ՞ 〵ง'
+gradenkor:
+  viewers: 59
+  status: The usual
+demosc:
+  viewers: 57
+  status: '[PT-BR] Deu vontade de cantar hoje - karaoke stream'
+ladygothic:
+  viewers: 54
+  status: '[PL] Hotsik'
+vanguardstv:
+  viewers: 54
+  status: Vanguards - Ranked Solo Queue
+turunmarkku:
+  viewers: 48
+  status: 'Kaunter-streik: Go on offensiv, heroes of the storm'
+moonboonsworld:
+  viewers: 35
+  status: Moonboon & IpuFuchs gammeln bissel Heroes!
+in4game:
+  viewers: 31
+  status: Лига Героев Ранг 3. Вперёд К Вершинам!
+pixelle_:
+  viewers: 25
+  status: '[FR/CH] Giveaway Key ! Duo avec Lightmourne. Road to 1200 follow'
+-------------------------
+

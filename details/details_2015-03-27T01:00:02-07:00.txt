@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-27T01:00:02-07:00
+
+Number of channels: 141
+
+Total viewers: 1958
+
+Total Viewers for top 25 streams:
+1763
+
+Viewer counts:
+[516, 263, 221, 163, 81, 58, 56, 49, 46, 38, 33, 31, 29, 25, 24, 24, 23, 16, 15, 11, 10, 9, 8, 8, 6]
+
+---
+ryuzilla:
+  viewers: 516
+  status: 5 Stack Ranked
+semiproproject:
+  viewers: 263
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 46/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+tayzondaygames:
+  viewers: 221
+  status: Tay Zonday Plays Heroes Of The Storm!
+solidjakegg:
+  viewers: 163
+  status: SolidJake [60FPS] Team League w/ Ryuzilla, detach, and more!
+godspd:
+  viewers: 81
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+itsmikuru:
+  viewers: 58
+  status: HotS | Key Giveaway | It's only a  game, Y U HEFF 2 B MED?
+ggmarche:
+  viewers: 56
+  status: ♠ NA | Marche ♠ ^^ Viewer games~  (Tent Stream? <3)
+tolyawa:
+  viewers: 49
+  status: TOP777 VIKINGS EU
+ulqi:
+  viewers: 46
+  status: Качаем US аккаунт! Раздаем Ключи!
+heroesone:
+  viewers: 38
+  status: '[FR] La Meta-list avec Manta !'
+mcintyrelol:
+  viewers: 33
+  status: 'Duo Queue [MLG Titan 2 Winner]- AMA '
+omgcolin:
+  viewers: 31
+  status: LZH Gaming OMGColin | Team League!
+erhotv:
+  viewers: 29
+  status: coL.Erho; GO BIG OR GO HOME
+k1pro:
+  viewers: 25
+  status: C9 k1pro ~ SYLVANAS ~ casual games w friends, no chat
+nickhots:
+  viewers: 24
+  status: TL Open Champ. 6k+ games played. AMA! Commentary.
+anothernotch:
+  viewers: 24
+  status: 'Assemble Notchypoos!!! Keys to giveaway!!! '
+johanjazz:
+  viewers: 23
+  status: '[1 rank] ヽ(・∀・)ﾉ  Утренний стримец под музычку '
+sp5430:
+  viewers: 16
+  status: 【鱔魚】感冒沒聲音了!!...實在不太舒服 還是想要玩暴雪英霸
+cj1772101:
+  viewers: 15
+  status: 'Fantasy紅霞 [rank1] : 沉默deBuff ~ 9999s'
+eghtv:
+  viewers: 11
+  status: Elite Gaming House Streaming 24/7- Heroes of the Storm con Pao!
+itsfixel:
+  viewers: 10
+  status: '[GER] with Keygiveaway every 50 Viewer!'
+mcslive:
+  viewers: 9
+  status: MCS Live утрениий хотс со зрителями
+ravekyrasyn:
+  viewers: 8
+  status: '[KR]RAVEkyrasyN 1grade silvanas play'
+vio7_2:
+  viewers: 8
+  status: NEW AT THIS GAME! GIVEAWAY AT 850 FOLLOWERS
+basstik78:
+  viewers: 6
+  status: '[ FR/HD ] Farming de bon matin'
+-------------------------
+

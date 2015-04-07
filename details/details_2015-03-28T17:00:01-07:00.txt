@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-28T17:00:01-07:00
+
+Number of channels: 317
+
+Total viewers: 7799
+
+Total Viewers for top 25 streams:
+7259
+
+Viewer counts:
+[4943, 1210, 185, 157, 124, 70, 64, 62, 59, 48, 41, 33, 30, 30, 25, 24, 22, 21, 19, 17, 17, 16, 16, 14, 12]
+
+---
+esl_heroes:
+  viewers: 4943
+  status: ESL Playoffs Season 1 | Day 2
+followgrubby:
+  viewers: 1210
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+gerdamherdtv:
+  viewers: 185
+  status: '[GER] WellMet Gerd MLG Plays'
+xelayirl:
+  viewers: 157
+  status: eu key giveaway :) at 15 daily follower^^XelayIRL^^ rank1   20XGOLD hero^^
+    FEEL FREE ASK ANY HOTS QUESTION :)
+djwheat:
+  viewers: 124
+  status: Heroes of the Storm (NO MUSIC - Listening to http://twitch.tv/ultra)
+fr4gshout:
+  viewers: 70
+  status: Push for 7k followers Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+sonderx:
+  viewers: 64
+  status: Regular people VS Fe + 1 Primer Torneo HISO
+heroesone:
+  viewers: 62
+  status: '[FR] Rediffusions !'
+cebka_je:
+  viewers: 59
+  status: '[ASH] CEBKAJE  -  Отвечаю на вопросы. '
+in4game:
+  viewers: 48
+  status: Розыгрыш Ключей и Лига Героев
+basickz:
+  viewers: 41
+  status: Basickz | Rank 1 Legend | Marathon at goal!
+realgaba:
+  viewers: 33
+  status: Heroes of the Storm mit Giveaway (HoTs Keys und Secret Giveaway)
+choco_peach:
+  viewers: 30
+  status: '[RU/ENG]  Розыгрыш ключей! '
+sgdx:
+  viewers: 30
+  status: ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda > lvling and stuff.'
+kiyeberries:
+  viewers: 25
+  status: '[1080p] FPSaturday - Nosgoth'
+itzkoed:
+  viewers: 24
+  status: Heroes Of the Sylvanas! Founders Giveaway at 250 followers!!
+humanamente_mezclando:
+  viewers: 22
+  status: '[ESP] Rank y Normal con viewers <3 '
+jowetv:
+  viewers: 21
+  status: 【EU R.1】 Gamers2 Jowe - hero league [EN/PL]
+darthbarbie:
+  viewers: 19
+  status: Long time no see guysssss! :O I've missed you...
+ogamingtv:
+  viewers: 17
+  status: '[FR] REDIFFUSIONS de la semaine'
+rosath:
+  viewers: 17
+  status: '[Day 14] I have no idea what I''m doing'
+cherryschnaps:
+  viewers: 16
+  status: 720p [GER/EN] Immer feste drauf da! xD
+nony:
+  viewers: 16
+  status: Top MMR hero league
+phobersus:
+  viewers: 14
+  status: '[TR] [BPI] Patch Yayını + Sürprizler'
+nohandsken:
+  viewers: 12
+  status: Quadriplegic is playing Heroes of The Storm with his mouth
+-------------------------
+

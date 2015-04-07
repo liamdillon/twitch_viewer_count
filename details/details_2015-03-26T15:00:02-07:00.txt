@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-26T15:00:02-07:00
+
+Number of channels: 311
+
+Total viewers: 5224
+
+Total Viewers for top 25 streams:
+4706
+
+Viewer counts:
+[1274, 944, 755, 546, 400, 119, 114, 92, 71, 40, 34, 34, 33, 31, 28, 27, 22, 21, 21, 20, 18, 17, 15, 15, 15]
+
+---
+gosuzuna:
+  viewers: 1274
+  status: C9 Zuna Rank 1 A little sick but gonna get some games in!
+followgrubby:
+  viewers: 944
+  status: Playing Sylvanas + Patched heroes!
+taketv_heroes:
+  viewers: 755
+  status: HEROES BATTLE MONTHLY FINAL POWERED BY SHARK ZONE
+arkamn:
+  viewers: 546
+  status: 【RUS】 KEY GIVEAWAY, 1st RANK, отвечаю на Ваши вопросы между играми.
+chu8:
+  viewers: 400
+  status: '[NA] I own Murky'
+adamkoebel:
+  viewers: 119
+  status: heroes of the storrrrrm
+nysira:
+  viewers: 114
+  status: 'Giveaway: HOTS Beta-Keys (EU) every 50 followers | Sub Thursday | More
+    videos at youtube.com/twitchnysira <3 '
+heroesone:
+  viewers: 92
+  status: '[FR] Les petits lapins du Nexus avec Exo'
+thekonus:
+  viewers: 71
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+demosc:
+  viewers: 40
+  status: '[PT-BR] Brincando de feedar...como sempre XD'
+gillyweedsc2:
+  viewers: 34
+  status: NA beta key giveaway! Sylvanas practice!
+sgdx:
+  viewers: 34
+  status: ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda >'
+ulqi:
+  viewers: 33
+  status: 'Качаем  US аккаунт '
+gamewithgray:
+  viewers: 31
+  status: Game with Gray attempts
+tigerlily___:
+  viewers: 28
+  status: Yay lets play heroes!
+superfancyunicorn:
+  viewers: 27
+  status: '♥ Uni of the Storm: Hero League! ♥ The struggle is real, y''all. o_o ♥ '
+cayennethefirst:
+  viewers: 22
+  status: BR- Fluxo da Sylvana - Pub do Cayenne
+shtyr:
+  viewers: 21
+  status: 
+xibe5238:
+  viewers: 21
+  status: '[Fr/Be] Xibe - Rank 1 - Tips & Builds sur demande '
+foerest:
+  viewers: 20
+  status: '4k+ mmr ☺ top 10 ☺ Viking micro 101  hotslogs.com '
+hyperiatv1:
+  viewers: 18
+  status: '[FR] [Spectre Nudiste] Giveaway 200 viewers Nova ftw'
+thetadin:
+  viewers: 17
+  status: Tadin | Relaxations
+iholdshift:
+  viewers: 15
+  status: KEY GIVEAWAY!!!!!!! CHILLIN AND LEVELIN DEM HEROES!
+spleenstoo:
+  viewers: 15
+  status: 【FR - HD】Spleen & Aureana !
+w4lker:
+  viewers: 15
+  status: Go for Heroes Szybkie & Liga ! Giveaway 11 keys  !  Never Give up ! [MMORPG.org.pl]
+-------------------------
+

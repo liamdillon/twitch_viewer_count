@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-28T14:00:01-07:00
+
+Number of channels: 397
+
+Total viewers: 7489
+
+Total Viewers for top 25 streams:
+6589
+
+Viewer counts:
+[3419, 792, 721, 262, 224, 211, 145, 88, 75, 72, 72, 58, 56, 54, 52, 37, 35, 34, 29, 29, 27, 26, 24, 24, 23]
+
+---
+esl_heroes:
+  viewers: 3419
+  status: ESL Playoffs Season 1 | Day 2
+followgrubby:
+  viewers: 792
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+guardsmanbob:
+  viewers: 721
+  status: Rank1! - Guardsman Bob!
+zomgitshwoarang:
+  viewers: 262
+  status: '[GER] Beta Key Giveaway!!'
+happyzerg:
+  viewers: 224
+  status: Сильванка и розыгрыш ключей <3
+heroesone:
+  viewers: 211
+  status: '[FR] Soirée MD Liège avec Heroes Gaming'
+iwarturtles:
+  viewers: 145
+  status: Coop and Quickmatches. Not pro!
+burninggirl:
+  viewers: 88
+  status: '[RU/ENG] Yard.Gela - Team league. '
+ogamingtv:
+  viewers: 75
+  status: '[FR] O''Gaming GodLikeShow dans " Troll Tales" - HOTS Games Viewers'
+nysira:
+  viewers: 72
+  status: 'Giveaway: HOTS Beta-Keys (EU) every 50 followers | SUB Giveaway (CM STORM
+    MIZAR MOUSE) | More videos at youtube.com/twitchnysira <3 '
+sonderx:
+  viewers: 72
+  status: fE + 1 VS Mata Co Primer Torneo HISO
+heroeswartv:
+  viewers: 58
+  status: '[ESP] Bailando con Gromir por la noche!!!'
+xelayirl:
+  viewers: 56
+  status: ^^XelayIRL^^ rank1   20XGOLD hero^^ FEEL FREE ASK ANY HOTS QUESTION :)
+in4game:
+  viewers: 54
+  status: Розыгрыш Ключей и Лига Героев
+cebka_je:
+  viewers: 52
+  status: '[ASH] CEBKAJE  -  Разыгрываю ключи после стрима.'
+kuzmitch_ru:
+  viewers: 37
+  status: Тюрьма для хомячка
+kraxell2463:
+  viewers: 35
+  status: '[GEWINNSPIEL][HD+][GER/ENG] Wir verlosen 7 Heroes Beta Keys!'
+nekomuraa:
+  viewers: 34
+  status: '5 HOTS KEY GIVEAWAY / after HOTS ill be doing karaoke '
+wwwgameovergr:
+  viewers: 29
+  status: Gameover plays Heroes Of The Storm
+necr1te:
+  viewers: 29
+  status: '[GER] Heroes of the Storm - Ranked Games !!!'
+moonboonsworld:
+  viewers: 27
+  status: HotS! Nova 10+ Action! Mit Moonboon und IpuFuchs!
+wolfforcex:
+  viewers: 26
+  status: ส็็็็็็็็็็็็็็็็็็็(ಠ益ಠ)ส็็็็็็็็็็็็็็็็็็็3 Keys to giveway & type !coins
+    for currency system! (entry will be with points)୧༼ ͡◉ل͜ ͡◉༽୨
+keko1102:
+  viewers: 24
+  status: '[GER] 8 Beta Key''s EU Verlosung!  !Verlosung für infos'
+octo83:
+  viewers: 24
+  status: 'GER :: Helden- und Teamliga :: www.moreheroes.de'
+sgdx:
+  viewers: 23
+  status: ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda > lvling and stuff.'
+-------------------------
+

@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-31T11:00:02-07:00
+
+Number of channels: 285
+
+Total viewers: 7384
+
+Total Viewers for top 25 streams:
+7570
+
+Viewer counts:
+[4209, 896, 490, 423, 173, 178, 189, 118, 115, 93, 86, 85, 77, 66, 66, 53, 54, 44, 41, 22, 21, 19, 18, 17, 17]
+
+---
+esl_heroes:
+  viewers: 4209
+  status: ESL Playoffs Season 1 | Day 2
+guardsmanbob:
+  viewers: 896
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 490
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+reveevtv:
+  viewers: 423
+  status: 
+heroesone:
+  viewers: 173
+  status: '[FR] Rank 1 Try Hard avec Luiji'
+tavernofheroes:
+  viewers: 178
+  status: SK vs Fnatic @ ESL MAJOR LEAGUE by HappyZerG
+heroeswartv:
+  viewers: 189
+  status: '[ESP] FNATIC 2 vs 1  SK Gaming - ESL #MajorLeague Playoffs EU'
+koolein:
+  viewers: 118
+  status: Dutch/NL - Q&A - Heroes of the Storm BETA KEYS GIVEAWAY!
+wolfeater_il:
+  viewers: 115
+  status: BLA BLA BLA
+theblinks:
+  viewers: 93
+  status: compLexity Blinks - SECRET STREAM DO NOT WATCH
+player2player:
+  viewers: 86
+  status: '[PT-BR] ~Heróis do Toró~ com o Caricaz! SR Ligado! | Maratona P2P [ 10R$
+    | Novo SUB = 1 HR ]'
+beholdertv:
+  viewers: 85
+  status: '[BR] Beholder Of the Storm HADOUKEN ༼つಠ益ಠ༽つ ─=≡ΣO))'
+rsnicetry:
+  viewers: 77
+  status: HotS mit NiceTry
+lucifron7:
+  viewers: 66
+  status: Liquid'LucifroN playing Heroes
+mortsc2:
+  viewers: 66
+  status: Heroes of the Storm mit Mort! Ganz kleines Gameplay!
+in4game:
+  viewers: 53
+  status: Ранг 1 - реален? Мешок ключей для зрителей.
+dotod:
+  viewers: 54
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ HOME STRETCH TO RANK 1!
+angellatv:
+  viewers: 44
+  status: '[PL/ENG] QM Zerathulem z rotacji ( Uczę się grać). O 17 szukanie graczy
+    do drużyny JaRock. Dzień#4'
+gerdamherdtv:
+  viewers: 41
+  status: '[GER] WellMet Gerd Abendliche Vernichtung Kappa'
+hackerlou1:
+  viewers: 22
+  status: '[GER] Just Chilling '
+exodium:
+  viewers: 21
+  status: '[GER&ENG] Big Giveaway @10pm; take part the whole day.. read description
+    or ask us... you can win a awesome pirze today :)'
+coniine:
+  viewers: 19
+  status: '|UK/PL| Hardcore WD. I missed you tards. '
+wonkywobblar:
+  viewers: 18
+  status: =TOA= MOBA? wtf is a MOBA!
+mexyh:
+  viewers: 17
+  status: '[FR] Best Valla Congo. R1 yoloqueue :]'
+pimentarosa:
+  viewers: 17
+  status: '[PT/BR] Jogando para relaxar um pouco =) # Sorteio de keys #'
+-------------------------
+

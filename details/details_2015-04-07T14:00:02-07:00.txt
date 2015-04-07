@@ -1,0 +1,19 @@
+-------------------------
+Timestamp: 2015-04-07T14:00:02-07:00
+
+Number of channels: 295
+
+Total viewers: 5549
+
+Total Viewers for top 25 streams:
+1
+
+Viewer counts:
+[1]
+
+---
+blue_virus:
+  viewers: 1
+  status: Lets get Rank 1 | Zera Main
+-------------------------
+

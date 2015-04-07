@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-31T03:00:01-07:00
+
+Number of channels: 138
+
+Total viewers: 3193
+
+Total Viewers for top 25 streams:
+3143
+
+Viewer counts:
+[1591, 499, 152, 135, 121, 115, 86, 61, 61, 48, 37, 34, 31, 29, 22, 20, 18, 17, 14, 12, 11, 9, 8, 7, 5]
+
+---
+chu8:
+  viewers: 1591
+  status: 1 Murky, 1 stream - Rank 1
+liquidneo:
+  viewers: 499
+  status: ◄R1 LiquiD► Got Gold? ► liquidneo.com ►
+heroesone:
+  viewers: 152
+  status: '[FR] SIC and Destroy avec SiC'
+ulqi:
+  viewers: 135
+  status: Дорога к 50 рангу
+maihopawango:
+  viewers: 121
+  status: '[720p | 60 fps | GER] Heroes of the Storm - Beta Key GIEFAWAY IHR LÜMMEL
+    !!!!!! Kappa'
+godspd:
+  viewers: 115
+  status: Утренний. Горячий. Твой ♥ vk.com/godspd
+semiproproject:
+  viewers: 86
+  status: '#1 Onesie Stream NA - In Depth Commentary & Explanations [R1] | KilicK
+    | Day 50/∞  ヽ〳 ՞ ᗜ ՞ 〵'
+anthonyacc:
+  viewers: 61
+  status: Sick pup, can't sleep - Road to Rank 1! (all new subs get a HoTS key)
+cortiss:
+  viewers: 61
+  status: Dzika Gwiazda He? <Maintanance Kappa ;>POLISH/ENGLISH]
+heroeswartv:
+  viewers: 48
+  status: '[ESP] SoloQ con Hankokku Mode Gosu ON'
+prayscream:
+  viewers: 37
+  status: 'j.pRay -  Hrajeme Rankedy (⊙.⊙(☉̃ₒ☉)⊙.⊙) '
+tolyawa:
+  viewers: 34
+  status: DOBROTA GAMING
+pypgamers:
+  viewers: 31
+  status: '[ESP] Rankeds y partidas normales con @BulgangP'
+keko1102:
+  viewers: 29
+  status: '[GER] eazy peazy!'
+skeitty:
+  viewers: 22
+  status: Keitty is BACK | GROSSE NOOB! PLAY WITH VIEWERS
+ponponhuehuehue:
+  viewers: 20
+  status: CAPSLOCKFURY - Something something games
+ksk_smooverrella:
+  viewers: 18
+  status: HotS /w Smoo | Hier Text eingeben...
+n1ce0n3:
+  viewers: 17
+  status: Diamond1 LoL player doing HoTS
+sleepless_tv:
+  viewers: 14
+  status: (RU) Rank1. Лига героев как она есть! Показать всё, что скрыто!
+trindashe:
+  viewers: 12
+  status: '[GER] #Rank 1 #Schattenwölfe suchen Member #Betakey zu verschenken'
+askatsao:
+  viewers: 11
+  status: '  ASKA 大叔台 練習默契 歡迎大家提問及指導以及找隊伍'
+stormcasters:
+  viewers: 9
+  status: '[FR] Marley Rank 1 # SoloQ et Clé Béta à donner ! (Demandez les moi)'
+bigmyself:
+  viewers: 8
+  status: KZ-RU Игры с подписчиками! Паб и Ранг! Всем позитива))
+chiang001:
+  viewers: 7
+  status: 【肉肉】這遊戲也太難玩了吧
+lunarender:
+  viewers: 5
+  status: heros of the storm är bättre på svenska Stream
+-------------------------
+

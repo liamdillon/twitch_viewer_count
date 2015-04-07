@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-26T13:00:02-07:00
+
+Number of channels: 307
+
+Total viewers: 6117
+
+Total Viewers for top 25 streams:
+5552
+
+Viewer counts:
+[1271, 1074, 843, 561, 286, 201, 172, 145, 137, 127, 116, 83, 81, 73, 53, 51, 50, 35, 35, 34, 32, 28, 23, 21, 20]
+
+---
+taketv_heroes:
+  viewers: 1271
+  status: HEROES BATTLE MONTHLY FINAL POWERED BY SHARK ZONE
+gosuzuna:
+  viewers: 1074
+  status: C9 Zuna Rank 1 A little sick but gonna get some games in!
+guardsmanbob:
+  viewers: 843
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 561
+  status: 【RUS】 KEY GIVEAWAY, 1st RANK, отвечаю на Ваши вопросы между играми.
+heroesone:
+  viewers: 286
+  status: '[FR] Heroes of the Show avec Archa et Ikkrys'
+pamcakes:
+  viewers: 201
+  status: Pam ♥ // Climb to Rank 1!
+ogseries:
+  viewers: 172
+  status: '[ESP] OGSeries PyPHeroes Cup #2'
+gamesqueen:
+  viewers: 145
+  status: Starting now
+lowkotv:
+  viewers: 137
+  status: 'Lowko :: Heroes with the Girlfriend :: @LowkoTV'
+xelayirl:
+  viewers: 127
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+sibstlp:
+  viewers: 116
+  status: '[GER] Together-Stream http://kadgar.net/live/sibstlp/mitschl88'
+strasil:
+  viewers: 83
+  status: Strasil
+wolfeater_il:
+  viewers: 81
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+nysira:
+  viewers: 73
+  status: 'Giveaway: HOTS Beta-Keys (EU) every 50 followers | Sub Thursday | More
+    videos at youtube.com/twitchnysira <3 '
+thekonus:
+  viewers: 53
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+in4game:
+  viewers: 51
+  status: Раздача Ключей и Лига Героев. Ранг 4 -> 1
+dragomangreektitans:
+  viewers: 50
+  status: 26/3/15 HOTS+ASSETTO CORSA+DAYZ+GIVEAWAY
+heroeswartv:
+  viewers: 35
+  status: '[ESP] Ayane Stream | Sorteamos Betas EU!'
+dotod:
+  viewers: 35
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+kinulii:
+  viewers: 34
+  status: Kinu Windrunner | Earthworms have 5 hearts.
+sgdx:
+  viewers: 32
+  status: ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda >'
+angellatv:
+  viewers: 28
+  status: '[EN/PL] Przeprowadzka, JaRock- Drużynka i testowanie Sylvany.'
+moonboonsworld:
+  viewers: 23
+  status: HotS! Gemütlich auf dem Weg zu Level 40! Mit Moonboon und IpuFuchs!
+qlesau:
+  viewers: 21
+  status: '[Ger] nach 3 wöchiger Pause wieder rein finden!!'
+ksk_smooverrella:
+  viewers: 20
+  status: Heroes of the Storm /w Smoo !!! ViewerZocken !!! Later Altis Life
+-------------------------
+

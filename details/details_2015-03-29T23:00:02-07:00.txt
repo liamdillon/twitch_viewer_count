@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-29T23:00:02-07:00
+
+Number of channels: 154
+
+Total viewers: 3513
+
+Total Viewers for top 25 streams:
+3351
+
+Viewer counts:
+[1344, 1008, 215, 155, 99, 90, 61, 54, 53, 52, 46, 41, 19, 16, 15, 14, 10, 9, 9, 9, 8, 7, 5, 6, 6]
+
+---
+chu8:
+  viewers: 1344
+  status: '[NA] Rank 1 Kimchi Stream'
+boogie2988:
+  viewers: 1008
+  status: Chill stream tonight, playing some random games and chatting
+ryuzilla:
+  viewers: 215
+  status: 5 Stack Ranked
+mcintyrelol:
+  viewers: 155
+  status: 'coL_McIntyre Solo EU[MLG Titan 2 Winner]- AMA '
+anthonyacc:
+  viewers: 99
+  status: Leveling Sylvanas, and others :) 25 KEYS TO GIVE AWAY! (NA)
+fenixchaos:
+  viewers: 90
+  status: '[FR] [EN] Fenixchaos Giveway at 100 follower!'
+tolyawa:
+  viewers: 61
+  status: DOBROTA GAMING
+glaurungtv:
+  viewers: 54
+  status: '| Tempo Storm Glaurung! | Rank 1 | Working on mechanics | '
+yourchinafan:
+  viewers: 53
+  status: Штормовые герои!
+heroesone:
+  viewers: 52
+  status: '[FR] La Meta-lique avec Manta !'
+mikefrompgh:
+  viewers: 46
+  status: <NA> MURKY AND EXTRA BETA KEYS!!!
+annaprosser:
+  viewers: 41
+  status: Strawberry Streamin'
+eghtv:
+  viewers: 19
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+miss_seraphcor:
+  viewers: 16
+  status: '[GER] // Chillen und kucken was ansteht  ♥'
+blitzlike1:
+  viewers: 15
+  status: '[Ger] !songrequest !Coins HOTS Ranked '
+lostragh:
+  viewers: 14
+  status: '[FR] 4 CLEF BETA EU Heroes à gagner  - Ranked avec Lostragh&Paulo'
+sonderx:
+  viewers: 10
+  status: FINAL Regular people VS Hell Simphony Primer Torneo HISO
+mrjpickles:
+  viewers: 9
+  status: '[#132] MrJPickles late stream for a bit! Commentary/Music relaxing'
+eloonn_:
+  viewers: 9
+  status: Hoy HOTS! :D (ESP/ENG)
+mexyh:
+  viewers: 9
+  status: '[FR] R1 Tryhard. Zombie plays. 500 followers \o/ Merci :'')'
+dargok:
+  viewers: 8
+  status: 'Heroes! No really, I aint afraid of no Ghost Uther. -- Join on RaidCall:
+    7585414!'
+iholdshift:
+  viewers: 7
+  status: KEY GIVEAWAY NEXT 15 FOLLOWERS! HERO LEAGUE ALL NIGHT!
+vibes_softly:
+  viewers: 5
+  status: '[NA RP GIVEAWAY]  Best casual you havent heard of'
+hero_aisaka:
+  viewers: 6
+  status: 24 HOUR STREAM // Beta key giveaway (europe key)s // Rank 1 solo player
+    ＼( ｀.∀´)／ // Viewergame
+n1ce0n3:
+  viewers: 6
+  status: Diamond1 LoL player doing HoTS
+-------------------------
+

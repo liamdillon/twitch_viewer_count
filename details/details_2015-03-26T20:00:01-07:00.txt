@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-26T20:00:01-07:00
+
+Number of channels: 278
+
+Total viewers: 3765
+
+Total Viewers for top 25 streams:
+3323
+
+Viewer counts:
+[1936, 229, 186, 151, 105, 85, 66, 59, 56, 48, 52, 47, 45, 42, 32, 31, 24, 22, 21, 18, 17, 13, 13, 13, 12]
+
+---
+followgrubby:
+  viewers: 1936
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+xelayirl:
+  viewers: 229
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+semiproproject:
+  viewers: 186
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 46/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+misscliks:
+  viewers: 151
+  status: 'Heroes of the Storm Designer Kent-Erik Hagman - Eye on the Storm #26'
+solidjakegg:
+  viewers: 105
+  status: Sylvanas to 10 (currently lvl 9)
+eghtv:
+  viewers: 85
+  status: Elite Gaming House Streaming 24/7- Heroes of the Storm con Pao!
+lolirot:
+  viewers: 66
+  status: '♥ LATINO ♥ - #HeroesWeekend ! #Betas y #Customs com los Viewers!'
+djwheat:
+  viewers: 59
+  status: Heroes of the Storm - Blow stuff up with Jania!
+ryuzilla:
+  viewers: 56
+  status: Laddering
+heroesone:
+  viewers: 48
+  status: '[FR] La Meta-list avec Manta !'
+tolyawa:
+  viewers: 52
+  status: TOP777 VIKINGS EU
+dotod:
+  viewers: 47
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+inetkoxtv:
+  viewers: 45
+  status: HEROSI DZIĘCIOŁY BURSZTYNY
+achilles0fstyx:
+  viewers: 42
+  status: Playing some HotS with Drinking
+fr4gshout:
+  viewers: 32
+  status: ' Road to Partner   Avidesports.com'
+xibe5238:
+  viewers: 31
+  status: '[Fr/Be] Xibe - Rank 1 - Ligue par équipe - Tips & Builds sur demande '
+nwgamesbrasil:
+  viewers: 24
+  status: '[PT-BR] - Duque - Campeões da Cantareira [Song Request ON!]'
+gimloo:
+  viewers: 22
+  status: SWE/ENG AUTO DJ http://www.inet.se/produkt/2204966/asus-24-vg248qe-144hz
+    700 FOLLOWERS FAN MEETUP IN PLANNING DATE TIME? HYPE!!!!!!!!!!!!!!!
+therealhorsemaster:
+  viewers: 21
+  status: Beta Key Giveaways and Gazlowe plays!
+crucian24:
+  viewers: 18
+  status: 'Heroes of Storm RANKED! Heroes Beta Key Giveaways! #tune in #follow pwred
+    by ORIGIN PC!'
+rtd_dibella:
+  viewers: 17
+  status: '[ENG/FR] The dream for rank1, slowly grinding, ranking ^,^'
+selenityy:
+  viewers: 13
+  status: Sylvanas + New Patch w/ Selenityy <3
+faxanadu_:
+  viewers: 13
+  status: just messin around
+dbl2010:
+  viewers: 13
+  status: '[TR] <Uykudan Önce> Uykusuz her gece.  Sabaha kadar yayın devam.'
+cj1772101:
+  viewers: 12
+  status: 'Fantasy紅霞 [rank1] : 沉默deBuff ~ 9999s'
+-------------------------
+

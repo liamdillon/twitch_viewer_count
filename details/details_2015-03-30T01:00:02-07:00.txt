@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-30T01:00:02-07:00
+
+Number of channels: 128
+
+Total viewers: 3019
+
+Total Viewers for top 25 streams:
+2733
+
+Viewer counts:
+[1636, 204, 130, 113, 109, 103, 64, 55, 51, 46, 29, 28, 16, 23, 21, 14, 12, 11, 11, 11, 10, 10, 9, 9, 8]
+
+---
+chu8:
+  viewers: 1636
+  status: '[NA] Rank 1 Kimchi Stream'
+anthonyacc:
+  viewers: 204
+  status: 
+mcintyrelol:
+  viewers: 130
+  status: 'coL_McIntyre Solo EU[MLG Titan 2 Winner]- AMA '
+fenixchaos:
+  viewers: 113
+  status: '[NA] Fenixchaos Giveway at 100 follower!'
+glaurungtv:
+  viewers: 109
+  status: '| Tempo Storm Glaurung! | Rank 1 | Working on mechanics | '
+tolyawa:
+  viewers: 103
+  status: DOBROTA GAMING
+semiproproject:
+  viewers: 64
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 49/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง (Short Sunday Stream) '
+yourchinafan:
+  viewers: 55
+  status: road to rank 1
+seoulja_:
+  viewers: 51
+  status: 'coL.TigerJK Rank1 harrroLeague '
+angellatv:
+  viewers: 46
+  status: '[EN/PL] Poranny stream przed lekarzem :) + Adam '
+lastwolfplay:
+  viewers: 29
+  status: '[30/03] La matinale sur Heroes (bonus xp dudes !), Diablo a posé son lundi
+    =)'
+greentea_1013:
+  viewers: 28
+  status: '[GreenTea] - Rank1 3/30  '
+sonderx:
+  viewers: 16
+  status: rapidas con todo :D
+miss_seraphcor:
+  viewers: 23
+  status: '[GER] // vom Chillen entsteht spontan mal ein 12h Stream.. xD  ♥'
+ulqi:
+  viewers: 21
+  status: 'Качаем US аккаунт! '
+eghtv:
+  viewers: 14
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+lostragh:
+  viewers: 12
+  status: '[FR] 4 CLEF BETA EU Heroes à gagner  - Ranked avec Lostragh&Paulo'
+hero_aisaka:
+  viewers: 11
+  status: 24 HOUR STREAM // Rank 1 solo // Beta key giveaway (europe key)s // ＼( ｀.∀´)／
+    // Viewergame
+zealot711:
+  viewers: 11
+  status: Stuff - Streaming every day
+bigmyself:
+  viewers: 11
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+christinagailc:
+  viewers: 10
+  status: Drop it like it's HoTS!
+botlikex:
+  viewers: 10
+  status: '[GER|720p|PC] #Heroes #of #the #storm #viewergames - DREAM-STREAM.EU'
+xtinkara:
+  viewers: 9
+  status: working on getting back rank 1 Solo Que-rusty gameplay atm
+mexyh:
+  viewers: 9
+  status: '[FR] R1 Tryhard. Zombie plays. 500 followers \o/ Merci :'')'
+r4verpunk:
+  viewers: 8
+  status: Frühschicht in der Liga
+-------------------------
+

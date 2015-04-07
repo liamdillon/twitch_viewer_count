@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-29T21:00:02-07:00
+
+Number of channels: 204
+
+Total viewers: 2462
+
+Total Viewers for top 25 streams:
+2127
+
+Viewer counts:
+[689, 472, 231, 143, 80, 79, 40, 42, 40, 39, 37, 27, 23, 22, 22, 20, 18, 17, 14, 13, 13, 13, 12, 12, 9]
+
+---
+chu8:
+  viewers: 689
+  status: '[NA] Rank 1 Murky/Abathur +@'
+trikslyr:
+  viewers: 472
+  status: Playing requested Heroes
+ryuzilla:
+  viewers: 231
+  status: 5 Stack Ranked
+dotod:
+  viewers: 143
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Chill Sunday Streem :D NA Beta
+    Keys!
+mikefrompgh:
+  viewers: 80
+  status: <NA> MURKY AND EXTRA BETA KEYS!!!
+chinglishtv:
+  viewers: 79
+  status: Testing new streaming pc no streamino YET
+bucklylol:
+  viewers: 40
+  status: rank 50 to rank 1 in a week! good vibes in here!
+heroesone:
+  viewers: 42
+  status: '[FR] La Meta-lique avec Manta !'
+foerest:
+  viewers: 40
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+eghtv:
+  viewers: 39
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+brisasuavef:
+  viewers: 37
+  status: Upando nessa bagaça XP [PT/BR]
+fourcourtjester:
+  viewers: 27
+  status: The Beginning of the Best - Creating the new UI
+lilbumblebear:
+  viewers: 23
+  status: 'Heros of the storm with Kristen '
+jschritte:
+  viewers: 22
+  status: Domingão do Monstrão
+rosath:
+  viewers: 22
+  status: '[Day 15] *insert catchy sentence to get attention here*'
+cj1772101:
+  viewers: 20
+  status: 'Fantasy紅霞 [rank1] : 沉默deBuff ~ 9999s'
+jessicaclareee:
+  viewers: 18
+  status: what a noob-  5 MORE DAYS TILL BIRTHDAY STREAM <3
+balthazarvon:
+  viewers: 17
+  status: ¡Jugando con los amiguitos! (se sortea beta a los 30 viewers)
+fr4gshout:
+  viewers: 14
+  status: Push for 7k followers Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+gimloo:
+  viewers: 13
+  status: SWE/ENG AUTO DJ PLZ STOP BY EITHER ON STREAM OR IN REAL LIFE YOU ARE WELCOME
+    :):) HYPE!!!!!!!
+nwgamesbrasil:
+  viewers: 13
+  status: '[PT-BR] - Genkaku - Hots da madrugada!!! [SONGREQUEST ON]'
+blitzlike1:
+  viewers: 13
+  status: '[Ger] !songrequest !Coints HOTS Ranked '
+defebwar:
+  viewers: 12
+  status: '[NA] Beta Key Giveaways!! Rumble In The Nexus [Heroes Of The Storm (NA)]'
+mexyh:
+  viewers: 12
+  status: '[FR] Petit Hots R1 avec les viewers. 500 followers \o/'
+sonderx:
+  viewers: 9
+  status: FINAL Regular people VS Hell Simphony Primer Torneo HISO
+-------------------------
+

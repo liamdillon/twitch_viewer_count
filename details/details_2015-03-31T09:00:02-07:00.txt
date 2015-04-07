@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-31T09:00:02-07:00
+
+Number of channels: 259
+
+Total viewers: 4428
+
+Total Viewers for top 25 streams:
+3819
+
+Viewer counts:
+[1359, 497, 312, 295, 222, 151, 133, 111, 90, 87, 87, 61, 61, 57, 46, 43, 40, 23, 23, 23, 20, 19, 22, 19, 18]
+
+---
+guardsmanbob:
+  viewers: 1359
+  status: Team League - Guardsman Bob!
+zomgitshwoarang:
+  viewers: 497
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+esl_heroes:
+  viewers: 312
+  status: ESL Playoffs Season 1 | Day 2
+liquidneo:
+  viewers: 295
+  status: ◄R1 LiquiD► Got Gold? ► liquidneo.com ►
+heroesone:
+  viewers: 222
+  status: '[FR] Archa et Eskilax - Heroes'
+sleepless_tv:
+  viewers: 151
+  status: (RU) Rank1. Лига героев как она есть! Показать всё, что скрыто!
+player2player:
+  viewers: 133
+  status: '[PT-BR] ~Heróis do Toró~ com o Caricaz! SR Ligado! | Maratona P2P [ 10R$
+    | Novo SUB = 1 HR ]'
+mrvargath:
+  viewers: 111
+  status: Strange Things
+onlinegamertwitch:
+  viewers: 90
+  status: Игромания Rezan
+rsnicetry:
+  viewers: 87
+  status: HotS mit NiceTry
+angellatv:
+  viewers: 87
+  status: '[PL/ENG] QM Zerathulem z rotacji ( Uczę się grać). O 17 szukanie graczy
+    do drużyny JaRock. Dzień#4'
+tinsi_:
+  viewers: 61
+  status: 'Rank 2  #MistkäferDöden'
+tolyawa:
+  viewers: 61
+  status: DOBROTA GAMING
+dotod:
+  viewers: 57
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ 2 Ranks away from Rank 1 HYPE
+heroeswartv:
+  viewers: 46
+  status: '[ESP] FNATIC  vs  SK - ESL #MajorLeague Playoffs EU'
+tavernofheroes:
+  viewers: 43
+  status: ESL MAJOR LEAGUE by HappyZerG
+in4game:
+  viewers: 40
+  status: Ранг 1 - реален? Мешок ключей для зрителей.
+keko1102:
+  viewers: 23
+  status: '[GER] eazy peazy!'
+snake2356:
+  viewers: 23
+  status: 1 KEY AFTER EVERY GAME! HOTS KEYS GIVEAWAY! Playing with viewers! [BG/ENG]
+askatsao:
+  viewers: 23
+  status: '  ASKA 大叔台 練習默契 歡迎大家提問及指導以及找隊伍'
+thewilq:
+  viewers: 20
+  status: 'RANK#1 - Rozdajemy klucze! #GRY Z WIDZAMI :) #VIKINGOWIE :D :D '
+nimphalis:
+  viewers: 19
+  status: ♥ Nympha's GIVEAWAY HOTS KEYS ♥
+arxalameys:
+  viewers: 22
+  status: Такой лайт,что самому страшно.
+kattari:
+  viewers: 19
+  status: '[GER] EU Beta Key Giveaway <3'
+multigaminges:
+  viewers: 18
+  status: '(ESP) MultiGaming TV: Grey playing HotS'
+-------------------------
+

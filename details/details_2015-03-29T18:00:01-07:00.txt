@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-29T18:00:01-07:00
+
+Number of channels: 258
+
+Total viewers: 4825
+
+Total Viewers for top 25 streams:
+4448
+
+Viewer counts:
+[2467, 498, 396, 366, 110, 76, 60, 57, 49, 45, 44, 39, 31, 29, 28, 28, 19, 18, 16, 15, 12, 10, 12, 12, 11]
+
+---
+followgrubby:
+  viewers: 2467
+  status: Grubby - HotStorm - Playing Ranked @ EU
+hosselote:
+  viewers: 498
+  status: '[FINAL] ESL NA Go4Heroes #17 Tornado vs Goat Gaming'
+gosuzuna:
+  viewers: 396
+  status: C9 Zuna Playing go4heroes grand finals with friends 3 min delay
+arkamn:
+  viewers: 366
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+trikslyr:
+  viewers: 110
+  status: Playing requested Heroes
+fr4gshout:
+  viewers: 76
+  status: Push for 7k followers Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+heroesone:
+  viewers: 60
+  status: '[FR] La Meta-lique avec Manta !'
+vawnievoulphie:
+  viewers: 57
+  status: 龴◕ɷ◕龴 QUESTING
+dotod:
+  viewers: 49
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Chill Sunday Streem :D NA Beta
+    Keys!
+franzogames:
+  viewers: 45
+  status: Moba BLIZZARD style
+xibe5238:
+  viewers: 44
+  status: '[Fr/Be] Xibe - Rank 1 solo - Ligue par équipe'
+muraky:
+  viewers: 39
+  status: ADC Diamond Prueba heroes of the storm
+rhoxylol:
+  viewers: 31
+  status: Rhoxy meets heroes :)
+foerest:
+  viewers: 29
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+therealhorsemaster:
+  viewers: 28
+  status: Gazlowe plays!
+nasbotini:
+  viewers: 28
+  status: '[GER] Rank 1 - 1000+ Support Games - TrioQ'
+eghtv:
+  viewers: 19
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+rosath:
+  viewers: 18
+  status: '[Day 15] *insert catchy sentence to get attention here*'
+russky00:
+  viewers: 16
+  status: Heroes of The Storm With Yomar
+gimloo:
+  viewers: 15
+  status: SWE/ENG AUTO DJ PLZ STOP BY EITHER ON STREAM OR IN REAL LIFE YOU ARE WELCOME
+    :):) HYPE!!!!!!!
+jabatopigames:
+  viewers: 12
+  status: '[ESP/ENG] ヽ(◉◡◔)ﾉ GIVEAWAY AT 60 VIEWERS, HEROES KEY ONLY EU  ヽ(◉◡◔)ﾉ Leed
+    la descripción del canal '
+snakezor777:
+  viewers: 10
+  status: $nake Stream (RUS) chat+chill music
+mikurae:
+  viewers: 12
+  status: '[FR/BE] Un petit Hos pour se détendre :) - 10/04 marathon stream'
+demonsaber:
+  viewers: 12
+  status: 绯姬場的十點半─順我者勝，逆我者亡。
+mexyh:
+  viewers: 11
+  status: '[FR] Petit Hots R1 avec les viewers. 500 followers \o/'
+-------------------------
+

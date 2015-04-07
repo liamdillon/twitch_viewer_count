@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-28T22:00:01-07:00
+
+Number of channels: 245
+
+Total viewers: 8912
+
+Total Viewers for top 25 streams:
+8532
+
+Viewer counts:
+[6530, 620, 340, 205, 141, 146, 109, 71, 65, 39, 38, 37, 24, 25, 23, 19, 17, 16, 11, 11, 10, 9, 7, 8, 11]
+
+---
+esl_heroes:
+  viewers: 6530
+  status: ESL Playoffs Season 1 | Day 2
+chu8:
+  viewers: 620
+  status: '[NA] Rank 1 Murky Challenge'
+anm60forjesus:
+  viewers: 340
+  status: '[18+][PC] Gayroes of the Storm!'
+xelayirl:
+  viewers: 205
+  status: ^^RANK 1^^ XELAY^^  21GOLD hero^^ FEEL FREE ASK ANY HOTS QUESTION :)
+trikslyr:
+  viewers: 141
+  status: Rank 1 Hero League. Builds at the bottom of the page now.
+newcomplaint:
+  viewers: 146
+  status: 'NewComplaint || First Time Playing || Jumping jacks/chin-ups for kitten
+    fund donations!! '
+mrboombati:
+  viewers: 109
+  status: Last night cast [Heroes of the Storm]
+tolyawa:
+  viewers: 71
+  status: DOBROTA GAMING
+fr4gshout:
+  viewers: 65
+  status: Push for 7k followers Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+loryy1990:
+  viewers: 39
+  status: '<Lory>  24h Stream + Giveaway (start: 10am)'
+eghtv:
+  viewers: 38
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+dotod:
+  viewers: 37
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Saturday Strumarino, Beta
+    Keys/Founders Pack Today!
+greentea_1013:
+  viewers: 24
+  status: '[GreenTea] - 3/29  外交Time。'
+aliciawins:
+  viewers: 25
+  status: '[NA] Quick Match w/ Viewers! :)'
+temp0_sc:
+  viewers: 23
+  status: Temp0 - Homies of the Stuurm!
+gga893879:
+  viewers: 19
+  status: GoDDog  rank1  rank中
+heroesone:
+  viewers: 17
+  status: '[FR] Rediffusions !'
+wolfhack49:
+  viewers: 16
+  status: '[ESP] #HeroesFriday - Regalando Betas con Wolfhack'
+mexyh:
+  viewers: 11
+  status: '[FR] Héroique Rang1 avec les amigos. Finalement on re stream >.< Crude
+    content. Follow + PM me pour une key. 3 left.'
+insanidade_temporaria:
+  viewers: 11
+  status: '[PT-BR] Herois da Madrugada'
+stefaniecarnier:
+  viewers: 10
+  status: '[PT-BR/EN] - Heroes random'
+monstergmer:
+  viewers: 9
+  status: '[ES] GO FOR THE GOLD @TwitchESP @StreamsEspanol'
+anothernotch:
+  viewers: 7
+  status: Assemble Notchypoos!!
+terranjustice:
+  viewers: 8
+  status: SATURDAY HEROES TIME
+theharufenix:
+  viewers: 11
+  status: '[PT-BR] Jogando o que eu quiser! #IDFC'
+-------------------------
+

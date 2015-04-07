@@ -1,0 +1,91 @@
+-------------------------
+Timestamp: 2015-03-27T23:00:02-07:00
+
+Number of channels: 218
+
+Total viewers: 4721
+
+Total Viewers for top 25 streams:
+4293
+
+Viewer counts:
+[2771, 625, 174, 106, 77, 74, 72, 50, 45, 38, 29, 24, 20, 18, 17, 17, 18, 17, 19, 15, 15, 13, 15, 13, 11]
+
+---
+esl_heroes:
+  viewers: 2771
+  status: ESL Playoffs Season 1 | Day 1
+chu8:
+  viewers: 625
+  status: '[NA] Rank 1 Fun Games'
+xelayirl:
+  viewers: 174
+  status: XelayIRL rank1   20XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+trikslyr:
+  viewers: 106
+  status: Minesweeper Pro spends time playing Heroes
+fightincowboy:
+  viewers: 77
+  status: Post-Drunkthrough Smashfest!
+tirent000:
+  viewers: 74
+  status: Watch me I am really bad  HOTS Tirent000 {Deviation Gaming}
+missmiarose:
+  viewers: 72
+  status: Mia + Bday weekend! = ohyeeeboi
+johanjazz:
+  viewers: 50
+  status: '[1 rank] ヽ(・∀・)ﾉ  Бест цыган еу \о'
+fr4gshout:
+  viewers: 45
+  status: 24 hours Up all Night!! Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+lolirot:
+  viewers: 38
+  status: '♥ LATINO ♥ - #HeroesWeekend ! #Betas y #Customs com los Viewers!'
+heroesone:
+  viewers: 29
+  status: '[FR] La Meta-YMCA avec Manta !'
+tolyawa:
+  viewers: 24
+  status: TOP777 VIKINGS EU
+l337rhodes:
+  viewers: 20
+  status: 'HotS with friends #FNK! (Day 86 of 365)'
+yourchinafan:
+  viewers: 18
+  status: Some quick/rankeds
+eghtv:
+  viewers: 17
+  status: 'Elite Gaming House Streaming 24/7- Pao ! '
+gga893879:
+  viewers: 17
+  status: 'GoDDog  rank1  RANK中  '
+diredwarf:
+  viewers: 18
+  status: LetsTireDire Friday! Heroes of the Storm First Play!
+familiagameplay:
+  viewers: 17
+  status: '#HeroesFriday'
+ksk_smooverrella:
+  viewers: 19
+  status: 'Altis Life / Wasteland with Smoo! #EZY'
+blazeofmind:
+  viewers: 15
+  status: Выходной HOTS
+cooldud350:
+  viewers: 15
+  status: FRIDAY NIGHT STREAM B O Y Z 乁༼☯‿☯✿༽ ᕙ༼*◕_◕*༽ᕤ╭༼ ಥل͟ಥ ༽╮
+terranjustice:
+  viewers: 13
+  status: Testing System
+balthazarvon:
+  viewers: 15
+  status: ¡Jugando con los amiguitos! (se sortea beta a los 30 viewers)
+jschritte:
+  viewers: 13
+  status: '#HeroesFriday do Monstro'
+defebwar:
+  viewers: 11
+  status: '[NA] Beta Key Giveaways!! Rumble In The Nexus [Heroes Of The Storm (NA)]'
+-------------------------
+

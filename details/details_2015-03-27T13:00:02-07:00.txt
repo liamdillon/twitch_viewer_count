@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-27T13:00:02-07:00
+
+Number of channels: 334
+
+Total viewers: 4590
+
+Total Viewers for top 25 streams:
+3930
+
+Viewer counts:
+[1116, 843, 490, 199, 185, 180, 179, 142, 59, 54, 52, 44, 44, 40, 39, 37, 37, 28, 27, 26, 25, 22, 21, 21, 20]
+
+---
+guardsmanbob:
+  viewers: 1116
+  status: Rank1! - Guardsman Bob!
+gosuzuna:
+  viewers: 843
+  status: C9 Zuna Rank 1 Updated !tierlist
+arkamn:
+  viewers: 490
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+rouzvega:
+  viewers: 199
+  status: Sylvanas TIME! <3 - Rouz Vega
+tavernofheroes:
+  viewers: 185
+  status: Random Team Cup by HappyZerG
+heroesone:
+  viewers: 180
+  status: '[FR] Ranked Team League avec Tainder'
+xelayirl:
+  viewers: 179
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+youbetterknowme:
+  viewers: 142
+  status: 'KnowMe playing Team League with Subs '
+keko1102:
+  viewers: 59
+  status: '[GER] Sylvanas Carry Action'
+dotod:
+  viewers: 54
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+detrox86:
+  viewers: 52
+  status: '[GER] Feierabend Gaming Heldenliga'
+tinsi_:
+  viewers: 44
+  status: 'Key Giveaway <3 #MistkäferDöden'
+anthonyacc:
+  viewers: 44
+  status: '#FitnessFriday AMA - 25 Key Giveaway - Bringing Kindness to MOBA''s :)'
+miss_snowfox:
+  viewers: 40
+  status: (>｡◕‿◕｡)> Sylvanas HYPE ♥ Viewergames - add MissSnowfox#2285  <(｡◕‿◕｡<)
+angellatv:
+  viewers: 39
+  status: '[EN/PL] Przeprowadzka, JaRock- Drużynka i testowanie Sylvany.'
+heroeswartv:
+  viewers: 37
+  status: '[ESP] SG1Blade Stream | Partiditas con viewers!'
+thekonus:
+  viewers: 37
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+ogrogamer:
+  viewers: 28
+  status: 'Heroes of The Ogro  #Live 71/365 '
+ogamingtv:
+  viewers: 27
+  status: '[FR] Les Chtis sur HOTS'
+ikkyy:
+  viewers: 26
+  status: 'Jogando 4fun + Sorteio de Keys #heroesfriday'
+polator_tv:
+  viewers: 25
+  status: '[ES/EN] Top 1 world playing for fun , !songrequest is online !'
+eghtv:
+  viewers: 22
+  status: Elite Gaming House Streaming 24/7- Heroes of the Storm con Pao!
+mrjpickles:
+  viewers: 21
+  status: '[#131] Back from vacation! Game time with friends!'
+caiozeon:
+  viewers: 21
+  status: '#HeroesFriday com sorteio de keys, dicas de como jogar solo e muita Sylvanas!'
+therealhorsemaster:
+  viewers: 20
+  status: Beta Key Giveaways and Gazlowe plays!
+-------------------------
+

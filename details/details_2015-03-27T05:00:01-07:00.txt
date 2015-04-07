@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-27T05:00:01-07:00
+
+Number of channels: 133
+
+Total viewers: 2114
+
+Total Viewers for top 25 streams:
+1945
+
+Viewer counts:
+[772, 221, 169, 159, 91, 80, 45, 44, 42, 39, 40, 37, 36, 32, 22, 22, 19, 15, 14, 11, 9, 8, 6, 6, 6]
+
+---
+liquidneo:
+  viewers: 772
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+flamytv:
+  viewers: 221
+  status: Heroes of the Storm - Póxniej może Serious SaM First Encounter HD
+godspd:
+  viewers: 169
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+heroesone:
+  viewers: 159
+  status: '[FR] La Meta-midi avec Manta !'
+leofromkorea:
+  viewers: 91
+  status: '[ENG/PL] GAMERS2 Leofromkorea Support Rank1'
+player2player:
+  viewers: 80
+  status: '[PT-BR] Caricaz no ~Heróis do Toró~ KEYS PARA SORTEIO! | Maratona P2P [
+    10R$ | Novo SUB = 1 HR ]'
+sleepless_tv:
+  viewers: 45
+  status: '[RU] RANK#1! Сильвана ранкед йолоКУ'
+tolyawa:
+  viewers: 44
+  status: TOP777 VIKINGS EU
+heroeswartv:
+  viewers: 42
+  status: '[ESP] SG1Blade con partidas mañaneras y betas!'
+happyzerg:
+  viewers: 39
+  status: Сильвана до 10 уровня и ключи!
+keko1102:
+  viewers: 40
+  status: '[GER] Carry Action!'
+pypgamers:
+  viewers: 37
+  status: '[ESP] Sorteo de 10 Betas y partidas con @BulgangP'
+hekady:
+  viewers: 36
+  status: '[esp] ❤ ¡He vuelto! Nuevo parche y Sylvanas'
+still_sleepy:
+  viewers: 32
+  status: SleepAllday DAY12 登愣~!
+azusasparkers:
+  viewers: 22
+  status: 【憨瓜工作室】心情低落
+lomarri:
+  viewers: 22
+  status: 'Starting HOTS ! 3 Betakeys for followers that want to play this too :)
+    (EU) '
+nexaa:
+  viewers: 19
+  status: Rank 14 Hero League NO CAM TODAY
+xxslifexx:
+  viewers: 15
+  status: HD | GER/ENG | HotS with Girlfriend Day 2 | Beta Key at 100 Follower
+jannlee55:
+  viewers: 14
+  status: 英雄聯賽單排奮鬥史....
+omgcolin:
+  viewers: 11
+  status: LZH Gaming OMGColin | Hero League!
+nerdsproduction:
+  viewers: 9
+  status: '[French/ Eng] Revi & Nasty  sur Heroes of The Storm Rank 1[720P]'
+mad_ash:
+  viewers: 8
+  status: MadAsh L!VE
+ninjamalando:
+  viewers: 6
+  status: '[PT-BR] Ninja Malando'
+darkbrussel:
+  viewers: 6
+  status: Got keys to giveaway :) EU keys
+eghtv:
+  viewers: 6
+  status: Elite Gaming House Streaming 24/7- Heroes of the Storm con Pao!
+-------------------------
+

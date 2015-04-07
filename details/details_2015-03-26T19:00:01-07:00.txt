@@ -1,0 +1,97 @@
+-------------------------
+Timestamp: 2015-03-26T19:00:01-07:00
+
+Number of channels: 271
+
+Total viewers: 4705
+
+Total Viewers for top 25 streams:
+4104
+
+Viewer counts:
+[1983, 420, 213, 175, 151, 141, 130, 92, 90, 83, 65, 62, 54, 50, 50, 48, 43, 43, 42, 39, 32, 32, 25, 24, 17]
+
+---
+followgrubby:
+  viewers: 1983
+  status: Playing Sylvanas + Patched heroes!
+docgotgame:
+  viewers: 420
+  status: '[68 Subs for Kisha/Juanita Stream and 5 new Emotes!!] Heroes of the Storm
+    with Sergeants (aka Subs!!)'
+semiproproject:
+  viewers: 213
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 46/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+xelayirl:
+  viewers: 175
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+hots_mcmuffin:
+  viewers: 151
+  status: 'McMuffin: From Rank 50 to 1'
+youbetterknowme:
+  viewers: 141
+  status: 'KnowMe playing Team League with Subs - giving aways 1 EU Betakey every
+    time we lose '
+oganoss:
+  viewers: 130
+  status: 'Anoss - FR -  Interstellar Big Respect papy !!!  #COMMENT??'
+solidjakegg:
+  viewers: 92
+  status: Sylvanas to 10 (currently lvl 9)
+heroesone:
+  viewers: 90
+  status: '[FR] La Meta-list avec Manta !'
+eghtv:
+  viewers: 83
+  status: Elite Gaming House Streaming 24/7- Heroes of the Storm con Pao!
+sohinki:
+  viewers: 65
+  status: 
+dotod:
+  viewers: 62
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+happyzerg:
+  viewers: 54
+  status: Сильвана до 10 уровня
+inetkoxtv:
+  viewers: 50
+  status: HEROSI DZIĘCIOŁY BURSZTYNY
+thekonus:
+  viewers: 50
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+kiyeberries:
+  viewers: 48
+  status: '[1080p] What we do in the Early Evening'
+lolirot:
+  viewers: 43
+  status: '♥ LATINO ♥ - #HeroesWeekend ! #Betas y #Customs com los Viewers!'
+amovetv:
+  viewers: 43
+  status: 'Into the Nexus #44'
+fr4gshout:
+  viewers: 42
+  status: ' Road to Partner   Avidesports.com'
+hazukisc2:
+  viewers: 39
+  status: ノ( ◕◡◕ ノ) keys para america ᕕ(⌐■_■)ᕗ
+djwheat:
+  viewers: 32
+  status: Heroes of the Storm - Blow stuff up with Jania!
+xibe5238:
+  viewers: 32
+  status: '[Fr/Be] Xibe - Rank 1 - Ligue par équipe - Tips & Builds sur demande '
+gisgamer:
+  viewers: 25
+  status: TGI Game Night!
+killcrit:
+  viewers: 24
+  status: GIVEAWAY - 10 BETA KEYS FOR HEROES OF STORM RIGHT NOW!!!
+gimloo:
+  viewers: 17
+  status: SWE/ENG AUTO DJ http://www.inet.se/produkt/2204966/asus-24-vg248qe-144hz
+    700 FOLLOWERS FAN MEETUP IN PLANNING DATE TIME? HYPE!!!!!!!!!!!!!!!
+-------------------------
+

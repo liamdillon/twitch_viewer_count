@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-26T07:00:01-07:00
+
+Number of channels: 202
+
+Total viewers: 3533
+
+Total Viewers for top 25 streams:
+3268
+
+Viewer counts:
+[1095, 539, 328, 240, 166, 149, 128, 111, 102, 104, 38, 38, 32, 26, 18, 17, 17, 17, 16, 13, 15, 19, 13, 13, 14]
+
+---
+liquidneo:
+  viewers: 1095
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+guardsmanbob:
+  viewers: 539
+  status: Rank1! - Guardsman Bob!
+pamcakes:
+  viewers: 328
+  status: Pam ♥ // Climbing Hero League!
+heroesone:
+  viewers: 240
+  status: '[FR] La Meta-Bug avec Manta !'
+h2p_gucio:
+  viewers: 166
+  status: ALTERNATE Gucio Carry/offsupp
+zomgitshwoarang:
+  viewers: 149
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+sleepless_tv:
+  viewers: 128
+  status: '[RU] RANK#1! СИЛЬВАНА! Часть вторая - Ранкед!'
+zp_tv:
+  viewers: 111
+  status: Rank 1 - 60 FPS! - ZPs - MORNING ADVENTURE RETURNS!
+player2player:
+  viewers: 102
+  status: '[PT-BR] Caricaz no ~Hérois do Toró~ | Maratona P2P [ 10R$ | Novo SUB =
+    1 HR ]'
+tinsi_:
+  viewers: 104
+  status: 'Viewergames <3 #MistkäferDöden'
+pypgamers:
+  viewers: 38
+  status: '[ESP] Ranked y partidas normales con @bulgangP'
+sashkadestroyer:
+  viewers: 38
+  status: '[Ru/Eng] Sashka rank1, 4k mmr. ANY questions-welcome'
+nexaa:
+  viewers: 32
+  status: QM and Hero League
+lhiratv:
+  viewers: 26
+  status: '[GIVEAWAY BETA KEYS EU HOTS] - [FR] Sylvanas ♥ ! 10 Follows = 1 Clé BETA
+    EU ! '
+manakeo:
+  viewers: 18
+  status: ✩ITA | PamPam✩Bug Time si va di Coop e Rapide✩
+aureanatv:
+  viewers: 17
+  status: '[FR] Aureana ♥ Grignotage !!!'
+laira918:
+  viewers: 17
+  status: 蕾菈日常 之 希瓦娜絲終於來啦~~
+narjanna:
+  viewers: 17
+  status: League of the Storm
+rhoxylol:
+  viewers: 16
+  status: Rhoxy meets...hoffentlich mal die neue map.^^
+jaggerous:
+  viewers: 13
+  status: HotS - Bug Fixed, Sylvanas Hype
+sledziu89:
+  viewers: 15
+  status: '[PL] Śledziu stream! :D'
+excelenteeleccion:
+  viewers: 19
+  status: ◉ ExcelenteEleccion
+ggamersprotv:
+  viewers: 13
+  status: ROAD TO 50 RANK + ключики к HotS
+qlesau:
+  viewers: 13
+  status: '[Ger] nach 3 wöchiger Pause wieder rein finden!!'
+catalystex:
+  viewers: 14
+  status: 催化劑【 3/26Heroes of the Storm】女王陛下
+-------------------------
+

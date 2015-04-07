@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-30T18:00:01-07:00
+
+Number of channels: 253
+
+Total viewers: 2526
+
+Total Viewers for top 25 streams:
+2025
+
+Viewer counts:
+[561, 290, 166, 155, 113, 91, 71, 71, 64, 48, 43, 41, 34, 33, 32, 30, 29, 24, 24, 22, 18, 18, 16, 16, 15]
+
+---
+arkamn:
+  viewers: 561
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+kiyeberries:
+  viewers: 290
+  status: '[1080p] We''re back?'
+hots_mcmuffin:
+  viewers: 166
+  status: 'McMuffin: Ranked 50 to 1'
+grudge_gaming:
+  viewers: 155
+  status: 'Razer Deathstalker keyboard giveaway '
+dotod:
+  viewers: 113
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Monday! Founder Pack Giveaway
+    TODAY+NA Beta Keys :D
+holyonline:
+  viewers: 91
+  status: '[BR] Rank 1 - VOLTEI! o/ Sylvanas Hype'
+heroesone:
+  viewers: 71
+  status: '[FR] Don''t worry be carried avec Rach'
+fr4gshout:
+  viewers: 71
+  status: Push for 7k followers  Road to Partner   Avidesports.com
+slita:
+  viewers: 64
+  status: 30+ Beta Keys~key after every win ;p~ Sylvanas Main~Slita~Full Time Streamer
+pastandoenmulgore:
+  viewers: 48
+  status: Heroes of the Storm, especial de dia lunes y con sorteo de betas!
+yourchinafan:
+  viewers: 43
+  status: road to rank 1
+xibe5238:
+  viewers: 41
+  status: '[Fr/Be] Xibe - Rank 1 solo - Ligue par équipe'
+foerest:
+  viewers: 34
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+nasbotini:
+  viewers: 33
+  status: '[GER] TrioQ - 1000+ Support Games - Rank 1 HL - Team Moreheroes C&C'
+theargietv:
+  viewers: 32
+  status: Best Sylvanas Surinam - SORTEAMOS BETA KEYS
+therealhorsemaster:
+  viewers: 30
+  status: Time is money, friend!
+jessicagoch:
+  viewers: 29
+  status: 80's Night! Learning Heroes of the Storm then Hearthstone with Subs later!
+originpc:
+  viewers: 24
+  status: Heroes of the Storm w/ KoozyKitten - cutest couple on Twtich - ORIGIN PC
+hazukisc2:
+  viewers: 24
+  status: ᕙ༼ಠ͜ʖಠ༽ノ betas america ᕙ༼ಠ͜ʖಠ༽ノ
+gimloo:
+  viewers: 22
+  status: 'SWE/ENG AUTO DJ KEBABPIZZA STREAM WITH UNDERWEAR ON MY HEAD LATER ON CUZ
+    http://www.twitch.tv/bankalicious @Bankalicious :) HYPE!!!!!!!! '
+kittykittyrage:
+  viewers: 18
+  status: Dnes chill CSko H1z1 :)
+featherko:
+  viewers: 18
+  status: ASH Kunichan. nc
+ashnina:
+  viewers: 16
+  status: HotS con la banda! :D
+thewilq:
+  viewers: 16
+  status: 'RANK#1 - Rozdajemy klucze! #TEAMOWE RANKEDY BOYZ!'
+shaniix:
+  viewers: 15
+  status: (GER) Dann testen wir es mal :D
+-------------------------
+

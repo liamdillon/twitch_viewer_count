@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-28T13:00:01-07:00
+
+Number of channels: 375
+
+Total viewers: 6989
+
+Total Viewers for top 25 streams:
+6184
+
+Viewer counts:
+[2620, 830, 783, 302, 220, 207, 179, 122, 111, 109, 77, 74, 68, 68, 68, 53, 45, 41, 39, 31, 32, 28, 27, 25, 25]
+
+---
+esl_heroes:
+  viewers: 2620
+  status: ESL Playoffs Season 1 | Day 2
+guardsmanbob:
+  viewers: 830
+  status: 
+followgrubby:
+  viewers: 783
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+zomgitshwoarang:
+  viewers: 302
+  status: '[GER] Beta Key Giveaway!!'
+happyzerg:
+  viewers: 220
+  status: Сильванка и розыгрыш ключей <3
+heroesone:
+  viewers: 207
+  status: '[FR] Soirée MD Liège avec Heroes Gaming'
+iwarturtles:
+  viewers: 179
+  status: Coop and Quickmatches. Not pro!
+ogamingtv:
+  viewers: 122
+  status: '[FR] O''Gaming GodLikeShow dans " Troll Tales" - HOTS Games Viewers'
+doornebuzz:
+  viewers: 111
+  status: <Doornebuzz> - (PC) - Crazy Caturday! - The road to 2.5k followers! ☆
+burninggirl:
+  viewers: 109
+  status: '[RU/ENG] Yard.Gela - Team league. '
+leofromkorea:
+  viewers: 77
+  status: 
+sonderx:
+  viewers: 74
+  status: Regular People VS We Play Other Mobas Primer Torneo HISO
+heroeswartv:
+  viewers: 68
+  status: '[ESP] Bailando con Gromir por la noche!!!'
+nysira:
+  viewers: 68
+  status: 'Giveaway: HOTS Beta-Keys (EU) every 50 followers | SUB Giveaway (CM STORM
+    MIZAR MOUSE) | More videos at youtube.com/twitchnysira <3 '
+in4game:
+  viewers: 68
+  status: Розыгрыш Ключей и Лига Героев
+exi1ia:
+  viewers: 53
+  status: '[RU] Раздаю ключи на HOTS! @BlizzHeroes @BlizzHeroesRU #ExiliaTV #HOTS'
+tenschi:
+  viewers: 45
+  status: '[Ger] Noob spielt wie ein Pro :D'
+necr1te:
+  viewers: 41
+  status: '[GER] Heroes of the Storm - Ranked Games !!!'
+kraxell2463:
+  viewers: 39
+  status: '[GEWINNSPIEL][HD+][GER/ENG] Wir verlosen 7 Heroes Beta Keys!'
+wwwgameovergr:
+  viewers: 31
+  status: Gameover plays Heroes Of The Storm
+kuzmitch_ru:
+  viewers: 32
+  status: Тюрьма для хомячка
+wolfforcex:
+  viewers: 28
+  status: ส็็็็็็็็็็็็็็็็็็็(ಠ益ಠ)ส็็็็็็็็็็็็็็็็็็็3 Keys to giveway & type !coins
+    for currency system! (entry will be with points)୧༼ ͡◉ل͜ ͡◉༽୨
+strandedorange:
+  viewers: 27
+  status: Единственная болезнь здесь - это МОБА (Russian/English)
+nekomuraa:
+  viewers: 25
+  status: '7 HOTS KEY GIVEAWAY / after HOTS ill be doing karaoke '
+octo83:
+  viewers: 25
+  status: 'GER :: Helden- und Teamliga :: www.moreheroes.de'
+-------------------------
+

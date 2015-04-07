@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-29T02:00:01-07:00
+
+Number of channels: 168
+
+Total viewers: 3413
+
+Total Viewers for top 25 streams:
+3154
+
+Viewer counts:
+[1364, 386, 285, 176, 127, 103, 102, 89, 73, 66, 66, 59, 47, 45, 25, 23, 20, 16, 16, 15, 13, 11, 9, 9, 9]
+
+---
+chu8:
+  viewers: 1364
+  status: '[NA] Rank 1 Murky Challenge'
+temp0_sc:
+  viewers: 386
+  status: Temp0 - Homies of the Stuurm!
+trikslyr:
+  viewers: 285
+  status: Rank 1 Hero League. Builds at the bottom of the page now.
+tayzondaygames:
+  viewers: 176
+  status: Tay Zonday Plays Heroes Of the Storm
+ihosty:
+  viewers: 127
+  status: Hosty -Rank 1 NA HOTS  - | Sylvanas HYPE |  |  9/9 Golden Classes | 23x
+    Legend |  Blackrock hype soon Kreygasm
+tolyawa:
+  viewers: 103
+  status: DOBROTA GAMING
+fenixchaos:
+  viewers: 102
+  status: Fenixchaos Hero League [EN] [FR]
+heroesone:
+  viewers: 89
+  status: '[FR] Debout le nexus avec Exo'
+vieparlafoi:
+  viewers: 73
+  status: www.vieparlafoi.com now live! Heroes with VIE Learning the Ropes
+f4ith707:
+  viewers: 66
+  status: 'How do I game again?  [720p] [Nightlife Gaming] '
+semiproproject:
+  viewers: 66
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 48/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง (Short Saturday Stream) '
+bigmyself:
+  viewers: 59
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+foerest:
+  viewers: 47
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+johanjazz:
+  viewers: 45
+  status: '[1 rank] ヽ(・∀・)ﾉ  О боже,каточки с подписонами таверны!'
+lady_savoryy:
+  viewers: 25
+  status: '☜(⌒▽⌒)☞ 24HR Stream Attempt (!requestsong) Cosplay @ 5K [Eng/Ger] ☜(⌒▽⌒)☞ '
+ashmunsterr:
+  viewers: 23
+  status: (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧Rank 50 HERO LEAGUE
+greentea_1013:
+  viewers: 20
+  status: '[GreenTea] - 3/29  '
+joshtafreak:
+  viewers: 16
+  status: New Game Sunday | Heroes of the Storm
+inza1337:
+  viewers: 16
+  status: '[Ger/Eng] League / Viewer games / chilling ^.^ join and relax :)'
+jahuras88:
+  viewers: 15
+  status: '[PL] HotS Poranna rozgrzewka, START od 11:00! Klucze do bety'
+sp5430:
+  viewers: 13
+  status: 【鱔魚】感冒要好了沒?? 我想講話啦!! (喉嚨還是很痛)
+nwgamesbrasil:
+  viewers: 11
+  status: '[PT-BR] - Duque - Hotszin pra relaxar.  [SONGREQUEST ON]'
+blazeofmind:
+  viewers: 9
+  status: Выходной HOTS
+gertie0123:
+  viewers: 9
+  status: 【玉花0329】Gertie#3169 ++
+eghtv:
+  viewers: 9
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+-------------------------
+

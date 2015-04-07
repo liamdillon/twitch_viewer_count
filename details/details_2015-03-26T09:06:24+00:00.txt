@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-26T09:06:24+00:00
+
+Number of channels: 113
+
+Total viewers: 3146
+
+Total Viewers for top 25 streams:
+2966
+
+Viewer counts:
+[1322, 408, 278, 157, 121, 109, 101, 67, 44, 41, 43, 34, 31, 31, 27, 26, 18, 16, 15, 14, 14, 14, 13, 13, 9]
+
+---
+chu8:
+  viewers: 1322
+  status: '[NA] I own Murky'
+solidjakegg:
+  viewers: 408
+  status: Sylvanas to 10! (Currently lvl 9)
+khaldor:
+  viewers: 278
+  status: '[GER] New Patch & Stuff ;)'
+tayzondaygames:
+  viewers: 157
+  status: TOTAL CLOWN NOOB Plays Heroes Of The Storm!
+godspd:
+  viewers: 121
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+fuzion410:
+  viewers: 109
+  status: heroes of the sac
+ulqi:
+  viewers: 101
+  status: Лига Героев Дорога к 50 рангу
+semiproproject:
+  viewers: 67
+  status: '[NA] Rank 1 | Team League| In Depth Commentary & Explanations | 1 KilicK
+    | Day 45/∞  ヽ〳 ՞ ᗜ ՞ 〵ง'
+heroesone:
+  viewers: 44
+  status: '[FR] REDIFF : SiC and Destroy avec SiC'
+tolyawa:
+  viewers: 41
+  status: Vikings vs Герои по вашим заявкам
+gerdamherdtv:
+  viewers: 43
+  status: '[GER] MADmaking with Khaldor, Cris und .....'
+coldfashiond:
+  viewers: 34
+  status: '[US] Tassadar Quick Matches'
+nuroklol:
+  viewers: 31
+  status: '[GER/ENG] Dignitas Nurok - playing Heroleague / Going through the Patch
+    // http://tinyurl.com/HeroesCup //'
+erhotv:
+  viewers: 31
+  status: coL.Erho; GO BIG OR GO HOME
+johanjazz:
+  viewers: 27
+  status: '[1 rank] ヽ(・∀・)ﾉ  Утренний стримец под музычку '
+lastwolfplay:
+  viewers: 26
+  status: '[26/03] La matinale édition spéciale Heroes ! Reghar & Lost Viking time '
+zsjh9100:
+  viewers: 18
+  status: ᴥ 姐姐玩英霸ᴥ  晚上都會轉圈 F5解決吧ˊˋ
+sp5430:
+  viewers: 16
+  status: 【鱔魚】教觀念地圖 歡迎提問問題
+bigmyself:
+  viewers: 15
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+gvbtb:
+  viewers: 14
+  status: HoTS Giveaway!?!? Drinks, Chat, Blizzcon, Request Hero's! Smash Later? MK8
+    LATER!?
+ashmunsterr:
+  viewers: 14
+  status: Brightwing Quickmatch
+seoulja_:
+  viewers: 14
+  status: 'coL.TigerJK aka Keonda '
+balthazarvon:
+  viewers: 13
+  status: ¡jueguando con palif  y betita para los amiguitos!
+tinsi_:
+  viewers: 13
+  status: Mistkäfer <3
+catalystex:
+  viewers: 9
+  status: 催化劑【 3/26Heroes of the Storm】女王陛下
+-------------------------
+

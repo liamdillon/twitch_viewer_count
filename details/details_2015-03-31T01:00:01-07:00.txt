@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-31T01:00:01-07:00
+
+Number of channels: 149
+
+Total viewers: 3533
+
+Total Viewers for top 25 streams:
+3297
+
+Viewer counts:
+[1326, 432, 261, 199, 169, 99, 94, 89, 83, 68, 72, 63, 55, 43, 45, 45, 21, 20, 20, 20, 19, 18, 15, 11, 10]
+
+---
+chu8:
+  viewers: 1326
+  status: 1 Murky, 1 stream - Rank 1
+liquidneo:
+  viewers: 432
+  status: ◄R1 LiquiD► Got Gold? ► liquidneo.com ►
+yuuie:
+  viewers: 261
+  status: ❤EU Game Key Giveaways! After Every Game
+chinglishtv:
+  viewers: 199
+  status: Chinglish| Metal&Hardcore Music Day - SubStash Challenge[Day 8] 15 Subs
+    today or it dies! nonono!
+foursid3:
+  viewers: 169
+  status: '[ Ger ] Wozu ins irrenhaus, wenns zu mir viel kürzer ist.'
+maihopawango:
+  viewers: 99
+  status: '[720p | 60 fps | GER] Heroes of the Storm - Beta Key GIEFAWAY IHR LÜMMEL
+    !!!!!! Kappa'
+fenixchaos:
+  viewers: 94
+  status: '[NA] Fenixchaos Hero League!'
+ulqi:
+  viewers: 89
+  status: Дорога к 50 рангу
+coldfashiond:
+  viewers: 83
+  status: '[NA] Tassadar - Quick Matches w/ my boi Six'
+heroesone:
+  viewers: 68
+  status: '[FR] Don''t worry be carried avec Rach'
+glaurungtv:
+  viewers: 72
+  status: '| Tempo Storm Glaurung! | Rank 1 | Working on mechanics | '
+annaprosser:
+  viewers: 63
+  status: DIE BANTERSTREAM UND ZIE EYE TRACKER
+semiproproject:
+  viewers: 55
+  status: '#1 Onesie Stream NA - In Depth Commentary & Explanations [R1] | KilicK
+    | Day 50/∞  ヽ〳 ՞ ᗜ ՞ 〵'
+tolyawa:
+  viewers: 43
+  status: DOBROTA GAMING
+androidp:
+  viewers: 45
+  status: '[ASH] AndyLendi - Rank 1'
+godspd:
+  viewers: 45
+  status: Утренний. Горячий. Твой
+prayscream:
+  viewers: 21
+  status: 'j.pRay -  Hrajeme Rankedy (⊙.⊙(☉̃ₒ☉)⊙.⊙) '
+keko1102:
+  viewers: 20
+  status: '[GER] eazy peazy!'
+mcintyrelol:
+  viewers: 20
+  status: 'Sub button Hype! coL_McIntyre [MLG Titan 2 Winner]- AMA '
+ksk_smooverrella:
+  viewers: 20
+  status: HotS /w Smoo | Hier Text eingeben...
+ktjn:
+  viewers: 19
+  status: Monkey Brightwing of Death and Destruction!
+skeitty:
+  viewers: 18
+  status: Keitty is BACK | GROSSE NOOB!
+heroestormspain:
+  viewers: 15
+  status: '[ESP] ¡Buenos días Nexo! Episodio 1'
+mrmojojojo20:
+  viewers: 11
+  status: MOJO LOVES YOUR FLIICERING FACE!!!!
+nwgamesbrasil:
+  viewers: 10
+  status: '[PT-BR] - Genkaku -MADRUGA DE RAGE! [Song Request ON]'
+-------------------------
+

@@ -1,0 +1,97 @@
+-------------------------
+Timestamp: 2015-03-30T12:00:01-07:00
+
+Number of channels: 339
+
+Total viewers: 10112
+
+Total Viewers for top 25 streams:
+9437
+
+Viewer counts:
+[6197, 1226, 513, 235, 195, 122, 114, 113, 95, 75, 65, 59, 59, 53, 51, 44, 36, 36, 34, 24, 20, 19, 18, 18, 16]
+
+---
+esl_heroes:
+  viewers: 6197
+  status: ESL Playoffs Season 1 | Day 1
+guardsmanbob:
+  viewers: 1226
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 513
+  status: 
+igromania:
+  viewers: 235
+  status: 'Игромания: двадцать ключей для Heroes of the Storm (20:00 МСК)'
+heroesone:
+  viewers: 195
+  status: '[FR] La Met-Hardcore avec Manta ! 12h~22h NON-STOP !'
+heroeswartv:
+  viewers: 122
+  status: '[ESP] 4º Partido FNATIC vs G2 - ESL #MajorLeague Playoffs EU FNATIC vs
+    G2'
+lucifron7:
+  viewers: 114
+  status: Liquid'LucifroN playing Heroes
+happyzerg:
+  viewers: 113
+  status: Ранг 1 с комментами, отвечаю на ваши вопросы!
+gerdamherdtv:
+  viewers: 95
+  status: '[GER] WellMet Gerd Viewergames o.O Wie immer zu spät :D'
+nuroklol:
+  viewers: 75
+  status: '[GER/ENG] Dignitas Nurok - FortgeschrittenenKurs in Zusammenarbeit mit
+    moreheroes.de'
+dotod:
+  viewers: 65
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Monday! Founder Pack Giveaway
+    TODAY+NA Beta Keys :D
+nysira:
+  viewers: 59
+  status: 'Giveaway: HOTS Beta-Keys (EU) every 50 followers | SUB Giveaway (CM STORM
+    MIZAR MOUSE) | More videos at youtube.com/twitchnysira <3 '
+slita:
+  viewers: 59
+  status: 30+ Beta Keys Come n Get Em~ Sylvanas Main~Slita~Full Time Streamer
+detrox86:
+  viewers: 53
+  status: '[GER] Feierabend Gaming + Giveaway Beta Key'
+gimloo:
+  viewers: 51
+  status: 'SWE/ENG AUTO DJ KEBABPIZZA STREAM WITH UNDERWEAR ON MY HEAD LATER ON CUZ
+    http://www.twitch.tv/bankalicious @Bankalicious :) HYPE!!!!!!!! '
+rastablastalol:
+  viewers: 44
+  status: Viewergames/GIVEAWAY 9 HoTS Beta Keys !
+basickz:
+  viewers: 36
+  status: Basickz | Rank 1 Legend | Viewer Quick Matches
+miss_snowfox:
+  viewers: 36
+  status: (>｡◕‿◕｡)> HotS Monday ♥ join my matches - add MissSnowfox#2285 <(｡◕‿◕｡<)
+oyungezertv:
+  viewers: 34
+  status: Alizine Wonderland - Heroes of the Storm / DOTA 2  (Test Yayını)
+thewilq:
+  viewers: 24
+  status: RANK#1 - Rozdajemy klucze! :) Gry z widzami! :)
+ashmunsterr:
+  viewers: 20
+  status: (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Hero League
+aureanatv:
+  viewers: 19
+  status: '[FR] Aureana ♥ Grignotage !!!'
+teerage:
+  viewers: 18
+  status: r0xrite rank 1, specialist and ranged carry HL, QM with fans, build and
+    more
+kattari:
+  viewers: 18
+  status: '[GER] EU Beta Key Giveaway <3'
+nohandsken:
+  viewers: 16
+  status: Quadriplegic is playing Heroes of the storm with his mouth
+-------------------------
+

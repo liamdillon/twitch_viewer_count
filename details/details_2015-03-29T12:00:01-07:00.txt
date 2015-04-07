@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-29T12:00:01-07:00
+
+Number of channels: 336
+
+Total viewers: 6906
+
+Total Viewers for top 25 streams:
+6255
+
+Viewer counts:
+[1738, 976, 503, 357, 354, 338, 288, 271, 234, 208, 190, 100, 99, 98, 89, 74, 53, 50, 50, 42, 35, 35, 26, 24, 23]
+
+---
+guardsmanbob:
+  viewers: 1738
+  status: Rank1! - Guardsman Bob!
+followgrubby:
+  viewers: 976
+  status: Grubby - HotStorm - Playing Ranked @ EU
+tavernofheroes:
+  viewers: 503
+  status: Team Yard @ Go4Heroes by HappyZerG
+hosselote:
+  viewers: 357
+  status: '[ENG] ESL EU Go4Heroes #17 Team Acer vs Yard Team (Key Giveaways)'
+heroesone:
+  viewers: 354
+  status: '[FR] Go4Heroes Europe Cup #17 avec Kelzo & Luiji'
+youbetterknowme:
+  viewers: 338
+  status: '[Ger/Eng] KnowMe casting Go4Heroes - later TeamLeague with Subs :)'
+inetkoxtv:
+  viewers: 288
+  status: Superbohater Saju w akcji ---- w czasie meczu------po meczu CS:GO
+exi1ia:
+  viewers: 271
+  status: '[RU] Go4Heroes Europe Cup #17 @BlizzHeroes @BlizzHeroesRU #ExiliaTV #HOTS'
+blackfireice:
+  viewers: 234
+  status: '[PL/ENG] Just Black :) Dziś tylko HoTs :)'
+heroeswartv:
+  viewers: 208
+  status: '[ESP] ESL G4Heroes (CUARTOS) Gryphus EVO VS Team ALTERNATE'
+angellatv:
+  viewers: 190
+  status: '[EN/PL] JaRock drużyna - eliminacje. Dzień#2 Komentujemy z Rockiem :)'
+vanguardstv:
+  viewers: 100
+  status: Vanguards - Hero League! Bloodborne PvP on the side
+fenixchaos:
+  viewers: 99
+  status: '[FR] [EN] Fenixchaos Hero League'
+anthonyacc:
+  viewers: 98
+  status: Sub Sunday! 25 KEYS TO GIVE AWAY! (NA)
+esl_heroes_pl:
+  viewers: 89
+  status: '[PL] Ćwierćfinał! Team Alternate vs Gryphus Evo Go4Heroes Europe Cup #17'
+basickz:
+  viewers: 74
+  status: 'Basickz | Rank 1 Legend '
+slita:
+  viewers: 53
+  status: 2ND Day HotS Sylvanas main~Slita~Full Time Streamer
+shtyr:
+  viewers: 50
+  status: Shtyr.Ranked Rank1
+dotod:
+  viewers: 50
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Chill Sunday Streem :D NA Beta
+    Keys!
+realgaba:
+  viewers: 42
+  status: Heroes of the Storm mit Giveaway (HoTs Keys und Secret Giveaway)
+ulqi:
+  viewers: 35
+  status: Качаем US аккаунт! Раздаем Ключи!
+octo83:
+  viewers: 35
+  status: 'GER :: Helden- und Teamliga :: www.moreheroes.de'
+caiozeon:
+  viewers: 26
+  status: '[BR]Zeon - Treino da Divine Storm! Sorteio de Keys apos cada partida!'
+eghtv:
+  viewers: 24
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+la_secte:
+  viewers: 23
+  status: '[FR] Decouverte de HOTS avec Kimber ! +Giveaway'
+-------------------------
+

@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-31T10:00:02-07:00
+
+Number of channels: 266
+
+Total viewers: 6953
+
+Total Viewers for top 25 streams:
+6458
+
+Viewer counts:
+[2599, 1053, 470, 300, 235, 226, 242, 167, 134, 134, 126, 113, 110, 85, 71, 64, 63, 55, 53, 50, 30, 20, 20, 19, 19]
+
+---
+esl_heroes:
+  viewers: 2599
+  status: ESL Playoffs Season 1 | Day 2
+guardsmanbob:
+  viewers: 1053
+  status: Team League - Guardsman Bob!
+zomgitshwoarang:
+  viewers: 470
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+reveevtv:
+  viewers: 300
+  status: Reveev.Tv || Играем в HOTS!
+arkamn:
+  viewers: 235
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+tavernofheroes:
+  viewers: 226
+  status: SK vs Fnatic @ ESL MAJOR LEAGUE by HappyZerG
+heroesone:
+  viewers: 242
+  status: '[FR] Back to Rank 1 ? avec Luiji'
+alexcoman:
+  viewers: 167
+  status: '[RO] Stuffffs'
+theblinks:
+  viewers: 134
+  status: compLexity Blinks - SECRET STREAM DO NOT WATCH
+heroeswartv:
+  viewers: 134
+  status: '[ESP] FNATIC 0 vs 1  SK Gaming - ESL #MajorLeague Playoffs EU'
+player2player:
+  viewers: 126
+  status: '[PT-BR] ~Heróis do Toró~ com o Caricaz! SR Ligado! | Maratona P2P [ 10R$
+    | Novo SUB = 1 HR ]'
+mrvargath:
+  viewers: 113
+  status: Strange Things
+wolfeater_il:
+  viewers: 110
+  status: BLA BLA BLA
+vbrtv:
+  viewers: 85
+  status: '[RU] vk.com/vbrtv'
+rsnicetry:
+  viewers: 71
+  status: HotS mit NiceTry
+in4game:
+  viewers: 64
+  status: Ранг 1 - реален? Мешок ключей для зрителей.
+angellatv:
+  viewers: 63
+  status: '[PL/ENG] QM Zerathulem z rotacji ( Uczę się grać). O 17 szukanie graczy
+    do drużyny JaRock. Dzień#4'
+dotod:
+  viewers: 55
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ HOME STRETCH TO RANK 1!
+legaufa:
+  viewers: 53
+  status: Lega ► Play  [IM KING!] New PATCH! English welcome
+mortsc2:
+  viewers: 50
+  status: Heroes of the Storm mit Mort! Ganz kleines Gameplay!
+multigaminges:
+  viewers: 30
+  status: '(ESP) MultiGaming TV: Grey playing HotS'
+friki0:
+  viewers: 20
+  status: 'Hots: Level 30 road for Ranked Games + Normal games with viewers !!'
+thewilq:
+  viewers: 20
+  status: 'RANK#1 - Rozdajemy klucze! #GRY Z WIDZAMI :) #VIKINGOWIE :D :D '
+prinzpsycho:
+  viewers: 19
+  status: 'HOTS: lachen, schreien, ohne orientierung, falsche tasten druecken und
+    die schuld den anderen geben ;-)'
+exodium:
+  viewers: 19
+  status: '[GER&ENG] Big Giveaway @10pm; take part the whole day.. read description
+    or ask us... you can win a awesome pirze today :)'
+-------------------------
+

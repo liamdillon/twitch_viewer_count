@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-27T16:00:01-07:00
+
+Number of channels: 336
+
+Total viewers: 5170
+
+Total Viewers for top 25 streams:
+4426
+
+Viewer counts:
+[1271, 1033, 588, 247, 209, 193, 139, 78, 64, 58, 53, 47, 46, 44, 42, 42, 38, 38, 34, 33, 32, 27, 25, 23, 22]
+
+---
+tgn:
+  viewers: 1271
+  status: Brawl With The Bros | w/MFPallytime & CaptainShack | Community Games | 5-7PM
+    CST
+followgrubby:
+  viewers: 1033
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+arkamn:
+  viewers: 588
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+bebopvox:
+  viewers: 247
+  status: BATTLE OF THE ROYALS!!! - H1Z1 with BebopVox
+oganoss:
+  viewers: 209
+  status: 'Anoss - FR -  Interstellar Big Respect papy !!!  #COMMENT??'
+youbetterknowme:
+  viewers: 193
+  status: 'KnowMe playing Team League with Subs '
+heroesone:
+  viewers: 139
+  status: '[FR] La Meta-YMCA avec Manta !'
+fightincowboy:
+  viewers: 78
+  status: HotS for a buzz, then Bloodborne Drunkthrough!
+beholdertv:
+  viewers: 64
+  status: '[BR] Beholder Of Eternity HADOUKEN ༼つಠ益ಠ༽つ ─=≡ΣO))'
+dotod:
+  viewers: 58
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+detrox86:
+  viewers: 53
+  status: '[GER] Feierabend Gaming Heldenliga'
+thekonus:
+  viewers: 47
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+hekady:
+  viewers: 46
+  status: '[esp] ❤ Heroes of the Storm'
+basickz:
+  viewers: 44
+  status: 'Basickz | Rank 1 Legend '
+darkoztv:
+  viewers: 42
+  status: '[ES] #HeroesFriday - Sorteo/Giveaway de Keys: http://goo.gl/DCe4mM'
+elitesniperx16:
+  viewers: 42
+  status: Heroes of Tacos! Join the Taco Army
+cayennethefirst:
+  viewers: 38
+  status: BR- Sorteios! - Pub do Cayenne
+therealhorsemaster:
+  viewers: 38
+  status: Beta Key Giveaways and Gazlowe/Sylvanas plays!
+nickhots:
+  viewers: 34
+  status: TL Open Champ. 6k+ games played. AMA! Commentary.
+shtyr:
+  viewers: 33
+  status: Shtyr, Пятница! Отдаю ключи в чате после каждой игры!
+eslatv:
+  viewers: 32
+  status: '[ESP-LAT] #HeroesFriday, las betas contraatacan.'
+asmozan:
+  viewers: 27
+  status: key every 2 games Team League
+hildewereld:
+  viewers: 25
+  status: How not to HotS! Minor League Gaming! Eargasm strum.
+ikkyy:
+  viewers: 23
+  status: 'Jogando 4fun + Sorteio de Keys #heroesfriday'
+w4lker:
+  viewers: 22
+  status: Go for Heroes Liga Liga Liga ziomy! Klucze klucze !Zamawiaj muzyke !  Never
+    Give up ! [MMORPG.org.pl]
+-------------------------
+

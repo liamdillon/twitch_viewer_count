@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-27T02:00:02-07:00
+
+Number of channels: 127
+
+Total viewers: 1487
+
+Total Viewers for top 25 streams:
+1359
+
+Viewer counts:
+[393, 236, 114, 110, 74, 65, 53, 51, 43, 36, 27, 20, 19, 17, 15, 12, 12, 12, 10, 8, 7, 7, 6, 6, 6]
+
+---
+tayzondaygames:
+  viewers: 393
+  status: Tay Zonday Plays Heroes Of The Storm!
+semiproproject:
+  viewers: 236
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 46/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+godspd:
+  viewers: 114
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+nickhots:
+  viewers: 110
+  status: TL Open Champ. 6k+ games played. AMA! Sylvanas Quick Matches. Commentary.
+ulqi:
+  viewers: 74
+  status: Качаем US аккаунт! Раздаем Ключи!
+itsmikuru:
+  viewers: 65
+  status: HotS | Key Giveaway | It's only a  game, Y U HEFF 2 B MED?
+heroesone:
+  viewers: 53
+  status: '[FR] La Meta-list avec Manta !'
+tolyawa:
+  viewers: 51
+  status: TOP777 VIKINGS EU
+erhotv:
+  viewers: 43
+  status: coL.Erho; GO BIG OR GO HOME
+mcintyrelol:
+  viewers: 36
+  status: 'coL_Duo Queue [MLG Titan 2 Winner]- AMA '
+heroeswartv:
+  viewers: 27
+  status: '[ESP] Partidas mañaneras con Hankokku + betakey'
+kentarotassadar:
+  viewers: 20
+  status: '[RUS/ENG] Странные странности  ┐( ˘ ､ ˘ )┌'
+omgcolin:
+  viewers: 19
+  status: LZH Gaming OMGColin | Team League!
+androidp:
+  viewers: 17
+  status: AndyLendi Артасы
+obsessedwlol:
+  viewers: 15
+  status: VIEWER GAMES! SONG REQUEST ON!
+sleepless_tv:
+  viewers: 12
+  status: '[RU] RANK#1! Сильвана ранкед йолоКУ'
+itsfixel:
+  viewers: 12
+  status: '[GER] with Keygiveaway every 50 Viewer!'
+sp5430:
+  viewers: 12
+  status: 【鱔魚】感冒沒聲音了!!...實在不太舒服 還是想要玩暴雪英霸
+cj1772101:
+  viewers: 10
+  status: 'Fantasy紅霞 [rank1] : 沉默deBuff ~ 9999s'
+eghtv:
+  viewers: 8
+  status: Elite Gaming House Streaming 24/7- Heroes of the Storm con Pao!
+k1pro:
+  viewers: 7
+  status: C9 k1pro ~ SYLVANAS ~ casual games w friends, no chat
+trymoreeu:
+  viewers: 7
+  status: '[ENG/GR] Rank 1 "Golding" Heroes ! Lets teach n chill !'
+lolhaeun:
+  viewers: 6
+  status: NO CAM NO MIC LET'S GET HOLY FUN STREAM! SYLVANAS ONLY TODAY! [NA] HOTS
+    Rank 1 Q&A and VIEWERS TOO~! 200 HERO LEAGUE WIN SOON!
+skeitty:
+  viewers: 6
+  status: Keitty is BACK | try this game !
+chiang001:
+  viewers: 6
+  status: 【肉肉】為甚麼要逼迫我 莫奇20等a_a
+-------------------------
+

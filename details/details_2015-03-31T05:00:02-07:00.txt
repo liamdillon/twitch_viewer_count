@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-31T05:00:02-07:00
+
+Number of channels: 142
+
+Total viewers: 3774
+
+Total Viewers for top 25 streams:
+3635
+
+Viewer counts:
+[1752, 499, 219, 184, 186, 153, 99, 80, 69, 73, 58, 43, 45, 27, 22, 16, 19, 17, 15, 16, 12, 11, 6, 8, 6]
+
+---
+chu8:
+  viewers: 1752
+  status: 1 Murky, 1 stream - Rank 1
+liquidneo:
+  viewers: 499
+  status: ◄R1 LiquiD► Got Gold? ► liquidneo.com ►
+zomgitshwoarang:
+  viewers: 219
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+heroesone:
+  viewers: 184
+  status: '[FR] SIC and Destroy avec SiC'
+pamcakes:
+  viewers: 186
+  status: Pam plays Hero League!
+leofromkorea:
+  viewers: 153
+  status: '[ENG/PL] GAMERS2 Leofromkorea Support Rank1'
+anthonyacc:
+  viewers: 99
+  status: NEW ROTATION! TESTING HEROES! (all new subs get a HoTS key)
+semiproproject:
+  viewers: 80
+  status: '#1 Onesie Stream NA - In Depth Commentary & Explanations [R1] | KilicK
+    | Day 50/∞  ヽ〳 ՞ ᗜ ՞ 〵'
+heroeswartv:
+  viewers: 69
+  status: '[ESP] Partidas mañaneras con Sg1blade'
+tolyawa:
+  viewers: 73
+  status: DOBROTA GAMING
+tinsi_:
+  viewers: 58
+  status: 'Rank 2  #MistkäferDöden'
+sleepless_tv:
+  viewers: 43
+  status: (RU) Rank1. Лига героев как она есть! Показать всё, что скрыто!
+ggmarche:
+  viewers: 45
+  status: ♠ NA | Marche ♠ rank 1 - Alpha Vet | Highmmr AMA come learn the game!
+gerdamherdtv:
+  viewers: 27
+  status: '[GER] WellMet Gerd Kurz aber Intense :S '
+pypgamers:
+  viewers: 22
+  status: '[ESP] Rankeds y partidas normales con @BulgangP'
+ponponhuehuehue:
+  viewers: 16
+  status: CAPSLOCKFURY - Something something games
+skeitty:
+  viewers: 19
+  status: Keitty is BACK | GROSSE NOOB! PLAY WITH VIEWERS
+chenmhm:
+  viewers: 17
+  status: BoJin Rank1 單排英雄聯賽
+n1ce0n3:
+  viewers: 15
+  status: Diamond1 LoL player doing HoTS
+ggamersprotv:
+  viewers: 16
+  status: Кампания StarCraft 2 + ключики к HotS
+stormcasters:
+  viewers: 12
+  status: '[FR] Marley Rank 1 # SoloQ c''est le mal !'
+askatsao:
+  viewers: 11
+  status: '  ASKA 大叔台 練習默契 歡迎大家提問及指導以及找隊伍'
+k3bab0r:
+  viewers: 6
+  status: HC preparation for S3  - k3bab0r [DAY 36]
+derikmolder:
+  viewers: 8
+  status: ogni game perso 1 key GIVEAWAY
+spleenstoo:
+  viewers: 6
+  status: 【FR - HD】Classées pour la pause déjeuner !
+-------------------------
+

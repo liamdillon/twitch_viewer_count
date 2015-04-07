@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-28T09:00:01-07:00
+
+Number of channels: 280
+
+Total viewers: 5293
+
+Total Viewers for top 25 streams:
+4689
+
+Viewer counts:
+[1319, 755, 483, 461, 377, 190, 187, 171, 141, 129, 68, 55, 47, 44, 37, 33, 31, 23, 22, 20, 20, 19, 19, 19, 19]
+
+---
+guardsmanbob:
+  viewers: 1319
+  status: Rank1! - Guardsman Bob!
+mkrr3:
+  viewers: 755
+  status: Heroes of the Storm || Archiwum LIVE - http://bit.ly/1vWjKb2
+gosugamers:
+  viewers: 483
+  status: 'Enter the Storm by Alienware Cup #1 /w @FourCourtJester & @NickHOTS'
+semiproproject:
+  viewers: 461
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 47/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+tavernofheroes:
+  viewers: 377
+  status: СИЛЬВАНА НА ТУРНИРЕ @ ZOTAC by HappyZerG
+heroesone:
+  viewers: 190
+  status: '[FR] Back to Rank 1 ? avec Luiji'
+zomgitshwoarang:
+  viewers: 187
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+heroeswartv:
+  viewers: 171
+  status: '[ESP] ZotacCup Mensual'
+hots_mcmuffin:
+  viewers: 141
+  status: 'McMuffin: Ranked 50 --> 1'
+vbrtv:
+  viewers: 129
+  status: '[RU] vk.com/vbrtv'
+sleepless_tv:
+  viewers: 68
+  status: ZOTAC HotS FINALS (раздача EU-beta ключей между играми)
+dotod:
+  viewers: 55
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Saturday Strumarino, Beta
+    Keys/Founders Pack Today!
+fletcheriii:
+  viewers: 47
+  status: Раздача ключей
+shtyr:
+  viewers: 44
+  status: Shtyr.Ranked. Отдаю ключи в чате! Стоит только попросить!
+bardina:
+  viewers: 37
+  status: '[ES] Bardina | Rank 1 | ¡Sorteando Keys!'
+weplayhots:
+  viewers: 33
+  status: Liquid vs Fancy ZOTAC Финалы месяца
+witness1129:
+  viewers: 31
+  status: 【Chakey】Team Fantasy KR Server Rank1!!! 衝團隊積分!!
+iraffer:
+  viewers: 23
+  status: iRaffer../ Road to Rank 1!
+slita:
+  viewers: 22
+  status: Best Sylvanas EVER MUWAHAHA~Slita~Full Time Streamer
+missmoep:
+  viewers: 20
+  status: '[GER] HOTS BETA GIVEAWAY @ 100 Follower'
+calmlight:
+  viewers: 20
+  status: (GER/ENG)CalmLight - Viewergames and Ranked's ^_^! [Some LoL, Hots, Osu]
+keko1102:
+  viewers: 19
+  status: '[GER] Carry Action | 8 Beta Key''s EU Verlosung!  !Verlosung für infos'
+georgekgaming:
+  viewers: 19
+  status: 1 EU Key GIVEAWAY for every game played
+devils0459:
+  viewers: 19
+  status: '[Devils台 已謝 射射] 永恆不變的標題'
+alpinab3:
+  viewers: 19
+  status: AlpinaB3 -  // WoW || CS:GO || HOTS \\ HOTS KEY´s GIVEAWAY Under dagen!
+-------------------------
+

@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-30T22:00:02-07:00
+
+Number of channels: 193
+
+Total viewers: 5199
+
+Total Viewers for top 25 streams:
+4862
+
+Viewer counts:
+[2138, 712, 608, 316, 195, 127, 110, 88, 82, 81, 58, 57, 40, 33, 32, 30, 28, 21, 20, 20, 15, 15, 14, 12, 10]
+
+---
+shaboozey:
+  viewers: 2138
+  status: Heroes of the Salt - Low Expectations Returns!
+chu8:
+  viewers: 712
+  status: '[NA] Rank 1 Murky Stream'
+gosuzuna:
+  viewers: 608
+  status: C9 Zuna Playing Not sick anymore time for some commentary later? :D
+valerothtv:
+  viewers: 316
+  status: 'Pro Plays | 5k Hype! | @ValerothTV '
+xelayirl:
+  viewers: 195
+  status: ^^RANK 1^^ XELAY^^  21GOLD hero^^ FEEL FREE ASK ANY HOTS QUESTION :)
+blondedeception:
+  viewers: 127
+  status: UM DONATE = UM SHOT! ~ Feliz aniversario, Sirthin! *festa*
+liquidneo:
+  viewers: 110
+  status: ◄R1 LiquiD► Got Gold? ► liquidneo.com ►
+fenixchaos:
+  viewers: 88
+  status: '[NA] Fenixchaos Giveway at 100 follower!'
+sinvicta:
+  viewers: 82
+  status: TEAM LE AND HURZZZ OF DA STERMM
+dunktrain:
+  viewers: 81
+  status: 'C9 DunkTrain | Chill Stream | #CHOO #CHOO '
+vawnievoulphie:
+  viewers: 58
+  status: 龴◕ɷ◕龴 JOIN MY GAME [NA]
+finalbosstv:
+  viewers: 57
+  status: '8/10 Mythic BRF 697 EnhShaman | Next #76 Hunters - April 5th @4pmEST |
+    FinalBoss.tv'
+tolyawa:
+  viewers: 40
+  status: Толяша хотсирует!
+heroesone:
+  viewers: 33
+  status: '[FR] Don''t worry be carried avec Rach'
+semiproproject:
+  viewers: 32
+  status: '#1 Onesie Stream NA - In Depth Commentary & Explanations [R1] | KilicK
+    | Day 50/∞  ヽ〳 ՞ ᗜ ՞ 〵ง (Short Sunday Stream) '
+realgaba:
+  viewers: 30
+  status: 24H Deutscher Livestream! HoTs Keys Giveaway + Secret Giveaway
+mikefrompgh:
+  viewers: 28
+  status: <NA> MURKY MASTER SKIN INC!
+glaurungtv:
+  viewers: 21
+  status: '| Tempo Storm Glaurung! | Rank 1 | Working on mechanics | '
+nerdacide:
+  viewers: 20
+  status: '#TeamJustice - $20 Battle.net Giftcard at 500 Followers! [Aussie, so I
+    swear a lot.]'
+ksk_smooverrella:
+  viewers: 20
+  status: HotS /w Smoo | Hier Text eingeben...
+goodguyheliioz:
+  viewers: 15
+  status: Beta key give-away tonight :7 | Heliioz#1227
+crucian24:
+  viewers: 15
+  status: 'HEROES STORM RK! Heroes Beta Key & $20 Bnet Cash Giveaways! #tune in #follow
+    powered by ORIGIN PC!'
+familiagameplay:
+  viewers: 14
+  status: ' ༽ ⁽༾ྋḻྋ༿⁾ ༼  Vem que o game é bão! (￫ܫ◕)'
+panntos:
+  viewers: 12
+  status: GER Pantos Heldenliga
+mabesmabes:
+  viewers: 10
+  status: 5 MAN SPECIALIST TEAM
+-------------------------
+

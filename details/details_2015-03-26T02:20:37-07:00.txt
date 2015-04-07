@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-26T02:20:37-07:00
+
+Number of channels: 122
+
+Total viewers: 3024
+
+Total Viewers for top 25 streams:
+2799
+
+Viewer counts:
+[1482, 275, 201, 140, 106, 96, 77, 73, 38, 37, 30, 27, 27, 22, 22, 20, 17, 15, 15, 15, 14, 13, 13, 12, 12]
+
+---
+chu8:
+  viewers: 1482
+  status: '[NA] I own Murky'
+khaldor:
+  viewers: 275
+  status: '[GER] New Patch & Stuff ;)'
+liquidneo:
+  viewers: 201
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+godspd:
+  viewers: 140
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+fuzion410:
+  viewers: 106
+  status: heroes of the sac
+ulqi:
+  viewers: 96
+  status: Лига Героев Дорога к 50 рангу
+semiproproject:
+  viewers: 77
+  status: '[NA] Rank 1 | Team League| In Depth Commentary & Explanations | 1 KilicK
+    | Day 45/∞  ヽ〳 ՞ ᗜ ՞ 〵ง'
+nuroklol:
+  viewers: 73
+  status: '[GER/ENG] Dignitas Nurok - playing Heroleague / Going through the Patch
+    // http://tinyurl.com/HeroesCup //'
+gerdamherdtv:
+  viewers: 38
+  status: '[GER] MADmaking with Khaldor, Cris und .....'
+tolyawa:
+  viewers: 37
+  status: Vikings vs Герои по вашим заявкам
+heroesone:
+  viewers: 30
+  status: '[FR] REDIFF : SiC and Destroy avec SiC'
+erhotv:
+  viewers: 27
+  status: coL.Erho; GO BIG OR GO HOME
+johanjazz:
+  viewers: 27
+  status: '[1 rank] ヽ(・∀・)ﾉ  Утренний стримец под музычку '
+tinsi_:
+  viewers: 22
+  status: Mistkäfer <3
+lastwolfplay:
+  viewers: 22
+  status: '[26/03] La matinale édition spéciale Heroes ! Reghar & Lost Viking time '
+coldfashiond:
+  viewers: 20
+  status: '[US] Tassadar Quick Matches'
+zsjh9100:
+  viewers: 17
+  status: ᴥ 姐姐玩英霸ᴥ  晚上都會轉圈 F5解決吧ˊˋ
+sleepless_tv:
+  viewers: 15
+  status: '[RU] RANK#1! СИЛЬВАНА! Часть вторая - Ранкед!'
+gvbtb:
+  viewers: 15
+  status: HoTS Giveaway!?!? Drinks, Chat, Blizzcon, Request Hero's! Smash Later? MK8
+    LATER!?
+ashmunsterr:
+  viewers: 15
+  status: Brightwing Quickmatch
+balthazarvon:
+  viewers: 14
+  status: ¡jueguando con palif  y betita para los amiguitos!
+bigmyself:
+  viewers: 13
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+sp5430:
+  viewers: 13
+  status: 【鱔魚】歡迎你做任何提問 地圖 角色 觀念都可以
+img_hots:
+  viewers: 12
+  status: '[FR] Rank 1 joue et commente en live puis quelques games avec les viewers'
+seoulja_:
+  viewers: 12
+  status: 'coL.TigerJK aka Keonda '
+-------------------------
+

@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-27T11:00:02-07:00
+
+Number of channels: 285
+
+Total viewers: 4707
+
+Total Viewers for top 25 streams:
+4830
+
+Viewer counts:
+[847, 704, 483, 424, 287, 264, 263, 211, 190, 172, 168, 157, 113, 94, 77, 63, 53, 52, 50, 40, 29, 31, 21, 17, 20]
+
+---
+liquidneo:
+  viewers: 847
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+guardsmanbob:
+  viewers: 704
+  status: Rank1! - Guardsman Bob!
+nastjanastja:
+  viewers: 483
+  status: Платиновый сильвер
+arkamn:
+  viewers: 424
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+zomgitshwoarang:
+  viewers: 287
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+gosuzuna:
+  viewers: 264
+  status: C9 Zuna Rank 1 Updated !tierlist
+pamcakes:
+  viewers: 263
+  status: Pam [NA] // Solo Hero League // Beta Key Giveaway Every Sub!
+adamkoebel:
+  viewers: 211
+  status: Heroes of this Stream
+tavernofheroes:
+  viewers: 190
+  status: Random Team Cup by HappyZerG
+youbetterknowme:
+  viewers: 172
+  status: 'KnowMe playing Team League with Subs '
+xelayirl:
+  viewers: 168
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+heroesone:
+  viewers: 157
+  status: '[FR] Back to Rank 1 ? avec Luiji'
+sooner:
+  viewers: 113
+  status: 'Master Reague '
+ogamingtv:
+  viewers: 94
+  status: '[FR] A quoi on joue ?! '
+player2player:
+  viewers: 77
+  status: '[PT-BR] Caricaz no ~Heróis do Toró~ KEYS PARA SORTEIO!  #HeroesFriday|
+    Maratona P2P [ 10R$ | Novo SUB = 1 HR ]'
+in4game:
+  viewers: 63
+  status: '[RU PRO NAVI] Лига Героев. Ранг 30 -> 1'
+angellatv:
+  viewers: 53
+  status: '[EN/PL] Przeprowadzka, JaRock- Drużynka i testowanie Sylvany.'
+dotod:
+  viewers: 52
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+heroeswartv:
+  viewers: 50
+  status: '[ESP] Shinda Stream | Partiditas con viewers!'
+thekonus:
+  viewers: 40
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+keko1102:
+  viewers: 29
+  status: '[GER] Sylvanas Carry Action'
+dragomangreektitans:
+  viewers: 31
+  status: 27/3/15 HOTS+ASSETTO CORSA+DAYZ
+octo83:
+  viewers: 21
+  status: 'GER :: Heldenliga 2:1'
+miss_snowfox:
+  viewers: 17
+  status: (>｡◕‿◕｡)> Sylvanas HYPE ♥ Viewergames - add MissSnowfox#2285  <(｡◕‿◕｡<)
+rumiin:
+  viewers: 20
+  status: GIVEAWAY HOTS BETA [ESP/ENG] Ruminios para todos!
+-------------------------
+

@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-31T04:00:01-07:00
+
+Number of channels: 151
+
+Total viewers: 3611
+
+Total Viewers for top 25 streams:
+3442
+
+Viewer counts:
+[1622, 610, 190, 153, 131, 109, 102, 81, 57, 52, 48, 44, 30, 30, 23, 23, 21, 20, 20, 18, 15, 15, 12, 9, 7]
+
+---
+chu8:
+  viewers: 1622
+  status: 1 Murky, 1 stream - Rank 1
+liquidneo:
+  viewers: 610
+  status: ◄R1 LiquiD► Got Gold? ► liquidneo.com ►
+heroesone:
+  viewers: 190
+  status: '[FR] SIC and Destroy avec SiC'
+zomgitshwoarang:
+  viewers: 153
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+leofromkorea:
+  viewers: 131
+  status: '[ENG/PL] GAMERS2 Leofromkorea Support Rank1'
+anthonyacc:
+  viewers: 109
+  status: NEW ROTATION! TESTING HEROES! (all new subs get a HoTS key)
+godspd:
+  viewers: 102
+  status: Утренний. Горячий. Твой ♥ vk.com/godspd
+semiproproject:
+  viewers: 81
+  status: '#1 Onesie Stream NA - In Depth Commentary & Explanations [R1] | KilicK
+    | Day 50/∞  ヽ〳 ՞ ᗜ ՞ 〵'
+heroeswartv:
+  viewers: 57
+  status: '[ESP] Partidas mañaneras con Sg1blade'
+tolyawa:
+  viewers: 52
+  status: DOBROTA GAMING
+ggmarche:
+  viewers: 48
+  status: ♠ NA | Marche ♠ rank 1 - Alpha Vet | Highmmr AMA come learn the game!
+prayscream:
+  viewers: 44
+  status: 'j.pRay -  Hrajeme Rankedy (⊙.⊙(☉̃ₒ☉)⊙.⊙) '
+sleepless_tv:
+  viewers: 30
+  status: (RU) Rank1. Лига героев как она есть! Показать всё, что скрыто!
+wiwradeer:
+  viewers: 30
+  status: |
+    1 Éves a w.I.w_GAMiNG TV  | Műsorsorozat 1 hétig! | Welcome and Stay | Follow me!
+tinsi_:
+  viewers: 23
+  status: 'Rank 2  #MistkäferDöden'
+ponponhuehuehue:
+  viewers: 23
+  status: CAPSLOCKFURY - Something something games
+stormcasters:
+  viewers: 21
+  status: '[FR] Marley Rank 1 # SoloQ et Clé Béta à donner ! (Demandez les moi)'
+pypgamers:
+  viewers: 20
+  status: '[ESP] Rankeds y partidas normales con @BulgangP'
+trindashe:
+  viewers: 20
+  status: '[GER] #Rank 1 #Schattenwölfe suchen Member #Betakey zu verschenken'
+m989876525:
+  viewers: 18
+  status: 'Eason - left the team HKA >_<  to #1'
+skeitty:
+  viewers: 15
+  status: Keitty is BACK | GROSSE NOOB! PLAY WITH VIEWERS
+n1ce0n3:
+  viewers: 15
+  status: Diamond1 LoL player doing HoTS
+chiang001:
+  viewers: 12
+  status: 【肉肉】這遊戲也太難玩了吧
+k1von3:
+  viewers: 9
+  status: '[GER] Giveaway: 3 Beta Keys für Heroes of the Storm - !betakey für Infos!'
+chenmhm:
+  viewers: 7
+  status: BoJin Rank1 單排英雄聯賽
+-------------------------
+

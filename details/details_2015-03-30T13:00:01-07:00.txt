@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-30T13:00:01-07:00
+
+Number of channels: 351
+
+Total viewers: 8238
+
+Total Viewers for top 25 streams:
+7531
+
+Viewer counts:
+[5490, 641, 153, 158, 137, 136, 96, 86, 62, 60, 60, 59, 58, 47, 38, 40, 32, 28, 26, 24, 22, 20, 20, 19, 19]
+
+---
+esl_heroes:
+  viewers: 5490
+  status: ESL Playoffs Season 1 | Day 1
+arkamn:
+  viewers: 641
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+heroeswartv:
+  viewers: 153
+  status: '[ESP] SK 0 vs 0 LDCL - ESL #MajorLeague Playoffs EU'
+heroesone:
+  viewers: 158
+  status: '[FR] Don''t worry be carried avec Rach'
+happyzerg:
+  viewers: 137
+  status: Ранг 1 на победу! Комментарии и ответы на вопросы
+fenixchaos:
+  viewers: 136
+  status: '[NA] Fenixchaos Giveway at 100 follower!'
+gerdamherdtv:
+  viewers: 96
+  status: '[GER] WellMet Gerd Viewergames o.O Wie immer zu spät :D'
+dotod:
+  viewers: 86
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Monday! Founder Pack Giveaway
+    TODAY+NA Beta Keys :D
+warlegend:
+  viewers: 62
+  status: '[FR] Yamakhalah Plays !'
+holyonline:
+  viewers: 60
+  status: '[BR] Rank 1 - VOLTEI! o/ Sylvanas Hype'
+nysira:
+  viewers: 60
+  status: 'Giveaway: HOTS Beta-Keys (EU) every 50 followers | SUB Giveaway (CM STORM
+    MIZAR MOUSE) | More videos at youtube.com/twitchnysira <3 '
+slita:
+  viewers: 59
+  status: 30+ Beta Keys Come n Get Em~ Sylvanas Main~Slita~Full Time Streamer
+detrox86:
+  viewers: 58
+  status: '[GER] Giveaway Beta Key'
+rastablastalol:
+  viewers: 47
+  status: Viewergames/GIVEAWAY 9 HoTS Beta Keys !
+gohots:
+  viewers: 38
+  status: '[RU] 2KXAOC в ХотСе и Варике!'
+basickz:
+  viewers: 40
+  status: Basickz | Rank 1 Legend | Viewer Quick Matches
+miss_snowfox:
+  viewers: 32
+  status: (>｡◕‿◕｡)> HotS Monday ♥ join my matches - add MissSnowfox#2285 <(｡◕‿◕｡<)
+gimloo:
+  viewers: 28
+  status: 'SWE/ENG AUTO DJ KEBABPIZZA STREAM WITH UNDERWEAR ON MY HEAD LATER ON CUZ
+    http://www.twitch.tv/bankalicious @Bankalicious :) HYPE!!!!!!!! '
+death2blade:
+  viewers: 26
+  status: '[GER|PC] Derpy Derp | Derp Derp'
+foerest:
+  viewers: 24
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+ashmunsterr:
+  viewers: 22
+  status: (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Hero League
+mrjpickles:
+  viewers: 20
+  status: '[#133] MrJPickles try hard day! Working on EU first then NA. EU Keys to
+    giveaway'
+shtyr:
+  viewers: 20
+  status: Shtyr. Ranked Rank1
+spleenstoo:
+  viewers: 19
+  status: 【FR - HD】Spleen + Aureana
+rhoxylol:
+  viewers: 19
+  status: Rhoxy meets heroes :)
+-------------------------
+

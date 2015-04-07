@@ -1,0 +1,96 @@
+-------------------------
+Timestamp: 2015-03-26T21:00:02-07:00
+
+Number of channels: 268
+
+Total viewers: 3617
+
+Total Viewers for top 25 streams:
+3125
+
+Viewer counts:
+[1692, 190, 149, 143, 135, 133, 115, 67, 62, 52, 53, 50, 61, 40, 32, 27, 20, 19, 16, 14, 12, 11, 11, 11, 10]
+
+---
+followgrubby:
+  viewers: 1692
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+xelayirl:
+  viewers: 190
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+misscliks:
+  viewers: 149
+  status: 'NA Beta Key Giveaway! Eye on the Storm #26 - Heroes of the Storm Designer
+    Kent-Erik Hagman'
+ryuzilla:
+  viewers: 143
+  status: 5 Stack Ranked
+hots_mcmuffin:
+  viewers: 135
+  status: 'McMuffin: From Rank 50 to 1'
+semiproproject:
+  viewers: 133
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 46/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+solidjakegg:
+  viewers: 115
+  status: Sylvanas to 10 (currently lvl 9)
+lolirot:
+  viewers: 67
+  status: '♥ LATINO ♥ - #HeroesWeekend ! #Betas y #Customs com los Viewers!'
+pms_unforgiven:
+  viewers: 62
+  status: Thirsty Thursday. LEGGO!
+vawnievoulphie:
+  viewers: 52
+  status: 龴◕ɷ◕龴JOIN OUR QUICK MATCH [NA]
+tolyawa:
+  viewers: 53
+  status: TOP777 VIKINGS EU
+djwheat:
+  viewers: 50
+  status: Heroes of the Storm - Blow stuff up with Jania!
+eghtv:
+  viewers: 61
+  status: Elite Gaming House Streaming 24/7- Heroes of the Storm con Pao!
+inetkoxtv:
+  viewers: 40
+  status: HEROSI DZIĘCIOŁY BURSZTYNY
+heroesone:
+  viewers: 32
+  status: '[FR] La Meta-list avec Manta !'
+bunkernerd:
+  viewers: 27
+  status: '[PT-BRHue/ENG] HOTS <3 cusbródi!'
+ggmarche:
+  viewers: 20
+  status: ♠ NA | Marche ♠ ^^ Viewer games~  (Tent Stream? <3)
+gimloo:
+  viewers: 19
+  status: SWE/ENG AUTO DJ http://www.inet.se/produkt/2204966/asus-24-vg248qe-144hz
+    700 FOLLOWERS FAN MEETUP IN PLANNING DATE TIME? HYPE!!!!!!!!!!!!!!!
+crucian24:
+  viewers: 16
+  status: 'Heroes of Storm RANKED! Heroes Beta Key Giveaways! #tune in #follow pwred
+    by ORIGIN PC!'
+deva_marie:
+  viewers: 14
+  status: Deva Plays Heroes of the Storm!
+selenityy:
+  viewers: 12
+  status: Sylvanas + New Patch w/ Selenityy <3
+rosath:
+  viewers: 11
+  status: '[Day 13] click me click me click me! Am I entertaining enough? No? Ugh.'
+jschritte:
+  viewers: 11
+  status: 'Mecanics ! ! ! '
+nwgamesbrasil:
+  viewers: 11
+  status: '[PT-BR] - Duque - Campeões da Cantareira [Song Request ON!]'
+snakelalala:
+  viewers: 10
+  status: 巨型矮人   后蟲才是我的女王~
+-------------------------
+

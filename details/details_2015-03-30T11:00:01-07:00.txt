@@ -1,0 +1,96 @@
+-------------------------
+Timestamp: 2015-03-30T11:00:01-07:00
+
+Number of channels: 302
+
+Total viewers: 9083
+
+Total Viewers for top 25 streams:
+8451
+
+Viewer counts:
+[4498, 952, 725, 466, 419, 226, 199, 120, 106, 92, 81, 79, 74, 65, 53, 43, 42, 41, 31, 30, 27, 23, 22, 19, 18]
+
+---
+esl_heroes:
+  viewers: 4498
+  status: ESL EU Playoffs Season 1 | Day 1
+guardsmanbob:
+  viewers: 952
+  status: Rank1! - Guardsman Bob!
+pamcakes:
+  viewers: 725
+  status: Pam // Road to Rank 1
+igromania:
+  viewers: 466
+  status: 'Игромания: двадцать ключей для Heroes of the Storm (20:00 МСК)'
+arkamn:
+  viewers: 419
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+zp_tv:
+  viewers: 226
+  status: ZPs - Rank 1 - 1080p/60FPS! - NEW STREAM SETTINGS SO BEAUTIFUL
+heroesone:
+  viewers: 199
+  status: '[FR] La Met-Hardcore avec Manta ! 12h~22h NON-STOP !'
+lucifron7:
+  viewers: 120
+  status: Liquid'LucifroN playing Heroes
+cebka_je:
+  viewers: 106
+  status: '[ASH] CEBKAJE  -  Отвечаю на вопросы. '
+player2player:
+  viewers: 92
+  status: '[PT-BR] TROCA DE STREAMER | Maratona P2P [ 10R$ | Novo SUB = 1 HR ]'
+reveevtv:
+  viewers: 81
+  status: Reveev.Tv || @n0point и HOTS!!!
+gerdamherdtv:
+  viewers: 79
+  status: '[GER] WellMet Gerd Viewergames o.O Wie immer zu spät :D'
+in4game:
+  viewers: 74
+  status: Розыгрыш Ключей. Познаём Дзен и не Бомбим на идиотов в Лиге
+dotod:
+  viewers: 65
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Monday! Founder Pack Giveaway
+    TODAY+NA Beta Keys :D
+slita:
+  viewers: 53
+  status: 30+ Beta Keys Come n Get Em~ Sylvanas Main~Slita~Full Time Streamer
+heroeswartv:
+  viewers: 43
+  status: '[ESP] Especial por Semana Santa!! Nuestros streamers juegan con vosotros
+    :D!!'
+happyzerg:
+  viewers: 42
+  status: Ранг 1 с комментами под ULTRA MUSIC FESTIVAL
+thekonus:
+  viewers: 41
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+kattari:
+  viewers: 31
+  status: '[GER] EU Beta Key Giveaway <3'
+tolyawa:
+  viewers: 30
+  status: DOBROTA GAMING
+miss_snowfox:
+  viewers: 27
+  status: (>｡◕‿◕｡)> HotS Monday ♥ join my matches - add MissSnowfox#2285 <(｡◕‿◕｡<)
+teerage:
+  viewers: 23
+  status: r0xrite rank 1, specialist and ranged carry HL, QM with fans, build and
+    more
+nuroklol:
+  viewers: 22
+  status: '[GER/ENG] Dignitas Nurok - FortgeschrittenenKurs in Zusammenarbeit mit
+    moreheroes.de'
+thewilq:
+  viewers: 19
+  status: 'RANK#1 - Rozdajemy klucze! :) Chcesz zagrać? Pisz! '
+ksk_smooverrella:
+  viewers: 18
+  status: HotS /w Smoo !!! Thrall - Hype
+-------------------------
+

@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-30T08:00:02-07:00
+
+Number of channels: 240
+
+Total viewers: 5650
+
+Total Viewers for top 25 streams:
+5300
+
+Viewer counts:
+[2059, 1089, 461, 401, 244, 127, 112, 104, 82, 81, 75, 75, 53, 49, 46, 36, 32, 29, 31, 27, 21, 18, 17, 16, 15]
+
+---
+pamcakes:
+  viewers: 2059
+  status: Pam // Road to Rank 1
+guardsmanbob:
+  viewers: 1089
+  status: Rank1! - Guardsman Bob!
+yuuie:
+  viewers: 461
+  status: ❤EU Game Key Giveaways! After Every Game
+zp_tv:
+  viewers: 401
+  status: ZPs - Rank 1 - 1080p/60FPS! - NEW STREAM SETTINGS SO BEAUTIFUL
+heroesone:
+  viewers: 244
+  status: '[FR] La Met-Hardcore avec Manta ! 12h~19h NON-STOP !'
+tolyawa:
+  viewers: 127
+  status: DOBROTA GAMING
+wolfeater_il:
+  viewers: 112
+  status: BLA BLA BLA
+ogamingtv:
+  viewers: 104
+  status: '[FR] A quoi on joue !'
+ggmarche:
+  viewers: 82
+  status: ♠ NA | Marche ♠ I got a 'HotS' date tonight boys.
+angellatv:
+  viewers: 81
+  status: '[PL/ENG] Kolejny dzień szukania osób do JaRockowej drużyny. Dzień#3'
+cebka_je:
+  viewers: 75
+  status: '[ASH] CEBKAJE  -  Отвечаю на вопросы. '
+heroeswartv:
+  viewers: 75
+  status: '[ESP] De rankeds con SGS1907!'
+yourchinafan:
+  viewers: 53
+  status: road to rank 1
+keko1102:
+  viewers: 49
+  status: '[GER] 8 Beta Key''s EU Verlosung!  !Verlosung für infos'
+sakerasuu:
+  viewers: 46
+  status: Heroes of the Corn.
+g96k:
+  viewers: 36
+  status: '[eng/ger] LVL 1 Nub'
+pavliks:
+  viewers: 32
+  status: '[RU] Ни ЛОЛ, ни Дота...'
+slita:
+  viewers: 29
+  status: ' NA Beta Key giveaway all day Sylvanas Main~Slita~Full Time Streamer'
+lhiratv:
+  viewers: 31
+  status: '[GIVEAWAY BETA KEYS EU HOTS] - [FR] Des ranked en veux-tu, en voila ! 10
+    Follows = 1 Clé BETA EU ! [!points ; !jetons ; !mensurations]'
+m4840915:
+  viewers: 27
+  status: '鮪魚是你    '
+nvnpaladino:
+  viewers: 21
+  status: Segundona indo pegar nível 10 com Sylvana!
+witness1129:
+  viewers: 18
+  status: 【Chakey】Team Fantasy KR Server Rank1!!!
+gentlemanlyc:
+  viewers: 17
+  status: A questionable stream for questionable people
+bocz0r:
+  viewers: 16
+  status: '[FR] Boc sur HOTS'
+snake2356:
+  viewers: 15
+  status: 1 KEY EVERY 3 GAMES! SYLVANAS HYPE! HOTS KEYS GIVEAWAY! Playing with viewers!
+    [BG/ENG]
+-------------------------
+

@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-27T06:00:01-07:00
+
+Number of channels: 154
+
+Total viewers: 2382
+
+Total Viewers for top 25 streams:
+2181
+
+Viewer counts:
+[806, 289, 169, 164, 148, 85, 74, 57, 57, 49, 43, 34, 30, 26, 23, 23, 18, 16, 14, 11, 10, 10, 9, 8, 8]
+
+---
+liquidneo:
+  viewers: 806
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+pamcakes:
+  viewers: 289
+  status: 
+heroesone:
+  viewers: 169
+  status: '[FR] La Meta-midi avec Manta !'
+godspd:
+  viewers: 164
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+happyzerg:
+  viewers: 148
+  status: Сильвана до 10 уровня и ключи! Самый добрый стрим!
+player2player:
+  viewers: 85
+  status: '[PT-BR] Caricaz no ~Heróis do Toró~ KEYS PARA SORTEIO! | Maratona P2P [
+    10R$ | Novo SUB = 1 HR ]'
+gerdamherdtv:
+  viewers: 74
+  status: '[GER] WellMet Gerd QM Rektening'
+heroeswartv:
+  viewers: 57
+  status: '[ESP] SG1Blade con partidas mañaneras y betas!'
+hekady:
+  viewers: 57
+  status: '[esp] ❤ ¡He vuelto! Nuevo parche y Sylvanas'
+keko1102:
+  viewers: 49
+  status: '[GER] Carry Action!'
+sleepless_tv:
+  viewers: 43
+  status: '[RU] RANK#1! Сильвана ранкед йолоКУ'
+pypgamers:
+  viewers: 34
+  status: '[ESP] Sorteo de 10 Betas y partidas con @BulgangP'
+still_sleepy:
+  viewers: 30
+  status: SleepAllday DAY12 登愣~!
+nexaa:
+  viewers: 26
+  status: Rank 13 Hero League NO CAM TODAY
+lomarri:
+  viewers: 23
+  status: 'Starting HOTS ! 3 Betakeys for followers that want to play this too :)
+    (EU) '
+tolyawa:
+  viewers: 23
+  status: TOP777 VIKINGS EU
+farkemshtryder:
+  viewers: 18
+  status: 'Farkem | 10 часов Боли! '
+azusasparkers:
+  viewers: 16
+  status: 【憨瓜工作室】心情低落
+ashmunsterr:
+  viewers: 14
+  status: Nova Quickmatch
+sp5430:
+  viewers: 11
+  status: 【鱔魚】感冒沒聲音了!!...實在不太舒服 還是想要玩暴雪英霸
+cj1772101:
+  viewers: 10
+  status: 'Fantasy紅霞 [rank1] : 沉默deBuff ~ 9999s'
+darling_jen:
+  viewers: 10
+  status: ⊙︿⊙ Что-то мне нехорошо... Ну-ка, обними меня!
+spleenstoo:
+  viewers: 9
+  status: 【FR - HD】Ranked Solo
+nwgamesbrasil:
+  viewers: 8
+  status: '[PT-BR] - Duque - Campeões da Cantareira [Song Request ON!]'
+darkbrussel:
+  viewers: 8
+  status: Got keys to giveaway :) EU keys
+-------------------------
+

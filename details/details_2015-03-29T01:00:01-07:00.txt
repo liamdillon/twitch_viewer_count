@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-29T01:00:01-07:00
+
+Number of channels: 161
+
+Total viewers: 3125
+
+Total Viewers for top 25 streams:
+2880
+
+Viewer counts:
+[1351, 456, 301, 113, 105, 100, 73, 48, 48, 40, 38, 26, 24, 20, 17, 16, 15, 14, 16, 10, 10, 10, 11, 9, 9]
+
+---
+chu8:
+  viewers: 1351
+  status: 
+temp0_sc:
+  viewers: 456
+  status: Temp0 - Homies of the Stuurm!
+trikslyr:
+  viewers: 301
+  status: Rank 1 Hero League. Builds at the bottom of the page now.
+godspd:
+  viewers: 113
+  status: Тот самый :D!
+fenixchaos:
+  viewers: 105
+  status: Fenixchaos Hero League [EN] [FR]
+ihosty:
+  viewers: 100
+  status: Hosty -Rank 1 NA HOTS  - | Sylvanas HYPE |  |  9/9 Golden Classes | 23x
+    Legend |  Blackrock hype soon Kreygasm
+tolyawa:
+  viewers: 73
+  status: DOBROTA GAMING
+semiproproject:
+  viewers: 48
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 48/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง (Short Saturday Stream) '
+mrboombati:
+  viewers: 48
+  status: Late night cast [Heroes of the Storm]
+johanjazz:
+  viewers: 40
+  status: '[1 rank] ヽ(・∀・)ﾉ  О боже,каточки с подписонами таверны!'
+foerest:
+  viewers: 38
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+ashmunsterr:
+  viewers: 26
+  status: (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧Rank 50 HERO LEAGUE
+melonair0827:
+  viewers: 24
+  status: INR Melonair  ESR霸王盃第一屆冠軍
+heroesone:
+  viewers: 20
+  status: '[FR] Debout le nexus avec Exo'
+greentea_1013:
+  viewers: 17
+  status: '[GreenTea] - 3/29  '
+eghtv:
+  viewers: 16
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+mrkoliak:
+  viewers: 15
+  status: Stream 24h + Cospobre + 1000Followers!  - @MrKoliaK
+bigmyself:
+  viewers: 14
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+lovelolly:
+  viewers: 16
+  status: ༼ つ ◕_◕ ༽つ valet ebaniy ( ͡° ͜ʖ ͡° )
+jahuras88:
+  viewers: 10
+  status: '[PL] HotS Poranna rozgrzewka, START od 11:00! Klucze do bety'
+gertie0123:
+  viewers: 10
+  status: 【玉花0329】Gertie#3169 ++
+sp5430:
+  viewers: 10
+  status: 【鱔魚】感冒要好了沒?? 我想講話啦!! (喉嚨還是很痛)
+insanidade_temporaria:
+  viewers: 11
+  status: '[PT-BR] Herois da Madrugada'
+anothernotch:
+  viewers: 9
+  status: Assemble Notchypoos!!
+inza1337:
+  viewers: 9
+  status: '[Ger/Eng] League / Viewer games / chilling ^.^ join and relax :)'
+-------------------------
+

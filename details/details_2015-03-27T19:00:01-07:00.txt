@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-27T19:00:01-07:00
+
+Number of channels: 279
+
+Total viewers: 6119
+
+Total Viewers for top 25 streams:
+5600
+
+Viewer counts:
+[2309, 1275, 328, 272, 197, 177, 209, 150, 106, 76, 70, 63, 51, 47, 47, 29, 24, 23, 23, 26, 22, 21, 15, 20, 20]
+
+---
+esl_heroes:
+  viewers: 2309
+  status: ESL Playoffs Season 1 | Day 1
+followgrubby:
+  viewers: 1275
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+arkamn:
+  viewers: 328
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+chu8:
+  viewers: 272
+  status: '[NA] Rank 1 Fun Games'
+oganoss:
+  viewers: 197
+  status: 'Anoss - FR -  Interstellar Big Respect papy !!!  #COMMENT??'
+hots_mcmuffin:
+  viewers: 177
+  status: 'McMuffin: Ranked 50-1__LIVE FROM ULTRA ♥'
+xelayirl:
+  viewers: 209
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+dizzydizaster:
+  viewers: 150
+  status: Win Heroes of the Storm ! Giveaways all night!
+sinvicta:
+  viewers: 106
+  status: FORCASTING LIVE!
+coldfashiond:
+  viewers: 76
+  status: '[NA] quick matches & hero league - tassadar'
+happyzerg:
+  viewers: 70
+  status: Ночная лига
+fr4gshout:
+  viewers: 63
+  status: Up all Night!! Ghost Pepper Perhaps!  Road to Partner   Avidesports.com
+heroesone:
+  viewers: 51
+  status: '[FR] La Meta-YMCA avec Manta !'
+dotod:
+  viewers: 47
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+beholdertv:
+  viewers: 47
+  status: '[BR] Beholder Of Eternity HADOUKEN ༼つಠ益ಠ༽つ ─=≡ΣO))'
+ixeres:
+  viewers: 29
+  status: HotS - How I Sylvanas?
+hellequinm:
+  viewers: 24
+  status: '#HeroesFriday - Agora tem key - Vlw JSchritte e Nikolas'
+andraxxusx:
+  viewers: 23
+  status: '[Andraxxus] - #HeroesFriday con CarmenPilar :)'
+momentofvalor:
+  viewers: 23
+  status: '$100 SHOWMATCH - FRIDAY NIGHT FIGHTS - Goat Gaming Vs. LZ Crew '
+kiyeberries:
+  viewers: 26
+  status: '[1080p] Healy Dealy Feely'
+originpc:
+  viewers: 22
+  status: Kitten plays HoTS + GIVEAWAY! - Team ORIGIN PC
+kattari:
+  viewers: 21
+  status: GER/ENG Wer will mitspielen? :*
+lipepereiratv:
+  viewers: 15
+  status: 'Lipe Pereira em #HeroesFriday'
+itscyphoria:
+  viewers: 20
+  status: heroes.. of the wat
+kensleywins:
+  viewers: 20
+  status: GER/ENG  ►  Just for fun!
+-------------------------
+

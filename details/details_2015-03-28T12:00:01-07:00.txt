@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-28T12:00:01-07:00
+
+Number of channels: 342
+
+Total viewers: 7173
+
+Total Viewers for top 25 streams:
+6417
+
+Viewer counts:
+[2159, 1109, 898, 402, 346, 315, 159, 121, 105, 94, 79, 78, 69, 65, 58, 49, 49, 44, 39, 32, 35, 34, 28, 26, 24]
+
+---
+esl_heroes:
+  viewers: 2159
+  status: ESL Playoffs Season 1 | Day 2
+guardsmanbob:
+  viewers: 1109
+  status: Rank1! - Guardsman Bob!
+followgrubby:
+  viewers: 898
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+tavernofheroes:
+  viewers: 402
+  status: Team Liquid vs Team Tomorrow Big @ ZOTAC by HappyZerG
+heroeswartv:
+  viewers: 346
+  status: '[ESP] Zotac Cup Mensual (FINAL) Team Liquid VS Team Tomorrow Big'
+zomgitshwoarang:
+  viewers: 315
+  status: '[GER] Beta Key Giveaway!!'
+heroesone:
+  viewers: 159
+  status: '[FR] SiC and Destroy avec SIC'
+mmorpgskisaker:
+  viewers: 121
+  status: Heroes. SERIOUS TALK SATURDAY
+burninggirl:
+  viewers: 105
+  status: '[RU/ENG] Yard.Gela - Team league. '
+leofromkorea:
+  viewers: 94
+  status: '[ENG/PL] GAMERS2 Leofromkorea Support Rank1'
+sonderx:
+  viewers: 79
+  status: Primer Torneo HISO Previo
+in4game:
+  viewers: 78
+  status: Розыгрыш Ключей и Лига Героев
+dotod:
+  viewers: 69
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Saturday Strumarino, Beta
+    Keys/Founders Pack Today!
+angellatv:
+  viewers: 65
+  status: '[EN/PL] JaRock drużyna - eliminacje. Dzień#1'
+doornebuzz:
+  viewers: 58
+  status: <Doornebuzz> - (PC) - Crazy Caturday! - The road to 2.5k followers! ☆
+tenschi:
+  viewers: 49
+  status: '[Ger] Noob spielt wie ein Pro :D'
+player2player:
+  viewers: 49
+  status: '[PT-BR] Caricaz jogando com os subs e viewers o HOTS! | Maratona P2P [
+    10R$ | Novo SUB = 1 HR ]'
+sleepless_tv:
+  viewers: 44
+  status: ZOTAC HotS FINALS (раздача EU-beta ключей между играми)
+exi1ia:
+  viewers: 39
+  status: '[RU] Раздаю ключи на HOTS! @BlizzHeroes @BlizzHeroesRU #ExiliaTV #HOTS'
+kraxell2463:
+  viewers: 32
+  status: '[GEWINNSPIEL][HD+][GER/ENG] Wir verlosen 7 Heroes Beta Keys!'
+weplayhots:
+  viewers: 35
+  status: Liquid vs TTB ZOTAC Финалы месяца
+strandedorange:
+  viewers: 34
+  status: Единственная болезнь здесь - это МОБА (Russian/English)
+wolfforcex:
+  viewers: 28
+  status: ส็็็็็็็็็็็็็็็็็็็(ಠ益ಠ)ส็็็็็็็็็็็็็็็็็็็3 Keys to giveway & type !coins
+    for currency system! (entry will be with points)୧༼ ͡◉ل͜ ͡◉༽୨
+avanityzumba:
+  viewers: 26
+  status: '[ENG]  ♥ hangover ♥  '
+reodora:
+  viewers: 24
+  status: Going for Hero League; +keys giveaway
+-------------------------
+

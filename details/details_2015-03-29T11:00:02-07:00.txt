@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-29T11:00:02-07:00
+
+Number of channels: 320
+
+Total viewers: 6474
+
+Total Viewers for top 25 streams:
+5825
+
+Viewer counts:
+[1939, 555, 504, 418, 408, 334, 318, 272, 200, 190, 90, 88, 76, 75, 64, 44, 49, 39, 32, 30, 26, 21, 20, 17, 16]
+
+---
+guardsmanbob:
+  viewers: 1939
+  status: Rank1! - Guardsman Bob!
+docgotgame:
+  viewers: 555
+  status: '[30k Follower Hype??] Sergeant Sunday with HoTS (keys thrown in chat!)-
+    PS2 and RoK! (GW2 and FFXIV Revisit Next Week!)'
+tavernofheroes:
+  viewers: 504
+  status: Team Yard vs Puszek @ Go4Heroes by HappyZerG
+heroesone:
+  viewers: 418
+  status: '[FR] Go4Heroes Europe Cup #17 avec Kelzo & Fouz'
+zomgitshwoarang:
+  viewers: 408
+  status: '[GER] Rank 1  - SneakyBeakyLike'
+youbetterknowme:
+  viewers: 334
+  status: '[Ger/Eng] KnowMe casting Go4Heroes - later TeamLeague with Subs :)'
+exi1ia:
+  viewers: 318
+  status: '[RU] Go4Heroes Europe Cup #17 @BlizzHeroes @BlizzHeroesRU #ExiliaTV #HOTS'
+hosselote:
+  viewers: 272
+  status: '[ENG] ESL EU Go4Heroes #17 Team Acer vs Flauschig (Key Giveaways)'
+heroeswartv:
+  viewers: 200
+  status: '[ESP] ESL G4Heroes (OCTAVOS) Gryphus EVO VS Yolo Team'
+angellatv:
+  viewers: 190
+  status: '[EN/PL] JaRock drużyna - eliminacje. Dzień#2 Komentujemy z Rockiem :)'
+esl_moretv_heroes:
+  viewers: 90
+  status: '[GER] Go4Heroes Europe Cup #17'
+esl_heroes_pl:
+  viewers: 88
+  status: '[PL] Team Alternate vs Team Fancy Go4Heroes Europe Cup #17'
+basickz:
+  viewers: 76
+  status: 'Basickz | Rank 1 Legend '
+pinkwardgirls:
+  viewers: 75
+  status: '[FR] Heroes of the Storm avec Alcmene [www.pinkward.fr]'
+anthonyacc:
+  viewers: 64
+  status: Sub Sunday! 25 KEYS TO GIVE AWAY! (NA)
+dotod:
+  viewers: 44
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Chill Sunday Streem :D NA Beta
+    Keys!
+slita:
+  viewers: 49
+  status: 2ND Day HotS Sylvanas main~Slita~Full Time Streamer
+shtyr:
+  viewers: 39
+  status: Shtyr.Ranked. Отдаю ключи в чате! Стоит только попросить!
+octo83:
+  viewers: 32
+  status: 'GER :: Helden- und Teamliga :: www.moreheroes.de'
+esl_heroes_czsk:
+  viewers: 30
+  status: 'ESL Go4Heroes #17 [CZ]'
+sleepless_tv:
+  viewers: 26
+  status: '(RU) YARD vs Puszek Team! Go4Heroes CUP #17 (restream)'
+schoolaftertv:
+  viewers: 21
+  status: 亞洲中文台，偽娘 るるも
+eghtv:
+  viewers: 20
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+gameworld2015:
+  viewers: 17
+  status: Because on way to The League !!!
+gimloo:
+  viewers: 16
+  status: SWE/ENG AUTO DJ PLZ STOP BY EITHER ON STREAM OR IN REAL LIFE YOU ARE WELCOME
+    :):) HYPE!!!!!!!
+-------------------------
+

@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-28T00:00:02-07:00
+
+Number of channels: 196
+
+Total viewers: 2056
+
+Total Viewers for top 25 streams:
+1810
+
+Viewer counts:
+[985, 156, 98, 78, 68, 57, 47, 45, 33, 32, 24, 20, 18, 17, 15, 15, 14, 14, 14, 11, 11, 9, 10, 10, 9]
+
+---
+chu8:
+  viewers: 985
+  status: '[NA] Rank 1 "It''s a good day to Murky"'
+trikslyr:
+  viewers: 156
+  status: Minesweeper Pro spends time playing Heroes
+tayzondaygames:
+  viewers: 98
+  status: Tay Zonday Plays Heroes Of The Storm!
+johanjazz:
+  viewers: 78
+  status: '[1 rank] ヽ(・∀・)ﾉ  Бест цыган еу \о'
+vieparlafoi:
+  viewers: 68
+  status: Heroes of the Storm ~*~*~ Glass website live, new sub perks!
+wolfeater_il:
+  viewers: 57
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+fr4gshout:
+  viewers: 47
+  status: 24 hours Up all Night!! Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+temp0_sc:
+  viewers: 45
+  status: Temp0 - Homies of the Stuuurm!
+tolyawa:
+  viewers: 33
+  status: TOP777 VIKINGS EU
+hanaliu:
+  viewers: 32
+  status: 煞气HANA@蟻豪4ni??《 未來實況時間不定 GMT+8》
+eghtv:
+  viewers: 24
+  status: 'Elite Gaming House Streaming 24/7- Pao ! '
+yourchinafan:
+  viewers: 20
+  status: Some quick/rankeds
+kreenpananas:
+  viewers: 18
+  status: 'Aloha Friday Date Night! | Tip your coconuts, drinks, and waitress! - Gaming
+    on @twitch // #videogames'
+gga893879:
+  viewers: 17
+  status: GoDDog  rank1  快速中    晚點爬RANK
+defebwar:
+  viewers: 15
+  status: '[NA] Beta Key Giveaways!! Rumble In The Nexus [Heroes Of The Storm (NA)]'
+jschritte:
+  viewers: 15
+  status: '#HeroesFriday do Monstro'
+greentea_1013:
+  viewers: 14
+  status: '[GreenTea] - 3/28　這波不鬧。'
+familiagameplay:
+  viewers: 14
+  status: '#HeroesFriday'
+raenofgod:
+  viewers: 14
+  status: Casting Jutsus TOGETHER!
+terranjustice:
+  viewers: 11
+  status: Testing System
+demonsaber:
+  viewers: 11
+  status: 绯姬場的十點半─順我者勝，逆我者亡。
+bhoosted:
+  viewers: 9
+  status: Beta Keys!!!!!!! Join In For One!!!!
+monstergmer:
+  viewers: 10
+  status: '[ES] #HEROESFRIDAY / RANKED Y BETAS @TwitchESP @StreamsEspanol'
+rabbit0821:
+  viewers: 10
+  status: 雪兔的下午實況ლ(╹◡╹ლ)3/28『暴雪英霸 Heroes of the Storm』羅莉控+娜娜
+diredwarf:
+  viewers: 9
+  status: LetsTireDire Friday! Heroes of the Storm First Play!
+-------------------------
+

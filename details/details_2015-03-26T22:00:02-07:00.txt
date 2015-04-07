@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-26T22:00:02-07:00
+
+Number of channels: 235
+
+Total viewers: 2203
+
+Total Viewers for top 25 streams:
+1847
+
+Viewer counts:
+[252, 235, 225, 219, 177, 157, 80, 79, 52, 51, 48, 44, 40, 33, 26, 18, 18, 17, 15, 14, 11, 10, 9, 9, 8]
+
+---
+xelayirl:
+  viewers: 252
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+ryuzilla:
+  viewers: 235
+  status: 5 Stack Ranked
+gruntartv:
+  viewers: 225
+  status: Gruntar - BR Caster - missões
+solidjakegg:
+  viewers: 219
+  status: SolidJake [60FPS] Taking hero / build requests!
+semiproproject:
+  viewers: 177
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 46/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+hots_mcmuffin:
+  viewers: 157
+  status: 'McMuffin: From Rank 50 to 1'
+tolyawa:
+  viewers: 80
+  status: TOP777 VIKINGS EU
+pms_unforgiven:
+  viewers: 79
+  status: Thirsty Thursday. LEGGO!
+bunkernerd:
+  viewers: 52
+  status: '[PT-BRHue/ENG] HOTS <3 cusbródi!'
+coldfashiond:
+  viewers: 51
+  status: '[US] Tassadar Quick Matches'
+eghtv:
+  viewers: 48
+  status: Elite Gaming House Streaming 24/7- Heroes of the Storm con Pao!
+anothernotch:
+  viewers: 44
+  status: 'Assemble Notchypoos!!! Keys to giveaway!!! '
+heroesone:
+  viewers: 40
+  status: '[FR] La Meta-list avec Manta !'
+williedillssf:
+  viewers: 33
+  status: Post-raid Heroes
+mcintyrelol:
+  viewers: 26
+  status: 'Duo Queue [MLG Titan 2 Winner]- AMA '
+erhotv:
+  viewers: 18
+  status: coL.Erho; GO BIG OR GO HOME
+rosath:
+  viewers: 18
+  status: '[Day 13] click me click me click me! Am I entertaining enough? No? Ugh.'
+cj1772101:
+  viewers: 17
+  status: 'Fantasy紅霞 [rank1] : 沉默deBuff ~ 9999s'
+crucian24:
+  viewers: 15
+  status: 'Heroes of Storm RANKED! Heroes Beta Key Giveaways! #tune in #follow pwred
+    by ORIGIN PC!'
+deva_marie:
+  viewers: 14
+  status: Deva Plays Heroes of the Storm!
+balthazarvon:
+  viewers: 11
+  status: ¡Jugando con los amiguitos! (se sortea beta a los 30 viewers)
+woodbangers:
+  viewers: 10
+  status: WoodBangers TV LIVE - gonna do some gaming with friends
+ashlen_rose:
+  viewers: 9
+  status: '<(^_^<) Heroes of the Storm: Master Zagara skin incoming!!! (>^_^)> '
+skacik:
+  viewers: 9
+  status: Heroes of the Storm - Solo Q, Taking Hero Requests.
+ashmunsterr:
+  viewers: 8
+  status: Brightwing Quickmatch
+-------------------------
+

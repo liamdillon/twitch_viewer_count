@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-27T12:00:02-07:00
+
+Number of channels: 287
+
+Total viewers: 4888
+
+Total Viewers for top 25 streams:
+4305
+
+Viewer counts:
+[1014, 851, 466, 321, 235, 192, 187, 179, 159, 160, 63, 56, 54, 51, 49, 38, 37, 37, 30, 23, 22, 22, 21, 20, 18]
+
+---
+guardsmanbob:
+  viewers: 1014
+  status: Rank1! - Guardsman Bob!
+gosuzuna:
+  viewers: 851
+  status: C9 Zuna Rank 1 Updated !tierlist
+arkamn:
+  viewers: 466
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+zomgitshwoarang:
+  viewers: 321
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+pamcakes:
+  viewers: 235
+  status: Pam [NA] // Solo Hero League // Beta Key Giveaway Every Sub!
+gamerhuset:
+  viewers: 192
+  status: 'GamerHuset.dk - Eksperimentet: Viewergames i Heroes of the Storm med KingOlesen!
+    (Brixen er til familiemiddag)'
+tavernofheroes:
+  viewers: 187
+  status: Random Team Cup by HappyZerG
+adamkoebel:
+  viewers: 179
+  status: Heroes of this Stream
+heroesone:
+  viewers: 159
+  status: '[FR] Ranked Team League avec Tainder'
+youbetterknowme:
+  viewers: 160
+  status: 'KnowMe playing Team League with Subs '
+thequniix:
+  viewers: 63
+  status: '[GER] HOTS mit Team Acer Manager | Keine Ahnung was ich hier mache! :D'
+heroeswartv:
+  viewers: 56
+  status: '[ESP] SG1Blade Stream | Partiditas con viewers!'
+dotod:
+  viewers: 54
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+detrox86:
+  viewers: 51
+  status: '[GER] Feierabend Gaming Heldenliga'
+thekonus:
+  viewers: 49
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+gamerscentury:
+  viewers: 38
+  status: '[FR] Str33t sur Hots [2000 follows=un jeu PC ou consoles de votre choix
+    !!!]'
+ogamingtv:
+  viewers: 37
+  status: '[FR] Les Chtis sur HOTS'
+angellatv:
+  viewers: 37
+  status: '[EN/PL] Przeprowadzka, JaRock- Drużynka i testowanie Sylvany.'
+miss_snowfox:
+  viewers: 30
+  status: (>｡◕‿◕｡)> Sylvanas HYPE ♥ Viewergames - add MissSnowfox#2285  <(｡◕‿◕｡<)
+anthonyacc:
+  viewers: 23
+  status: '#FitnessFriday AMA - 25 Key Giveaway - Bringing Kindness to MOBA''s :)'
+viciuslab:
+  viewers: 22
+  status: '[Español] Ranking Jack Flash - #MemeVicio'
+caiozeon:
+  viewers: 22
+  status: '#HeroesFriday com sorteio de keys, dicas de como jogar solo e muita Sylvanas!'
+octo83:
+  viewers: 21
+  status: 'GER :: Teamliga 2:1'
+eghtv:
+  viewers: 20
+  status: Elite Gaming House Streaming 24/7- Heroes of the Storm con Pao!
+rumiin:
+  viewers: 18
+  status: GIVEAWAY HOTS BETA [ESP/ENG] Ruminios para todos!
+-------------------------
+

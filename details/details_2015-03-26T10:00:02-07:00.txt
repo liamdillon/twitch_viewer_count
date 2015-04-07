@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-26T10:00:02-07:00
+
+Number of channels: 246
+
+Total viewers: 5506
+
+Total Viewers for top 25 streams:
+4892
+
+Viewer counts:
+[1122, 802, 495, 316, 274, 241, 240, 204, 186, 158, 115, 103, 88, 81, 65, 60, 48, 48, 45, 41, 36, 36, 34, 27, 27]
+
+---
+liquidneo:
+  viewers: 1122
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+guardsmanbob:
+  viewers: 802
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 495
+  status: 【RUS】 KEY GIVEAWAY, 1st RANK, отвечаю на Ваши вопросы между играми.
+pamcakes:
+  viewers: 316
+  status: Pam ♥ // Climbing Hero League!
+zp_tv:
+  viewers: 274
+  status: Rank 1 - TEAM LEAGUE! - 60 FPS!  - STUFF.
+zomgitshwoarang:
+  viewers: 241
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+gosuzuna:
+  viewers: 240
+  status: C9 Zuna Rank 1 A little sick but gonna get some games in!
+ethieenn:
+  viewers: 204
+  status: Ethieen | Heroes of the Storm
+no1zyboy:
+  viewers: 186
+  status: Тру Нова
+heroesone:
+  viewers: 158
+  status: '[FR] Ranked Team League avec Tainder'
+alexcoman:
+  viewers: 115
+  status: '[RO] Cu bajetzii!'
+player2player:
+  viewers: 103
+  status: '[PT-BR] Caricaz no ~Hérois do Toró~ | Maratona P2P [ 10R$ | Novo SUB =
+    1 HR ]'
+taketv_heroes:
+  viewers: 88
+  status: HEROES BATTLE MONTHLY FINAL POWERED BY SHARK ZONE
+in4game:
+  viewers: 81
+  status: Раздача Ключей и Лига Героев. Ранг 4 -> 1
+wolfeater_il:
+  viewers: 65
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+gohots:
+  viewers: 60
+  status: '[RU] 2KXAOC в ХотСе и Варике!'
+gonkixjeh:
+  viewers: 48
+  status: '[CZ/SK] Gonki - Syčáci připraveni!'
+heroeswartv:
+  viewers: 48
+  status: '[ESP] iamKujah Stream | Sorteamos Betas EU!'
+dotod:
+  viewers: 45
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+khaldor:
+  viewers: 41
+  status: 'TOP TL/HL Matches '
+dragomangreektitans:
+  viewers: 36
+  status: 26/3/15 HOTS+ASSETTO CORSA+DAYZ+GIVEAWAY
+thekonus:
+  viewers: 36
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+itzkoed:
+  viewers: 34
+  status: Heroes Of the Sylvanas! Founders Giveaway at 250 followers!!
+nexaa:
+  viewers: 27
+  status: Rank 17 Hero League
+sleepless_tv:
+  viewers: 27
+  status: '[RU] RANK#1! СИЛЬВАНА! Часть вторая - Ранкед!'
+-------------------------
+

@@ -1,0 +1,91 @@
+-------------------------
+Timestamp: 2015-03-29T00:00:01-07:00
+
+Number of channels: 194
+
+Total viewers: 2315
+
+Total Viewers for top 25 streams:
+1962
+
+Viewer counts:
+[1064, 296, 112, 83, 73, 53, 42, 33, 21, 20, 20, 15, 14, 15, 10, 10, 11, 10, 9, 10, 9, 8, 8, 8, 8]
+
+---
+chu8:
+  viewers: 1064
+  status: '[NA] Rank 1 Murky Challenge'
+trikslyr:
+  viewers: 296
+  status: Rank 1 Hero League. Builds at the bottom of the page now.
+fenixchaos:
+  viewers: 112
+  status: Fenixchaos Hero League [EN] [FR]
+tolyawa:
+  viewers: 83
+  status: DOBROTA GAMING
+godspd:
+  viewers: 73
+  status: Тот самый :D!
+loryy1990:
+  viewers: 53
+  status: '<Lory>  24h Stream + Giveaway (start: 10am)'
+foerest:
+  viewers: 42
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+temp0_sc:
+  viewers: 33
+  status: Temp0 - Homies of the Stuurm!
+greentea_1013:
+  viewers: 21
+  status: '[GreenTea] - 3/29  '
+bigmyself:
+  viewers: 20
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+mrkoliak:
+  viewers: 20
+  status: Stream 24h + Cospobre + 1000Followers!  - @MrKoliaK
+eghtv:
+  viewers: 15
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+heroesone:
+  viewers: 14
+  status: '[FR] Rediffusions !'
+insanidade_temporaria:
+  viewers: 15
+  status: '[PT-BR] Herois da Madrugada'
+ashmunsterr:
+  viewers: 10
+  status: (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧Jaina Quickmatchs
+sakuraku71903:
+  viewers: 10
+  status: '薇薇-衝等x熟悉角色台 OvO  '
+rabbit0821:
+  viewers: 11
+  status: '雪兔的下午實況ლ(╹◡╹ლ)3/29『暴雪英霸 Heroes of the Storm』打掃完後就是要怒玩一波!! '
+crym4n:
+  viewers: 10
+  status: Heldenliga Rang 1 | Duo mit Ravers | Sein Stream findet ihr in der Beschreibung
+gertie0123:
+  viewers: 9
+  status: 【玉花0329】Gertie#3169 ++
+sp5430:
+  viewers: 10
+  status: 【鱔魚】感冒要好了沒?? 我想講話啦!!
+stefaniecarnier:
+  viewers: 9
+  status: '[PT-BR/EN] - Heroes random'
+anothernotch:
+  viewers: 8
+  status: Assemble Notchypoos!!
+terranjustice:
+  viewers: 8
+  status: SATURDAY HEROES TIME
+monstergmer:
+  viewers: 8
+  status: '[ES] GO FOR THE GOLD @TwitchESP @StreamsEspanol'
+inza1337:
+  viewers: 8
+  status: '[Ger/Eng] League / Viewer games / chilling ^.^ join and relax :)'
+-------------------------
+

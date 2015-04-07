@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-28T03:00:01-07:00
+
+Number of channels: 126
+
+Total viewers: 1730
+
+Total Viewers for top 25 streams:
+1559
+
+Viewer counts:
+[488, 251, 127, 116, 98, 67, 48, 42, 38, 32, 31, 30, 25, 21, 15, 21, 21, 16, 14, 11, 10, 10, 10, 9, 8]
+
+---
+semiproproject:
+  viewers: 488
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 47/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+trikslyr:
+  viewers: 251
+  status: Minesweeper Pro spends time playing Heroes
+godspd:
+  viewers: 127
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+wolfeater_il:
+  viewers: 116
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+ggmarche:
+  viewers: 98
+  status: ♠ NA | Marche ♠ Y'all know what it is. Who it is. And what it do.
+tirent000:
+  viewers: 67
+  status: Watch me I am really bad  HOTS Tirent000 {Deviation Gaming}
+ulqi:
+  viewers: 48
+  status: Качаем US аккаунт! Раздаем Ключи!
+androidp:
+  viewers: 42
+  status: '[ASH] AndyLandi - Rank 1'
+in4game:
+  viewers: 38
+  status: '[RU PRO NAVI] Лига Героев. Ранг 30 -> 1'
+nexaa:
+  viewers: 32
+  status: Beta Key Giveaway |  Rank 10 Hero League | sick no cam soz :(
+nickkcouvv:
+  viewers: 31
+  status: '24 Hour Stream| DayZ GiveAway | 1 Year celebration | '
+trindashe:
+  viewers: 30
+  status: '[GER] #GIVEAWAY Betaschlüssel um 13Uhr #Rank1 #Community-Games #Schattenwölfe
+    sucht neue Member'
+gga893879:
+  viewers: 25
+  status: GoDDog  rank1  快速中    晚點爬RANK
+gerdamherdtv:
+  viewers: 21
+  status: '[GER] WellMet Gerd & Cris Morgenhype'
+greentea_1013:
+  viewers: 15
+  status: '[GreenTea] - 3/28　這波不鬧。'
+lostragh:
+  viewers: 21
+  status: '[FR]  7 CLEF BETA EU Heroes à gagner - Ranked rang 7&8 avec Lostragh&Paulo'
+heroeswartv:
+  viewers: 21
+  status: '[ESP] Partidas mañaneras con Hankokku'
+obsessedwlol:
+  viewers: 16
+  status: VIEWER GAMES! SONG REQUEST ON! COME ROCK OUT WITH YOUR DONGER OUT!
+pypgamers:
+  viewers: 14
+  status: 
+demonsaber:
+  viewers: 11
+  status: 绯姬場的十點半─順我者勝，逆我者亡。
+lastwolfplay:
+  viewers: 10
+  status: '[27/03] Heroes day ftw & xp !'
+defebwar:
+  viewers: 10
+  status: '[NA] Beta Key Giveaways!! Rumble In The Nexus [Heroes Of The Storm (NA)]'
+eghtv:
+  viewers: 10
+  status: 'Elite Gaming House Streaming 24/7- Pao ! '
+gulderbone:
+  viewers: 9
+  status: Jak się w to gra? Czyli ex-challenger w LoLu próbuje być graczem Hotsa.
+zombifiedhots:
+  viewers: 8
+  status: HOTS, Talk, & Beta Keys | Daily 12hr Stream | Day 10 | BETA Key Giveaway
+    every 10 followers
+-------------------------
+

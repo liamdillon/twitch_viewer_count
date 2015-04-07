@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-30T21:00:02-07:00
+
+Number of channels: 244
+
+Total viewers: 4714
+
+Total Viewers for top 25 streams:
+4342
+
+Viewer counts:
+[1787, 692, 607, 287, 186, 123, 78, 77, 62, 62, 58, 50, 44, 39, 32, 22, 21, 19, 18, 15, 15, 14, 11, 12, 11]
+
+---
+shaboozey:
+  viewers: 1787
+  status: Heroes of the Salt - Low Expectations Returns!
+gosuzuna:
+  viewers: 692
+  status: C9 Zuna Playing Not sick anymore time for some commentary later? :D
+chu8:
+  viewers: 607
+  status: '[NA] Rank 1 Kimchi Stream'
+valerothtv:
+  viewers: 287
+  status: 'Pro Plays | 5k Hype! | @ValerothTV '
+xelayirl:
+  viewers: 186
+  status: ^^RANK 1^^ XELAY^^  21GOLD hero^^ FEEL FREE ASK ANY HOTS QUESTION :)
+blondedeception:
+  viewers: 123
+  status: UM DONATE = UM SHOT! ~ Feliz aniversario, Sirthin! *festa*
+fenixchaos:
+  viewers: 78
+  status: '[NA] Fenixchaos Giveway at 100 follower!'
+liquidneo:
+  viewers: 77
+  status: ◄R1 LiquiD► Got Gold? ► liquidneo.com ►
+sinvicta:
+  viewers: 62
+  status: TEAM LE AND HURZZZ OF DA STERMM
+dunktrain:
+  viewers: 62
+  status: 'C9 DunkTrain | Chill Stream | #CHOO #CHOO '
+heroesone:
+  viewers: 58
+  status: '[FR] Don''t worry be carried avec Rach'
+dotod:
+  viewers: 50
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Monday! Founder Pack Giveaway
+    TODAY+NA Beta Keys :D
+mikefrompgh:
+  viewers: 44
+  status: <NA> MURKY MASTER SKIN INC!
+basickz:
+  viewers: 39
+  status: Basickz | Rank 1 Legend | Viewer Quick Matches
+realgaba:
+  viewers: 32
+  status: 24H Deutscher Livestream! HoTs Keys Giveaway + Secret Giveaway
+snakelalala:
+  viewers: 22
+  status: 巨型矮人   后蟲才是我的女王~
+raenofgod:
+  viewers: 21
+  status: Drinks and Giveaways! Rubbing weenuses with the best of em!
+vuducasta79:
+  viewers: 19
+  status: Just having fun
+cayennethefirst:
+  viewers: 18
+  status: BR- Sorteios! - Pub do Cayenne
+crucian24:
+  viewers: 15
+  status: 'HEROES STORM! Heroes Beta Key & $20 Bnet Cash Giveaways! #tune in #follow
+    powered by ORIGIN PC!'
+nerdacide:
+  viewers: 15
+  status: '#TeamJustice - $20 Battle.net Giftcard at 500 Followers! [Aussie, so I
+    swear a lot.]'
+namnamsian:
+  viewers: 14
+  status: ʕ≧ᴥ≦ʔ New follower and donation sounds!! <3 Trying Heroes of the Storm ~
+vawnievoulphie:
+  viewers: 11
+  status: 龴◕ɷ◕龴 JOIN MY GAME [NA]
+blackprincect:
+  viewers: 12
+  status: '[ESP] Rank con BlackCT'
+phoenixcrashgaming:
+  viewers: 11
+  status: Heroes!
+-------------------------
+

@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-30T17:00:02-07:00
+
+Number of channels: 211
+
+Total viewers: 2905
+
+Total Viewers for top 25 streams:
+2559
+
+Viewer counts:
+[895, 565, 427, 69, 67, 63, 57, 56, 50, 35, 33, 30, 29, 23, 21, 18, 17, 16, 14, 14, 14, 14, 11, 11, 10]
+
+---
+tgn:
+  viewers: 895
+  status: Brawl With The Bros! | MFPallytime & Hengest | Heroes of the Storm Community
+    Matches! 3pm -5pm PST
+arkamn:
+  viewers: 565
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+zp_tv:
+  viewers: 427
+  status: ZPs - Rank 1 - 1080p/60FPS! - NEW STREAM SETTINGS SO BEAUTIFUL
+slita:
+  viewers: 69
+  status: 30+ Beta Keys Come n Get Em~ Sylvanas Main~Slita~Full Time Streamer
+dotod:
+  viewers: 67
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Monday! Founder Pack Giveaway
+    TODAY+NA Beta Keys :D
+holyonline:
+  viewers: 63
+  status: '[BR] Rank 1 - VOLTEI! o/ Sylvanas Hype'
+grudge_gaming:
+  viewers: 57
+  status: 'Razer Deathstalker keyboard giveaway '
+pastandoenmulgore:
+  viewers: 56
+  status: Heroes of the Storm, especial de dia lunes y con sorteo de betas!
+yourchinafan:
+  viewers: 50
+  status: road to rank 1
+xibe5238:
+  viewers: 35
+  status: '[Fr/Be] Xibe - Rank 1 solo - Ligue par équipe'
+jessicagoch:
+  viewers: 33
+  status: 80's Night! Learning Heroes of the Storm then Hearthstone with Subs later!
+rhoxylol:
+  viewers: 30
+  status: Rhoxy meets heroes :)
+wolfforcex:
+  viewers: 29
+  status: ส็็็็็็็็็็็็็็็็็็็(ಠ益ಠ)ส็็็็็็็็็็็็็็็็็็็3 keys to giveaway! & type
+    !coins for currency system! ୧༼ ͡◉ل͜ ͡◉༽୨
+foerest:
+  viewers: 23
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+gimloo:
+  viewers: 21
+  status: 'SWE/ENG AUTO DJ KEBABPIZZA STREAM WITH UNDERWEAR ON MY HEAD LATER ON CUZ
+    http://www.twitch.tv/bankalicious @Bankalicious :) HYPE!!!!!!!! '
+shaniix:
+  viewers: 18
+  status: (GER) Dann testen wir es mal :D
+nohandsken:
+  viewers: 17
+  status: Quadriplegic is playing Heroes of the storm with his mouth
+thewilq:
+  viewers: 16
+  status: 'RANK#1 - Rozdajemy klucze! #TEAMOWE RANKEDY BOYZ!'
+therealhorsemaster:
+  viewers: 14
+  status: Time is money, friend!
+bkbgrnrjefek:
+  viewers: 14
+  status: bkbgrnrjefek - BETA KEY GIVEAWAYS - Ask any questions in between games
+killadrix77:
+  viewers: 14
+  status: 'Heroes of the Storm: Learning New Champs, Leveling Account and Heroes!'
+mikurae:
+  viewers: 14
+  status: '[FR/BE] Nouvelle souriiiiiiis :) - 10/04 marathon stream - PlugDJ ON'
+featherko:
+  viewers: 11
+  status: ASH Kunichan. nc
+markofthetree:
+  viewers: 11
+  status: Hearthstone and Heroes of the Storm
+theargietv:
+  viewers: 10
+  status: Best Sylvanas Surinam - SORTEAMOS BETA KEYS
+-------------------------
+

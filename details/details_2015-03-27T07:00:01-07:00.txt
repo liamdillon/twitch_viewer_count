@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-27T07:00:01-07:00
+
+Number of channels: 187
+
+Total viewers: 2894
+
+Total Viewers for top 25 streams:
+2536
+
+Viewer counts:
+[1005, 297, 220, 150, 130, 93, 79, 79, 71, 66, 51, 46, 41, 27, 23, 23, 23, 18, 17, 17, 14, 12, 12, 11, 11]
+
+---
+liquidneo:
+  viewers: 1005
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+pamcakes:
+  viewers: 297
+  status: Pam [NA] // Solo Hero League // Beta Key Giveaway Every Sub!
+happyzerg:
+  viewers: 220
+  status: Сильвана до 10 уровня и ключи! Самый добрый стрим!
+heroesone:
+  viewers: 150
+  status: '[FR] SiC and Destroy avec SiC'
+zomgitshwoarang:
+  viewers: 130
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+player2player:
+  viewers: 93
+  status: '[PT-BR] Caricaz no ~Heróis do Toró~ KEYS PARA SORTEIO! | Maratona P2P [
+    10R$ | Novo SUB = 1 HR ]'
+warlegend:
+  viewers: 79
+  status: '[FR] Ranked Rang 1 avec Kenshin'
+gerdamherdtv:
+  viewers: 79
+  status: '[GER] WellMet Gerd QM Rektening'
+cebka_je:
+  viewers: 71
+  status: '[ASH] CEBKAJE  -  Разыгрываю ключи после стрима.'
+wolfeater_il:
+  viewers: 66
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+heroeswartv:
+  viewers: 51
+  status: '[ESP] iamKujah Stream | Partiditas con viewers!'
+pypgamers:
+  viewers: 46
+  status: '[ESP] Sorteo de 10 Betas y partidas con @BulgangP'
+sleepless_tv:
+  viewers: 41
+  status: '[RU] RANK#1! Сильвана ранкед йолоКУ'
+nexaa:
+  viewers: 27
+  status: Rank 12 Hero League NO CAM TODAY
+avanityzumba:
+  viewers: 23
+  status: '[ENG]  ♥  inventory full of nice giveaways! ♥  '
+chocapicc:
+  viewers: 23
+  status: '[PL] Sylvanas show trwa!'
+lomarri:
+  viewers: 23
+  status: 'Starting HOTS ! 3 Betakeys for followers that want to play this too :)
+    (EU) '
+ashmunsterr:
+  viewers: 18
+  status: Nova Quickmatch
+witness1129:
+  viewers: 17
+  status: 【Chakey】Team Fantasy KR Server Rank1!!!(團隊聯賽GO!)
+nvnpaladino:
+  viewers: 17
+  status: Debulhando heróis! Confira dicas de construção de talentos!
+nwgamesbrasil:
+  viewers: 14
+  status: '[PT-BR] - Duque - Campeões da Cantareira [Song Request ON!]'
+jaggerous:
+  viewers: 12
+  status: HotS - Queuing with Friends
+thewilq:
+  viewers: 12
+  status: 'ORŁY SOKOŁY HEROSI! RANK#1 ~3300 MMR '
+looonat1c:
+  viewers: 11
+  status: '[RU] Windrunner already here (Скоро раздача ключей)'
+iamyuwan:
+  viewers: 11
+  status: 魚丸台(Yuwan)：最近經驗加成，聽說要乖乖練等級QQ 暴雪序號有多幾組
+-------------------------
+

@@ -1,0 +1,96 @@
+-------------------------
+Timestamp: 2015-03-27T09:00:02-07:00
+
+Number of channels: 258
+
+Total viewers: 4245
+
+Total Viewers for top 25 streams:
+3748
+
+Viewer counts:
+[921, 705, 521, 349, 224, 163, 151, 105, 105, 76, 69, 44, 44, 36, 28, 28, 27, 27, 25, 21, 16, 16, 16, 16, 15]
+
+---
+liquidneo:
+  viewers: 921
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+guardsmanbob:
+  viewers: 705
+  status: Rank1! - Guardsman Bob!
+pamcakes:
+  viewers: 521
+  status: Pam [NA] // Solo Hero League // Beta Key Giveaway Every Sub!
+arkamn:
+  viewers: 349
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+zomgitshwoarang:
+  viewers: 224
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+heroesone:
+  viewers: 163
+  status: '[FR] SiC and Destroy avec SiC'
+xelayirl:
+  viewers: 151
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+player2player:
+  viewers: 105
+  status: '[PT-BR] Caricaz no ~Heróis do Toró~ KEYS PARA SORTEIO!  #HeroesFriday|
+    Maratona P2P [ 10R$ | Novo SUB = 1 HR ]'
+gerdamherdtv:
+  viewers: 105
+  status: '[GER] WellMet Gerd QM Rektening'
+cebka_je:
+  viewers: 76
+  status: '[ASH] CEBKAJE  -  Разыгрываю ключи после стрима.'
+dirtyela_tv:
+  viewers: 69
+  status: '[GER]♥♥♥  girly power ♥♥♥'
+dotod:
+  viewers: 44
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+heroeswartv:
+  viewers: 44
+  status: '[ESP] Shinda Stream | Partiditas con viewers!'
+sooner:
+  viewers: 36
+  status: 
+avanityzumba:
+  viewers: 28
+  status: '[ENG]  ♥  inventory full of nice giveaways! ♥  '
+thetadin:
+  viewers: 28
+  status: Tadin | Gametime!
+keko1102:
+  viewers: 27
+  status: '[GER] Helden Liga Rode to Rank 1 :D'
+thewilq:
+  viewers: 27
+  status: 'ORŁY SOKOŁY HEROSI! RANK#1 ~3300 MMR '
+sashkadestroyer:
+  viewers: 25
+  status: '[Ru/Eng] Sashka rank1, 4k mmr. ANY questions-welcome'
+nwgamesbrasil:
+  viewers: 21
+  status: '[PT-BR] - Duque - Campeões da Cantareira [Song Request ON!]'
+bontho:
+  viewers: 16
+  status: Bontho - drunk HotS boyzz, wow maybeh later
+nuroklol:
+  viewers: 16
+  status: '[GER/ENG] Dignitas Nurok - duoQ with Blooddragon // http://tinyurl.com/HeroesCup
+    //'
+sixpets:
+  viewers: 16
+  status: Sylvanas Playz and Beta Key Giveaways ►Sixpets ►Rank 1 ►Diamond MMR
+catalystex:
+  viewers: 16
+  status: 催化劑【 3/27Heroes of the Storm】女王陛下
+snake2356:
+  viewers: 15
+  status: 1 KEY EVERY 3 GAMES! SYLVANAS HYPE! HOTS KEYS GIVEAWAY! Playing with viewers!
+    [BG/ENG]
+-------------------------
+

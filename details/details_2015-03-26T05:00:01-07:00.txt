@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-26T05:00:01-07:00
+
+Number of channels: 128
+
+Total viewers: 2316
+
+Total Viewers for top 25 streams:
+2808
+
+Viewer counts:
+[981, 662, 242, 165, 117, 100, 60, 63, 62, 52, 40, 35, 33, 31, 26, 22, 18, 15, 15, 14, 14, 13, 11, 9, 8]
+
+---
+liquidneo:
+  viewers: 981
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+chu8:
+  viewers: 662
+  status: '[NA] I own Murky'
+godspd:
+  viewers: 242
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+heroesone:
+  viewers: 165
+  status: '[FR] SiC and Destroy avec SiC'
+tinsi_:
+  viewers: 117
+  status: 'Viewergames <3 #MistkäferDöden'
+fcgm001:
+  viewers: 100
+  status: 【TW】Angel   12組序號發送
+sleepless_tv:
+  viewers: 60
+  status: '[RU] RANK#1! СИЛЬВАНА! Часть вторая - Ранкед!'
+manakeo:
+  viewers: 63
+  status: ✩ITA | PamPam✩Bug Time si va di Coop e Rapide✩
+heroeswartv:
+  viewers: 62
+  status: '[ESP] Partidas mañaneras con SG1Blade + Betas EU'
+gerdamherdtv:
+  viewers: 52
+  status: '[GER] MADmaking with Khaldor, Cris und Tinsi / Give KEY '
+still_sleepy:
+  viewers: 40
+  status: SleepAllday DAY11 女王終於出啦!!
+pypgamers:
+  viewers: 35
+  status: '[ESP] Ranked y partidas normales con @bulgangP'
+zomgitshwoarang:
+  viewers: 33
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+lhiratv:
+  viewers: 31
+  status: '[GIVEAWAY BETA KEYS EU HOTS] - [FR] Sylvanas ♥ ! 10 Follows = 1 Clé BETA
+    EU ! '
+badboyskitv:
+  viewers: 26
+  status: '[PL] Szybkie mecze z widzami'
+gvbtb:
+  viewers: 22
+  status: Learn HoTS! Drinks, Chat, Blizzcon, Request Hero's! Smash Later? MK8 LATER!?
+jacky5ds:
+  viewers: 18
+  status: WXS 準備好為女王而戰了嗎?
+jaggerous:
+  viewers: 15
+  status: HotS - Sylvanas Hype! <3
+bigmyself:
+  viewers: 15
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+yui85621:
+  viewers: 14
+  status: 3/26 Fantasy CreatievSelf / 練個新英雄 * Sylvanas
+nexaa:
+  viewers: 14
+  status: QM and Hero League
+rhoxylol:
+  viewers: 13
+  status: Rhoxy meets...hoffentlich mal die neue map.^^
+jowetv:
+  viewers: 11
+  status: 【EU R.1】 Gamers2 Jowe - chill practising [EN/PL]
+k3bab0r:
+  viewers: 9
+  status: 3 EU keys Giveaway today - k3bab0r [DAY 31]
+foxjang:
+  viewers: 8
+  status: HelloOoOoOo... in 한국!!
+-------------------------
+

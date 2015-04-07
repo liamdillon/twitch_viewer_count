@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-26T03:00:02-07:00
+
+Number of channels: 125
+
+Total viewers: 3025
+
+Total Viewers for top 25 streams:
+2811
+
+Viewer counts:
+[1379, 320, 283, 150, 96, 96, 83, 48, 45, 43, 37, 25, 24, 24, 21, 19, 19, 17, 14, 13, 12, 12, 11, 9, 11]
+
+---
+chu8:
+  viewers: 1379
+  status: '[NA] I own Murky'
+khaldor:
+  viewers: 320
+  status: '[GER] New Patch & Stuff ;)'
+liquidneo:
+  viewers: 283
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+godspd:
+  viewers: 150
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+ulqi:
+  viewers: 96
+  status: Лига Героев Дорога к 50 рангу
+nuroklol:
+  viewers: 96
+  status: '[GER/ENG] Dignitas Nurok - playing Heroleague / Going through the Patch
+    // http://tinyurl.com/HeroesCup //'
+semiproproject:
+  viewers: 83
+  status: '[NA] Rank 1 | Team League| In Depth Commentary & Explanations | 1 KilicK
+    | Day 45/∞  ヽ〳 ՞ ᗜ ՞ 〵ง'
+tinsi_:
+  viewers: 48
+  status: Hero League! Mistkäfer
+heroesone:
+  viewers: 45
+  status: '[FR] SiC and Destroy avec SiC'
+tolyawa:
+  viewers: 43
+  status: Vikings vs Герои по вашим заявкам
+gerdamherdtv:
+  viewers: 37
+  status: '[GER] MADmaking with Khaldor, Cris und Tinsi / Give KEY '
+sleepless_tv:
+  viewers: 25
+  status: '[RU] RANK#1! СИЛЬВАНА! Часть вторая - Ранкед!'
+lastwolfplay:
+  viewers: 24
+  status: '[26/03] La matinale édition spéciale Heroes ! Reghar & Lost Viking time '
+ashmunsterr:
+  viewers: 24
+  status: Brightwing Quickmatch
+gvbtb:
+  viewers: 21
+  status: Learn HoTS! Drinks, Chat, Blizzcon, Request Hero's! Smash Later? MK8 LATER!?
+heroeswartv:
+  viewers: 19
+  status: '[ESP] Partidas mañaneras con Hankokku'
+pypgamers:
+  viewers: 19
+  status: '[ESP] Ranked y partidas normales con @bulgangP'
+img_hots:
+  viewers: 17
+  status: '[FR] Rank 1 joue et commente en live puis quelques games avec les viewers'
+jacky5ds:
+  viewers: 14
+  status: WXS 準備好為女王而戰了嗎?
+nexaa:
+  viewers: 13
+  status: QM and Hero League
+bigmyself:
+  viewers: 12
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+demonsaber:
+  viewers: 12
+  status: 绯姬場的十點半─順我者勝，逆我者亡。
+seoulja_:
+  viewers: 11
+  status: 'coL.TigerJK aka Keonda '
+balthazarvon:
+  viewers: 9
+  status: ¡jueguando con palif  y betita para los amiguitos!
+zsjh9100:
+  viewers: 11
+  status: ᴥ 姐姐玩英霸ᴥ  晚上都會轉圈 F5解決吧ˊˋ
+-------------------------
+

@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-28T08:00:01-07:00
+
+Number of channels: 253
+
+Total viewers: 3896
+
+Total Viewers for top 25 streams:
+3433
+
+Viewer counts:
+[786, 671, 435, 354, 170, 153, 144, 130, 114, 79, 70, 43, 41, 37, 30, 24, 24, 22, 19, 18, 15, 15, 15, 12, 12]
+
+---
+semiproproject:
+  viewers: 786
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 47/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+guardsmanbob:
+  viewers: 671
+  status: Rank1! - Guardsman Bob!
+tavernofheroes:
+  viewers: 435
+  status: Yard vs Alternate Generals @ ENTER THE STORM by HappyZerG
+gosugamers:
+  viewers: 354
+  status: 'Enter the Storm by Alienware Cup #1 /w @FourCourtJester & @NickHOTS'
+zomgitshwoarang:
+  viewers: 170
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+heroesone:
+  viewers: 153
+  status: '[FR] Back to Rank 1 ? avec Luiji'
+hots_mcmuffin:
+  viewers: 144
+  status: 'McMuffin: Ranked 50 --> 1'
+heroeswartv:
+  viewers: 130
+  status: '[ESP] ZotacCup Mensual'
+vbrtv:
+  viewers: 114
+  status: '[RU] vk.com/vbrtv'
+iamkado:
+  viewers: 79
+  status: 'Enter the Storm CUP: Qualifier #3 [PT-BR] Bracket: http://bit.ly/1BDweBp'
+weplayhots:
+  viewers: 70
+  status: ZOTAC Финалы месяца
+sleepless_tv:
+  viewers: 43
+  status: ZOTAC HotS FINALS (раздача EU-beta ключей между играми)
+shtyr:
+  viewers: 41
+  status: Shtyr.Ranked. Отдаю ключи в чате! Стоит только попросить!
+bardina:
+  viewers: 37
+  status: '[ES] Bardina | Rank 1 | ¡Sorteando Keys!'
+witness1129:
+  viewers: 30
+  status: 【Chakey】Team Fantasy KR Server Rank1!!! 衝團隊積分!!
+jacky5ds:
+  viewers: 24
+  status: WXS 準備好為女王而戰了嗎?
+alpinab3:
+  viewers: 24
+  status: AlpinaB3 -  // WoW || CS:GO || HOTS \\ HOTS KEY´s GIVEAWAY Under dagen!
+georgekgaming:
+  viewers: 22
+  status: 1 EU Key GIVEAWAY for every game played
+bigmyself:
+  viewers: 19
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+nexaa:
+  viewers: 18
+  status: Hero League | sick no cam soz :(
+devils0459:
+  viewers: 15
+  status: '[Devils台 已謝 射射] 永恆不變的標題'
+qlesau:
+  viewers: 15
+  status: '[Ger] Heroes Heldenvorstellung ::: Viewergames ::: Anfängerhilfe'
+slita:
+  viewers: 15
+  status: Sylvanas ONLY Lets do this ;p~Slita~Full Time Streamer
+kryptgeneration:
+  viewers: 12
+  status: Krypt Generation [League of Legends + Heroes of the Storm]
+iraffer:
+  viewers: 12
+  status: iRaffer../ Road to Rank 1!
+-------------------------
+

@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-27T04:00:01-07:00
+
+Number of channels: 117
+
+Total viewers: 1962
+
+Total Viewers for top 25 streams:
+1803
+
+Viewer counts:
+[470, 299, 181, 164, 124, 86, 67, 50, 49, 42, 31, 31, 31, 25, 22, 17, 17, 15, 15, 16, 14, 10, 9, 10, 8]
+
+---
+liquidneo:
+  viewers: 470
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+semiproproject:
+  viewers: 299
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 46/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+nickhots:
+  viewers: 181
+  status: TL Open Champ. 6k+ games played. AMA! Sylvanas Quick Matches. Commentary.
+godspd:
+  viewers: 164
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+heroesone:
+  viewers: 124
+  status: '[FR] Master ladder avec Tainder'
+leofromkorea:
+  viewers: 86
+  status: '[ENG/PL] GAMERS2 Leofromkorea Support Rank1'
+player2player:
+  viewers: 67
+  status: '[PT-BR] Caricaz no ~Heróis do Toró~ KEYS PARA SORTEIO! | Maratona P2P [
+    10R$ | Novo SUB = 1 HR ]'
+heroeswartv:
+  viewers: 50
+  status: '[ESP] BlackCT Ranked Team Trolls'
+tolyawa:
+  viewers: 49
+  status: TOP777 VIKINGS EU
+kentarotassadar:
+  viewers: 42
+  status: '[RUS/ENG] Странные странности  ┐( ˘ ､ ˘ )┌'
+still_sleepy:
+  viewers: 31
+  status: SleepAllday DAY12 登愣~!
+pypgamers:
+  viewers: 31
+  status: '[ESP] Sorteo de 10 Betas y partidas con @BulgangP'
+sleepless_tv:
+  viewers: 31
+  status: '[RU] RANK#1! Сильвана ранкед йолоКУ'
+xxslifexx:
+  viewers: 25
+  status: HD | GER/ENG | HotS with Girlfriend Day 2 | Beta Key at 100 Follower
+nexaa:
+  viewers: 22
+  status: Rank 14 Hero League NO CAM TODAY
+itsfixel:
+  viewers: 17
+  status: '[GER] 240 Follower key giveaway!'
+androidp:
+  viewers: 17
+  status: AndyLendi Артасы
+k1pro:
+  viewers: 15
+  status: C9 k1pro ~ SYLVANAS ~ casual games w friends, no chat
+princesselsaxxx:
+  viewers: 15
+  status: HELLO RELOAD BAR!! =^..^=
+omgcolin:
+  viewers: 16
+  status: LZH Gaming OMGColin | Team League!
+hekady:
+  viewers: 14
+  status: '[esp] ❤ ¡He vuelto! Nuevo parche y Sylvanas'
+lomarri:
+  viewers: 10
+  status: 'Starting HOTS ! 3 Betakeys for followers that want to play this too :)
+    (EU) '
+mysa1993:
+  viewers: 9
+  status: some hots (beta keys every 20 min)
+jannlee55:
+  viewers: 10
+  status: 英雄聯賽單排奮鬥史....
+badboyskitv:
+  viewers: 8
+  status: '[PL] Szybkie mecze z widzami'
+-------------------------
+

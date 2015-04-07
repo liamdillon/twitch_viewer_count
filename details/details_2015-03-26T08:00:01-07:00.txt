@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-26T08:00:01-07:00
+
+Number of channels: 219
+
+Total viewers: 4348
+
+Total Viewers for top 25 streams:
+4030
+
+Viewer counts:
+[1140, 774, 340, 249, 254, 214, 205, 190, 110, 91, 76, 55, 40, 48, 38, 33, 30, 24, 19, 19, 19, 17, 16, 16, 13]
+
+---
+liquidneo:
+  viewers: 1140
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+guardsmanbob:
+  viewers: 774
+  status: Rank1! - Guardsman Bob!
+pamcakes:
+  viewers: 340
+  status: Pam ♥ // Climbing Hero League!
+zp_tv:
+  viewers: 249
+  status: Rank 1 - 60 FPS! - ZPs - MORNING ADVENTURE RETURNS!
+h2p_gucio:
+  viewers: 254
+  status: ALTERNATE Gucio Carry/offsupp
+ethieenn:
+  viewers: 214
+  status: Ethieen | Heroes of the Storm
+zomgitshwoarang:
+  viewers: 205
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+heroesone:
+  viewers: 190
+  status: '[FR] La Meta-Bug avec Manta !'
+player2player:
+  viewers: 110
+  status: '[PT-BR] Caricaz no ~Hérois do Toró~ | Maratona P2P [ 10R$ | Novo SUB =
+    1 HR ]'
+sobadrush:
+  viewers: 91
+  status: 2015/3/26 暴雪英霸團隊聯賽！
+sashkadestroyer:
+  viewers: 76
+  status: '[Ru/Eng] Sashka rank1, 4k mmr. ANY questions-welcome'
+lokifm:
+  viewers: 55
+  status: 'Sylvanas! WOOO [Day #43] // YouTube.com/LokiFM'
+in4game:
+  viewers: 40
+  status: Раздача Ключей и Лига Героев. Ранг 4 -> 1
+heroeswartv:
+  viewers: 48
+  status: '[ESP] iamKujah Stream | Sorteamos Betas EU!'
+pypgamers:
+  viewers: 38
+  status: '[ESP] Ranked y partidas normales con @bulgangP'
+lhiratv:
+  viewers: 33
+  status: '[GIVEAWAY BETA KEYS EU HOTS] - [FR] Sylvanas ♥ ! 10 Follows = 1 Clé BETA
+    EU ! '
+nexaa:
+  viewers: 30
+  status: QM and Hero League
+excelenteeleccion:
+  viewers: 24
+  status: ◉ ExcelenteEleccion
+gonkixjeh:
+  viewers: 19
+  status: '[CZ/SK] Gonki - Syčáci připraveni!'
+bigmyself:
+  viewers: 19
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+aureanatv:
+  viewers: 19
+  status: '[FR] Aureana ♥ Grignotage !!!'
+nvnpaladino:
+  viewers: 17
+  status: Live de Heroes of the Storm! Xingando a missão/maldição "Vença 3 partidas"
+agonizt:
+  viewers: 16
+  status: Gåva vid 500 följare!  !Reroll guild i WoW startar på söndag! :D
+rhoxylol:
+  viewers: 16
+  status: Rhoxy meets...hoffentlich mal die neue map.^^
+jaggerous:
+  viewers: 13
+  status: HotS - Bug Fixed, Sylvanas Hype
+-------------------------
+

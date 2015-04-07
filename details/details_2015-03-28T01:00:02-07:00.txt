@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-28T01:00:02-07:00
+
+Number of channels: 144
+
+Total viewers: 2220
+
+Total Viewers for top 25 streams:
+2002
+
+Viewer counts:
+[1092, 190, 102, 91, 82, 59, 44, 40, 35, 31, 28, 26, 28, 21, 19, 15, 14, 14, 13, 11, 7, 10, 10, 11, 9]
+
+---
+chu8:
+  viewers: 1092
+  status: '[NA] Rank 1 "It''s a good day to Murky"'
+trikslyr:
+  viewers: 190
+  status: Minesweeper Pro spends time playing Heroes
+temp0_sc:
+  viewers: 102
+  status: Temp0 - Homies of the Stuuurm!
+johanjazz:
+  viewers: 91
+  status: '[1 rank] ヽ(・∀・)ﾉ  Бест цыган еу \о Раздаем ключи налево и направо \о'
+wolfeater_il:
+  viewers: 82
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+tirent000:
+  viewers: 59
+  status: Watch me I am really bad  HOTS Tirent000 {Deviation Gaming}
+fr4gshout:
+  viewers: 44
+  status: 24 hours Up all Night!! Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+tolyawa:
+  viewers: 40
+  status: TOP777 VIKINGS EU
+semiproproject:
+  viewers: 35
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 47/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+kamuchi:
+  viewers: 31
+  status: '#HeroesFriday es #HeroesConKamu y Antaurus Sorteo/Giveaway- Argentina'
+ulqi:
+  viewers: 28
+  status: Качаем US аккаунт! Раздаем Ключи!
+eghtv:
+  viewers: 26
+  status: 'Elite Gaming House Streaming 24/7- Pao ! '
+nickkcouvv:
+  viewers: 28
+  status: '24 Hour Stream| DayZ GiveAway | 1 Year celebration | '
+gga893879:
+  viewers: 21
+  status: GoDDog  rank1  快速中    晚點爬RANK
+melonair0827:
+  viewers: 19
+  status: '[Melonair] [KR server R1]Infinite Regroup scriming  無限重組R1團練'
+kreenpananas:
+  viewers: 15
+  status: 'Aloha Friday Date Night! | Tip your coconuts, drinks, and waitress! - Gaming
+    on @twitch // #videogames'
+sp5430:
+  viewers: 14
+  status: 【鱔魚】大感冒中...爬RK因該會好比較快!!
+demonsaber:
+  viewers: 14
+  status: 绯姬場的十點半─順我者勝，逆我者亡。
+greentea_1013:
+  viewers: 13
+  status: '[GreenTea] - 3/28　這波不鬧。'
+lostragh:
+  viewers: 11
+  status: '[FR]  8 CLEF BETA EU Heroes à gagner - Ranked rang 7&9 avec Lostragh&Paulo'
+angellatv:
+  viewers: 7
+  status: '[EN/PL] Przeprowadzka, JaRock- Drużynka i testowanie Sylvany.'
+scored:
+  viewers: 10
+  status: '[GER/ENG] Ranked los los'
+defebwar:
+  viewers: 10
+  status: '[NA] Beta Key Giveaways!! Rumble In The Nexus [Heroes Of The Storm (NA)]'
+bhoosted:
+  viewers: 11
+  status: Beta Keys!!!!!!! Join In For One!!!!
+dj_michii:
+  viewers: 9
+  status: '[GER] Rank 12 & Viewer Games & Music.'
+-------------------------
+

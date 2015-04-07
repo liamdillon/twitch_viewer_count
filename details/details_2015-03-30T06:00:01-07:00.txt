@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-30T06:00:01-07:00
+
+Number of channels: 184
+
+Total viewers: 7065
+
+Total Viewers for top 25 streams:
+6815
+
+Viewer counts:
+[2956, 1702, 387, 423, 243, 227, 128, 109, 99, 81, 67, 53, 51, 51, 46, 40, 28, 22, 18, 16, 13, 15, 13, 13, 14]
+
+---
+pamcakes:
+  viewers: 2956
+  status: Pam // Road to Rank 1
+chu8:
+  viewers: 1702
+  status: '[NA] Rank 1 Kimchi Stream'
+flamytv:
+  viewers: 387
+  status: Heroes of the Storm - komentarz ze slayproxem!
+yuuie:
+  viewers: 423
+  status: ❤EU Game Key Giveaways! After Every Game
+zp_tv:
+  viewers: 243
+  status: ZPs - Rank 1 - 1080p/60FPS! - NEW STREAM SETTINGS SO BEAUTIFUL
+heroesone:
+  viewers: 227
+  status: '[FR] La Met-Hardcore avec Manta ! 12h~19h NON-STOP !'
+player2player:
+  viewers: 128
+  status: '[PT-BR] ~Heróis do Toró com o Caricaz !Sorteios de Keys! | Maratona P2P
+    [ 10R$ | Novo SUB = 1 HR ]'
+pingwingtv:
+  viewers: 109
+  status: '[eng/ger] Gold Buff in HotS'
+heroeswartv:
+  viewers: 99
+  status: '[ESP] De rankeds con SGS1907!'
+tolyawa:
+  viewers: 81
+  status: DOBROTA GAMING
+ggmarche:
+  viewers: 67
+  status: ♠ NA | Marche ♠ I got a 'HotS' date tonight boys.
+yourchinafan:
+  viewers: 53
+  status: road to rank 1
+g96k:
+  viewers: 51
+  status: '[eng/ger] LVL 1 Nub'
+twiceaspowerful:
+  viewers: 51
+  status: LADY SYLVANAS ON HOTS!!!
+ogamingtv:
+  viewers: 46
+  status: '[FR] A quoi on joue !'
+keko1102:
+  viewers: 40
+  status: '[GER] 8 Beta Key''s EU Verlosung!  !Verlosung für infos'
+lhiratv:
+  viewers: 28
+  status: '[GIVEAWAY BETA KEYS EU HOTS] - [FR] Des ranked en veux-tu, en voila ! 10
+    Follows = 1 Clé BETA EU ! [!points ; !jetons ; !mensurations]'
+pypgamers:
+  viewers: 22
+  status: '[ESP] Rankeds y partidas normales con @BulgangP'
+panntos:
+  viewers: 18
+  status: Pantos Heldenliga! 5er QQ
+mexyh:
+  viewers: 16
+  status: '[FR] R1 yoloqueue. 500 followers \o/ Merci :'')'
+ken00ken:
+  viewers: 13
+  status: '[ZKD]暴雪英霸 |  終於換電腦拉~ 可以開台玩拉~'
+devilhs:
+  viewers: 15
+  status: Битва в "Быстрой игре"
+bigmyself:
+  viewers: 13
+  status: KZ-RU Игры с подписчиками! Паб и Ранг! Всем позитива))
+gentlemanlyc:
+  viewers: 13
+  status: A questionable stream for questionable people
+derikmolder:
+  viewers: 14
+  status: 10 follow o 1 donazione = 1 key giveaway <3 ( fanculo immo ) <3
+-------------------------
+

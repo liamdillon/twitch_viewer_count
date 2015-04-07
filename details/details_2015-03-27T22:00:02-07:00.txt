@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-27T22:00:02-07:00
+
+Number of channels: 246
+
+Total viewers: 4643
+
+Total Viewers for top 25 streams:
+4243
+
+Viewer counts:
+[2571, 581, 212, 119, 113, 82, 76, 56, 54, 50, 50, 37, 31, 31, 29, 24, 18, 18, 17, 14, 14, 13, 12, 12, 9]
+
+---
+esl_heroes:
+  viewers: 2571
+  status: ESL Playoffs Season 1 | Day 1
+chu8:
+  viewers: 581
+  status: '[NA] Rank 1 Fun Games'
+xelayirl:
+  viewers: 212
+  status: XelayIRL rank1   20XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+fightincowboy:
+  viewers: 119
+  status: Post-Drunkthrough Smashfest!
+trikslyr:
+  viewers: 113
+  status: Minesweeper Pro spends time playing Heroes
+cluckey:
+  viewers: 82
+  status: Beta key NA/EU Giveaway / Rank 1 re-climb
+nastyt:
+  viewers: 76
+  status: 'FULL TEAM R4PE  -- we hope '
+lolirot:
+  viewers: 56
+  status: '♥ LATINO ♥ - #HeroesWeekend ! #Betas y #Customs com los Viewers!'
+kiyeberries:
+  viewers: 54
+  status: '[1080p] Healy Dealy Feely'
+zeto_27:
+  viewers: 50
+  status: ZETDOTA [ SORTEOS 27/03/2015]
+fr4gshout:
+  viewers: 50
+  status: 24 hours Up all Night!! Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+annaprosser:
+  viewers: 37
+  status: Do Dinosaurs Like Strawberries? - Playing with KiyeBerries and Friends!
+heroesone:
+  viewers: 31
+  status: '[FR] La Meta-YMCA avec Manta !'
+lecpkim:
+  viewers: 31
+  status: '#HeroesFriday y estrenando App para regalar betas!  @lecpkim17'
+cherrigan:
+  viewers: 29
+  status: 
+familiagameplay:
+  viewers: 24
+  status: '#HeroesFriday'
+heroespoint:
+  viewers: 18
+  status: '#HeroesFriday + Sorteo de Llaves'
+gga893879:
+  viewers: 18
+  status: 'GoDDog  rank1  RANK中  '
+goozin:
+  viewers: 17
+  status: MEOW MEOW MEOW  HOTS BETA KEYS!! Giveaway 300 Followers!
+demonsaber:
+  viewers: 14
+  status: 绯姬場的十點半─順我者勝，逆我者亡。
+ksk_smooverrella:
+  viewers: 14
+  status: 'Altis Life / Wasteland with Smoo! #EZY'
+monstergmer:
+  viewers: 13
+  status: '[ES] #HEROESFRIDAY / RANKED Y BETAS @TwitchESP @StreamsEspanol'
+jschritte:
+  viewers: 12
+  status: '#HeroesFriday do Monstro'
+sidekool:
+  viewers: 12
+  status: SORTEIO DE 50 KEYS - MELHOR JOGADOR DE HOTS DO SUL DO ACRE! (Sorteio a cada
+    partida!)
+balthazarvon:
+  viewers: 9
+  status: ¡Jugando con los amiguitos! (se sortea beta a los 30 viewers)
+-------------------------
+

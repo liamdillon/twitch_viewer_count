@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-28T19:00:06-07:00
+
+Number of channels: 
+
+Total viewers: 
+
+Total Viewers for top 25 streams:
+6637
+
+Viewer counts:
+[3854, 1300, 358, 209, 138, 116, 77, 75, 69, 51, 40, 38, 35, 34, 33, 31, 29, 25, 22, 16, 19, 19, 18, 16, 15]
+
+---
+esl_heroes:
+  viewers: 3854
+  status: ESL Playoffs Season 1 | Day 2
+followgrubby:
+  viewers: 1300
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+groeit:
+  viewers: 358
+  status: Heroes, then D3
+xelayirl:
+  viewers: 209
+  status: ^^XelayIRL^^ rank1   21XGOLD hero^^ FEEL FREE ASK ANY HOTS QUESTION :)
+chu8:
+  viewers: 138
+  status: '[NA] Rank 1 Murky Challenge'
+gerdamherdtv:
+  viewers: 116
+  status: '[GER] WellMet Gerd MLG Plays'
+cebka_je:
+  viewers: 77
+  status: '[ASH] CEBKAJE  -  Отвечаю на вопросы. '
+fr4gshout:
+  viewers: 75
+  status: Push for 7k followers Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+missconfidence:
+  viewers: 69
+  status: '[BR] miss ♥~ Heroes of the Storm + Key Giveaway! ♥ >> !heroes (Song Request
+    ON)'
+basickz:
+  viewers: 51
+  status: 'Basickz | Rank 1 Legend '
+symnnn:
+  viewers: 40
+  status: '[GER/EN] Midnight Gaming! Wer is dabei? - 720p ᴴᴰ'
+heroesone:
+  viewers: 38
+  status: '[FR] Rediffusions !'
+sgdx:
+  viewers: 35
+  status: ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda > lvling and stuff.'
+heroespoint:
+  viewers: 34
+  status: '#HPComCup - Octavos de Final'
+gimloo:
+  viewers: 33
+  status: SWE/ENG AUTO DJ PLZ STOP BY EITHER ON STREAM OR IN REAL LIFE YOU ARE WELCOME
+    :):) HYPE!!!!!!!!
+tigerlily___:
+  viewers: 31
+  status: Need to get my lvl up!!
+realgaba:
+  viewers: 29
+  status: Heroes of the Storm mit Giveaway (HoTs Keys und Secret Giveaway)
+elvinemod:
+  viewers: 25
+  status: Games w/ viewers - WoW Gold Making - 18,037,545g Earned - Elvinelol.com
+nony:
+  viewers: 22
+  status: Top MMR hero league
+greentea_1013:
+  viewers: 16
+  status: '[GreenTea] - 3/29  外交Time。'
+itzkoed:
+  viewers: 19
+  status: Heroes Of the Sylvanas! Founders Giveaway at 250 followers!!
+ogamingtv:
+  viewers: 19
+  status: '[FR] REDIFFUSIONS de la semaine'
+katukaz:
+  viewers: 18
+  status: HEROES OF THE STORM (^ ◕ᴥ◕ ^) Playing with Viewers (^ ◕ᴥ◕ ^)
+bhoosted:
+  viewers: 16
+  status: Beta Keys!!!!!!! Join In For Chance!!!
+killcrit:
+  viewers: 15
+  status: -- GIVEAWAY TODAY-- $20 Battle.net Cash Code - Heroes of the Storm
+-------------------------
+

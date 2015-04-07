@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-27T00:00:02-07:00
+
+Number of channels: 176
+
+Total viewers: 1796
+
+Total Viewers for top 25 streams:
+1566
+
+Viewer counts:
+[431, 281, 203, 89, 74, 72, 48, 40, 39, 36, 27, 28, 28, 25, 22, 21, 19, 14, 14, 9, 11, 8, 10, 10, 7]
+
+---
+ryuzilla:
+  viewers: 431
+  status: 5 Stack Ranked
+semiproproject:
+  viewers: 281
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 46/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+solidjakegg:
+  viewers: 203
+  status: SolidJake [60FPS] 5man ranked w/ Ryuzilla, detach, and more!
+coldfashiond:
+  viewers: 89
+  status: '[US] Tassadar Quick Matches'
+missmiarose:
+  viewers: 74
+  status: 
+tolyawa:
+  viewers: 72
+  status: TOP777 VIKINGS EU
+ggmarche:
+  viewers: 48
+  status: ♠ NA | Marche ♠ ^^ Viewer games~  (Tent Stream? <3)
+itsmikuru:
+  viewers: 40
+  status: HotS | Key Giveaway | It's only a  game, Y U HEFF 2 B MED?
+heroesone:
+  viewers: 39
+  status: '[FR] La Meta-list avec Manta !'
+anothernotch:
+  viewers: 36
+  status: 'Assemble Notchypoos!!! Keys to giveaway!!! '
+erhotv:
+  viewers: 27
+  status: coL.Erho; GO BIG OR GO HOME
+johanjazz:
+  viewers: 28
+  status: '[1 rank] ヽ(・∀・)ﾉ  Утренний стримец под музычку '
+ashmunsterr:
+  viewers: 28
+  status: Brightwing Quickmatch
+mcintyrelol:
+  viewers: 25
+  status: 'Duo Queue [MLG Titan 2 Winner]- AMA '
+forb3s:
+  viewers: 22
+  status: HATS OFF RATS OFF 2 YA IT'S MY BIRTHDAY!!!!
+williedillssf:
+  viewers: 21
+  status: Post-raid Heroes
+cj1772101:
+  viewers: 19
+  status: 'Fantasy紅霞 [rank1] : 沉默deBuff ~ 9999s'
+ashlen_rose:
+  viewers: 14
+  status: '<(^_^<) Heroes of the Storm: Master Zagara skin incoming!!! (>^_^)> '
+eghtv:
+  viewers: 14
+  status: Elite Gaming House Streaming 24/7- Heroes of the Storm con Pao!
+cluckey:
+  viewers: 9
+  status: Beta key NA/EU Giveaway / SKIN GIVEAWAYSS
+moosenmaster:
+  viewers: 11
+  status: just some messing around
+ravekyrasyn:
+  viewers: 8
+  status: '[KR]RAVEkyrasyN 1grade silvanas play'
+k1pro:
+  viewers: 10
+  status: C9 k1pro ~ SYLVANAS ~ casual games w friends, no chat
+familiagameplay:
+  viewers: 10
+  status: ٩(●̮̮̃•̃)۶ Gordices em HD (✌ﾟ∀ﾟ)
+vio7_2:
+  viewers: 7
+  status: NEW AT THIS GAME! GIVEAWAY AT 850 FOLLOWERS
+-------------------------
+

@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-31T02:00:01-07:00
+
+Number of channels: 144
+
+Total viewers: 4063
+
+Total Viewers for top 25 streams:
+3808
+
+Viewer counts:
+[1488, 880, 440, 147, 122, 105, 101, 79, 70, 59, 51, 41, 36, 25, 23, 19, 17, 15, 14, 14, 14, 13, 13, 12, 10]
+
+---
+chu8:
+  viewers: 1488
+  status: 1 Murky, 1 stream - Rank 1
+gratis150ml:
+  viewers: 880
+  status: ༼ つ ◕_◕ ༽つ MAMBO༼ つ ◕_◕ ༽つ
+liquidneo:
+  viewers: 440
+  status: ◄R1 LiquiD► Got Gold? ► liquidneo.com ►
+teaselol:
+  viewers: 147
+  status: 'Tease - Oi Learning :D '
+ulqi:
+  viewers: 122
+  status: Дорога к 50 рангу
+maihopawango:
+  viewers: 105
+  status: '[720p | 60 fps | GER] Heroes of the Storm - Beta Key GIEFAWAY IHR LÜMMEL
+    !!!!!! Kappa'
+n1ce0n3:
+  viewers: 101
+  status: HoTS
+heroesone:
+  viewers: 79
+  status: '[FR] Don''t worry be carried avec Rach'
+semiproproject:
+  viewers: 70
+  status: '#1 Onesie Stream NA - In Depth Commentary & Explanations [R1] | KilicK
+    | Day 50/∞  ヽ〳 ՞ ᗜ ՞ 〵'
+godspd:
+  viewers: 59
+  status: Утренний. Горячий. Твой
+androidp:
+  viewers: 51
+  status: '[ASH] AndyLendi - Rank 1'
+tolyawa:
+  viewers: 41
+  status: DOBROTA GAMING
+heroeswartv:
+  viewers: 36
+  status: '[ESP] SoloQ con Hankokku Mode Gosu ON'
+keko1102:
+  viewers: 25
+  status: '[GER] eazy peazy!'
+prayscream:
+  viewers: 23
+  status: 'j.pRay -  Hrajeme Rankedy (⊙.⊙(☉̃ₒ☉)⊙.⊙) '
+pypgamers:
+  viewers: 19
+  status: '[ESP] Rankeds y partidas normales con @BulgangP'
+ksk_smooverrella:
+  viewers: 17
+  status: HotS /w Smoo | Hier Text eingeben...
+skeitty:
+  viewers: 15
+  status: Keitty is BACK | GROSSE NOOB!
+anthonyacc:
+  viewers: 14
+  status: 25K grind! Road to Rank 1!
+ponponhuehuehue:
+  viewers: 14
+  status: CAPSLOCKFURY - Something something games
+askatsao:
+  viewers: 14
+  status: '  ASKA 大叔台 練習默契 歡迎大家提問及指導以及找隊伍'
+demonsaber:
+  viewers: 13
+  status: 绯姬場的十點半─順我者勝，逆我者亡。
+lostragh:
+  viewers: 13
+  status: '[FR] CLEF BETA A GAGNER - Ranked avec Lostragh&Paulo'
+heroestormspain:
+  viewers: 12
+  status: '[ESP] ¡Buenos días Nexo! Episodio 1'
+insanidade_temporaria:
+  viewers: 10
+  status: '[PT-BR] Herois da Madrugada - Jogando na Liga Heroica '
+-------------------------
+

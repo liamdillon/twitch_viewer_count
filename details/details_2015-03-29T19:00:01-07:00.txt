@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-29T19:00:01-07:00
+
+Number of channels: 222
+
+Total viewers: 2499
+
+Total Viewers for top 25 streams:
+2242
+
+Viewer counts:
+[777, 308, 291, 148, 60, 56, 54, 54, 58, 51, 47, 43, 40, 36, 30, 26, 20, 20, 19, 19, 22, 18, 16, 15, 14]
+
+---
+gosuzuna:
+  viewers: 777
+  status: C9 Zuna Playing go4heroes grand finals with friends 3 min delay
+hosselote:
+  viewers: 308
+  status: '[FINAL] ESL NA Go4Heroes #17 Tornado vs Goat Gaming'
+arkamn:
+  viewers: 291
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+trikslyr:
+  viewers: 148
+  status: Playing requested Heroes
+dotod:
+  viewers: 60
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Chill Sunday Streem :D NA Beta
+    Keys!
+heroesone:
+  viewers: 56
+  status: '[FR] La Meta-lique avec Manta !'
+yourchinafan:
+  viewers: 54
+  status: Some solo Q(Im sick and i cant talk) Q_Q
+gdmajestic:
+  viewers: 54
+  status: Stormlords
+vawnievoulphie:
+  viewers: 58
+  status: 龴◕ɷ◕龴 QUESTING
+eghtv:
+  viewers: 51
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+rhoxylol:
+  viewers: 47
+  status: Rhoxy meets heroes :)
+n1ce0n3:
+  viewers: 43
+  status: Diamond1 LoL player doing HoTS
+colainz:
+  viewers: 40
+  status: '[FR] NOOOOOOOOOOOOOOOBIE'
+therealhorsemaster:
+  viewers: 36
+  status: Gazlowe plays!
+xibe5238:
+  viewers: 30
+  status: '[Fr/Be] Xibe - Rank 1 solo - Ligue par équipe'
+foerest:
+  viewers: 26
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+pantocha:
+  viewers: 20
+  status: '[CZ/SK] Heroes of the Storm'
+ely0uy0u:
+  viewers: 20
+  status: (ノಠ益ಠ)ノ SORTEO DE MICROPLUSH & LLAVES BETA!
+glaurungtv:
+  viewers: 19
+  status: '| Tempo Storm Glaurung! | Rank 1 | Working on mechanics | '
+rosath:
+  viewers: 19
+  status: '[Day 15] *insert catchy sentence to get attention here*'
+warlegend:
+  viewers: 22
+  status: '[FR] Filtys Heores of the storm'
+gimloo:
+  viewers: 18
+  status: SWE/ENG AUTO DJ PLZ STOP BY EITHER ON STREAM OR IN REAL LIFE YOU ARE WELCOME
+    :):) HYPE!!!!!!!
+aliciawins:
+  viewers: 16
+  status: Duo Q w/ KiWiKaKi / Beta Key Giveaway! (NA)
+botlikex:
+  viewers: 15
+  status: '[GER|720p|PC] #VIEWERGAMES #MIDNIGHTSTREAM #LESKET - DREAM-STREAM.EU'
+zepolvinho:
+  viewers: 14
+  status: Madruga Bolada (sorteio de KEYS) para seguidores!!
+-------------------------
+

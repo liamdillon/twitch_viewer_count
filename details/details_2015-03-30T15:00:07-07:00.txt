@@ -1,0 +1,97 @@
+-------------------------
+Timestamp: 2015-03-30T15:00:07-07:00
+
+Number of channels: 
+
+Total viewers: 
+
+Total Viewers for top 25 streams:
+2806
+
+Viewer counts:
+[795, 435, 299, 292, 186, 148, 73, 57, 53, 49, 49, 41, 39, 32, 32, 32, 32, 26, 24, 21, 20, 19, 18, 17, 17]
+
+---
+arkamn:
+  viewers: 795
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+tgn:
+  viewers: 435
+  status: Brawl With The Bros! | MFPallytime & Hengest | Heroes of the Storm Community
+    Matches! 3pm -5pm PST
+missmiarose:
+  viewers: 299
+  status: Bday!! Mia Rose is now old!
+artheontv:
+  viewers: 292
+  status: '[FR] Game Viewers #OKLM'
+heroesone:
+  viewers: 186
+  status: '[FR] Don''t worry be carried avec Rach'
+gerdamherdtv:
+  viewers: 148
+  status: '[GER] WellMet Gerd Viewergames o.O Wie immer zu spät :D'
+slita:
+  viewers: 73
+  status: 30+ Beta Keys Come n Get Em~ Sylvanas Main~Slita~Full Time Streamer
+holyonline:
+  viewers: 57
+  status: '[BR] Rank 1 - VOLTEI! o/ Sylvanas Hype'
+anthonyacc:
+  viewers: 53
+  status: 25K grind! Road to Rank 1!
+rastablastalol:
+  viewers: 49
+  status: Viewergames/GIVEAWAY 9 HoTS Beta Keys !
+gohots:
+  viewers: 49
+  status: '[RU] 2KXAOC в ХотСе и Варике!'
+death2blade:
+  viewers: 41
+  status: '[GER|PC] Derpy Derp | Derp Derp'
+thewilq:
+  viewers: 39
+  status: 'RANK#1 - Rozdajemy klucze! #TEAMOWE RANKEDY BOYZ!'
+wolfforcex:
+  viewers: 32
+  status: ส็็็็็็็็็็็็็็็็็็็(ಠ益ಠ)ส็็็็็็็็็็็็็็็็็็็3 keys to giveaway! & type
+    !coins for currency system! ୧༼ ͡◉ل͜ ͡◉༽୨
+xibe5238:
+  viewers: 32
+  status: '[Fr/Be] Xibe - Rank 1 solo - Ligue par équipe'
+mrjpickles:
+  viewers: 32
+  status: '[#133] MrJPickles try hard day! Working on EU first then NA. EU Keys to
+    giveaway'
+shtyr:
+  viewers: 32
+  status: Shtyr. Ranked Rank1
+rhoxylol:
+  viewers: 26
+  status: Rhoxy meets heroes :)
+foerest:
+  viewers: 24
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+nurygamer:
+  viewers: 21
+  status: Nury [Eng-Esp] So one on heroes!! ^^ Read Description, Say huhu! I missed
+    u (K)
+w4lker:
+  viewers: 20
+  status: Go for Heroes Liga Szybkie Team Liga ??!  !  Never Give up ! [MMORPG.org.pl]
+logic_wolf:
+  viewers: 19
+  status: HotS Key Giveaways - Viewers welcome to join! - Earn !internets for raffles
+    while watching!
+cayennethefirst:
+  viewers: 18
+  status: BR- Sorteios! - Pub do Cayenne
+joe5029:
+  viewers: 17
+  status: '[ENG+ESP] FREE BETA KEYS| Playing with viewers|Interactive streamer| Monthly
+    VIP Giveaway! | @xGamersUnitedx @collectiongamin'
+m820730:
+  viewers: 17
+  status: 【KR serve】聯賽中 韓國人為什麼這麼愛掛機?
+-------------------------
+

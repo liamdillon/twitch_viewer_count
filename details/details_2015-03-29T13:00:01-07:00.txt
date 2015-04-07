@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-29T13:00:01-07:00
+
+Number of channels: 377
+
+Total viewers: 8213
+
+Total Viewers for top 25 streams:
+7552
+
+Viewer counts:
+[2534, 1729, 549, 432, 363, 327, 225, 214, 178, 166, 129, 103, 86, 85, 69, 51, 48, 47, 40, 35, 31, 29, 29, 27, 26]
+
+---
+iobagglive:
+  viewers: 2534
+  status: IOBAGGLIVE
+followgrubby:
+  viewers: 1729
+  status: Grubby - HotStorm - Playing Ranked @ EU
+tavernofheroes:
+  viewers: 549
+  status: TTB vs Alternate @ Go4Heroes by HappyZerG
+heroesone:
+  viewers: 432
+  status: '[FR] Go4Heroes Europe Cup #17 avec Kelzo & Luiji'
+hosselote:
+  viewers: 363
+  status: '[ENG] ESL EU Go4Heroes #17 Team Acer vs MadCorps (Key Giveaways)'
+blackfireice:
+  viewers: 327
+  status: '[PL/ENG] Just Black :) Dziś tylko HoTs :)'
+youbetterknowme:
+  viewers: 225
+  status: '[Ger/Eng] KnowMe casting Go4Heroes - later TeamLeague with Subs :)'
+heroeswartv:
+  viewers: 214
+  status: '[ESP] ESL G4Heroes (CUARTOS) Gryphus EVO VS Team ALTERNATE'
+vbrtv:
+  viewers: 178
+  status: '[RU] vk.com/vbrtv'
+inetkoxtv:
+  viewers: 166
+  status: KOSY TO HEROSI
+esl_heroes_pl:
+  viewers: 129
+  status: '[PL] Półfinał! Team Alternate vs Team Tommorow Big Go4Heroes Europe Cup
+    #17'
+anthonyacc:
+  viewers: 103
+  status: Sub Sunday! 25 KEYS TO GIVE AWAY! (NA)
+vanguardstv:
+  viewers: 86
+  status: Vanguards - Hero League! Bloodborne PvP on the side
+fenixchaos:
+  viewers: 85
+  status: '[FR] [EN] Fenixchaos Giveway at 100 follower!'
+ulqi:
+  viewers: 69
+  status: 'Качаем US аккаунт! '
+basickz:
+  viewers: 51
+  status: 'Basickz | Rank 1 Legend '
+realgaba:
+  viewers: 48
+  status: Heroes of the Storm mit Giveaway (HoTs Keys und Secret Giveaway)
+shtyr:
+  viewers: 47
+  status: Shtyr.Ranked Rank1
+la_secte:
+  viewers: 40
+  status: '[FR] Decouverte de HOTS avec Kimber ! +Giveaway'
+caiozeon:
+  viewers: 35
+  status: '[BR]Zeon - Treino da Divine Storm! Sorteio de Keys apos cada partida!'
+dotod:
+  viewers: 31
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Chill Sunday Streem :D NA Beta
+    Keys!
+kuzmitch_ru:
+  viewers: 29
+  status: Тюрьма для хомячка
+octo83:
+  viewers: 29
+  status: 'GER :: Helden- und Teamliga :: www.moreheroes.de'
+androidp:
+  viewers: 27
+  status: '[ASH] AndyLendi - Rank 1'
+sleepless_tv:
+  viewers: 26
+  status: '(RU) MadCorps vs Alternate! Go4Heroes CUP #17 (restream)'
+-------------------------
+

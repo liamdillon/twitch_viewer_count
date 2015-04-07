@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-29T04:00:02-07:00
+
+Number of channels: 178
+
+Total viewers: 3195
+
+Total Viewers for top 25 streams:
+3056
+
+Viewer counts:
+[1615, 405, 198, 183, 164, 51, 49, 57, 40, 32, 28, 28, 27, 26, 24, 19, 16, 18, 14, 12, 12, 11, 10, 8, 9]
+
+---
+chu8:
+  viewers: 1615
+  status: '[NA] Rank 1 Murky Challenge'
+trikslyr:
+  viewers: 405
+  status: Rank 1 Hero League. Builds at the bottom of the page now.
+ihosty:
+  viewers: 198
+  status: Hosty -Rank 1 NA HOTS  - | Sylvanas HYPE |  |  9/9 Golden Classes | 23x
+    Legend |  Blackrock hype soon Kreygasm
+heroesone:
+  viewers: 183
+  status: '[FR] Le Nexus d''Arthania'
+tolyawa:
+  viewers: 164
+  status: DOBROTA GAMING
+nexaa:
+  viewers: 51
+  status: '!giveaway | Hero League'
+lotusthedream:
+  viewers: 49
+  status: ESC LotuS Playing some Solo Que
+foerest:
+  viewers: 57
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+heroeswartv:
+  viewers: 40
+  status: '[ESP] Partidas mañaneras con Hankokku'
+still_sleepy:
+  viewers: 32
+  status: 'SleepAllday DAY14 說輸整天真的輸整天 '
+catberry:
+  viewers: 28
+  status: '[GER] Gemütlich in den Sonntag - Guten Morgen :3 - Hab nochmal 4 Keys zum
+    vergeben'
+dragomangreektitans:
+  viewers: 28
+  status: 29/3/15 HOTS+ASSETTO CORSA+DAYZ
+play4miriam:
+  viewers: 27
+  status: '[Ger] Mitspieler gesucht!'
+all_in_gamez:
+  viewers: 26
+  status: CZ/SK-HOTS+giveaway
+stormcasters:
+  viewers: 24
+  status: '[FR] Marley Rank 1 # SoloQ / BetaKey à donner !'
+jacky5ds:
+  viewers: 19
+  status: WXS 準備好為女王而戰了嗎?
+fatpicklesmith:
+  viewers: 16
+  status: '[PL/ENG] Klucz co 10 widzów(czyli teraz przy 20). Tak tak lecimy po fejm!'
+chiang001:
+  viewers: 18
+  status: '【肉肉】SOLO個聯賽 有問題可來問 '
+mangacatchy:
+  viewers: 14
+  status: ✿◕ ‿ ◕✿März Giveaway- letzte Chance✿◕ ‿ ◕✿
+alenkuochu:
+  viewers: 12
+  status: '[水月白] - 正在玩暴雪英霸'
+stefaniecarnier:
+  viewers: 12
+  status: '[PT-BR/EN] - Heroes random'
+monstergmer:
+  viewers: 11
+  status: '[ES] RANKED DESVELADO @TwitchESP @StreamsEspanol'
+mrkoliak:
+  viewers: 10
+  status: Stream 24h + Cospobre + 1000Followers!  - @MrKoliaK
+hungoverducks:
+  viewers: 8
+  status: 'Heroes of the Storm (free keys) (PC) #hots #heroesofthestorm'
+zsjh9100:
+  viewers: 9
+  status: ᴥ 姐姐玩英霸ᴥ  晚上都會轉圈 F5解決吧ˊˋ
+-------------------------
+

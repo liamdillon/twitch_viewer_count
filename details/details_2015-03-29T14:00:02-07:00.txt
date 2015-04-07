@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-29T14:00:02-07:00
+
+Number of channels: 343
+
+Total viewers: 6803
+
+Total Viewers for top 25 streams:
+7901
+
+Viewer counts:
+[2253, 1908, 660, 506, 369, 340, 336, 204, 188, 162, 158, 100, 96, 90, 78, 72, 71, 52, 47, 41, 39, 39, 32, 30, 30]
+
+---
+followgrubby:
+  viewers: 2253
+  status: Grubby - HotStorm - Playing Ranked @ EU
+iobagglive:
+  viewers: 1908
+  status: IOBAGGLIVE
+hosselote:
+  viewers: 660
+  status: '[FINAL] ESL EU Go4Heroes #17 Team Acer vs Team Tomorrow Big (Key Giveaways)'
+tavernofheroes:
+  viewers: 506
+  status: ФИНАЛ TTB vs ACER @ Go4Heroes by HappyZerG
+heroesone:
+  viewers: 369
+  status: '[FR] Go4Heroes Europe Cup #17 avec Kelzo & Luiji'
+blackfireice:
+  viewers: 340
+  status: '[PL/ENG] Just Black :) Dziś tylko HoTs :)'
+arkamn:
+  viewers: 336
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+youbetterknowme:
+  viewers: 204
+  status: '[Ger/Eng] KnowMe casting Go4Heroes - later TeamLeague with Subs :)'
+heroeswartv:
+  viewers: 188
+  status: '[ESP] ESL G4Heroes (FINAL) Team ACER VS TTB'
+inetkoxtv:
+  viewers: 162
+  status: KOSY TO HEROSI
+vbrtv:
+  viewers: 158
+  status: '[RU] vk.com/vbrtv'
+onlinegamertwitch:
+  viewers: 100
+  status: Игромания Rezan
+anthonyacc:
+  viewers: 96
+  status: Sub Sunday! 25 KEYS TO GIVE AWAY! (NA)
+fenixchaos:
+  viewers: 90
+  status: '[FR] [EN] Fenixchaos Giveway at 100 follower!'
+vanguardstv:
+  viewers: 78
+  status: Vanguards - HOTS
+luboshmir:
+  viewers: 72
+  status: '[60FPS] [CZ/SK/ENG] eSuba.Luboshmir'
+ulqi:
+  viewers: 71
+  status: 'Качаем US аккаунт! '
+realgaba:
+  viewers: 52
+  status: Heroes of the Storm mit Giveaway (HoTs Keys und Secret Giveaway)
+gerdamherdtv:
+  viewers: 47
+  status: '[GER] WellMet Gerd MLG Plays'
+kuzmitch_ru:
+  viewers: 41
+  status: Тюрьма для хомячка
+wolfforcex:
+  viewers: 39
+  status: ส็็็็็็็็็็็็็็็็็็็(ಠ益ಠ)ส็็็็็็็็็็็็็็็็็็็Heroes time (3 keys to giveaway)
+    & type !coins for currency system! ୧༼ ͡◉ل͜ ͡◉༽୨
+dotod:
+  viewers: 39
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Chill Sunday Streem :D NA Beta
+    Keys!
+caiozeon:
+  viewers: 32
+  status: '[BR]Zeon - Treino da Divine Storm! Sorteio de Keys apos cada partida!'
+androidp:
+  viewers: 30
+  status: '[ASH] AndyLendi - Rank 1'
+octo83:
+  viewers: 30
+  status: 'GER :: Helden- und Teamliga :: www.moreheroes.de'
+-------------------------
+

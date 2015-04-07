@@ -1,0 +1,96 @@
+-------------------------
+Timestamp: 2015-03-27T08:00:01-07:00
+
+Number of channels: 233
+
+Total viewers: 4034
+
+Total Viewers for top 25 streams:
+3645
+
+Viewer counts:
+[1038, 665, 522, 184, 176, 155, 134, 96, 95, 89, 87, 65, 50, 36, 33, 29, 27, 25, 26, 20, 20, 22, 18, 18, 15]
+
+---
+liquidneo:
+  viewers: 1038
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+pamcakes:
+  viewers: 665
+  status: Pam [NA] // Solo Hero League // Beta Key Giveaway Every Sub!
+guardsmanbob:
+  viewers: 522
+  status: Rank1! - Guardsman Bob!
+zomgitshwoarang:
+  viewers: 184
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+p4wnyhof:
+  viewers: 176
+  status: Ranked with Viewers :O! - Join my awesome and nice community! ᕦ( ̿ ﹏ ̿ )ᕤᕦ(
+    ̿ ﹏ ̿ )ᕤ
+heroesone:
+  viewers: 155
+  status: '[FR] SiC and Destroy avec SiC'
+cebka_je:
+  viewers: 134
+  status: '[ASH] CEBKAJE  -  Разыгрываю ключи после стрима.'
+arkamn:
+  viewers: 96
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+wolfeater_il:
+  viewers: 95
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+gerdamherdtv:
+  viewers: 89
+  status: '[GER] WellMet Gerd QM Rektening'
+player2player:
+  viewers: 87
+  status: '[PT-BR] Caricaz no ~Heróis do Toró~ KEYS PARA SORTEIO!  #HeroesFriday|
+    Maratona P2P [ 10R$ | Novo SUB = 1 HR ]'
+dirtyela_tv:
+  viewers: 65
+  status: '[GER]♥♥♥  girly power ♥♥♥'
+sleepless_tv:
+  viewers: 50
+  status: '[RU] RANK#1! Сильвана ранкед йолоКУ'
+xelayirl:
+  viewers: 36
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+avanityzumba:
+  viewers: 33
+  status: '[ENG]  ♥  inventory full of nice giveaways! ♥  '
+thetadin:
+  viewers: 29
+  status: Tadin | Gametime!
+nexaa:
+  viewers: 27
+  status: Rank 11 Hero League NO CAM TODAY
+keko1102:
+  viewers: 25
+  status: '[GER] Helden Liga Rode to Rank 1 :D'
+sixpets:
+  viewers: 26
+  status: Sylvanas Playz and Beta Key Giveaways ►Sixpets ►Rank 1 ►Diamond MMR
+witness1129:
+  viewers: 20
+  status: 【Chakey】Team Fantasy KR Server Rank1!!!(團隊聯賽GO!)
+nwgamesbrasil:
+  viewers: 20
+  status: '[PT-BR] - Duque - Campeões da Cantareira [Song Request ON!]'
+thewilq:
+  viewers: 22
+  status: 'ORŁY SOKOŁY HEROSI! RANK#1 ~3300 MMR '
+catberry:
+  viewers: 18
+  status: '[GER]  Verwirrung und Heldenkloppe zum Wochenende  - noch ein Schlüssel
+    über! '
+heroestormspain:
+  viewers: 18
+  status: '[ESP] Sousash Rank 1 !! Repartiendo amorrrr <3 !! '
+ashmunsterr:
+  viewers: 15
+  status: Nova Quickmatch
+-------------------------
+

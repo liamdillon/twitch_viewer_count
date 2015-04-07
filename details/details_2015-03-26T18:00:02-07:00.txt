@@ -1,0 +1,96 @@
+-------------------------
+Timestamp: 2015-03-26T18:00:02-07:00
+
+Number of channels: 260
+
+Total viewers: 6401
+
+Total Viewers for top 25 streams:
+5845
+
+Viewer counts:
+[2134, 1549, 445, 241, 214, 180, 140, 132, 108, 92, 72, 69, 66, 64, 53, 40, 32, 34, 31, 29, 28, 28, 26, 19, 19]
+
+---
+followgrubby:
+  viewers: 2134
+  status: Playing Sylvanas + Patched heroes!
+shaboozey:
+  viewers: 1549
+  status: Heroes of the Salt - Live from the Kitchen w/ LOW EXPECTATIONS
+docgotgame:
+  viewers: 445
+  status: '[68 Subs for Kisha/Juanita Stream and 5 new Emotes!!] Heroes of the Storm
+    with Sergeants (aka Subs!!)'
+oganoss:
+  viewers: 241
+  status: 'Anoss - FR -  Interstellar Big Respect papy !!!  #COMMENT??'
+semiproproject:
+  viewers: 214
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 46/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+hots_mcmuffin:
+  viewers: 180
+  status: 'McMuffin: From Rank 50 to 1'
+youbetterknowme:
+  viewers: 140
+  status: 'KnowMe playing Team League with Subs - giving aways 1 EU Betakey every
+    time we lose '
+heroesone:
+  viewers: 132
+  status: '[FR] La Meta-list avec Manta !'
+xelayirl:
+  viewers: 108
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+sinvicta:
+  viewers: 92
+  status: '3/26/15 - TEAM LE '
+amovetv:
+  viewers: 72
+  status: 'Into the Nexus #44'
+inetkoxtv:
+  viewers: 69
+  status: HEROSI DZIĘCIOŁY BURSZTYNY
+dotod:
+  viewers: 66
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+thekonus:
+  viewers: 64
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+kiyeberries:
+  viewers: 53
+  status: '[1080p] What we do in the Early Evening'
+sgdx:
+  viewers: 40
+  status: ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda >'
+fr4gshout:
+  viewers: 32
+  status: ' Road to Partner   Avidesports.com'
+happyzerg:
+  viewers: 34
+  status: Сильвана до 10 уровня
+solidjakegg:
+  viewers: 31
+  status: 'The Daily Quest #14 - Sylvanas Overview and Discussion'
+tolyawa:
+  viewers: 29
+  status: Vikings vs Герои по вашим заявкам
+dbl2010:
+  viewers: 28
+  status: '[TR] <Uykudan Önce> Uykusuz her gece.  Sabaha kadar yayın devam.'
+xibe5238:
+  viewers: 28
+  status: '[Fr/Be] Xibe - Rank 1 - Ligue par équipe - Tips & Builds sur demande '
+detreee:
+  viewers: 26
+  status: '[Ger/720] Zockiiii?  ლ(ಠ益ಠლ)'
+cayennethefirst:
+  viewers: 19
+  status: BR- Sorteios! - Pub do Cayenne
+killcrit:
+  viewers: 19
+  status: GIVEAWAY - 10 BETA KEYS FOR HEROES OF STORM RIGHT NOW!!!
+-------------------------
+

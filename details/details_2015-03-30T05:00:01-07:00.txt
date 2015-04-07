@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-30T05:00:01-07:00
+
+Number of channels: 149
+
+Total viewers: 7342
+
+Total Viewers for top 25 streams:
+7183
+
+Viewer counts:
+[3428, 1981, 333, 235, 189, 160, 148, 91, 80, 69, 60, 60, 56, 55, 40, 36, 34, 21, 19, 18, 16, 16, 13, 14, 11]
+
+---
+pamcakes:
+  viewers: 3428
+  status: Pam // Road to Rank 1
+chu8:
+  viewers: 1981
+  status: '[NA] Rank 1 Kimchi Stream'
+yuuie:
+  viewers: 333
+  status: ❤EU Game Key Giveaways! After Every Game
+heroesone:
+  viewers: 235
+  status: '[FR] La Met-Hardcore avec Manta ! 12h~19h NON-STOP !'
+zp_tv:
+  viewers: 189
+  status: ZPs - Rank 1 - 1080p/60FPS! - NEW STREAM SETTINGS SO BEAUTIFUL
+himechar:
+  viewers: 160
+  status: (*ﾟ▽ﾟ*)☝失聲的曉玲要安靜玩莉莉了 Hi, me Char. Quiet HotS then LOL TW.
+onlinegamertwitch:
+  viewers: 148
+  status: Игромания Rezan
+player2player:
+  viewers: 91
+  status: '[PT-BR] ~Heróis do Toró com o Caricaz !Sorteios de Keys! | Maratona P2P
+    [ 10R$ | Novo SUB = 1 HR ]'
+heroeswartv:
+  viewers: 80
+  status: '[ESP] Partidas mañaneras con Hankokku'
+zwhydra:
+  viewers: 69
+  status: '[RU/ENG] Yard-team player - soloQ/duoQ - ask questions in chat'
+pingwingtv:
+  viewers: 60
+  status: '[eng/ger] Gold Buff in HotS'
+keko1102:
+  viewers: 60
+  status: '[GER] 8 Beta Key''s EU Verlosung!  !Verlosung für infos'
+chocapicc:
+  viewers: 56
+  status: '[PL] Gierka widzów ;]'
+ggmarche:
+  viewers: 55
+  status: ♠ NA | Marche ♠ I got a 'HotS' date tonight boys.
+kaptnkurse:
+  viewers: 40
+  status: '[GER]KXL|>HD<| Beta Key Giveaway// Silvana OP?'
+g96k:
+  viewers: 36
+  status: '[eng/ger] LVL 1 Nub'
+pypgamers:
+  viewers: 34
+  status: '[ESP] Rankeds y partidas normales con @BulgangP'
+lhiratv:
+  viewers: 21
+  status: '[GIVEAWAY BETA KEYS EU HOTS] - [FR] Des ranked en veux-tu, en voila ! 10
+    Follows = 1 Clé BETA EU ! [!points ; !jetons ; !mensurations]'
+rezolventa:
+  viewers: 19
+  status: '[RU] R1 | Solo | Ключи | Комментарии и анализ | Пейте витаминки'
+gga893879:
+  viewers: 18
+  status: GoDDog  rank1  rank中
+panntos:
+  viewers: 16
+  status: Pantos Heldenliga! 5er QQ
+mexyh:
+  viewers: 16
+  status: '[FR] R1 yoloqueue. 500 followers \o/ Merci :'')'
+drunkengamingproject:
+  viewers: 13
+  status: '[Ger/Eng] Zarak 5er Heroleague // Betakey giveaway (EU/NA) / AMA'
+devilhs:
+  viewers: 14
+  status: Битва в "Быстрой игре"
+derikmolder:
+  viewers: 11
+  status: 10 follow o 1 donazione = 1 key giveaway <3 ( fanculo immo ) <3
+-------------------------
+

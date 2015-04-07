@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-30T00:00:02-07:00
+
+Number of channels: 136
+
+Total viewers: 2921
+
+Total Viewers for top 25 streams:
+2605
+
+Viewer counts:
+[1500, 157, 157, 156, 130, 110, 73, 62, 37, 31, 24, 23, 21, 19, 14, 13, 11, 10, 9, 9, 8, 8, 8, 8, 7]
+
+---
+chu8:
+  viewers: 1500
+  status: '[NA] Rank 1 Kimchi Stream'
+annaprosser:
+  viewers: 157
+  status: Strawberry Streamin'
+tayzondaygames:
+  viewers: 157
+  status: Heroes Of The Storm
+mcintyrelol:
+  viewers: 156
+  status: 'coL_McIntyre Solo EU[MLG Titan 2 Winner]- AMA '
+anthonyacc:
+  viewers: 130
+  status: Leveling Sylvanas, and others :) 25 KEYS TO GIVE AWAY! (NA)
+fenixchaos:
+  viewers: 110
+  status: '[NA] Fenixchaos Giveway at 100 follower!'
+tolyawa:
+  viewers: 73
+  status: DOBROTA GAMING
+glaurungtv:
+  viewers: 62
+  status: '| Tempo Storm Glaurung! | Rank 1 | Working on mechanics | '
+angellatv:
+  viewers: 37
+  status: '[EN/PL] Poranny stream przed lekarzem :) + Adam '
+mikefrompgh:
+  viewers: 31
+  status: <NA> MURKY AND EXTRA BETA KEYS!!!
+eghtv:
+  viewers: 24
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+greentea_1013:
+  viewers: 23
+  status: '[GreenTea] - Rank1 3/30  '
+xtinkara:
+  viewers: 21
+  status: working on getting back rank 1 Solo Que-rusty gameplay atm
+miss_seraphcor:
+  viewers: 19
+  status: '[GER] // Chillen und kucken was ansteht  ♥'
+semiproproject:
+  viewers: 14
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 49/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง (Short Sunday Stream) '
+blitzlike1:
+  viewers: 13
+  status: '[Ger] !songrequest !Coins HOTS Ranked '
+mrjpickles:
+  viewers: 11
+  status: '[#132] MrJPickles late stream for a bit! Commentary/Music relaxing'
+eloonn_:
+  viewers: 10
+  status: Hoy HOTS! :D (ESP/ENG)
+bigmyself:
+  viewers: 9
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+lostragh:
+  viewers: 9
+  status: '[FR] 4 CLEF BETA EU Heroes à gagner  - Ranked avec Lostragh&Paulo'
+christinagailc:
+  viewers: 8
+  status: Drop it like it's HoTS!
+lastwolfplay:
+  viewers: 8
+  status: '[30/03] La matinale sur Heroes (bonus xp dudes !), Diablo a posé son lundi
+    =)'
+insanidade_temporaria:
+  viewers: 8
+  status: '[PT-BR] Herois da Madrugada'
+hero_aisaka:
+  viewers: 8
+  status: 24 HOUR STREAM // Rank 1 solo // Beta key giveaway (europe key)s // ＼( ｀.∀´)／
+    // Viewergame
+evac:
+  viewers: 7
+  status: Climbing Ranks Day 35/365
+-------------------------
+

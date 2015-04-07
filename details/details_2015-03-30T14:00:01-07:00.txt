@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-30T14:00:01-07:00
+
+Number of channels: 314
+
+Total viewers: 8553
+
+Total Viewers for top 25 streams:
+8388
+
+Viewer counts:
+[5730, 589, 289, 212, 196, 177, 166, 162, 99, 99, 98, 66, 61, 58, 56, 45, 44, 43, 39, 34, 28, 27, 25, 24, 21]
+
+---
+esl_heroes:
+  viewers: 5730
+  status: ESL Playoffs Season 1 | Day 1
+arkamn:
+  viewers: 589
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+artheontv:
+  viewers: 289
+  status: '[FR] Game Viewers #OKLM'
+missmiarose:
+  viewers: 212
+  status: Bday!! Mia Rose is now old!
+heroeswartv:
+  viewers: 196
+  status: '[ESP] SK 0 vs 1 LDCL - ESL #MajorLeague Playoffs EU'
+heroesone:
+  viewers: 177
+  status: '[FR] Don''t worry be carried avec Rach'
+happyzerg:
+  viewers: 166
+  status: Ранг 1 на победу! Комментарии и ответы на вопросы
+nysira:
+  viewers: 162
+  status: 'Giveaway: HOTS Beta-Keys (EU) every 50 followers | SUB Giveaway (CM STORM
+    MIZAR MOUSE) | More videos at youtube.com/twitchnysira <3 '
+fenixchaos:
+  viewers: 99
+  status: '[NA] Fenixchaos Giveway at 100 follower!'
+gerdamherdtv:
+  viewers: 99
+  status: '[GER] WellMet Gerd Viewergames o.O Wie immer zu spät :D'
+n1ce0n3:
+  viewers: 98
+  status: HoTS
+dotod:
+  viewers: 66
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Monday! Founder Pack Giveaway
+    TODAY+NA Beta Keys :D
+warlegend:
+  viewers: 61
+  status: '[FR] Yamakhalah Plays !'
+detrox86:
+  viewers: 58
+  status: '[GER] Giveaway Beta Key'
+slita:
+  viewers: 56
+  status: 30+ Beta Keys Come n Get Em~ Sylvanas Main~Slita~Full Time Streamer
+holyonline:
+  viewers: 45
+  status: '[BR] Rank 1 - VOLTEI! o/ Sylvanas Hype'
+gohots:
+  viewers: 44
+  status: '[RU] 2KXAOC в ХотСе и Варике!'
+rastablastalol:
+  viewers: 43
+  status: Viewergames/GIVEAWAY 9 HoTS Beta Keys !
+death2blade:
+  viewers: 39
+  status: '[GER|PC] Derpy Derp | Derp Derp'
+gimloo:
+  viewers: 34
+  status: 'SWE/ENG AUTO DJ KEBABPIZZA STREAM WITH UNDERWEAR ON MY HEAD LATER ON CUZ
+    http://www.twitch.tv/bankalicious @Bankalicious :) HYPE!!!!!!!! '
+thewilq:
+  viewers: 28
+  status: 'RANK#1 - Rozdajemy klucze! #TEAMOWE RANKEDY BOYZ!'
+foerest:
+  viewers: 27
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+mrjpickles:
+  viewers: 25
+  status: '[#133] MrJPickles try hard day! Working on EU first then NA. EU Keys to
+    giveaway'
+rhoxylol:
+  viewers: 24
+  status: Rhoxy meets heroes :)
+shtyr:
+  viewers: 21
+  status: Shtyr. Ranked Rank1
+-------------------------
+

@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-30T23:00:02-07:00
+
+Number of channels: 179
+
+Total viewers: 5903
+
+Total Viewers for top 25 streams:
+5615
+
+Viewer counts:
+[2151, 907, 833, 522, 245, 210, 115, 88, 88, 77, 74, 45, 38, 33, 26, 23, 21, 18, 16, 16, 15, 14, 14, 13, 13]
+
+---
+shaboozey:
+  viewers: 2151
+  status: Heroes of the Salt - Low Expectations Returns!
+chu8:
+  viewers: 907
+  status: '[NA] Rank 1 Murky Stream'
+boogie2988:
+  viewers: 833
+  status: More Heroes of the STORM with mods/subs/fans :)
+gosuzuna:
+  viewers: 522
+  status: C9 Zuna Playing Not sick anymore time for some commentary later? :D
+yuuie:
+  viewers: 245
+  status: ❤EU Game Key Giveaways! After Every Game
+xelayirl:
+  viewers: 210
+  status: ^^RANK 1^^ XELAY^^  21GOLD hero^^ FEEL FREE ASK ANY HOTS QUESTION :)
+liquidneo:
+  viewers: 115
+  status: ◄R1 LiquiD► Got Gold? ► liquidneo.com ►
+tolyawa:
+  viewers: 88
+  status: Толяша хотсирует!
+sinvicta:
+  viewers: 88
+  status: TEAM LE AND HURZZZ OF DA STERMM
+dunktrain:
+  viewers: 77
+  status: 'C9 DunkTrain | Chill Stream | #CHOO #CHOO '
+coldfashiond:
+  viewers: 74
+  status: '[NA] Tassadar - Quick Matches w/ my boi Six'
+heroesone:
+  viewers: 45
+  status: '[FR] Don''t worry be carried avec Rach'
+semiproproject:
+  viewers: 38
+  status: '#1 Onesie Stream NA - In Depth Commentary & Explanations [R1] | KilicK
+    | Day 50/∞  ヽ〳 ՞ ᗜ ՞ 〵'
+glaurungtv:
+  viewers: 33
+  status: '| Tempo Storm Glaurung! | Rank 1 | Working on mechanics | '
+realgaba:
+  viewers: 26
+  status: 24H Deutscher Livestream! HoTs Keys Giveaway + Secret Giveaway
+vuducasta79:
+  viewers: 23
+  status: Just having fun
+mcintyrelol:
+  viewers: 21
+  status: 'Sub Hype coL_McIntyre [MLG Titan 2 Winner]- AMA '
+witness1129:
+  viewers: 18
+  status: 【Chakey】Team Fantasy KR Server Rank1!!!
+panntos:
+  viewers: 16
+  status: GER Pantos Heldenliga Rank#1
+nerdacide:
+  viewers: 16
+  status: '#TeamJustice - $20 Battle.net Giftcard at 500 Followers! [Aussie, so I
+    swear a lot.]'
+rara0626:
+  viewers: 15
+  status: 暴雪中
+nwgamesbrasil:
+  viewers: 14
+  status: '[PT-BR] - Genka -MADRUGA DE RAGE!'
+ksk_smooverrella:
+  viewers: 14
+  status: HotS /w Smoo | Hier Text eingeben...
+anothernotch:
+  viewers: 13
+  status: come say hi to the friendliest streamer ever!!!
+crucian24:
+  viewers: 13
+  status: 'HEROES STORM RK! Heroes Beta Key & $20 Bnet Cash Giveaways! #tune in #follow
+    powered by ORIGIN PC!'
+-------------------------
+

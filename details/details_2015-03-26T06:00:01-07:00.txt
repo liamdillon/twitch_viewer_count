@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-26T06:00:01-07:00
+
+Number of channels: 139
+
+Total viewers: 3243
+
+Total Viewers for top 25 streams:
+3121
+
+Viewer counts:
+[1152, 349, 284, 217, 190, 203, 124, 112, 107, 53, 37, 33, 32, 31, 28, 28, 27, 18, 18, 16, 15, 13, 12, 12, 10]
+
+---
+liquidneo:
+  viewers: 1152
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+pamcakes:
+  viewers: 349
+  status: Pam ♥ // Climbing Hero League!
+guardsmanbob:
+  viewers: 284
+  status: Rank1! - Guardsman Bob!
+godspd:
+  viewers: 217
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+h2p_gucio:
+  viewers: 190
+  status: ALTERNATE Gucio Carry/offsupp
+heroesone:
+  viewers: 203
+  status: '[FR] SiC and Destroy avec SiC'
+tinsi_:
+  viewers: 124
+  status: Viewergames <3 1 Key giveaway between 2 and 3 p.m. (MEZ/CET)
+zomgitshwoarang:
+  viewers: 112
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+player2player:
+  viewers: 107
+  status: '[PT-BR] Caricaz no ~Hérois do Toró~ | Maratona P2P [ 10R$ | Novo SUB =
+    1 HR ]'
+sleepless_tv:
+  viewers: 53
+  status: '[RU] RANK#1! СИЛЬВАНА! Часть вторая - Ранкед!'
+rhoxylol:
+  viewers: 37
+  status: Rhoxy meets...hoffentlich mal die neue map.^^
+lhiratv:
+  viewers: 33
+  status: '[GIVEAWAY BETA KEYS EU HOTS] - [FR] Viewers City 10 Follows = 1 Clé BETA
+    EU ! '
+pypgamers:
+  viewers: 32
+  status: '[ESP] Ranked y partidas normales con @bulgangP'
+officialxpurx:
+  viewers: 31
+  status: '[Giveaway 100Followers !  ][Qc/Fr]Officialxpurx Vien jouer avec moi #HOTS  !songrequest  Road
+    To Tychus 10 ! Master Skin '
+nexaa:
+  viewers: 28
+  status: QM and Hero League
+sashkadestroyer:
+  viewers: 28
+  status: '[Ru/Eng] Sashka rank1, 4k mmr. ANY questions-welcome'
+manakeo:
+  viewers: 27
+  status: ✩ITA | PamPam✩Bug Time si va di Coop e Rapide✩
+aureanatv:
+  viewers: 18
+  status: '[FR] Aureana ♥ Grignotage !!!'
+laira918:
+  viewers: 18
+  status: 蕾菈日常 之 希瓦娜絲終於來啦~~
+sp5430:
+  viewers: 16
+  status: 【鱔魚】訓練班!!.開放觀眾及新人互動加入遊戲 並指導進步成長
+jowetv:
+  viewers: 15
+  status: 【EU R.1】 Gamers2 Jowe - hero league [EN/PL]
+weplayhots:
+  viewers: 13
+  status: Хиролига. Розыгрыш 4 ключей на стриме
+pinkping:
+  viewers: 12
+  status: A'Pingლ(́◉◞౪◟◉ლ)《暴雪英霸》第一屆 霸王盃（冠亞賽）
+qlesau:
+  viewers: 12
+  status: '[Ger] nach 3 wöchiger Pause wieder rein finden!!'
+ggamersprotv:
+  viewers: 10
+  status: ROAD TO 50 RANK + ключики к HotS
+-------------------------
+

@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-30T02:00:02-07:00
+
+Number of channels: 124
+
+Total viewers: 3611
+
+Total Viewers for top 25 streams:
+3382
+
+Viewer counts:
+[1773, 321, 288, 159, 99, 98, 76, 58, 77, 72, 55, 55, 31, 30, 29, 25, 21, 19, 16, 14, 14, 17, 13, 11, 11]
+
+---
+chu8:
+  viewers: 1773
+  status: '[NA] Rank 1 Kimchi Stream'
+gratis150ml:
+  viewers: 321
+  status: ༼ つ ◕_◕ ༽つ MAMBO༼ つ ◕_◕ ༽つ
+yuuie:
+  viewers: 288
+  status: ❤EU Game Key Giveaways! After Every Game
+anthonyacc:
+  viewers: 159
+  status: Leveling Sylvanas, and others :) 25 KEYS TO GIVE AWAY! (NA)
+fenixchaos:
+  viewers: 99
+  status: '[NA] Fenixchaos Giveway at 100 follower!'
+glaurungtv:
+  viewers: 98
+  status: '| Tempo Storm Glaurung! | Rank 1 | Working on mechanics | '
+heroesone:
+  viewers: 76
+  status: '[FR] La Meta-lique avec Manta !'
+ulqi:
+  viewers: 58
+  status: Дорога к 50 рангу
+semiproproject:
+  viewers: 77
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 49/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง (Short Sunday Stream) '
+tolyawa:
+  viewers: 72
+  status: DOBROTA GAMING
+yourchinafan:
+  viewers: 55
+  status: road to rank 1
+seoulja_:
+  viewers: 55
+  status: 'coL.TigerJK Rank1 harrroLeague '
+chocapicc:
+  viewers: 31
+  status: '[PL] Daily!'
+keko1102:
+  viewers: 30
+  status: '[GER] 8 Beta Key''s EU Verlosung!  !Verlosung für infos'
+androidp:
+  viewers: 29
+  status: '[ASH] AndyLendi - Rank 1'
+lastwolfplay:
+  viewers: 25
+  status: '[30/03] La matinale sur Heroes (bonus xp dudes !), Diablo a posé son lundi
+    =)'
+pypgamers:
+  viewers: 21
+  status: '[ESP] Rankeds y partidas normales con @BulgangP'
+botlikex:
+  viewers: 19
+  status: '[GER|720p|PC] #Heroes #of #the #storm #viewergames - DREAM-STREAM.EU'
+lostragh:
+  viewers: 16
+  status: '[FR] 4 CLEF BETA EU Heroes à gagner  - Ranked avec Lostragh&Paulo'
+gravesheros:
+  viewers: 14
+  status: Graves Rank1 Hero League Master.3
+bigmyself:
+  viewers: 14
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+sonderx:
+  viewers: 17
+  status: rapidas con todo :D
+zealot711:
+  viewers: 13
+  status: Stuff - Streaming every day
+rezolventa:
+  viewers: 11
+  status: '[RU] R1 | Solo | Ключи | Комментарии и анализ | Пейте витаминки'
+mexyh:
+  viewers: 11
+  status: '[FR] R1 yoloq. 500 followers \o/ Merci :'')'
+-------------------------
+

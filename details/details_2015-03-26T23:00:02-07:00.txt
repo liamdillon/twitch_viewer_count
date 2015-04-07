@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-26T23:00:02-07:00
+
+Number of channels: 203
+
+Total viewers: 1853
+
+Total Viewers for top 25 streams:
+1574
+
+Viewer counts:
+[544, 214, 204, 98, 63, 53, 49, 40, 29, 28, 27, 26, 26, 24, 21, 19, 18, 17, 16, 12, 12, 9, 9, 8, 8]
+
+---
+ryuzilla:
+  viewers: 544
+  status: 5 Stack Ranked
+solidjakegg:
+  viewers: 214
+  status: SolidJake [60FPS] Taking hero / build requests!
+semiproproject:
+  viewers: 204
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 46/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+coldfashiond:
+  viewers: 98
+  status: '[US] Tassadar Quick Matches'
+tolyawa:
+  viewers: 63
+  status: TOP777 VIKINGS EU
+pms_unforgiven:
+  viewers: 53
+  status: Key Give Away! Thirsty Thursday. LEGGO!
+itsmikuru:
+  viewers: 49
+  status: 
+anothernotch:
+  viewers: 40
+  status: 'Assemble Notchypoos!!! Keys to giveaway!!! '
+mcintyrelol:
+  viewers: 29
+  status: 'Duo Queue [MLG Titan 2 Winner]- AMA '
+williedillssf:
+  viewers: 28
+  status: Post-raid Heroes
+eghtv:
+  viewers: 27
+  status: Elite Gaming House Streaming 24/7- Heroes of the Storm con Pao!
+heroesone:
+  viewers: 26
+  status: '[FR] La Meta-list avec Manta !'
+ashmunsterr:
+  viewers: 26
+  status: Brightwing Quickmatch
+erhotv:
+  viewers: 24
+  status: coL.Erho; GO BIG OR GO HOME
+strandedorange:
+  viewers: 21
+  status: Я болею, мне получше. (Russian/English)
+rosath:
+  viewers: 19
+  status: '[Day 13] click me click me click me! Am I entertaining enough? No? Ugh.'
+balthazarvon:
+  viewers: 18
+  status: ¡Jugando con los amiguitos! (se sortea beta a los 30 viewers)
+johanjazz:
+  viewers: 17
+  status: '[1 rank] ヽ(・∀・)ﾉ  Утренний стримец под музычку '
+ggmarche:
+  viewers: 16
+  status: ♠ NA | Marche ♠ ^^ Viewer games~  (Tent Stream? <3)
+ashlen_rose:
+  viewers: 12
+  status: '<(^_^<) Heroes of the Storm: Master Zagara skin incoming!!! (>^_^)> '
+cj1772101:
+  viewers: 12
+  status: 'Fantasy紅霞 [rank1] : 沉默deBuff ~ 9999s'
+evac:
+  viewers: 9
+  status: Climbing ranks in Hero League - Day 32/365
+zombifiedhots:
+  viewers: 9
+  status: HOTS, TALK & BETA KEYS | Daily 12hr Stream | Day 9 | BETA Key Giveaway every
+    20 followers)
+misstressxo:
+  viewers: 8
+  status: HotS Beta Key Giveaway (on Friday)
+woodbangers:
+  viewers: 8
+  status: WoodBangers TV LIVE - gonna do some gaming with friends
+-------------------------
+

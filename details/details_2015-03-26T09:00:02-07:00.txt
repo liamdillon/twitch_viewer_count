@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-26T09:00:02-07:00
+
+Number of channels: 243
+
+Total viewers: 4770
+
+Total Viewers for top 25 streams:
+4267
+
+Viewer counts:
+[1178, 722, 393, 317, 263, 209, 207, 204, 125, 100, 76, 72, 66, 53, 39, 34, 32, 30, 26, 25, 21, 20, 20, 18, 17]
+
+---
+liquidneo:
+  viewers: 1178
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+guardsmanbob:
+  viewers: 722
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 393
+  status: 【RUS】 KEY GIVEAWAY, 1st RANK, отвечаю на Ваши вопросы между играми.
+pamcakes:
+  viewers: 317
+  status: Pam ♥ // Climbing Hero League!
+zp_tv:
+  viewers: 263
+  status: Rank 1 - 60 FPS! - ZPs - MORNING ADVENTURE RETURNS!
+zomgitshwoarang:
+  viewers: 209
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+heroesone:
+  viewers: 207
+  status: '[FR] La Meta-Bug avec Manta !'
+ethieenn:
+  viewers: 204
+  status: Ethieen | Heroes of the Storm
+sobadrush:
+  viewers: 125
+  status: 2015/3/26 暴雪英霸團隊聯賽！
+player2player:
+  viewers: 100
+  status: '[PT-BR] Caricaz no ~Hérois do Toró~ | Maratona P2P [ 10R$ | Novo SUB =
+    1 HR ]'
+no1zyboy:
+  viewers: 76
+  status: Тру Нова
+in4game:
+  viewers: 72
+  status: Раздача Ключей и Лига Героев. Ранг 4 -> 1
+heroeswartv:
+  viewers: 66
+  status: '[ESP] iamKujah Stream | Sorteamos Betas EU!'
+sashkadestroyer:
+  viewers: 53
+  status: '[Ru/Eng] Sashka rank1, 4k mmr. ANY questions-welcome'
+dotod:
+  viewers: 39
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+gonkixjeh:
+  viewers: 34
+  status: '[CZ/SK] Gonki - Syčáci připraveni!'
+sleepless_tv:
+  viewers: 32
+  status: '[RU] RANK#1! СИЛЬВАНА! Часть вторая - Ранкед!'
+m989876525:
+  viewers: 30
+  status: 'Eason - leave the team HKA '
+ufrog:
+  viewers: 26
+  status: '[FR/Farhah] Ranked HoTs Rank #14'
+excelenteeleccion:
+  viewers: 25
+  status: ◉ ExcelenteEleccion
+nexaa:
+  viewers: 21
+  status: Rank 17 Hero League
+thekonus:
+  viewers: 20
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+aureanatv:
+  viewers: 20
+  status: '[FR] Aureana ♥ Grignotage !!!'
+snake2356:
+  viewers: 18
+  status: 1 KEY AFTER EVERY GAME! HOTS KEYS GIVEAWAY! Playing with viewers! [BG/ENG]
+xibe5238:
+  viewers: 17
+  status: '[Fr/Be] Sylvanas s''exhibe - Rank 1'
+-------------------------
+

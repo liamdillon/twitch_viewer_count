@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-31T00:00:02-07:00
+
+Number of channels: 164
+
+Total viewers: 5102
+
+Total Viewers for top 25 streams:
+4893
+
+Viewer counts:
+[2347, 1092, 344, 236, 224, 106, 77, 69, 66, 58, 55, 51, 32, 26, 17, 14, 12, 10, 10, 9, 8, 8, 8, 7, 7]
+
+---
+shaboozey:
+  viewers: 2347
+  status: Heroes of the Salt - Low Expectations Returns!
+chu8:
+  viewers: 1092
+  status: 1 Murky, 1 stream - Rank 1
+liquidneo:
+  viewers: 344
+  status: ◄R1 LiquiD► Got Gold? ► liquidneo.com ►
+yuuie:
+  viewers: 236
+  status: ❤EU Game Key Giveaways! After Every Game
+xelayirl:
+  viewers: 224
+  status: ^^RANK 1^^ XELAY^^  21GOLD hero^^ FEEL FREE ASK ANY HOTS QUESTION :)
+sinvicta:
+  viewers: 106
+  status: TEAM LE AND HURZZZ OF DA STERMM
+coldfashiond:
+  viewers: 77
+  status: '[NA] Tassadar - Quick Matches w/ my boi Six'
+maihopawango:
+  viewers: 69
+  status: '[720p | 60 fps | GER] Heroes of the Storm - Beta Key GIEFAWAY IHR LÜMMEL
+    !!!!!! Kappa'
+tolyawa:
+  viewers: 66
+  status: DOBROTA GAMING
+glaurungtv:
+  viewers: 58
+  status: '| Tempo Storm Glaurung! | Rank 1 | Working on mechanics | '
+heroesone:
+  viewers: 55
+  status: '[FR] Don''t worry be carried avec Rach'
+semiproproject:
+  viewers: 51
+  status: '#1 Onesie Stream NA - In Depth Commentary & Explanations [R1] | KilicK
+    | Day 50/∞  ヽ〳 ՞ ᗜ ՞ 〵'
+annaprosser:
+  viewers: 32
+  status: DIE BANTERSTREAM UND ZIE EYE TRACKER
+mcintyrelol:
+  viewers: 26
+  status: 'Sub Hype coL_McIntyre [MLG Titan 2 Winner]- AMA '
+witness1129:
+  viewers: 17
+  status: 【Chakey】Team Fantasy KR Server Rank1!!!
+ksk_smooverrella:
+  viewers: 14
+  status: HotS /w Smoo | Hier Text eingeben...
+mrmojojojo20:
+  viewers: 12
+  status: Worlds BEST STREAMER MRMOJO
+androidp:
+  viewers: 10
+  status: '[ASH] AndyLendi - Rank 1'
+rabbit0821:
+  viewers: 10
+  status: 雪兔的下午實況ლ(╹◡╹ლ)3/31『暴雪英霸 Heroes of the Storm』聊天、亂玩、愛珍娜(?    我想要金框珍娜頭像啦!!
+nwgamesbrasil:
+  viewers: 9
+  status: '[PT-BR] - Genkaku -MADRUGA DE RAGE! [Song Request ON]'
+skeitty:
+  viewers: 8
+  status: Keitty is BACK | GROSSE NOOB!
+vio7_2:
+  viewers: 8
+  status: Valla main! 4th day in this game :D  GIVEAWAY AT 850 FOLLOWERS (current
+    766)
+thestytch:
+  viewers: 8
+  status: Having an off night? Come hang out, chat  and listen to music!
+nerzar_:
+  viewers: 7
+  status: '[RU]Heroes of the Storm боль и унижение'
+missbunnygaming:
+  viewers: 7
+  status: 'Team League: Heroes of the Storm'
+-------------------------
+

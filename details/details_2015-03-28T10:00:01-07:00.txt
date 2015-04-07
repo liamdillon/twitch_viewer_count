@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-28T10:00:01-07:00
+
+Number of channels: 299
+
+Total viewers: 4590
+
+Total Viewers for top 25 streams:
+3950
+
+Viewer counts:
+[1344, 645, 462, 294, 233, 150, 85, 93, 96, 71, 67, 61, 53, 49, 28, 30, 25, 22, 24, 23, 23, 18, 19, 17, 18]
+
+---
+guardsmanbob:
+  viewers: 1344
+  status: Rank1! - Guardsman Bob!
+mkrr3:
+  viewers: 645
+  status: Heroes of the Storm || Archiwum LIVE - http://bit.ly/1vWjKb2
+tavernofheroes:
+  viewers: 462
+  status: Team Liquid vs Team Fancy @ ZOTAC by HappyZerG
+zomgitshwoarang:
+  viewers: 294
+  status: '[GER] Beta Key Giveaway!!'
+heroeswartv:
+  viewers: 233
+  status: '[ESP] ZotacCup Mensual'
+heroesone:
+  viewers: 150
+  status: '[FR] SiC and Destroy avec SIC'
+mmorpgskisaker:
+  viewers: 85
+  status: Heroes. SERIOUS TALK SATURDAY
+player2player:
+  viewers: 93
+  status: '[PT-BR] Caricaz jogando com os subs e viewers o HOTS! | Maratona P2P [
+    10R$ | Novo SUB = 1 HR ]'
+burninggirl:
+  viewers: 96
+  status: '[RU/ENG] Yard.Gela - Team league. '
+dotod:
+  viewers: 71
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Saturday Strumarino, Beta
+    Keys/Founders Pack Today!
+fletcheriii:
+  viewers: 67
+  status: Раздача ключей
+sleepless_tv:
+  viewers: 61
+  status: ZOTAC HotS FINALS (раздача EU-beta ключей между играми)
+weplayhots:
+  viewers: 53
+  status: Liquid vs Fancy ZOTAC Финалы месяца
+sonderx:
+  viewers: 49
+  status: Primer Torneo HISO Previo
+shtyr:
+  viewers: 28
+  status: Shtyr.Ranked. Отдаю ключи в чате! Стоит только попросить!
+ufrog:
+  viewers: 30
+  status: '[FR] Farhah en ranked + CLES BETAS A GAGNER !'
+keko1102:
+  viewers: 25
+  status: '[GER] 8 Beta Key''s EU Verlosung!  !Verlosung für infos'
+slita:
+  viewers: 22
+  status: Best Sylvanas EVER MUWAHAHA~Slita~Full Time Streamer
+missmoep:
+  viewers: 24
+  status: '[GER] HOTS BETA GIVEAWAY @ 100 Follower'
+hyperiatv1:
+  viewers: 23
+  status: '[FR] Zelo Reprise Sc2 / HoS / LoL @giveaway 200 viewer'
+witness1129:
+  viewers: 23
+  status: 【Chakey】Team Fantasy KR Server Rank1!!! 衝團隊積分!!
+reodora:
+  viewers: 18
+  status: Going for Hero League; +keys giveaway
+calmlight:
+  viewers: 19
+  status: (GER/ENG)CalmLight - Viewergames and Ranked's ^_^! [Some LoL, Hots, Osu]
+wookieemario:
+  viewers: 17
+  status: 16 EU Keys Huge Giveaway Day A lot of Keys and games!
+devilhs:
+  viewers: 18
+  status: Тяжкий Ранкед и игры со зрителями
+-------------------------
+

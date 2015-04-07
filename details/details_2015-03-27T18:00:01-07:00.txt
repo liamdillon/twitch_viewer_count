@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-27T18:00:01-07:00
+
+Number of channels: 272
+
+Total viewers: 6012
+
+Total Viewers for top 25 streams:
+5423
+
+Viewer counts:
+[1639, 1469, 420, 222, 202, 193, 180, 150, 106, 105, 92, 87, 82, 74, 62, 49, 43, 40, 39, 31, 30, 30, 27, 26, 25]
+
+---
+followgrubby:
+  viewers: 1639
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+esl_heroes:
+  viewers: 1469
+  status: ESL Playoffs Season 1 | Day 1
+arkamn:
+  viewers: 420
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+oganoss:
+  viewers: 222
+  status: 'Anoss - FR -  Interstellar Big Respect papy !!!  #COMMENT??'
+chu8:
+  viewers: 202
+  status: '[NA] Rank 1 Fun Games'
+xelayirl:
+  viewers: 193
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+hots_mcmuffin:
+  viewers: 180
+  status: 'McMuffin: LIVE FROM ULTRA'
+cotomotirix:
+  viewers: 150
+  status: '#HeroesFriday Betas locas! http://goo.gl/I0hE7w'
+coldfashiond:
+  viewers: 106
+  status: '[NA] quick matches & hero league - tassadar'
+happyzerg:
+  viewers: 105
+  status: Ночная лига
+heroesone:
+  viewers: 92
+  status: '[FR] La Meta-YMCA avec Manta !'
+sinvicta:
+  viewers: 87
+  status: FORCASTING LIVE!
+inetkoxtv:
+  viewers: 82
+  status: KOXY TO HEROSI
+grudge_gaming:
+  viewers: 74
+  status: Giving away Razer Nabu X on stream tonight -- Make sure you're following
+    the channel for a chance to win !!
+beholdertv:
+  viewers: 62
+  status: '[BR] Beholder Of Eternity HADOUKEN ༼つಠ益ಠ༽つ ─=≡ΣO))'
+dotod:
+  viewers: 49
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+auzyris:
+  viewers: 43
+  status: '[FR] Auzyris ou l''initiation à HOTS - Être patient tu dois...'
+eghtv:
+  viewers: 40
+  status: Elite Gaming House Streaming 24/7- Heroes of the Storm con Pao!
+eslatv:
+  viewers: 39
+  status: '[ESP-LAT] #TripleL League Of Legends Jornada 1: White Dranzerz vs Killers
+    In Action'
+cayennethefirst:
+  viewers: 31
+  status: BR- Sorteios! - Pub do Cayenne
+kattari:
+  viewers: 30
+  status: GER/ENG Wer will mitspielen? :*
+darkoztv:
+  viewers: 30
+  status: '[ES] #HeroesFriday - Sorteo/Giveaway de Keys: http://goo.gl/DCe4mM'
+pastandoenmulgore:
+  viewers: 27
+  status: '#HeroesFriday con codigos y mucha Sylvanas.'
+momentofvalor:
+  viewers: 26
+  status: $100 SHOWMATCH - FRIDAY NIGHT FIGHTS - Goat Gaming Vs. LZ Crew Game 2
+hellequinm:
+  viewers: 25
+  status: '#HeroesFriday - Agora tem key - Vlw JSchritte e Nikolas'
+-------------------------
+

@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-28T02:00:02-07:00
+
+Number of channels: 134
+
+Total viewers: 2360
+
+Total Viewers for top 25 streams:
+2181
+
+Viewer counts:
+[754, 462, 225, 107, 96, 66, 64, 48, 48, 45, 37, 34, 26, 21, 19, 18, 17, 15, 15, 14, 11, 11, 10, 9, 9]
+
+---
+thatsadmirable:
+  viewers: 754
+  status: I personally can't wait for the 'Presidential Campaigns' section of Twitch.
+semiproproject:
+  viewers: 462
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 47/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+trikslyr:
+  viewers: 225
+  status: Minesweeper Pro spends time playing Heroes
+wolfeater_il:
+  viewers: 107
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+temp0_sc:
+  viewers: 96
+  status: Temp0 - Homies of the Stuuurm!
+tirent000:
+  viewers: 66
+  status: Watch me I am really bad  HOTS Tirent000 {Deviation Gaming}
+ulqi:
+  viewers: 64
+  status: Качаем US аккаунт! Раздаем Ключи!
+godspd:
+  viewers: 48
+  status: Сильвана Тайм - https://youtu.be/vPfF17-0Z28
+fr4gshout:
+  viewers: 48
+  status: 24 hours Up all Night!! Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+johanjazz:
+  viewers: 45
+  status: '[1 rank] ヽ(・∀・)ﾉ  Бест цыган еу \о'
+angellatv:
+  viewers: 37
+  status: '[EN/PL] Przeprowadzka, JaRock- Drużynka i testowanie Sylvany.'
+androidp:
+  viewers: 34
+  status: AndyLendi Артасы
+gga893879:
+  viewers: 26
+  status: GoDDog  rank1  快速中    晚點爬RANK
+nickkcouvv:
+  viewers: 21
+  status: '24 Hour Stream| DayZ GiveAway | 1 Year celebration | '
+sp5430:
+  viewers: 19
+  status: 【鱔魚】大感冒中...爬RK因該會好比較快!!
+malheven:
+  viewers: 18
+  status: '[ESP]Malheven - LeagueTime (Rank1) - Sylvani di la tormenti'
+nexaa:
+  viewers: 17
+  status: Rank 10 Hero League | sick no cam soz :(
+trindashe:
+  viewers: 15
+  status: '[GER] #Rank1 #Viewergames #Schattenwölfe sucht neue Member'
+lostragh:
+  viewers: 15
+  status: '[FR]  8 CLEF BETA EU Heroes à gagner - Ranked rang 7&8 avec Lostragh&Paulo'
+greentea_1013:
+  viewers: 14
+  status: '[GreenTea] - 3/28　這波不鬧。'
+demonsaber:
+  viewers: 11
+  status: 绯姬場的十點半─順我者勝，逆我者亡。
+eghtv:
+  viewers: 11
+  status: 'Elite Gaming House Streaming 24/7- Pao ! '
+zombifiedhots:
+  viewers: 10
+  status: HOTS, TALK & BETA KEYS | Daily 12hr Stream | Day 10 | BETA Key Giveaway
+    every 10 followers
+zsjh9100:
+  viewers: 9
+  status: ᴥ 姐姐玩英霸ᴥ  晚上都會轉圈 F5解決吧ˊˋ
+defebwar:
+  viewers: 9
+  status: '[NA] Beta Key Giveaways!! Rumble In The Nexus [Heroes Of The Storm (NA)]'
+-------------------------
+

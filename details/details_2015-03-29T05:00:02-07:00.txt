@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-29T05:00:02-07:00
+
+Number of channels: 212
+
+Total viewers: 3685
+
+Total Viewers for top 25 streams:
+3332
+
+Viewer counts:
+[1713, 369, 189, 154, 145, 109, 73, 63, 51, 45, 45, 43, 40, 37, 35, 30, 26, 25, 25, 25, 22, 18, 20, 18, 12]
+
+---
+chu8:
+  viewers: 1713
+  status: '[NA] Rank 1 Murky Challenge'
+trikslyr:
+  viewers: 369
+  status: Rank 1 Hero League. Builds at the bottom of the page now.
+ihosty:
+  viewers: 189
+  status: Hosty -Rank 1 NA HOTS  - | Sylvanas HYPE |  |  9/9 Golden Classes | 23x
+    Legend |  Blackrock hype soon Kreygasm
+heroesone:
+  viewers: 154
+  status: '[FR] Le Nexus d''Arthania'
+tolyawa:
+  viewers: 145
+  status: DOBROTA GAMING
+player2player:
+  viewers: 109
+  status: '[PT-BR] Heróis do Toró com o Caricaz! | Maratona P2P [ 10R$ | Novo SUB
+    = 1 HR ]'
+lotusthedream:
+  viewers: 73
+  status: ESC LotuS Playing some Solo Que
+dragomangreektitans:
+  viewers: 63
+  status: 29/3/15 HOTS+ASSETTO CORSA+DAYZ
+sashkadestroyer:
+  viewers: 51
+  status: '[Ru/Eng] Sashka rank1, 4k mmr. ANY questions-welcome'
+leonidish:
+  viewers: 45
+  status: <Leonid>  Cтримчик для души. 3 Rank
+nexaa:
+  viewers: 45
+  status: '!giveaway | Hero League'
+still_sleepy:
+  viewers: 43
+  status: 'SleepAllday DAY14 說輸整天真的輸整天 '
+foerest:
+  viewers: 40
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+stormcasters:
+  viewers: 37
+  status: '[FR] Marley Rank 1 # DuoQ  feat Rou :)'
+sillensa:
+  viewers: 35
+  status: Come hang out with me and watch me fail ツ
+mangacatchy:
+  viewers: 30
+  status: ✿◕ ‿ ◕✿März Giveaway- letzte Chance✿◕ ‿ ◕✿
+gonkixjeh:
+  viewers: 26
+  status: '[CZ/SK] Gonki - S Olíkem + giveaway! :)'
+iamkado:
+  viewers: 25
+  status: 'Team Yard VS Gamers2 || Enter the Storm CUP: Qualifier #3 [PT-BR] Bracket:
+    http://bit.ly/1BDweBp'
+catberry:
+  viewers: 25
+  status: '[GER] Gemütlich in den Sonntag - Guten Morgen :3 - Hab nochmal 1 Keys zum
+    vergeben'
+theaucypoon:
+  viewers: 25
+  status: Big plays, good company. Some HotS later on (Day 75/120)
+play4miriam:
+  viewers: 22
+  status: '[Ger] Mitspieler gesucht!'
+all_in_gamez:
+  viewers: 18
+  status: CZ/SK-HOTS+giveaway
+smaragdwache:
+  viewers: 20
+  status: (GER) ❤ Let's Chill - Heroes of the Storm & The Room ❤ || www.Just-Gaming.eu
+keko1102:
+  viewers: 18
+  status: '[GER] Carry Action | 8 Beta Key''s EU Verlosung!  !Verlosung für infos'
+ogamingtv:
+  viewers: 12
+  status: '[FR] REDIFFUSIONS de la semaine'
+-------------------------
+

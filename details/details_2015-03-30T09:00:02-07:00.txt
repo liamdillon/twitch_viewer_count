@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-30T09:00:02-07:00
+
+Number of channels: 284
+
+Total viewers: 5936
+
+Total Viewers for top 25 streams:
+5450
+
+Viewer counts:
+[1722, 1281, 452, 446, 234, 216, 116, 112, 90, 99, 93, 83, 72, 68, 66, 60, 57, 40, 35, 33, 17, 16, 14, 14, 14]
+
+---
+pamcakes:
+  viewers: 1722
+  status: Pam // Road to Rank 1
+guardsmanbob:
+  viewers: 1281
+  status: Rank1! - Guardsman Bob!
+zp_tv:
+  viewers: 452
+  status: ZPs - Rank 1 - 1080p/60FPS! - NEW STREAM SETTINGS SO BEAUTIFUL
+yuuie:
+  viewers: 446
+  status: ❤EU Game Key Giveaways! After Every Game
+heroesone:
+  viewers: 234
+  status: '[FR] La Met-Hardcore avec Manta ! 12h~19h NON-STOP !'
+cebka_je:
+  viewers: 216
+  status: '[ASH] CEBKAJE  -  Отвечаю на вопросы. '
+wolfeater_il:
+  viewers: 116
+  status: BLA BLA BLA
+happyzerg:
+  viewers: 112
+  status: Ранг 1 с комментами под ULTRA MUSIC FESTIVAL
+arkamn:
+  viewers: 90
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+angellatv:
+  viewers: 99
+  status: '[PL/ENG] Kolejny dzień szukania osób do JaRockowej drużyny. Dzień#3'
+bolumsonucanavari:
+  viewers: 93
+  status: Durun Daha Çok Öleceğiz! - Beta Key Hediyeli ^.^
+gerdamherdtv:
+  viewers: 83
+  status: '[GER] WellMet Gerd Viewergames o.O Wie immer zu spät :D'
+snake2356:
+  viewers: 72
+  status: 1 KEY EVERY 3 GAMES! RANKED HYPE! HOTS KEYS GIVEAWAY! Playing with viewers!
+    [BG/ENG]
+dotod:
+  viewers: 68
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Monday! Founder Pack Giveaway
+    TODAY+NA Beta Keys :D
+in4game:
+  viewers: 66
+  status: Розыгрыш Ключей. Познаём Дзен и не Бомбим на идиотов в Лиге
+fureurwebtv:
+  viewers: 60
+  status: '[FR] Hos avec Biscuit : Rush lvl 30 puis ranked!'
+slita:
+  viewers: 57
+  status: 30+ NA Beta Keys Sylvanas Main~Slita~Full Time Streamer
+keko1102:
+  viewers: 40
+  status: '[GER] Heroes of the Storm carry action!'
+m4840915:
+  viewers: 35
+  status: '鮪魚是你    '
+tolyawa:
+  viewers: 33
+  status: DOBROTA GAMING
+trindashe:
+  viewers: 17
+  status: '[GER] #Rank 1#Schattenwölfe sucht neue Member #Betakeys zu verschenken'
+biopeligroso_:
+  viewers: 16
+  status: 'Español  // Sorteo de Betas!! '
+bigmyself:
+  viewers: 14
+  status: KZ-RU Игры с подписчиками! Паб и Ранг! Всем позитива))
+sp5430:
+  viewers: 14
+  status: 【鱔魚】重感冒中...開放觀眾及新人互動加入遊戲 並指導進步成長
+mexyh:
+  viewers: 14
+  status: '[FR] R1 yoloqueue. 500 followers \o/ Merci :'')'
+-------------------------
+

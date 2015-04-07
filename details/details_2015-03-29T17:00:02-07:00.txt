@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-29T17:00:02-07:00
+
+Number of channels: 263
+
+Total viewers: 5066
+
+Total Viewers for top 25 streams:
+4729
+
+Viewer counts:
+[2585, 565, 446, 358, 137, 105, 97, 54, 53, 43, 39, 38, 24, 21, 19, 18, 21, 17, 16, 16, 10, 12, 12, 12, 11]
+
+---
+followgrubby:
+  viewers: 2585
+  status: Grubby - HotStorm - Playing Ranked @ EU
+hosselote:
+  viewers: 565
+  status: 'ESL NA Go4Heroes #17 Goon Squad vs Shattered Gaming'
+arkamn:
+  viewers: 446
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+gosuzuna:
+  viewers: 358
+  status: C9 Zuna Playing go4heroes with friends 3 min delay
+heroesone:
+  viewers: 137
+  status: '[FR] La Meta-lique avec Manta !'
+trikslyr:
+  viewers: 105
+  status: Rank 1 Hero League. Viewer Games today!
+gerdamherdtv:
+  viewers: 97
+  status: '[GER] WellMet Gerd MLG Plays'
+eghtv:
+  viewers: 54
+  status: 'Elite Gaming House Streaming 24/7- CON PAO '
+therealhorsemaster:
+  viewers: 53
+  status: Gazlowe plays!
+dotod:
+  viewers: 43
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Chill Sunday Streem :D NA Beta
+    Keys!
+rhoxylol:
+  viewers: 39
+  status: Rhoxy meets heroes :)
+xibe5238:
+  viewers: 38
+  status: '[Fr/Be] Xibe - Rank 1 solo - Ligue par équipe'
+warlegend:
+  viewers: 24
+  status: '[FR] Filtys sur Heroes of the Storm'
+rosath:
+  viewers: 21
+  status: '[Day 15] *insert catchy sentence to get attention here*'
+gimloo:
+  viewers: 19
+  status: SWE/ENG AUTO DJ PLZ STOP BY EITHER ON STREAM OR IN REAL LIFE YOU ARE WELCOME
+    :):) HYPE!!!!!!!
+foerest:
+  viewers: 18
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+demonsaber:
+  viewers: 21
+  status: 绯姬場的十點半─順我者勝，逆我者亡。
+nasbotini:
+  viewers: 17
+  status: '[GER] Rank 1 - 1000+ Support Games - TrioQ'
+vawnievoulphie:
+  viewers: 16
+  status: 龴◕ɷ◕龴 QUESTING
+russky00:
+  viewers: 16
+  status: Heroes of The Storm With Yomar
+sinn_tv:
+  viewers: 10
+  status: Sinnahti | This Is Just Like WoW Right? =\ | <333
+legitladygamers:
+  viewers: 12
+  status: Shenanigan Sunday w/ Mel and Jay
+smaczne:
+  viewers: 12
+  status: Rozdajemy kluczyki o 01:30  • Smaczne granie
+mikurae:
+  viewers: 12
+  status: '[FR/BE] Un petit Hos pour se détendre :) - 10/04 marathon stream'
+katharinafallaway:
+  viewers: 11
+  status: '[BR/ENG] Kath  Rumo a 1K'
+-------------------------
+

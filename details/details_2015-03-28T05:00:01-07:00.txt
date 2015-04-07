@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-28T05:00:01-07:00
+
+Number of channels: 180
+
+Total viewers: 2336
+
+Total Viewers for top 25 streams:
+2071
+
+Viewer counts:
+[739, 182, 139, 143, 122, 111, 110, 103, 70, 51, 35, 32, 28, 27, 24, 23, 23, 22, 21, 14, 14, 12, 11, 8, 7]
+
+---
+semiproproject:
+  viewers: 739
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 47/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+ggmarche:
+  viewers: 182
+  status: ♠ NA | Marche ♠ Y'all know what it is. Who it is. And what it do.
+heroesone:
+  viewers: 139
+  status: '[FR] Let''s enjoy the brunch avec Exo'
+godspd:
+  viewers: 143
+  status: БраЗзеРс
+leofromkorea:
+  viewers: 122
+  status: '[ENG/PL] GAMERS2 Leofromkorea Support Rank1'
+wolfeater_il:
+  viewers: 111
+  status: WARNING PRIVATE STREAM DO NOT ENTER!!!
+gerdamherdtv:
+  viewers: 110
+  status: '[GER] WellMet Gerd & Cris Morgenhype'
+no1zyboy:
+  viewers: 103
+  status: Wild, sweet and cool
+tirent000:
+  viewers: 70
+  status: Watch me I am really bad  HOTS Tirent000 {Deviation Gaming}
+tybek:
+  viewers: 51
+  status: '[PL/ENG] TEST'
+in4game:
+  viewers: 35
+  status: '[RU PRO NAVI] Лига Героев. Ранг 30 -> 1'
+sashkadestroyer:
+  viewers: 32
+  status: '[Ru/Eng] Sashka rank1, 4k mmr. ANY questions-welcome'
+still_sleepy:
+  viewers: 28
+  status: SleepAllday DAY13 輸整天甚麼的 我才不怕呢
+raven_04:
+  viewers: 27
+  status: Panda ppl are the best :)
+bigmyself:
+  viewers: 24
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+pypgamers:
+  viewers: 23
+  status: '[ESP] partidas Normales y rankeds con @BulgangP'
+nexaa:
+  viewers: 23
+  status: Hero League | sick no cam soz :(
+jacky5ds:
+  viewers: 22
+  status: WXS 準備好為女王而戰了嗎?
+mmorpgskisaker:
+  viewers: 21
+  status: Heroes. SERIOUS TALK SATURDAY
+ladymietzbert:
+  viewers: 14
+  status: '♥ 【Lady Mietzbert 】♥ '
+wolfkrispies:
+  viewers: 14
+  status: Raynor shine
+heroestormspain:
+  viewers: 12
+  status: '[ESP] Sorteo betassss! Podeis uniros a jugar conmigo si quereis! ^^'
+zsjh9100:
+  viewers: 11
+  status: ᴥ 姐姐玩英霸ᴥ  晚上都會轉圈 F5解決吧ˊˋ
+blitzlike1:
+  viewers: 8
+  status: '[Ger] !songrequest HOTS Ranked Game´s'
+excelenteeleccion:
+  viewers: 7
+  status: ExcelenteEleccion
+-------------------------
+

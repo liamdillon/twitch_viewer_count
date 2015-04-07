@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-30T04:00:01-07:00
+
+Number of channels: 154
+
+Total viewers: 4106
+
+Total Viewers for top 25 streams:
+3811
+
+Viewer counts:
+[2063, 395, 201, 174, 156, 144, 82, 79, 72, 73, 68, 49, 36, 26, 28, 24, 23, 20, 16, 15, 12, 14, 14, 14, 13]
+
+---
+chu8:
+  viewers: 2063
+  status: '[NA] Rank 1 Kimchi Stream'
+yuuie:
+  viewers: 395
+  status: ❤EU Game Key Giveaways! After Every Game
+heroesone:
+  viewers: 201
+  status: '[FR] La Meta-rtiflette avec Manta !'
+anthonyacc:
+  viewers: 174
+  status: Leveling Sylvanas, and others :) 25 KEYS TO GIVE AWAY! (NA)
+ulqi:
+  viewers: 156
+  status: Дорога к 50 рангу
+himechar:
+  viewers: 144
+  status: (*ﾟ▽ﾟ*)☝失聲的曉玲要安靜玩莉莉了 Hi, me Char. Quiet HotS then LOL TW.
+tolyawa:
+  viewers: 82
+  status: DOBROTA GAMING
+keko1102:
+  viewers: 79
+  status: '[GER] 8 Beta Key''s EU Verlosung!  !Verlosung für infos'
+ggmarche:
+  viewers: 72
+  status: ♠ NA | Marche ♠ I got a 'HotS' date tonight boys.
+heroeswartv:
+  viewers: 73
+  status: '[ESP] Partidas mañaneras con Hankokku'
+androidp:
+  viewers: 68
+  status: '[ASH] AndyLendi - Rank 1'
+chocapicc:
+  viewers: 49
+  status: '[PL] Project Random!'
+seoulja_:
+  viewers: 36
+  status: 'coL.TigerJK Rank1 harrroLeague '
+g96k:
+  viewers: 26
+  status: '[eng/ger] LVL 1 Nub'
+pypgamers:
+  viewers: 28
+  status: '[ESP] Rankeds y partidas normales con @BulgangP'
+wiwradeer:
+  viewers: 24
+  status: |
+    1 Éves a w.I.w_GAMiNG TV  | Műsorsorozat 1 hétig! | Welcome and Stay | Follow me!
+zwhydra:
+  viewers: 23
+  status: '[RU/ENG] Yard-team player - soloQ/duoQ - ask questions in chat'
+lastwolfplay:
+  viewers: 20
+  status: '[30/03] La matinale sur Heroes (bonus xp dudes !), Diablo a posé son lundi
+    =)'
+botlikex:
+  viewers: 16
+  status: '[GER|720p|PC] #Heroes #of #the #storm #viewergames - DREAM-STREAM.EU'
+raven_04:
+  viewers: 15
+  status: Li Li time! :)
+devilhs:
+  viewers: 12
+  status: Битва в "Быстрой игре"
+gga893879:
+  viewers: 14
+  status: GoDDog  rank1  rank中
+rezolventa:
+  viewers: 14
+  status: '[RU] R1 | Solo | Ключи | Комментарии и анализ | Пейте витаминки'
+panntos:
+  viewers: 14
+  status: Pantos Heldenliga! 5er QQ
+mexyh:
+  viewers: 13
+  status: '[FR] R1 yoloqueue. 500 followers \o/ Merci :'')'
+-------------------------
+

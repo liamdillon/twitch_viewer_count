@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-31T08:00:01-07:00
+
+Number of channels: 250
+
+Total viewers: 13467
+
+Total Viewers for top 25 streams:
+12797
+
+Viewer counts:
+[8263, 1415, 646, 565, 457, 276, 248, 151, 136, 105, 77, 65, 59, 58, 53, 31, 29, 23, 22, 20, 20, 20, 20, 19, 19]
+
+---
+rocketbeanstv:
+  viewers: 8263
+  status: Community Beef | Re-Run | Blizzday
+chu8:
+  viewers: 1415
+  status: 1 Murky, 1 stream - Rank 1
+guardsmanbob:
+  viewers: 646
+  status: Rank1! - Guardsman Bob!
+liquidneo:
+  viewers: 565
+  status: ◄R1 LiquiD► Got Gold? ► liquidneo.com ►
+zomgitshwoarang:
+  viewers: 457
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+pamcakes:
+  viewers: 276
+  status: Pam plays Hero League!
+heroesone:
+  viewers: 248
+  status: '[FR] La Meta-culotte avec Manta !'
+sleepless_tv:
+  viewers: 151
+  status: (RU) Rank1. Лига героев как она есть! Показать всё, что скрыто!
+player2player:
+  viewers: 136
+  status: '[PT-BR] ~Heróis do Toró~ com o Caricaz! SR Ligado! | Maratona P2P [ 10R$
+    | Novo SUB = 1 HR ]'
+anthonyacc:
+  viewers: 105
+  status: NEW ROTATION! TESTING HEROES! (all new subs get a HoTS key)
+tolyawa:
+  viewers: 77
+  status: DOBROTA GAMING
+tinsi_:
+  viewers: 65
+  status: 'Rank 2  #MistkäferDöden'
+donbescared:
+  viewers: 59
+  status: ЛИГА!Разыгрываю ключ после каждой игры!
+heroeswartv:
+  viewers: 58
+  status: '[ESP] A las 18h Major League!'
+angellatv:
+  viewers: 53
+  status: '[PL/ENG] QM Zerathulem z rotacji ( Uczę się grać). O 17 szukanie graczy
+    do drużyny JaRock. Dzień#4'
+rsnicetry:
+  viewers: 31
+  status: HotS mit NiceTry
+g96k:
+  viewers: 29
+  status: '[eng/ger]   ૮( ᵒ̌▱๋ᵒ̌ )ა  ~I rate 8/8'
+keko1102:
+  viewers: 23
+  status: '[GER] eazy peazy!'
+darling_jen:
+  viewers: 22
+  status: (๑و•̀ω•́)و Розыгрыш ключиков и игр в стиме!
+catberry:
+  viewers: 20
+  status: '[GER] Heldenkloppe zusammen gegen die Anderen! Gerne auch Neulings Guiding
+    :)'
+georgekgaming:
+  viewers: 20
+  status: 1 EU Key GIVEAWAY for every game played
+mexyh:
+  viewers: 20
+  status: '[FR] Best Valla Congo. R1 yoloqueue :]'
+askatsao:
+  viewers: 20
+  status: '  ASKA 大叔台 練習默契 歡迎大家提問及指導以及找隊伍'
+thewilq:
+  viewers: 19
+  status: 'RANK#1 - Rozdajemy klucze! #GRY Z WIDZAMI :) #VIKINGOWIE :D :D '
+paraducktv:
+  viewers: 19
+  status: 'GTA V 4-14 | Interactive w/ viewers | '
+-------------------------
+

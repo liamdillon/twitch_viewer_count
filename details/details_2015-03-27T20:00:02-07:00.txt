@@ -1,0 +1,95 @@
+-------------------------
+Timestamp: 2015-03-27T20:00:02-07:00
+
+Number of channels: 257
+
+Total viewers: 4556
+
+Total Viewers for top 25 streams:
+4133
+
+Viewer counts:
+[2305, 542, 217, 179, 170, 115, 92, 63, 63, 47, 43, 42, 26, 25, 25, 23, 22, 19, 19, 18, 17, 17, 16, 14, 14]
+
+---
+esl_heroes:
+  viewers: 2305
+  status: ESL Playoffs Season 1 | Day 1
+chu8:
+  viewers: 542
+  status: '[NA] Rank 1 Fun Games'
+xelayirl:
+  viewers: 217
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+hots_mcmuffin:
+  viewers: 179
+  status: 'McMuffin: Ranked 50-1__LIVE FROM ULTRA ♥'
+ag_bean3r:
+  viewers: 170
+  status: 'Regalamos Betas para el Heroes Of the storm #HeroesFriday'
+dizzydizaster:
+  viewers: 115
+  status: Win Heroes of the Storm ! Giveaways all night!
+mymtumtum69:
+  viewers: 92
+  status: '¿Cuál de estos héroes es un Paladín en el mundo de Warcraft?  Diablo, Nova,
+    Tassadar, Malfurion, Uther.  http://goo.gl/ilP8cB  '
+fr4gshout:
+  viewers: 63
+  status: Up all Night!! Ghost Pepper Challenge!  Road to Partner   Avidesports.com
+dotod:
+  viewers: 63
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+heroesone:
+  viewers: 47
+  status: '[FR] La Meta-YMCA avec Manta !'
+valerothtv:
+  viewers: 43
+  status: 'HD| 60fps | Ranged Carry | 5k Hype! | @ValerothTV '
+kiyeberries:
+  viewers: 42
+  status: '[1080p] Healy Dealy Feely'
+pimentarosa:
+  viewers: 26
+  status: '[PT/BR] #HeroesFriday hj tem sorteio de key!!! jogando com a galera ;)'
+heroespoint:
+  viewers: 25
+  status: '#HeroesFriday + Sorteo de Llaves'
+cluckey:
+  viewers: 25
+  status: Beta key NA/EU Giveaway / Rank 1 re-climb
+rushlock:
+  viewers: 23
+  status: Questions Welcome | Bad Decisions | Pre-Game Fri Night Raid [607]
+eghtv:
+  viewers: 22
+  status: Elite Gaming House Streaming 24/7- Heroes of the Storm con Pao!
+itscyphoria:
+  viewers: 19
+  status: heroes.. of the wat
+nickkcouvv:
+  viewers: 19
+  status: '24 Hour Stream| DayZ GiveAway | 1 Year celebration | '
+monstergmer:
+  viewers: 18
+  status: '[ES] #HEROESFRIDAY / RANKED Y BETAS @TwitchESP @StreamsEspanol'
+gimloo:
+  viewers: 17
+  status: SWE/ENG AUTO DJ http://www.inet.se/produkt/2204966/asus-24-vg248qe-144hz
+    700 FOLLOWERS FAN MEETUP IN PLANNING DATE TIME? HYPE!!!!!!!!!!!!!!!
+kensleywins:
+  viewers: 17
+  status: GER/ENG  ►  Just for fun!
+arulive:
+  viewers: 16
+  status: '[GER|720p] Aru am Morgen'
+sidekool:
+  viewers: 14
+  status: SORTEIO DE 50 KEYS - MELHOR JOGADOR DE HOTS DO SUL DO ACRE! (Sorteio a cada
+    partida!)
+gga893879:
+  viewers: 14
+  status: GoDDog  rank1  快速對戰中  晚點會RANK
+-------------------------
+

@@ -1,0 +1,97 @@
+-------------------------
+Timestamp: 2015-03-27T10:00:02-07:00
+
+Number of channels: 262
+
+Total viewers: 4842
+
+Total Viewers for top 25 streams:
+4312
+
+Viewer counts:
+[901, 713, 440, 395, 322, 266, 216, 146, 138, 137, 112, 105, 64, 52, 50, 49, 42, 27, 25, 24, 20, 18, 17, 17, 16]
+
+---
+liquidneo:
+  viewers: 901
+  status: ◄R1 LiquiD► Gold level 10 borders still! ► Sylvanas Patch ► liquidneo.com
+    ►
+guardsmanbob:
+  viewers: 713
+  status: Rank1! - Guardsman Bob!
+arkamn:
+  viewers: 440
+  status: 【RUS】 1st RANK, отвечаю на Ваши вопросы между играми.
+nastjanastja:
+  viewers: 395
+  status: Платиновый сильвер
+pamcakes:
+  viewers: 322
+  status: Pam [NA] // Solo Hero League // Beta Key Giveaway Every Sub!
+zomgitshwoarang:
+  viewers: 266
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+gosuzuna:
+  viewers: 216
+  status: C9 Zuna Rank 1 Updated !tierlist
+xelayirl:
+  viewers: 146
+  status: ' rank 1  xelayirl#1944 NA  19XLVL10 FEEL FREE ASK ANY HOTS QUESTION :)
+    and i play with viewer '
+youbetterknowme:
+  viewers: 138
+  status: 'KnowMe playing Team League with Subs '
+heroesone:
+  viewers: 137
+  status: '[FR] Back to Rank 1 ? avec Luiji'
+sooner:
+  viewers: 112
+  status: 'Master Reague '
+player2player:
+  viewers: 105
+  status: '[PT-BR] Caricaz no ~Heróis do Toró~ KEYS PARA SORTEIO!  #HeroesFriday|
+    Maratona P2P [ 10R$ | Novo SUB = 1 HR ]'
+adamkoebel:
+  viewers: 64
+  status: Heroes of this Stream
+heroeswartv:
+  viewers: 52
+  status: '[ESP] Shinda Stream | Partiditas con viewers!'
+ogamingtv:
+  viewers: 50
+  status: '[FR] A quoi on joue ?! '
+dotod:
+  viewers: 49
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+in4game:
+  viewers: 42
+  status: '[RU PRO NAVI] Лига Героев. Ранг 30 -> 1'
+thekonus:
+  viewers: 27
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+keko1102:
+  viewers: 25
+  status: '[GER] Helden Liga Rode to Rank 1 :D'
+sixpets:
+  viewers: 24
+  status: Sylvanas Playz and Beta Key Giveaways ►Sixpets ►Rank 1 ►Diamond MMR
+rumiin:
+  viewers: 20
+  status: GIVEAWAY HOTS BETA [ESP/ENG] Ruminios para todos!
+sashkadestroyer:
+  viewers: 18
+  status: '[Ru/Eng] Sashka rank1, 4k mmr. ANY questions-welcome'
+nuroklol:
+  viewers: 17
+  status: '[GER/ENG] Dignitas Nurok - duoQ with Blooddragon // http://tinyurl.com/HeroesCup
+    //'
+bontho:
+  viewers: 17
+  status: Bontho - drunk HotS boyzz, wow maybeh later
+snake2356:
+  viewers: 16
+  status: 1 KEY EVERY 3 GAMES! SYLVANAS HYPE! HOTS KEYS GIVEAWAY! Playing with viewers!
+    [BG/ENG]
+-------------------------
+

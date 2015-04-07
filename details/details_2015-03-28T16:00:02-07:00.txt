@@ -1,0 +1,94 @@
+-------------------------
+Timestamp: 2015-03-28T16:00:02-07:00
+
+Number of channels: 368
+
+Total viewers: 7517
+
+Total Viewers for top 25 streams:
+6905
+
+Viewer counts:
+[4558, 1047, 239, 160, 159, 117, 102, 74, 59, 45, 34, 37, 31, 30, 28, 28, 28, 24, 19, 17, 17, 13, 14, 12, 13]
+
+---
+esl_heroes:
+  viewers: 4558
+  status: ESL Playoffs Season 1 | Day 2
+followgrubby:
+  viewers: 1047
+  status: New Patch still very much hype! Trying all sorts of heroes! :)
+gerdamherdtv:
+  viewers: 239
+  status: '[GER] WellMet Gerd MLG Plays'
+heroesone:
+  viewers: 160
+  status: '[FR] Soirée MD Liège avec Heroes Gaming'
+burninggirl:
+  viewers: 159
+  status: '[RU/ENG] Yard.Gela - Team league. '
+xelayirl:
+  viewers: 117
+  status: g2a.com^^XelayIRL^^ rank1   20XGOLD hero^^ FEEL FREE ASK ANY HOTS QUESTION
+    :)
+djwheat:
+  viewers: 102
+  status: Heroes of the Storm (NO MUSIC - Listening to http://twitch.tv/ultra)
+sonderx:
+  viewers: 74
+  status: Finales Hell Sinphony VS Fe + 1 Primer Torneo HISO
+in4game:
+  viewers: 59
+  status: Розыгрыш Ключей и Лига Героев
+ogamingtv:
+  viewers: 45
+  status: '[FR] O''Gaming GodLikeShow dans " Troll Tales" - HOTS Games Viewers'
+humanamente_mezclando:
+  viewers: 34
+  status: '[ESP] Rank y Normal con viewers <3 '
+brisasuavef:
+  viewers: 37
+  status: Perdendo o cabaço no Heroes [PT/BR]
+dotod:
+  viewers: 31
+  status: ༼つ ◕_◕ ༽つ Rank 1 Grinding B O Y S ༼つ ◕_◕ ༽つ Happy Saturday Strumarino, Beta
+    Keys/Founders Pack Today!
+g3design:
+  viewers: 30
+  status: Gagne ton jeu Heroes of the Storm !
+itsfatalstrike:
+  viewers: 28
+  status: Learning ~~ noob alert
+sgdx:
+  viewers: 28
+  status: ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda > lvling and stuff.'
+octo83:
+  viewers: 28
+  status: 'GER :: Helden- und Teamliga :: www.moreheroes.de'
+choco_peach:
+  viewers: 24
+  status: '[RU/ENG]  Розыгрыш ключей! '
+keko1102:
+  viewers: 19
+  status: '[GER] 8 Beta Key''s EU Verlosung!  !Verlosung für infos'
+foerest:
+  viewers: 17
+  status: 'hero league top 10 north america, hotslogs.com (looking for team) '
+nony:
+  viewers: 17
+  status: Top MMR hero league
+rosath:
+  viewers: 13
+  status: '[Day 14] I have no idea what I''m doing'
+kattari:
+  viewers: 14
+  status: '[GER] Wer will mitspielen? :*'
+gimloo:
+  viewers: 12
+  status: SWE/ENG AUTO DJ PLZ STOP BY EITHER ON STREAM OR IN REAL LIFE YOU ARE WELCOME
+    :):) HYPE!!!!!!!!
+oddishplaysgames:
+  viewers: 13
+  status: Heroes of the Dorm, Round 2, ECU gaming
+-------------------------
+

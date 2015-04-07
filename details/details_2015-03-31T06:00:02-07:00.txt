@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-31T06:00:02-07:00
+
+Number of channels: 155
+
+Total viewers: 4278
+
+Total Viewers for top 25 streams:
+3716
+
+Viewer counts:
+[1704, 510, 283, 262, 225, 119, 114, 76, 72, 64, 58, 52, 27, 25, 19, 15, 14, 13, 12, 10, 9, 9, 9, 8, 7]
+
+---
+chu8:
+  viewers: 1704
+  status: 1 Murky, 1 stream - Rank 1
+liquidneo:
+  viewers: 510
+  status: ◄R1 LiquiD► Got Gold? ► liquidneo.com ►
+zomgitshwoarang:
+  viewers: 283
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+pamcakes:
+  viewers: 262
+  status: 
+heroesone:
+  viewers: 225
+  status: '[FR] La Meta-culotte avec Manta !'
+anthonyacc:
+  viewers: 119
+  status: NEW ROTATION! TESTING HEROES! (all new subs get a HoTS key)
+tolyawa:
+  viewers: 114
+  status: DOBROTA GAMING
+semiproproject:
+  viewers: 76
+  status: '#1 Onesie Stream NA - In Depth Commentary & Explanations [R1] | KilicK
+    | Day 50/∞  ヽ〳 ՞ ᗜ ՞ 〵'
+sleepless_tv:
+  viewers: 72
+  status: (RU) Rank1. Лига героев как она есть! Показать всё, что скрыто!
+gerdamherdtv:
+  viewers: 64
+  status: '[GER] WellMet Gerd Kurz aber Intense :S '
+tinsi_:
+  viewers: 58
+  status: 'Rank 2  #MistkäferDöden'
+yourchinafan:
+  viewers: 52
+  status: road to rank 1
+pypgamers:
+  viewers: 27
+  status: '[ESP] Rankeds y partidas normales con @BulgangP'
+narjanna:
+  viewers: 25
+  status: Liga HotS, Nar playing solo~
+skeitty:
+  viewers: 19
+  status: Keitty is BACK | GROSSE NOOB! PLAY WITH VIEWERS
+sp5430:
+  viewers: 15
+  status: 【鱔魚】感冒中...帶領新人培訓團
+aureanatv:
+  viewers: 14
+  status: '[FR] Aureana ♥ Grignotage !!!'
+askatsao:
+  viewers: 13
+  status: '  ASKA 大叔台 練習默契 歡迎大家提問及指導以及找隊伍'
+derikmolder:
+  viewers: 12
+  status: ogni game perso 1 key GIVEAWAY
+dontcrywestream:
+  viewers: 10
+  status: '[FR] <Leonidas> La Bataille pour le Nexus commence ! Clés bétà à gagner
+    !!!'
+zp_tv:
+  viewers: 9
+  status: ZPs - Rank 1 - 1080p/60FPS! - NEW STREAM SETTINGS SO BEAUTIFUL
+mexyh:
+  viewers: 9
+  status: '[FR] Best Valla Congo. R1 yoloqueue :]'
+k1von3:
+  viewers: 9
+  status: '[GER] Giveaway: 2 Beta Keys für Heroes of the Storm - !betakey für Infos!'
+borbouls:
+  viewers: 8
+  status: '[BR] Heroes of Storm'
+aizawa998:
+  viewers: 7
+  status: '[PL] Normale i Liga For Fun'
+-------------------------
+

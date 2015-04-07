@@ -1,0 +1,92 @@
+-------------------------
+Timestamp: 2015-03-28T07:00:02-07:00
+
+Number of channels: 221
+
+Total viewers: 3179
+
+Total Viewers for top 25 streams:
+2805
+
+Viewer counts:
+[859, 358, 304, 228, 181, 167, 131, 123, 88, 61, 34, 30, 23, 27, 23, 22, 20, 18, 18, 20, 16, 14, 14, 13, 13]
+
+---
+semiproproject:
+  viewers: 859
+  status: '[NA] Rank 1 | In Depth Commentary & Explanations | KilicK | Day 47/∞  ヽ〳
+    ՞ ᗜ ՞ 〵ง'
+guardsmanbob:
+  viewers: 358
+  status: Rank1! - Guardsman Bob!
+tavernofheroes:
+  viewers: 304
+  status: ENTER THE STORM by HappyZerG
+gosugamers:
+  viewers: 228
+  status: 'Enter the Storm by Alienware Cup #1 /w @FourCourtJester & @NickHOTS'
+ggmarche:
+  viewers: 181
+  status: ♠ NA | Marche ♠ Y'all know what it is. Who it is. And what it do.
+heroesone:
+  viewers: 167
+  status: '[FR] Back to Rank 1 ? avec Luiji'
+zomgitshwoarang:
+  viewers: 131
+  status: '[GER] Rank 1 - SneakyBeakyLike'
+no1zyboy:
+  viewers: 123
+  status: Wild, sweet and cool (РУ СТРИМ)
+vbrtv:
+  viewers: 88
+  status: '[RU] vk.com/vbrtv'
+iamkado:
+  viewers: 61
+  status: 'Enter the Storm CUP: Qualifier #3 [PT-BR] Bracket: http://bit.ly/1BDweBp'
+morleytv:
+  viewers: 34
+  status: (UK) Morley Chilling Like a Villain...  Duffy Down!!!!
+shtyr:
+  viewers: 30
+  status: Shtyr.Ranked. Отдаю ключи в чате! Стоит только попросить!
+jacky5ds:
+  viewers: 23
+  status: WXS 準備好為女王而戰了嗎?
+nexaa:
+  viewers: 27
+  status: Hero League | sick no cam soz :(
+alpinab3:
+  viewers: 23
+  status: AlpinaB3 -  // WoW || CS:GO || HOTS \\ HOTS KEY´s GIVEAWAY IKVÄLL //
+rim_ejk:
+  viewers: 22
+  status: '"Cipska Andariel" wjeżdżają na rejony! SMS'
+kuzyameduzya:
+  viewers: 20
+  status: Кузьма, Инф и Тард играют ХОТС
+bigmyself:
+  viewers: 18
+  status: Bigmyself проводит раздачу 10 ключей Heroes of the Storm.
+stormcasters:
+  viewers: 18
+  status: '[FR] Marley Rank 1 # SoloQ ! :)'
+witness1129:
+  viewers: 20
+  status: 【Chakey】Team Fantasy KR Server Rank1!!! 衝團隊積分!!
+darkarra:
+  viewers: 16
+  status: Repartiendo betas!
+syloxus:
+  viewers: 14
+  status: <Syloxus> ༼ຈل͜ຈ༽ﾉ Got my Buddy shirt. Short morning stream, PJSalt
+scored:
+  viewers: 14
+  status: '[GER/ENG] Ranked los los'
+slita:
+  viewers: 13
+  status: Sylvanas ONLY Lets do this ;p~Slita~Full Time Streamer
+zsjh9100:
+  viewers: 13
+  status: ᴥ 姐姐玩英霸ᴥ  晚上都會轉圈 F5解決吧ˊˋ
+-------------------------
+

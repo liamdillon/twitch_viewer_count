@@ -1,0 +1,93 @@
+-------------------------
+Timestamp: 2015-03-26T16:00:02-07:00
+
+Number of channels: 298
+
+Total viewers: 5568
+
+Total Viewers for top 25 streams:
+4931
+
+Viewer counts:
+[1937, 967, 508, 459, 181, 174, 93, 92, 68, 46, 45, 45, 35, 30, 30, 26, 26, 24, 23, 22, 21, 20, 20, 20, 19]
+
+---
+followgrubby:
+  viewers: 1937
+  status: Playing Sylvanas + Patched heroes!
+taketv_heroes:
+  viewers: 967
+  status: HEROES BATTLE MONTHLY FINAL POWERED BY SHARK ZONE
+arkamn:
+  viewers: 508
+  status: 【RUS】 KEY GIVEAWAY, 1st RANK, отвечаю на Ваши вопросы между играми.
+chu8:
+  viewers: 459
+  status: '[NA] I own Murky'
+inetkoxtv:
+  viewers: 181
+  status: HEROSI DZIĘCIOŁY BURSZTYNY
+adamkoebel:
+  viewers: 174
+  status: heroes of the storrrrrm
+heroesone:
+  viewers: 93
+  status: '[FR] Les petits lapins du Nexus avec Exo'
+despwns1:
+  viewers: 92
+  status: New Heroes of the Storm Patch!
+korduscz:
+  viewers: 68
+  status: We are proud Llamas + Agraelus + hosté
+thekonus:
+  viewers: 46
+  status: '[RUS] Rank 1 Team Refuse Konus, 5v5 Rankeds (or less). Вопросы и комментарии
+    между играми.'
+dotod:
+  viewers: 45
+  status: (つ°ヮ°)つ Rank 1 Grinding! EU/NA Beta Keys/Founders Pack Giveaways(つ°ヮ°)つ
+demosc:
+  viewers: 45
+  status: '[PT-BR] Brincando de feedar...como sempre XD'
+sgdx:
+  viewers: 35
+  status: ' dX Top [S4Master]  / 18+ Best Player Africa#Ruanda >'
+heroeswartv:
+  viewers: 30
+  status: |
+    [ESP] Blade de stream nocturno! Hay betas EU ^^
+superfancyunicorn:
+  viewers: 30
+  status: '♥ Uni of the Storm: Hero League! ♥ The struggle is real, y''all. o_o ♥ '
+ulqi:
+  viewers: 26
+  status: Качаем  US аккаунт. Слушаем Аудио Книгу
+xibe5238:
+  viewers: 26
+  status: '[Fr/Be] Xibe - Rank 1 - Ligue par équipe - Tips & Builds sur demande '
+pypgamers:
+  viewers: 24
+  status: '[ESP] Subiendo niveles con @WeslyGC'
+forb3s:
+  viewers: 23
+  status: Updated heroes! :^) Birthday tomorrow! <3
+tigerlily___:
+  viewers: 22
+  status: Yay lets play heroes!
+amovetv:
+  viewers: 21
+  status: ITN PreShow with DrmDestryr!
+w4lker:
+  viewers: 20
+  status: Go for Heroes Szybkie & Liga ! Giveaway 11 keys  !  Never Give up ! [MMORPG.org.pl]
+cayennethefirst:
+  viewers: 20
+  status: BR- Sorteios! - Pub do Cayenne
+thetadin:
+  viewers: 20
+  status: Tadin | Relaxations
+sinvicta:
+  viewers: 19
+  status: '3/26/15 - TEAM LE '
+-------------------------
+
